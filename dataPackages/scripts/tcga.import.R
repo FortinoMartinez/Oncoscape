@@ -24,6 +24,7 @@ library(R.utils)
 library(stringr)
 library(plyr)
 library(jsonlite)
+library(RJSONIO)
 
 #os.tcga.batch.inputFile    <- fromJSON("os.tcga.file.manifest.json")
 os.tcga.field.enumerations  <- fromJSON("os.tcga.field.enumerations.json")
@@ -156,7 +157,7 @@ setAs("character","os.class.tcgaBoolean", function(from){
 # IO Utility Functions :: [Batch, Load, Save]  -------------------------------------------------------
 
 ### Save Function Takes A matrix/data.frame + Base File Path (w/o extension) & Writes to Disk In Multiple (optionally specified) Formats
-os.data.save <- function(df, file, format = c("tsv", "csv", "RData")){
+os.data.save <- function(df, file, format = c("tsv", "csv", "RData", "json")){
   
   # Write Tab Delimited
   if("tsv" %in% format)
@@ -170,6 +171,11 @@ os.data.save <- function(df, file, format = c("tsv", "csv", "RData")){
   if("RData" %in% format)
     save(df, file=paste(file,".RData", sep = "") )
   
+  # Write json File
+  if("json" %in% format){
+    exportJSON<-toJSON(df)
+    write(exportJSON, file=paste(file,".json") )
+}
   # Return DataFrame For Chaining
   return(df)
 }
