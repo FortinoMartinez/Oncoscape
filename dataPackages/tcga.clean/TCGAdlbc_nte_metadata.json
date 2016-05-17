@@ -1,0 +1,36 @@
+[
+  {
+    "V1": "bcr_patient_uuid",
+    "V2": "bcr_patient_barcode",
+    "V3": "pet_scan_results",
+    "V4": "days_to_new_tumor_event_after_initial_treatment",
+    "V5": "first_recurrence_biopsy_confirmed",
+    "V6": "first_progression_histology_type",
+    "V7": "first_progression_histology_type_other",
+    "V8": "followup_treatment_success",
+    "V9": "additional_pharmaceutical_therapy",
+    "V10": "additional_radiation_therapy",
+    "V11": "new_neoplasm_event_occurrence_anatomic_site",
+    "V12": "new_neoplasm_event_type",
+    "V13": "new_neoplasm_occurrence_anatomic_site_text",
+    "V14": "new_tumor_event_additional_surgery_procedure",
+    "V15": "progression_determined_by"
+  },
+  {
+    "V1": "",
+    "V2": "2673794",
+    "V3": "2603749",
+    "V4": "3392464",
+    "V5": "2716366",
+    "V6": "3282652",
+    "V7": "3282653",
+    "V8": "3104050",
+    "V9": "3427616",
+    "V10": "3427615",
+    "V11": "3108271",
+    "V12": "3119721",
+    "V13": "3128033",
+    "V14": "3427611",
+    "V15": "2786205"
+  }
+]

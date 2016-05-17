@@ -1,10 +1,4 @@
-###
-#
-#       This Script Executes Basic Processing On TCGA Files
-#       Specifically It Types, Uppercases and In Cases Enforces Enumeration Types
-#       
-###
-
+#JSON updated script
 # Configuration -----------------------------------------------------------
 rm(list = ls(all = TRUE))
 options(stringsAsFactors = FALSE)
@@ -24,7 +18,7 @@ library(R.utils)
 library(stringr)
 library(plyr)
 library(jsonlite)
-library(RJSONIO)
+
 
 #os.tcga.batch.inputFile    <- fromJSON("os.tcga.file.manifest.json")
 os.tcga.field.enumerations  <- fromJSON("os.tcga.field.enumerations.json")
@@ -172,12 +166,18 @@ os.data.save <- function(df, file, format = c("tsv", "csv", "RData", "json")){
     save(df, file=paste(file,".RData", sep = "") )
   
   # Write json File
-  if("json" %in% format){
-    exportJSON<-toJSON(df)
-    write(exportJSON, file=paste(file,".json") )
-}
+  if("json" %in% format)
+    write( toJSON(df, pretty = TRUE), file=paste(file,".json", sep = "") )
+
   # Return DataFrame For Chaining
   return(df)
+}
+
+os.data.writeColumns <- function(inputFile, outputFile){
+        df<-read.delim(inputFile, header=FALSE, skip=1, dec=".", sep = "\t", strip.white = T, nrows = 2)
+        df[2,] <- str_replace(df[2,], "CDE_ID:","") # Strip CDE ID
+        write( toJSON(df, pretty = TRUE), file=paste( outputFile, "_metadata.json", sep = "") )
+        rm(df)
 }
 
 ### Load Function Takes An Import File + Column List & Returns A DataFrame
@@ -244,18 +244,25 @@ os.data.batch <- function(inputFile, outputDirectory, ...){
       currentDisease   <- inputFiles[ rowIndex, os.data.batch.inputFile.studyCol ];
       currentDirectory <- inputFiles[ rowIndex, os.data.batch.inputFile.dirCol ]
       currentDataFile  <- inputFiles[ rowIndex, currentTable]
+      
       if (is.na(currentDataFile)) next()
       cat(currentDisease, currentTable,"\n")
       inputFile <- paste(currentDirectory, currentDataFile, sep = "")
       outputFile <- paste(outputDirectory, currentDisease, "_", currentTable, sep="")
       
+      
+      
+      os.data.writeColumns( inputFile, outputFile )
+      
+      df <- os.data.load( inputFile = inputFile, ...)
       # Load Data Frame - map and filter by named columns
       df <- os.data.load( inputFile = inputFile, ...)
       
       # Save Data Frame
       os.data.save(
-        df = df,
-        file = outputFile)
+              df = df,
+              file = outputFile)
+      
       
       # Remove Df From Memory
       rm(df)
@@ -269,4 +276,5 @@ os.data.batch(
   outputDirectory = os.data.batch.outputDir,
   checkEnumerations = TRUE,
   checkClassType = "os.class.tcgaCharacter")
+
 

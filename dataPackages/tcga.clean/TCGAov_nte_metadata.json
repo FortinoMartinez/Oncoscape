@@ -1,0 +1,26 @@
+[
+  {
+    "V1": "bcr_patient_uuid",
+    "V2": "bcr_patient_barcode",
+    "V3": "days_to_new_tumor_event_after_initial_treatment",
+    "V4": "progression_determined_by",
+    "V5": "progression_determined_by_notes",
+    "V6": "additional_radiation_therapy",
+    "V7": "additional_pharmaceutical_therapy",
+    "V8": "days_to_new_tumor_event_additional_surgery_procedure",
+    "V9": "new_neoplasm_event_type",
+    "V10": "new_tumor_event_additional_surgery_procedure"
+  },
+  {
+    "V1": "",
+    "V2": "2673794",
+    "V3": "3392464",
+    "V4": "2786205",
+    "V5": "2786210",
+    "V6": "3427615",
+    "V7": "3427616",
+    "V8": "3008335",
+    "V9": "3119721",
+    "V10": "3427611"
+  }
+]

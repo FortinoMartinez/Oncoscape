@@ -1,0 +1,152 @@
+[
+  {
+    "bcr_patient_uuid": "5195C9AC-B649-49F8-8750-F9A4787E8E52",
+    "patient_ID": "TCGA.2Z.A9J3",
+    "days_to_progression": 790,
+    "surgery": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "D66C9261-6C0C-44B0-92FA-A43757F34CB2",
+    "patient_ID": "TCGA.2Z.A9J7",
+    "days_to_progression": 96,
+    "surgery": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "B5E873C1-1050-4C92-A26C-684AA26FAA99",
+    "patient_ID": "TCGA.2Z.A9J8",
+    "days_to_progression": 506,
+    "surgery": false,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "3ABD0691-F575-44CE-A13E-8F6BCEB8CABF",
+    "patient_ID": "TCGA.2Z.A9JI",
+    "days_to_progression": 286,
+    "surgery": true,
+    "days_to_surgery_locoregional": 323,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "D8B88441-16C7-4201-9C01-3E7237D18EEE",
+    "patient_ID": "TCGA.2Z.A9JK",
+    "days_to_progression": 324,
+    "surgery": true,
+    "days_to_surgery_locoregional": 343,
+    "new_tumor_event_surgery_met": false,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "07D409A0-D0DD-415A-95C3-38C26A518C56",
+    "patient_ID": "TCGA.5P.A9JW",
+    "days_to_progression": 3228
+  },
+  {
+    "bcr_patient_uuid": "4BEC3959-D59D-4E80-855C-F044A5780780",
+    "patient_ID": "TCGA.5P.A9K3",
+    "days_to_progression": 17,
+    "surgery": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "F94FC471-74F8-4774-9F28-95533293FC1D",
+    "patient_ID": "TCGA.5P.A9K9",
+    "days_to_progression": 548,
+    "surgery": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "87971996-94D7-4E88-8ED5-E059DB838AF7",
+    "patient_ID": "TCGA.5P.A9KF",
+    "days_to_progression": 728,
+    "surgery": true,
+    "days_to_surgery_locoregional": 728,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "DB882417-AF3C-4A86-9004-F7E943798409",
+    "patient_ID": "TCGA.G7.A8LD",
+    "days_to_progression": 209,
+    "surgery": true,
+    "days_to_surgery_locoregional": 284,
+    "new_tumor_event_surgery_met": false,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "44F39F41-CF63-421D-AD56-513BEB72D9CA",
+    "patient_ID": "TCGA.G7.A8LE",
+    "days_to_progression": 1447,
+    "surgery": true,
+    "days_to_surgery_locoregional": 1505,
+    "new_tumor_event_surgery_met": false,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "4F86DEC5-34A7-4C11-9578-7E007A203CBF",
+    "patient_ID": "TCGA.IA.A83W",
+    "days_to_progression": 1408,
+    "surgery": true,
+    "days_to_surgery_locoregional": 1477,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "87AE9D51-7397-4DCA-87A4-7B0F20321729",
+    "patient_ID": "TCGA.P4.A5E8",
+    "days_to_progression": 42,
+    "surgery": false,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "4AF65061-A15F-48D5-B4C0-30003386BF2E",
+    "patient_ID": "TCGA.P4.A5EA",
+    "days_to_progression": 44,
+    "surgery": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "66E2FDA4-23DE-49C6-BB89-82E9EDC56E4B",
+    "patient_ID": "TCGA.P4.AAVK",
+    "days_to_progression": 232,
+    "new_tumor_event_surgery_met": false,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "39847790-C951-4F9D-B23C-88C7F44D20A0",
+    "patient_ID": "TCGA.P4.AAVL",
+    "days_to_progression": 41,
+    "surgery": false,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "92DEC9C3-27C1-48C4-8184-5D8D12678992",
+    "patient_ID": "TCGA.UZ.A9PK",
+    "days_to_progression": 3157,
+    "surgery": false
+  },
+  {
+    "bcr_patient_uuid": "E3D519CF-7727-4AE1-92D1-156F5ADD1701",
+    "patient_ID": "TCGA.UZ.A9PQ",
+    "days_to_progression": 2148,
+    "surgery": true,
+    "days_to_surgery_locoregional": 2148
+  }
+]

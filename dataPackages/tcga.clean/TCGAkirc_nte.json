@@ -1,0 +1,24 @@
+[
+  {
+    "bcr_patient_uuid": "FC7065FC-D834-4E7D-98BD-CA6666BEB6CB",
+    "patient_ID": "TCGA.B2.A4SR",
+    "days_to_progression": 266,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "01277E9D-A35F-45D9-9E60-2E8CD79630A0",
+    "patient_ID": "TCGA.DV.A4W0",
+    "days_to_progression": 2008,
+    "surgery": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "FE1F95A3-A6C2-4A39-8586-F8A70E975DD4",
+    "patient_ID": "TCGA.MM.A563",
+    "radiation": false,
+    "drug": false
+  }
+]

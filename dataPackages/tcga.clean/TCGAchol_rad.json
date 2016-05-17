@@ -1,0 +1,21 @@
+[
+  {
+    "bcr_patient_uuid": "FE57B639-DB7A-460F-ADFE-552F1E034E46",
+    "patient_ID": "TCGA.3X.AAVA",
+    "bcr_radiation_barcode": "TCGA-3X-AAVA-R64408",
+    "bcr_radiation_uuid": "69454CCD-16F1-4E8A-8BD3-218FA9004560",
+    "form_completion_date": "2014-8-29",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 2000,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 5,
+    "days_to_rad_start": 271,
+    "radiation_therapy_ongoing_indicator": false,
+    "days_to_radiation_end": 277,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE",
+    "radiation_type_notes": "[Not Applicable]",
+    "regimen_indication": "[Not Available]",
+    "regimen_indication_notes": "[Not Available]"
+  }
+]

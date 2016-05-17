@@ -1,0 +1,209 @@
+[
+  {
+    "bcr_patient_uuid": "08DD606A-1982-4CB9-BCD6-09D4BC158F6D",
+    "patient_ID": "TCGA.QR.A6GT",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 1476
+  },
+  {
+    "bcr_patient_uuid": "08DD606A-1982-4CB9-BCD6-09D4BC158F6D",
+    "patient_ID": "TCGA.QR.A6GT",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 1476
+  },
+  {
+    "bcr_patient_uuid": "08DD606A-1982-4CB9-BCD6-09D4BC158F6D",
+    "patient_ID": "TCGA.QR.A6GT",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 1476
+  },
+  {
+    "bcr_patient_uuid": "EC54924B-2463-4364-A8FC-6D5A7DF0B444",
+    "patient_ID": "TCGA.QR.A700",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 606
+  },
+  {
+    "bcr_patient_uuid": "EC54924B-2463-4364-A8FC-6D5A7DF0B444",
+    "patient_ID": "TCGA.QR.A700",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 606
+  },
+  {
+    "bcr_patient_uuid": "A3B165E0-BEC1-4DBC-B2D8-08FA21874CFA",
+    "patient_ID": "TCGA.QR.A703",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT ADRENAL PHEOCHROMOCYTOMA",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 0
+  },
+  {
+    "bcr_patient_uuid": "A3B165E0-BEC1-4DBC-B2D8-08FA21874CFA",
+    "patient_ID": "TCGA.QR.A703",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RIGHT PARAGANGLIOMA",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 106
+  },
+  {
+    "bcr_patient_uuid": "A39AC229-60D2-42C2-9721-7E0894C0AE38",
+    "patient_ID": "TCGA.QR.A70P",
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "L JUGULAR AREA",
+    "days_to_progression": 648
+  },
+  {
+    "bcr_patient_uuid": "59F305D2-DCA8-4EC7-8708-27B4B105FC72",
+    "patient_ID": "TCGA.QT.A5XJ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BILATERAL BREASTS SUBQ TISSUE",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 77
+  },
+  {
+    "bcr_patient_uuid": "59F305D2-DCA8-4EC7-8708-27B4B105FC72",
+    "patient_ID": "TCGA.QT.A5XJ",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "R BREAST",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 501
+  },
+  {
+    "bcr_patient_uuid": "59F305D2-DCA8-4EC7-8708-27B4B105FC72",
+    "patient_ID": "TCGA.QT.A5XJ",
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 93
+  },
+  {
+    "bcr_patient_uuid": "59F305D2-DCA8-4EC7-8708-27B4B105FC72",
+    "patient_ID": "TCGA.QT.A5XJ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 93
+  },
+  {
+    "bcr_patient_uuid": "59F305D2-DCA8-4EC7-8708-27B4B105FC72",
+    "patient_ID": "TCGA.QT.A5XJ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 227
+  },
+  {
+    "bcr_patient_uuid": "E90E83EF-6B0D-439B-A1C2-8D8DD3EBD090",
+    "patient_ID": "TCGA.RW.A67V",
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT ADRENAL",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 551
+  },
+  {
+    "bcr_patient_uuid": "A7809D38-985D-4D0E-9BEC-3FDB6536BE45",
+    "patient_ID": "TCGA.RW.A688",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "new_tumor_event_site": "LUNG",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 27
+  },
+  {
+    "bcr_patient_uuid": "C6F5EC07-84BB-4868-BE01-8FE8C7CE6999",
+    "patient_ID": "TCGA.SP.A6QF",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "THYROID",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 588
+  },
+  {
+    "bcr_patient_uuid": "6F8DF65F-326E-441E-91AC-61E5B32AC16F",
+    "patient_ID": "TCGA.SP.A6QG",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BREAST, LEFT",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 626
+  },
+  {
+    "bcr_patient_uuid": "5A36B7AF-70C6-4A08-84AC-01EF15739337",
+    "patient_ID": "TCGA.SR.A6MR",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "new_tumor_event_site": "RETROPERITONEUM",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 928
+  },
+  {
+    "bcr_patient_uuid": "054B81AC-963F-4F49-950C-AE03144AF348",
+    "patient_ID": "TCGA.WB.A80K",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 772
+  },
+  {
+    "bcr_patient_uuid": "3B6B1088-662A-4A66-8134-97D385EB5AE9",
+    "patient_ID": "TCGA.WB.A80P",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 6866
+  },
+  {
+    "bcr_patient_uuid": "3B6B1088-662A-4A66-8134-97D385EB5AE9",
+    "patient_ID": "TCGA.WB.A80P",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 6866
+  },
+  {
+    "bcr_patient_uuid": "3B6B1088-662A-4A66-8134-97D385EB5AE9",
+    "patient_ID": "TCGA.WB.A80P",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "new_tumor_event_dx_confirmed_by": "IMAGING",
+    "days_to_progression": 6866
+  },
+  {
+    "bcr_patient_uuid": "BA65B478-65D0-4C9A-A2C2-D32B29A1A9C4",
+    "patient_ID": "TCGA.WB.A81E",
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 887
+  },
+  {
+    "bcr_patient_uuid": "826EC350-7096-40B8-93F7-6C9205ACF7F6",
+    "patient_ID": "TCGA.WB.A822",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "new_tumor_event_dx_confirmed_by": "PATHOLOGY",
+    "days_to_progression": 69
+  },
+  {
+    "bcr_patient_uuid": "93FFFB9E-E065-40DC-8EAA-62C9F35560C4",
+    "patient_ID": "TCGA.XG.A823",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "CAROTID BODY",
+    "days_to_progression": 190
+  }
+]

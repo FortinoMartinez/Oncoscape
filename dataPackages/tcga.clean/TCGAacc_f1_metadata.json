@@ -1,0 +1,40 @@
+[
+  {
+    "V1": "bcr_patient_uuid",
+    "V2": "bcr_patient_barcode",
+    "V3": "bcr_followup_barcode",
+    "V4": "bcr_followup_uuid",
+    "V5": "form_completion_date",
+    "V6": "lost_follow_up",
+    "V7": "radiation_therapy",
+    "V8": "postoperative_rx_tx",
+    "V9": "mitotane_therapy_adjuvant_setting",
+    "V10": "therapeutic_mitotane_levels_achieved",
+    "V11": "post_surgical_procedure_assessment_thyroid_gland_carcinoma_status",
+    "V12": "person_neoplasm_cancer_status",
+    "V13": "primary_therapy_outcome_success",
+    "V14": "vital_status",
+    "V15": "new_tumor_event_after_initial_treatment",
+    "V16": "days_to_death",
+    "V17": "days_to_last_followup"
+  },
+  {
+    "V1": "",
+    "V2": "2673794",
+    "V3": "",
+    "V4": "",
+    "V5": "",
+    "V6": "61333",
+    "V7": "2005312",
+    "V8": "3397567",
+    "V9": "3646377",
+    "V10": "3646378",
+    "V11": "3186684",
+    "V12": "2759550",
+    "V13": "2786727",
+    "V14": "5",
+    "V15": "3121376",
+    "V16": "3165475",
+    "V17": "3008273"
+  }
+]

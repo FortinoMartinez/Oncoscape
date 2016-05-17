@@ -1,0 +1,67 @@
+[
+  {
+    "bcr_patient_uuid": "a0339182-2fd6-459d-9703-422474222e76",
+    "patient_ID": "TCGA.06.1806",
+    "days_to_progression": 256,
+    "radiation": false,
+    "drug": true,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "a0339182-2fd6-459d-9703-422474222e76",
+    "patient_ID": "TCGA.06.1806",
+    "days_to_progression": 256,
+    "radiation": false,
+    "drug": true,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "a0339182-2fd6-459d-9703-422474222e76",
+    "patient_ID": "TCGA.06.1806",
+    "radiation": false,
+    "drug": true,
+    "days_to_surgery": 270,
+    "new_tumor": "LOCOREGIONAL DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "603D2B61-B636-4054-AC95-AB66DABB3B48",
+    "patient_ID": "TCGA.06.A5U0",
+    "days_to_progression": 100,
+    "radiation": false,
+    "drug": true,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "603D2B61-B636-4054-AC95-AB66DABB3B48",
+    "patient_ID": "TCGA.06.A5U0",
+    "days_to_progression": 100,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "E3953994-0299-4E04-9423-6153B142FB8E",
+    "patient_ID": "TCGA.06.A6S1",
+    "days_to_progression": 46,
+    "radiation": false,
+    "drug": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "4c42dc4e-66b7-40bf-9fbe-b92543248198",
+    "patient_ID": "TCGA.15.1444",
+    "days_to_progression": 1550,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "4c42dc4e-66b7-40bf-9fbe-b92543248198",
+    "patient_ID": "TCGA.15.1444",
+    "days_to_progression": 1550,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "50D1D4AF-7D62-4C48-88C1-890BB2370353",
+    "patient_ID": "TCGA.RR.A6KC",
+    "days_to_progression": 369,
+    "new_tumor": "RECURRENCE"
+  }
+]

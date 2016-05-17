@@ -1,0 +1,24 @@
+[
+  {
+    "V1": "bcr_patient_uuid",
+    "V2": "bcr_patient_barcode",
+    "V3": "days_to_new_tumor_event_after_initial_treatment",
+    "V4": "additional_surgery_locoregional_procedure",
+    "V5": "days_to_additional_surgery_locoregional_procedure",
+    "V6": "additional_surgery_metastatic_procedure",
+    "V7": "days_to_additional_surgery_metastatic_procedure",
+    "V8": "additional_radiation_therapy",
+    "V9": "additional_pharmaceutical_therapy"
+  },
+  {
+    "V1": "",
+    "V2": "2673794",
+    "V3": "3392464",
+    "V4": "3008755",
+    "V5": "3408572",
+    "V6": "3008757",
+    "V7": "3408682",
+    "V8": "3427615",
+    "V9": "3427616"
+  }
+]

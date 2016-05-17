@@ -1,0 +1,707 @@
+[
+  {
+    "bcr_patient_uuid": "5A790086-4887-4D2B-9C28-0FDD5DD1F1FB",
+    "patient_ID": "TCGA.2A.A8W3",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "5e2ff1e6-87bc-4b91-a959-f0f553af4e27",
+    "patient_ID": "TCGA.EJ.7318",
+    "new_tumor": "LOCOREGIONAL RECURRENCE",
+    "days_to_progression": 380,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "df4a7caa-6289-4157-8cb4-6ce8784e7506",
+    "patient_ID": "TCGA.EJ.8469",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1925,
+    "new_tumor_event_site": "NON-REGIONAL / DISTANT LYMPH NODES",
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ab378ad0-1881-403f-9e85-d6f97e7b7c81",
+    "patient_ID": "TCGA.EJ.8472",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 196
+  },
+  {
+    "bcr_patient_uuid": "08F11BDD-D665-45AB-B1A2-5485D91922C2",
+    "patient_ID": "TCGA.EJ.A46F",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 215
+  },
+  {
+    "bcr_patient_uuid": "8631BB5E-6D08-4C20-A85E-CB84F5DAC290",
+    "patient_ID": "TCGA.EJ.A65F",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 75,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "4EF24CCA-976B-4C2F-8810-4339967DA570",
+    "patient_ID": "TCGA.EJ.A6RA",
+    "new_tumor": "LOCOREGIONAL RECURRENCE",
+    "days_to_progression": 353
+  },
+  {
+    "bcr_patient_uuid": "C8FAB4A7-FD7E-4D5E-A330-18C7E148B9D0",
+    "patient_ID": "TCGA.EJ.A7NN",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 197
+  },
+  {
+    "bcr_patient_uuid": "00F0F7DD-71DE-4E4F-B4B5-DF860324F2E8",
+    "patient_ID": "TCGA.EJ.A8FP",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 117
+  },
+  {
+    "bcr_patient_uuid": "9044098B-415D-4893-A682-3636F6B2B2DB",
+    "patient_ID": "TCGA.EJ.A8FS",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 216
+  },
+  {
+    "bcr_patient_uuid": "F97FED28-FDF3-4C82-8B6D-1015848B80DC",
+    "patient_ID": "TCGA.FC.A6HD"
+  },
+  {
+    "bcr_patient_uuid": "d39d1a49-fcc0-4f2c-9338-df904e7f6a09",
+    "patient_ID": "TCGA.G9.6339",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1634,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b8fbfe87-e92c-4d54-a620-17b2dcde6d53",
+    "patient_ID": "TCGA.G9.6498",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1342,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "084AC674-F4CF-4A4A-A6A2-687C05C272EA",
+    "patient_ID": "TCGA.G9.A9S0",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 423,
+    "new_tumor_event_site": "BONE",
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_therapy_type": "DISTANT METASTASES",
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "A8573F49-9FED-4C85-9E1D-40ABAB7F86EC",
+    "patient_ID": "TCGA.G9.A9S4",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "00F7F9D3-7A34-4A5B-9D19-38810DCABBBA",
+    "patient_ID": "TCGA.J4.A67N",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 442
+  },
+  {
+    "bcr_patient_uuid": "C024C4B6-0143-4071-9175-7435F1EAAC58",
+    "patient_ID": "TCGA.J4.A83N",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "days_to_progression": 433,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "73B7D4BC-6B56-4AE8-BE7F-074745563BEE",
+    "patient_ID": "TCGA.J4.AATZ",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 79,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "2ECCAABE-0783-4596-B674-D59846373A1D",
+    "patient_ID": "TCGA.J9.A52B",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 57,
+    "progression_after_hormone_therapy": false,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "30ABA886-5152-4E25-B36F-6CE7009D419E",
+    "patient_ID": "TCGA.J9.A52E",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "1122FA92-0073-4F59-9880-3F1A34620758",
+    "patient_ID": "TCGA.J9.A8CL",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 132
+  },
+  {
+    "bcr_patient_uuid": "DECEB7DF-6EDC-41F0-99AA-C4AC7E764074",
+    "patient_ID": "TCGA.J9.A8CM",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 344,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "5089A8D2-A353-4150-8A6B-6478C5BB29BB",
+    "patient_ID": "TCGA.KC.A4BL",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 193
+  },
+  {
+    "bcr_patient_uuid": "3E71FA1C-855C-475A-9DD0-A314A3ECD48D",
+    "patient_ID": "TCGA.KC.A4BR",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1022,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "A8C954B7-3077-4FF1-B311-D4B4BFA49786",
+    "patient_ID": "TCGA.KC.A4BV",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1328
+  },
+  {
+    "bcr_patient_uuid": "4C197D76-DAF6-474D-B561-DED42905F52A",
+    "patient_ID": "TCGA.KK.A59Y",
+    "radiation": true
+  },
+  {
+    "bcr_patient_uuid": "436B242C-AD5F-432E-A684-27BBA4C1C8A2",
+    "patient_ID": "TCGA.KK.A5A1",
+    "new_tumor": "LOCOREGIONAL RECURRENCE",
+    "days_to_progression": 203,
+    "radiation": true
+  },
+  {
+    "bcr_patient_uuid": "D112136D-34FA-426E-B432-4D1E4286ADF8",
+    "patient_ID": "TCGA.KK.A6E0",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 941,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "CECF4EE9-7610-4F47-A825-7FDE8233B75D",
+    "patient_ID": "TCGA.KK.A7AQ",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1217,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "39303E7C-5BAF-479D-A112-D8F03A18C621",
+    "patient_ID": "TCGA.KK.A7AU",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 207,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "2F231B79-84BC-4256-BF26-7CE64083D438",
+    "patient_ID": "TCGA.KK.A7AW"
+  },
+  {
+    "bcr_patient_uuid": "F4AEBD64-A356-4C05-B847-6DD28CF26339",
+    "patient_ID": "TCGA.KK.A7AY",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1124,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "73D4E806-2C15-4C9E-A978-106FB9494E82",
+    "patient_ID": "TCGA.KK.A7B0",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 606,
+    "progression_after_hormone_therapy": false,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5447A0E0-80CA-40FB-8233-504FDE51F22C",
+    "patient_ID": "TCGA.KK.A7B4",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 637
+  },
+  {
+    "bcr_patient_uuid": "9A8CAEF5-6543-4391-8A55-4999035693C5",
+    "patient_ID": "TCGA.KK.A8I4",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 1162,
+    "new_tumor_event_site": "BONE",
+    "progression_after_hormone_therapy": false,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "108DEE1E-B27D-4056-A167-261725F548C1",
+    "patient_ID": "TCGA.KK.A8I7",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1088,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "70C6C3A0-B422-4541-A60F-355356A9A340",
+    "patient_ID": "TCGA.KK.A8IC",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1060,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "3F5270A2-3284-4523-BD81-54FC98C2B933",
+    "patient_ID": "TCGA.KK.A8IF",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 648
+  },
+  {
+    "bcr_patient_uuid": "D05681CC-DFFA-44D0-B6A1-0A99A4CE3BE5",
+    "patient_ID": "TCGA.KK.A8II",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 626,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "98A9CE0E-4F02-4819-BC0C-C1A8D34E3DB6",
+    "patient_ID": "TCGA.KK.A8IJ",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "days_to_progression": 307,
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MELANOMA IN SITU OF THE RIGHT MIDBACK",
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "3FA3CFFE-40F1-4853-9CBB-54A99FFD6108",
+    "patient_ID": "TCGA.M7.A722",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 559,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "F8B98552-AE2A-4609-9929-7864485B3C51",
+    "patient_ID": "TCGA.M7.A724",
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "56DF9DE6-613D-44CE-8827-9213CC6C8B56",
+    "patient_ID": "TCGA.V1.A8MF",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "F4F81316-C99A-4A88-AA6C-E66FC5D60C53",
+    "patient_ID": "TCGA.V1.A8MJ",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "9938C4AD-748C-4086-9081-FAC0AEFAD440",
+    "patient_ID": "TCGA.V1.A8MK",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "69174712-AF41-422D-952A-D8D0D16D7182",
+    "patient_ID": "TCGA.V1.A8ML",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "94D6675E-27AE-4F34-9D53-6E19238EB01D",
+    "patient_ID": "TCGA.V1.A8MM",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 990
+  },
+  {
+    "bcr_patient_uuid": "A76BCD1F-E47F-4DC5-A97A-4C4F00032191",
+    "patient_ID": "TCGA.V1.A8MU",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "F7FC3F2E-C70E-460D-B34D-BB2EA423A0AE",
+    "patient_ID": "TCGA.V1.A8WL",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "DC16F348-A49F-4958-A3FF-BC40E18DF2BD",
+    "patient_ID": "TCGA.V1.A8WN",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "BEA84D33-3286-44E2-9595-893C34A01F58",
+    "patient_ID": "TCGA.V1.A8WS",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "8E5B1D47-7D92-4D28-8186-4176ADA96672",
+    "patient_ID": "TCGA.V1.A8WV",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "D843996C-0F17-4482-8466-9F6144981B8A",
+    "patient_ID": "TCGA.V1.A8WW",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "86B82965-B19B-4285-B1A5-51A5D5267103",
+    "patient_ID": "TCGA.V1.A8X3",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "E0DFC37A-4A2E-4353-9673-241B100B3467",
+    "patient_ID": "TCGA.V1.A9O5",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 124
+  },
+  {
+    "bcr_patient_uuid": "40EBEB10-7390-44FC-9EF2-80D40D251018",
+    "patient_ID": "TCGA.V1.A9O7",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 819
+  },
+  {
+    "bcr_patient_uuid": "F6935F67-5C62-4774-8346-711F36F3B547",
+    "patient_ID": "TCGA.V1.A9O9",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "A8396F6D-53E2-4664-A3E2-DF061D022108",
+    "patient_ID": "TCGA.V1.A9OA",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "D4DC7C5C-45B3-4741-B0C1-FEE477DA2EF4",
+    "patient_ID": "TCGA.V1.A9OF",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "6EF0FC2D-F274-4253-BEC5-6DBD55953D76",
+    "patient_ID": "TCGA.V1.A9OH",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "FCBD7B29-12DA-44C8-B241-1388D1B15684",
+    "patient_ID": "TCGA.V1.A9OL",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 105
+  },
+  {
+    "bcr_patient_uuid": "10271D9C-9B9C-4B5F-A845-A0F1BD03AF51",
+    "patient_ID": "TCGA.V1.A9OQ",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "18B8AD7F-0F39-4853-AE13-5B13AA5E6F7D",
+    "patient_ID": "TCGA.V1.A9OT",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 292,
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "14C2819B-9AFC-4C89-849F-530E289D55BF",
+    "patient_ID": "TCGA.V1.A9OX",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "69FC0351-6496-46B5-BE22-25B80C1DC4CC",
+    "patient_ID": "TCGA.V1.A9OY",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "4DB62B98-ABD4-4A7C-9FCE-8BBDA2AEC8A3",
+    "patient_ID": "TCGA.V1.A9Z7",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "9BF4E7BB-6AA9-4BE8-A7C3-E630ECFF4DCE",
+    "patient_ID": "TCGA.V1.A9Z8",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "0885EB03-DE9F-46BA-9C53-FB69C67AB9F0",
+    "patient_ID": "TCGA.V1.A9Z9",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "DEC99F86-622B-477F-A26A-98C954FB1F17",
+    "patient_ID": "TCGA.V1.A9ZG",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "3D92B872-A76A-49CD-9FD5-7993E78D2FB0",
+    "patient_ID": "TCGA.V1.A9ZI",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "7DC62C0F-B82D-417F-89A7-4CB984A9D304",
+    "patient_ID": "TCGA.V1.A9ZK"
+  },
+  {
+    "bcr_patient_uuid": "338FE754-FC4A-4294-BA15-42D4C7C9AC10",
+    "patient_ID": "TCGA.V1.A9ZR",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "48F36FBE-356A-40AF-B81F-8EA0B1369BAB",
+    "patient_ID": "TCGA.VP.A878",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 98,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "AA405B5F-F75D-486A-96F3-1DF7ADD18193",
+    "patient_ID": "TCGA.VP.A87D",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1194,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_therapy_type": "BIOCHEMICAL RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "24D7D4D8-F5C1-4D71-80E0-72A429FC9DBD",
+    "patient_ID": "TCGA.VP.A87K",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 533,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "2270D09E-A8BE-4B7D-9520-A4BB1CD053C0",
+    "patient_ID": "TCGA.XK.AAIW",
+    "new_tumor": "NEW PRIMARY TUMOR",
+    "days_to_progression": 427,
+    "progression_after_hormone_therapy": false,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "A3A4A518-2DAC-4846-9476-1AA7E0C1FB5E",
+    "patient_ID": "TCGA.XK.AAJR",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 131,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "B47791BA-85FD-41D0-AC1F-B6FA06F18E96",
+    "patient_ID": "TCGA.XQ.A8TA",
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_therapy_type": "DISTANT METASTASES"
+  },
+  {
+    "bcr_patient_uuid": "666D8B0C-593F-4EC3-B16A-2DADBEAD8C32",
+    "patient_ID": "TCGA.YL.A8HJ",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "351239DB-52D3-4AB5-BD4F-8FEAA6701BA1",
+    "patient_ID": "TCGA.YL.A8HK",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1376,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_therapy_type": "BIOCHEMICAL RECURRENCE",
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "B7C8CA4C-8D9C-4C5B-99EE-2FCEBE4F70E6",
+    "patient_ID": "TCGA.YL.A8HO",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1068,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "494A8495-8D10-4A8F-8664-F68AC339C889",
+    "patient_ID": "TCGA.YL.A8S8",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 679,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "B0669EEC-6A1A-4618-AE23-AE0F9E9C266C",
+    "patient_ID": "TCGA.YL.A8S9",
+    "new_tumor": "LOCOREGIONAL RECURRENCE",
+    "days_to_progression": 1006,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "21A29827-7896-436D-AB52-E7EDFC91E7D0",
+    "patient_ID": "TCGA.YL.A8SB",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "42FA9774-9471-4707-8F6F-8041B34C49E4",
+    "patient_ID": "TCGA.YL.A8SC"
+  },
+  {
+    "bcr_patient_uuid": "C5F8C89C-EF69-42F4-9B37-5B552FCCDF4B",
+    "patient_ID": "TCGA.YL.A8SI",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1423
+  },
+  {
+    "bcr_patient_uuid": "F3EC5BF3-97AE-4033-91A6-084A1AA152A4",
+    "patient_ID": "TCGA.YL.A8SJ",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 752,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "159B47B2-DC7D-4856-9A00-454E27301E23",
+    "patient_ID": "TCGA.YL.A8SK",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "C506FAE4-7C0A-4705-8E80-5BCC122A8A32",
+    "patient_ID": "TCGA.YL.A8SP",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "24E5D323-F3D4-4ADD-9A29-79E77CED357C",
+    "patient_ID": "TCGA.YL.A8SQ",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 329,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_therapy_type": "BIOCHEMICAL RECURRENCE",
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "1BCB1132-A9FC-4F03-BBED-ABAF80C7A24A",
+    "patient_ID": "TCGA.YL.A9WH",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "0B5ED938-6AB8-4E76-8558-1D86F3A90DFA",
+    "patient_ID": "TCGA.YL.A9WJ",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 1476,
+    "new_tumor_event_site": "NON-REGIONAL / DISTANT LYMPH NODES"
+  },
+  {
+    "bcr_patient_uuid": "B2BCC97F-03A6-409A-8B91-78221CB10D7F",
+    "patient_ID": "TCGA.YL.A9WK",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1009,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_therapy_type": "BIOCHEMICAL RECURRENCE",
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "CFCF057A-00FE-4603-A720-586712B75803",
+    "patient_ID": "TCGA.YL.A9WL",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 740,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_therapy_type": "BIOCHEMICAL RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "A468353E-0A96-4A4D-8AEF-5140BF1BF952",
+    "patient_ID": "TCGA.YL.A9WX",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 1506
+  },
+  {
+    "bcr_patient_uuid": "D7E22AF5-88AA-4A83-985C-1D346DFF652D",
+    "patient_ID": "TCGA.YL.A9WY",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 765,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_therapy_type": "BIOCHEMICAL RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "ADBF5BDA-E2DC-4B25-8FB9-96D89093F77D",
+    "patient_ID": "TCGA.ZG.A9KY"
+  },
+  {
+    "bcr_patient_uuid": "083CC988-19A5-49B4-97C0-4E7BCC5D5C08",
+    "patient_ID": "TCGA.ZG.A9L1",
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5E7A7629-800A-45C4-B4CB-314A853A1BEC",
+    "patient_ID": "TCGA.ZG.A9L2",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 180,
+    "progression_after_hormone_therapy": false,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "C75BEE57-D6DA-4083-9BE8-17C970B77FC7",
+    "patient_ID": "TCGA.ZG.A9L4",
+    "progression_after_hormone_therapy": false,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "E8F39C9E-0F1A-401C-9055-762B52BC77C7",
+    "patient_ID": "TCGA.ZG.A9L5"
+  },
+  {
+    "bcr_patient_uuid": "93CF60A7-1D61-4C1C-8DCE-221289800B0C",
+    "patient_ID": "TCGA.ZG.A9L6",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 664,
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "bcr_patient_uuid": "C7912CA7-11E1-4CB8-902A-9D6CB23FD344",
+    "patient_ID": "TCGA.ZG.A9L9",
+    "new_tumor": "BIOCHEMICAL EVIDENCE OF DISEASE",
+    "days_to_progression": 51,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_therapy_type": "DISTANT METASTASES",
+    "radiation": false
+  },
+  {
+    "bcr_patient_uuid": "CA076CFD-C628-4AF2-837C-37617429ADB9",
+    "patient_ID": "TCGA.ZG.A9LZ",
+    "progression_after_hormone_therapy": false,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "9B5D36B2-8B46-48A4-AFA7-0E1936F2D315",
+    "patient_ID": "TCGA.ZG.A9M4",
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7EFC26B2-EFF9-4F1E-9F4B-F26AF072C84A",
+    "patient_ID": "TCGA.ZG.A9MC",
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "305B0B57-5952-43C7-9063-7BCD954EB44D",
+    "patient_ID": "TCGA.ZG.A9N3",
+    "progression_after_hormone_therapy": false,
+    "radiation": false,
+    "drug": false
+  }
+]

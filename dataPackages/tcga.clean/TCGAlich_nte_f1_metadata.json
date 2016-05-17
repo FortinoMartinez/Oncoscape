@@ -1,0 +1,36 @@
+[
+  {
+    "V1": "bcr_patient_uuid",
+    "V2": "bcr_patient_barcode",
+    "V3": "bcr_followup_barcode",
+    "V4": "new_neoplasm_event_type",
+    "V5": "new_neoplasm_event_occurrence_anatomic_site",
+    "V6": "new_neoplasm_occurrence_anatomic_site_text",
+    "V7": "new_tumor_event_liver_transplant",
+    "V8": "new_tumor_event_additional_surgery_procedure",
+    "V9": "additional_radiation_therapy",
+    "V10": "additional_pharmaceutical_therapy",
+    "V11": "new_tumor_event_ablation_embo_tx",
+    "V12": "days_to_new_tumor_event_after_initial_treatment",
+    "V13": "days_to_new_tumor_event_transplant",
+    "V14": "days_to_new_tumor_event_additional_surgery_procedure",
+    "V15": "residual_disease_post_new_tumor_event_margin_status"
+  },
+  {
+    "V1": "",
+    "V2": "2673794",
+    "V3": "",
+    "V4": "3119721",
+    "V5": "3108271",
+    "V6": "3128033",
+    "V7": "3168060",
+    "V8": "3427611",
+    "V9": "3427615",
+    "V10": "3427616",
+    "V11": "3173961",
+    "V12": "3392464",
+    "V13": "3008335",
+    "V14": "3008335",
+    "V15": "3008753"
+  }
+]

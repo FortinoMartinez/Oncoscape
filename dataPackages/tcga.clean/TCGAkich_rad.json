@@ -1,0 +1,16 @@
+[
+  {
+    "bcr_patient_uuid": "8D30C7BE-73B6-4C4C-80C5-31152B2F7CB0",
+    "patient_ID": "TCGA.KM.A7Q8",
+    "bcr_radiation_barcode": "TCGA-KM-A7Q8-R62491",
+    "bcr_radiation_uuid": "0541910A-0615-4332-856A-01F8D9AA6A9C",
+    "form_completion_date": "2014-7-21",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_therapy_ongoing_indicator": false,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE",
+    "radiation_type_notes": "[Not Applicable]",
+    "regimen_indication": "[Not Available]",
+    "regimen_indication_notes": "[Not Available]"
+  }
+]

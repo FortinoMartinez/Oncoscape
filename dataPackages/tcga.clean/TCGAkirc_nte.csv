@@ -1,0 +1,4 @@
+,bcr_patient_uuid,patient_ID,days_to_progression,surgery,days_to_surgery_locoregional,new_tumor_event_surgery_met,days_to_surgery_metastatic,radiation,drug
+1,FC7065FC-D834-4E7D-98BD-CA6666BEB6CB,TCGA.B2.A4SR,266,NA,NA,NA,NA,TRUE,FALSE
+2,01277E9D-A35F-45D9-9E60-2E8CD79630A0,TCGA.DV.A4W0,2008,FALSE,NA,FALSE,NA,FALSE,FALSE
+3,FE1F95A3-A6C2-4A39-8586-F8A70E975DD4,TCGA.MM.A563,NA,NA,NA,NA,NA,FALSE,FALSE

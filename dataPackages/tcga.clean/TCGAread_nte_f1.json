@@ -1,0 +1,425 @@
+[
+  {
+    "bcr_patient_uuid": "f9204a59-6877-4d06-a20e-fd7ab0859ed5",
+    "patient_ID": "TCGA.AF.2687",
+    "bcr_followup_barcode": "TCGA-AF-2687-F40084",
+    "days_to_progression": 1267,
+    "radiation": false,
+    "drug": false,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "335d0351-3740-4847-9ff4-be2f078c70f7",
+    "patient_ID": "TCGA.AF.2689",
+    "bcr_followup_barcode": "TCGA-AF-2689-F3299",
+    "days_to_progression": 301,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "335d0351-3740-4847-9ff4-be2f078c70f7",
+    "patient_ID": "TCGA.AF.2689",
+    "bcr_followup_barcode": "TCGA-AF-2689-F34683",
+    "days_to_progression": 461,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "335d0351-3740-4847-9ff4-be2f078c70f7",
+    "patient_ID": "TCGA.AF.2689",
+    "bcr_followup_barcode": "TCGA-AF-2689-F34721",
+    "days_to_progression": 1134,
+    "radiation": false,
+    "drug": false,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "335d0351-3740-4847-9ff4-be2f078c70f7",
+    "patient_ID": "TCGA.AF.2689",
+    "bcr_followup_barcode": "TCGA-AF-2689-F34761",
+    "days_to_progression": 1134,
+    "radiation": false,
+    "drug": false,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "71a32fca-d48f-4ea3-8df7-69f9dda8fa91",
+    "patient_ID": "TCGA.AF.2692",
+    "bcr_followup_barcode": "TCGA-AF-2692-F10351",
+    "days_to_progression": 327,
+    "radiation": true,
+    "drug": true,
+    "days_to_surgery": 396,
+    "new_tumor": "METASTATIC",
+    "surgery_procedure.1": true,
+    "progression_determined_by": "[Not Available]",
+    "residual_tumor": "R0"
+  },
+  {
+    "bcr_patient_uuid": "17e286b7-7793-446d-b556-1108addb5ba2",
+    "patient_ID": "TCGA.AF.3911",
+    "bcr_followup_barcode": "TCGA-AF-3911-F19776",
+    "days_to_progression": 695,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "17e286b7-7793-446d-b556-1108addb5ba2",
+    "patient_ID": "TCGA.AF.3911",
+    "bcr_followup_barcode": "TCGA-AF-3911-F39018",
+    "days_to_progression": 1020,
+    "radiation": false,
+    "drug": false,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "3f2ca278-c74a-4aa7-b029-189d9d0b510c",
+    "patient_ID": "TCGA.AF.3914",
+    "bcr_followup_barcode": "TCGA-AF-3914-F41446",
+    "days_to_progression": 846,
+    "radiation": false,
+    "drug": true,
+    "days_to_surgery": 869,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure.1": true,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "3f2ca278-c74a-4aa7-b029-189d9d0b510c",
+    "patient_ID": "TCGA.AF.3914",
+    "bcr_followup_barcode": "TCGA-AF-3914-F41483",
+    "days_to_progression": 846,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "5bc1db25-3e25-44d7-99cb-e31f00cf1d58",
+    "patient_ID": "TCGA.AF.6136",
+    "bcr_followup_barcode": "TCGA-AF-6136-F31524",
+    "days_to_progression": 199,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "5bc1db25-3e25-44d7-99cb-e31f00cf1d58",
+    "patient_ID": "TCGA.AF.6136",
+    "bcr_followup_barcode": "TCGA-AF-6136-F40235",
+    "days_to_progression": 609,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "6221496d-40cc-4071-969f-6fbcba4f573c",
+    "patient_ID": "TCGA.AF.6672",
+    "bcr_followup_barcode": "TCGA-AF-6672-F19799",
+    "days_to_progression": 279,
+    "radiation": false,
+    "drug": false,
+    "days_to_surgery": 304,
+    "new_tumor": "METASTATIC",
+    "surgery_procedure.1": true,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "6221496d-40cc-4071-969f-6fbcba4f573c",
+    "patient_ID": "TCGA.AF.6672",
+    "bcr_followup_barcode": "TCGA-AF-6672-F40027",
+    "days_to_progression": 461,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "c9632a8b-dcfe-4480-a8ad-482f55b8cfa2",
+    "patient_ID": "TCGA.AG.3587",
+    "bcr_followup_barcode": "TCGA-AG-3587-F37961",
+    "days_to_progression": 1216,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "8c7ccdb0-7653-4a8d-86b6-de39afc40765",
+    "patient_ID": "TCGA.AG.3887",
+    "bcr_followup_barcode": "TCGA-AG-3887-F38015",
+    "days_to_progression": 1064,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "60778da8-d99e-4e51-96a2-3e900b3978d9",
+    "patient_ID": "TCGA.AG.3999",
+    "bcr_followup_barcode": "TCGA-AG-3999-F38308",
+    "days_to_progression": 791,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "6dafce6c-b2a9-4b23-b9f8-b71e01616389",
+    "patient_ID": "TCGA.AG.4021",
+    "bcr_followup_barcode": "TCGA-AG-4021-F38318",
+    "days_to_progression": 0,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "9f4574ec-a58a-4410-8735-c5e5bc4ca7e0",
+    "patient_ID": "TCGA.AG.A00H",
+    "bcr_followup_barcode": "TCGA-AG-A00H-F38315",
+    "days_to_progression": 790,
+    "radiation": true,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "c7e09161-60d6-4dff-a840-7cec3bb7a30a",
+    "patient_ID": "TCGA.AG.A00Y",
+    "bcr_followup_barcode": "TCGA-AG-A00Y-F38317",
+    "days_to_progression": 123,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "09daff79-6493-45c1-8cba-9381259e2bea",
+    "patient_ID": "TCGA.AG.A015",
+    "bcr_followup_barcode": "TCGA-AG-A015-F38511",
+    "days_to_progression": 518,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "3bc6e336-f58e-4dc4-8414-7318e55016ed",
+    "patient_ID": "TCGA.AG.A023",
+    "bcr_followup_barcode": "TCGA-AG-A023-F38514",
+    "days_to_progression": 822,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "17878cb0-a8f9-43a4-911c-0f94c2a5e3df",
+    "patient_ID": "TCGA.AG.A02G",
+    "bcr_followup_barcode": "TCGA-AG-A02G-F38515",
+    "days_to_progression": 578,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "0bb786ee-07cf-4853-9b49-ec95cd14e282",
+    "patient_ID": "TCGA.AG.A032",
+    "bcr_followup_barcode": "TCGA-AG-A032-F38516",
+    "days_to_progression": 792,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "bd0ddc1e-ba3b-4719-a2fa-776f0475dd8a",
+    "patient_ID": "TCGA.AH.6643",
+    "bcr_followup_barcode": "TCGA-AH-6643-F57833",
+    "days_to_progression": 1026,
+    "radiation": false,
+    "drug": false,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "b26143d3-d458-4d5c-8446-fd2f05707352",
+    "patient_ID": "TCGA.CI.6620",
+    "bcr_followup_barcode": "TCGA-CI-6620-F69554",
+    "days_to_progression": 90,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "261925e3-96e4-440c-8e95-c003d44ab2f2",
+    "patient_ID": "TCGA.DC.6156",
+    "bcr_followup_barcode": "TCGA-DC-6156-F21439",
+    "days_to_progression": 30,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "261925e3-96e4-440c-8e95-c003d44ab2f2",
+    "patient_ID": "TCGA.DC.6156",
+    "bcr_followup_barcode": "TCGA-DC-6156-F44747",
+    "days_to_progression": 30,
+    "radiation": false,
+    "drug": false,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "205f30ff-fb10-44a8-a1c6-c538de100db5",
+    "patient_ID": "TCGA.DY.A1DC",
+    "bcr_followup_barcode": "TCGA-DY-A1DC-F19043",
+    "days_to_progression": 630,
+    "radiation": true,
+    "days_to_surgery": 818,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure.1": true,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "5555fbdd-962f-4d79-b36c-ae3c3cc4aff4",
+    "patient_ID": "TCGA.DY.A1DE",
+    "bcr_followup_barcode": "TCGA-DY-A1DE-F19046",
+    "days_to_progression": 3316,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "89e4905e-31bb-4125-9262-93f600aed7e5",
+    "patient_ID": "TCGA.DY.A1DG",
+    "bcr_followup_barcode": "TCGA-DY-A1DG-F19044",
+    "days_to_progression": 592,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "652e503a-1be8-445b-96d6-ff114f911e76",
+    "patient_ID": "TCGA.EI.6509",
+    "bcr_followup_barcode": "TCGA-EI-6509-F28628",
+    "days_to_progression": 90,
+    "radiation": false,
+    "drug": false,
+    "days_to_surgery": 127,
+    "new_tumor": "METASTATIC",
+    "surgery_procedure.1": true,
+    "progression_determined_by": "[Not Available]",
+    "residual_tumor": "R0"
+  },
+  {
+    "bcr_patient_uuid": "3165bf70-df19-4043-bcfc-9ae92197ef72",
+    "patient_ID": "TCGA.EI.6885",
+    "bcr_followup_barcode": "TCGA-EI-6885-F29906",
+    "days_to_progression": 295,
+    "radiation": false,
+    "drug": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure.1": true,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "85947797-54b8-44fb-910b-5cd689542994",
+    "patient_ID": "TCGA.F5.6571",
+    "bcr_followup_barcode": "TCGA-F5-6571-F29833",
+    "days_to_progression": 122,
+    "radiation": false,
+    "drug": true,
+    "days_to_surgery": 150,
+    "new_tumor": "METASTATIC",
+    "surgery_procedure.1": true,
+    "progression_determined_by": "[Not Available]",
+    "residual_tumor": "RX"
+  },
+  {
+    "bcr_patient_uuid": "85947797-54b8-44fb-910b-5cd689542994",
+    "patient_ID": "TCGA.F5.6571",
+    "bcr_followup_barcode": "TCGA-F5-6571-F53522",
+    "days_to_progression": 660,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "85947797-54b8-44fb-910b-5cd689542994",
+    "patient_ID": "TCGA.F5.6571",
+    "bcr_followup_barcode": "TCGA-F5-6571-F53534",
+    "days_to_progression": 1059,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "f1ce4b5f-55d0-4989-a5f3-6b6e591538b2",
+    "patient_ID": "TCGA.F5.6702",
+    "bcr_followup_barcode": "TCGA-F5-6702-F46648",
+    "days_to_progression": 368,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "f1ce4b5f-55d0-4989-a5f3-6b6e591538b2",
+    "patient_ID": "TCGA.F5.6702",
+    "bcr_followup_barcode": "TCGA-F5-6702-F31161",
+    "days_to_progression": 368,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "99d2c035-06a2-4bc3-8ff9-db875d232c93",
+    "patient_ID": "TCGA.F5.6813",
+    "bcr_followup_barcode": "TCGA-F5-6813-F36421",
+    "days_to_progression": 65,
+    "radiation": false,
+    "drug": false,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "99d2c035-06a2-4bc3-8ff9-db875d232c93",
+    "patient_ID": "TCGA.F5.6813",
+    "bcr_followup_barcode": "TCGA-F5-6813-F41121",
+    "days_to_progression": 65,
+    "radiation": false,
+    "drug": false,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "72e640f2-869f-4aef-8ebe-b127f3e7048a",
+    "patient_ID": "TCGA.F5.6863",
+    "bcr_followup_barcode": "TCGA-F5-6863-F35411",
+    "days_to_progression": 191,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "ff427104-0727-483c-8513-243dec80db9d",
+    "patient_ID": "TCGA.G5.6233",
+    "bcr_followup_barcode": "TCGA-G5-6233-F21970",
+    "days_to_progression": 92,
+    "radiation": false,
+    "drug": true,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "c2ea7b58-cabd-407e-98ce-6cbf9e4d93e1",
+    "patient_ID": "TCGA.G5.6235",
+    "bcr_followup_barcode": "TCGA-G5-6235-F21952",
+    "days_to_progression": 1042,
+    "radiation": true,
+    "drug": false,
+    "surgery_procedure.1": false,
+    "progression_determined_by": "[Not Available]"
+  }
+]

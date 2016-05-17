@@ -1,0 +1,188 @@
+[
+  {
+    "bcr_patient_uuid": "1843C82E-7A35-474F-9F79-C0A9AF9AA09C",
+    "patient_ID": "TCGA.FA.A4BB",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "0BF573AC-CD1E-42D8-90CF-B30D7B08679C",
+    "patient_ID": "TCGA.FA.A6HN",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "69F23725-ADCA-48AC-9B33-80A7AAE24CFE",
+    "patient_ID": "TCGA.FA.A6HO",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "0030A28C-81AA-44B0-8BE0-B35E1DCBF98C",
+    "patient_ID": "TCGA.FA.A7Q1",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "B56BDBDB-43AF-4A03-A072-54DD22D7550C",
+    "patient_ID": "TCGA.FA.A86F",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "F553F1A9-ECF2-4783-A609-6ADCA7C4C597",
+    "patient_ID": "TCGA.FF.A7CQ",
+    "pet_scan_after_treatment_results": "POSITIVE",
+    "days_to_progression": 255,
+    "first_progression_biopsied_indicator": false,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "new_neoplasm_event_occurrence_anatomic_site": "BRAIN",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "F784BC3A-751B-4025-AAB2-0AF2F6F24266",
+    "patient_ID": "TCGA.FF.A7CR",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 290,
+    "first_progression_biopsied_indicator": true,
+    "lymphoma_progression_histology": "DIFFUSE LARGE B-CELL LYMPHOMA",
+    "new_neoplasm_event_occurrence_anatomic_site": "OTHER, SPECIFY",
+    "new_neoplasm_occurrence_anatomic_site_text": "BONE MARROW, SKIN (CALF AND CHEST WALL)",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "1D0DB5D7-39CA-466D-96B3-0D278C5EA768",
+    "patient_ID": "TCGA.FF.A7CW",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE REMISSION",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "29E3D122-15A1-4235-A356-B1A9F94CEB39",
+    "patient_ID": "TCGA.FF.A7CX",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE REMISSION",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "31bbad4e-3789-42ec-9faa-1cb86970f723",
+    "patient_ID": "TCGA.G8.6907",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 279,
+    "first_progression_biopsied_indicator": false,
+    "new_neoplasm_event_occurrence_anatomic_site": "OVARY",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "7a589441-11ef-4158-87e7-3951d86bc2aa",
+    "patient_ID": "TCGA.GR.7351",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "c3d662ee-48d0-454a-bb0c-77d3338d3747",
+    "patient_ID": "TCGA.GR.7353",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "D7DF78B5-24F1-4FF4-BD9B-F0E6BEC8289A",
+    "patient_ID": "TCGA.GR.A4D4",
+    "pet_scan_after_treatment_results": "INDETERMINATE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "F855DAD1-6FFC-493E-BA6C-970874BC9210",
+    "patient_ID": "TCGA.GR.A4D5",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "C1C06604-5AE2-4A53-B9C0-EB210D38E3F0",
+    "patient_ID": "TCGA.GR.A4D6",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "5EFF68FF-F6C3-40C9-9FC8-00E684A7B712",
+    "patient_ID": "TCGA.GR.A4D9",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 1218,
+    "first_progression_biopsied_indicator": true,
+    "lymphoma_progression_histology": "OTHER HISTOLOGICAL TYPE",
+    "lymphoma_progression_histology_other": "COMPOSITE LYMPHOMA: B-FL-3A (60%), B-DLCL-NC (40%)",
+    "new_neoplasm_event_occurrence_anatomic_site": "SOFT TISSUE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "45B0CF9F-A879-417F-8F39-7770552252C0",
+    "patient_ID": "TCGA.GS.A9TQ",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "33365D22-CB83-4D8E-A2D1-06B675F75F6E",
+    "patient_ID": "TCGA.GS.A9TT",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "1EA575F1-F731-408B-A629-F5F4ABAB569E",
+    "patient_ID": "TCGA.GS.A9TU",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "C85F340E-584B-4F3B-B6A5-540491FC8AD2",
+    "patient_ID": "TCGA.GS.A9TV",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "29AFF186-C321-4FF9-B81B-105E27E620FF",
+    "patient_ID": "TCGA.GS.A9TW",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "58E66976-4507-4552-AC53-83A49A142DDE",
+    "patient_ID": "TCGA.GS.A9TX",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "6E9437F0-A4ED-475C-AB0E-BF1431C70A90",
+    "patient_ID": "TCGA.GS.A9TY",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "EDA9496E-BE80-4A13-BF06-89F0CC9E937F",
+    "patient_ID": "TCGA.GS.A9TZ",
+    "pet_scan_after_treatment_results": "POSITIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "FDECB74F-AC4E-46B1-B23A-5F7FDE96EF9F",
+    "patient_ID": "TCGA.GS.A9U3",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "0E251C03-BF86-4ED8-B45D-3CBC97160502",
+    "patient_ID": "TCGA.GS.A9U4",
+    "pet_scan_after_treatment_results": "POSITIVE",
+    "days_to_progression": 106,
+    "first_progression_biopsied_indicator": false,
+    "new_neoplasm_event_occurrence_anatomic_site": "CERVICAL LYMPH NODES",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "DC87A809-95DE-4EB7-A1C2-2650475F2D7E",
+    "patient_ID": "TCGA.RQ.A6JB",
+    "progression_determined_by": "[Not Available]"
+  },
+  {
+    "bcr_patient_uuid": "A6923479-4E68-4EA8-87ED-E9642B9D43D5",
+    "patient_ID": "TCGA.VB.A8QN",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "progression_determined_by": "[Not Available]"
+  }
+]

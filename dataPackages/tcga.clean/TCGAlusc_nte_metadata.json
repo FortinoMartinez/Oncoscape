@@ -1,0 +1,34 @@
+[
+  {
+    "V1": "bcr_patient_uuid",
+    "V2": "bcr_patient_barcode",
+    "V3": "new_neoplasm_event_type",
+    "V4": "new_neoplasm_event_occurrence_anatomic_site",
+    "V5": "new_neoplasm_occurrence_anatomic_site_text",
+    "V6": "additional_surgery_locoregional_procedure",
+    "V7": "progression_determined_by",
+    "V8": "new_tumor_event_additional_surgery_procedure",
+    "V9": "days_to_additional_surgery_locoregional_procedure",
+    "V10": "additional_surgery_metastatic_procedure",
+    "V11": "days_to_new_tumor_event_after_initial_treatment",
+    "V12": "days_to_additional_surgery_metastatic_procedure",
+    "V13": "additional_radiation_therapy",
+    "V14": "additional_pharmaceutical_therapy"
+  },
+  {
+    "V1": "",
+    "V2": "2673794",
+    "V3": "3119721",
+    "V4": "3108271",
+    "V5": "3128033",
+    "V6": "3008755",
+    "V7": "2786205",
+    "V8": "3427611",
+    "V9": "3408572",
+    "V10": "3008757",
+    "V11": "3392464",
+    "V12": "3408682",
+    "V13": "3427615",
+    "V14": "3427616"
+  }
+]

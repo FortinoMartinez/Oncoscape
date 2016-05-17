@@ -1,0 +1,4980 @@
+[
+  {
+    "bcr_patient_uuid": "30a1fe5e-5b12-472c-aa86-c2db8167ab23",
+    "patient_ID": "TCGA.02.0001",
+    "bcr_followup_barcode": "TCGA-02-0001-F22169",
+    "days_to_progression": 137,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "df3c1d61-79c1-43e9-971a-8029497ffeab",
+    "patient_ID": "TCGA.02.0003",
+    "bcr_followup_barcode": "TCGA-02-0003-F22176",
+    "days_to_progression": 40,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "3ac8f759-2df0-4ef5-913f-ce05b8dd8937",
+    "patient_ID": "TCGA.02.0004",
+    "bcr_followup_barcode": "TCGA-02-0004-F22180",
+    "days_to_progression": 314,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "98714d95-b62e-4f34-9cd1-91542da463eb",
+    "patient_ID": "TCGA.02.0006",
+    "bcr_followup_barcode": "TCGA-02-0006-F22185",
+    "days_to_progression": 302,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "98714d95-b62e-4f34-9cd1-91542da463eb",
+    "patient_ID": "TCGA.02.0006",
+    "bcr_followup_barcode": "TCGA-02-0006-F22185",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "fb75eb9d-05be-4e6b-a515-f39efb15e66c",
+    "patient_ID": "TCGA.02.0007",
+    "bcr_followup_barcode": "TCGA-02-0007-F22191",
+    "days_to_progression": 518,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "c1f590eb-21ed-4939-adc5-0f7e6f485b56",
+    "patient_ID": "TCGA.02.0009",
+    "bcr_followup_barcode": "TCGA-02-0009-F22196",
+    "days_to_progression": 264,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "c1f590eb-21ed-4939-adc5-0f7e6f485b56",
+    "patient_ID": "TCGA.02.0009",
+    "bcr_followup_barcode": "TCGA-02-0009-F22196",
+    "radiation": false,
+    "days_to_surgery": 270,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "45a58ede-e7a4-424d-851e-e6a4062e46e4",
+    "patient_ID": "TCGA.02.0010",
+    "bcr_followup_barcode": "TCGA-02-0010-F22198",
+    "days_to_progression": 351,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "33ae5566-3c72-4cae-b516-1708db090e32",
+    "patient_ID": "TCGA.02.0011",
+    "bcr_followup_barcode": "TCGA-02-0011-F22204",
+    "days_to_progression": 145,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "83264f30-94be-4573-b519-fb0b0fce36c3",
+    "patient_ID": "TCGA.02.0014",
+    "bcr_followup_barcode": "TCGA-02-0014-F22211",
+    "days_to_progression": 2243,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "697afd24-9632-4244-a455-f95b1fa4f0bf",
+    "patient_ID": "TCGA.02.0015",
+    "bcr_followup_barcode": "TCGA-02-0015-F22216",
+    "days_to_progression": 456,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "697afd24-9632-4244-a455-f95b1fa4f0bf",
+    "patient_ID": "TCGA.02.0015",
+    "bcr_followup_barcode": "TCGA-02-0015-F22216",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "adc0c9c3-002a-4fab-b148-e162020ad051",
+    "patient_ID": "TCGA.02.0016",
+    "bcr_followup_barcode": "TCGA-02-0016-F22221",
+    "days_to_progression": 1699,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "d85fa9be-f7fb-407b-af46-31f495b210d6",
+    "patient_ID": "TCGA.02.0021",
+    "bcr_followup_barcode": "TCGA-02-0021-F22225",
+    "days_to_progression": 255,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "c45e9e8b-35ab-4477-acdc-b18be0b3497d",
+    "patient_ID": "TCGA.02.0023",
+    "bcr_followup_barcode": "TCGA-02-0023-F22233",
+    "days_to_progression": 435,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c45e9e8b-35ab-4477-acdc-b18be0b3497d",
+    "patient_ID": "TCGA.02.0023",
+    "bcr_followup_barcode": "TCGA-02-0023-F22233",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0553e60e-3510-417d-af8a-75947ebe8ab6",
+    "patient_ID": "TCGA.02.0024",
+    "bcr_followup_barcode": "TCGA-02-0024-F22238",
+    "days_to_progression": 1401,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "6630e547-2596-4fb7-a657-c19497ff13b2",
+    "patient_ID": "TCGA.02.0025",
+    "bcr_followup_barcode": "TCGA-02-0025-F22242",
+    "days_to_progression": 656,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6630e547-2596-4fb7-a657-c19497ff13b2",
+    "patient_ID": "TCGA.02.0025",
+    "bcr_followup_barcode": "TCGA-02-0025-F22242",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "43d89926-2378-4498-bfba-6d6624d951b4",
+    "patient_ID": "TCGA.02.0026",
+    "bcr_followup_barcode": "TCGA-02-0026-F22248",
+    "days_to_progression": 462,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a1eca6d7-09ba-418a-a787-77be67e672dd",
+    "patient_ID": "TCGA.02.0027",
+    "bcr_followup_barcode": "TCGA-02-0027-F22254",
+    "days_to_progression": 257,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7ef0564e-d95d-4df5-969b-b204c207daea",
+    "patient_ID": "TCGA.02.0028",
+    "bcr_followup_barcode": "TCGA-02-0028-F22262",
+    "days_to_progression": 1921,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "fc5ad666-d67a-4a5c-8e4e-1c8d099e9f85",
+    "patient_ID": "TCGA.02.0033",
+    "bcr_followup_barcode": "TCGA-02-0033-F22269",
+    "days_to_progression": 32,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "69205453-c504-4684-8d32-57c82efc679d",
+    "patient_ID": "TCGA.02.0034",
+    "bcr_followup_barcode": "TCGA-02-0034-F22271",
+    "days_to_progression": 386,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "d16ef9d7-9e9f-4dbb-9fb4-f8ceaf699e22",
+    "patient_ID": "TCGA.02.0037",
+    "bcr_followup_barcode": "TCGA-02-0037-F22275",
+    "days_to_progression": 37,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "fcce7f31-a392-4177-8dca-cfbe6e73fc2e",
+    "patient_ID": "TCGA.02.0038",
+    "bcr_followup_barcode": "TCGA-02-0038-F22277",
+    "days_to_progression": 239,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b584d0a2-d3d2-44b8-85dc-1b3065b499eb",
+    "patient_ID": "TCGA.02.0039",
+    "bcr_followup_barcode": "TCGA-02-0039-F22281",
+    "days_to_progression": 102,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "de0cb811-bae0-407e-b8b3-97d1512bfa80",
+    "patient_ID": "TCGA.02.0043",
+    "bcr_followup_barcode": "TCGA-02-0043-F22283",
+    "days_to_progression": 282,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5b8f05fa-0145-4142-8d41-5980e4d36d81",
+    "patient_ID": "TCGA.02.0046",
+    "bcr_followup_barcode": "TCGA-02-0046-F22291",
+    "days_to_progression": 195,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "3caf009f-d9e0-4c57-b1d9-8eb59fc833bd",
+    "patient_ID": "TCGA.02.0047",
+    "bcr_followup_barcode": "TCGA-02-0047-F22293",
+    "days_to_progression": 57,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "24eaab84-5d9c-4c12-af8b-32f4c6d8f81e",
+    "patient_ID": "TCGA.02.0048",
+    "bcr_followup_barcode": "TCGA-02-0048-F22295",
+    "days_to_progression": 23,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "74860388-fcc1-4356-84a5-ee88af9324d3",
+    "patient_ID": "TCGA.02.0051",
+    "bcr_followup_barcode": "TCGA-02-0051-F22297",
+    "days_to_progression": 89,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "74860388-fcc1-4356-84a5-ee88af9324d3",
+    "patient_ID": "TCGA.02.0051",
+    "bcr_followup_barcode": "TCGA-02-0051-F22297",
+    "radiation": false,
+    "days_to_surgery": 413,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5a448bf3-8e87-4791-91f2-908307a32ed1",
+    "patient_ID": "TCGA.02.0052",
+    "bcr_followup_barcode": "TCGA-02-0052-F22299",
+    "days_to_progression": 204,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "4df7d5e4-f762-4e80-b9d1-96ec21fb43ca",
+    "patient_ID": "TCGA.02.0054",
+    "bcr_followup_barcode": "TCGA-02-0054-F22303",
+    "days_to_progression": 72,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "da5f6940-e8ee-4fd1-a8da-4cd68e02e59c",
+    "patient_ID": "TCGA.02.0055",
+    "bcr_followup_barcode": "TCGA-02-0055-F22311",
+    "days_to_progression": 6,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7ee03602-bfec-413d-a05b-609cf60c6481",
+    "patient_ID": "TCGA.02.0057",
+    "bcr_followup_barcode": "TCGA-02-0057-F22316",
+    "days_to_progression": 473,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "9734478b-05a2-4b5c-b8aa-9e6b0b0db02d",
+    "patient_ID": "TCGA.02.0058",
+    "bcr_followup_barcode": "TCGA-02-0058-F22321",
+    "days_to_progression": 172,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "facdfdaa-cd26-47f0-97f4-51731bdb5566",
+    "patient_ID": "TCGA.02.0059",
+    "bcr_followup_barcode": "TCGA-02-0059-F22325",
+    "days_to_progression": 21,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "686ac6b5-fdb2-417e-9e32-cbad7214e677",
+    "patient_ID": "TCGA.02.0060",
+    "bcr_followup_barcode": "TCGA-02-0060-F22327",
+    "days_to_progression": 183,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "d0fe540c-8e4b-4d97-8966-5899dea8555e",
+    "patient_ID": "TCGA.02.0064",
+    "bcr_followup_barcode": "TCGA-02-0064-F22332",
+    "days_to_progression": 496,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "d0fe540c-8e4b-4d97-8966-5899dea8555e",
+    "patient_ID": "TCGA.02.0064",
+    "bcr_followup_barcode": "TCGA-02-0064-F22332",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "38771a9a-f8b1-4867-b540-56c7d9f5820a",
+    "patient_ID": "TCGA.02.0068",
+    "bcr_followup_barcode": "TCGA-02-0068-F22338",
+    "days_to_progression": 175,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "38771a9a-f8b1-4867-b540-56c7d9f5820a",
+    "patient_ID": "TCGA.02.0068",
+    "bcr_followup_barcode": "TCGA-02-0068-F22338",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "73b1136f-c4b6-472a-b21d-2c789bd53d26",
+    "patient_ID": "TCGA.02.0069",
+    "bcr_followup_barcode": "TCGA-02-0069-F22345",
+    "days_to_progression": 873,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "863c285c-5b87-42b9-b8b3-1ae832a6ded3",
+    "patient_ID": "TCGA.02.0070",
+    "bcr_followup_barcode": "TCGA-02-0070-F22350",
+    "days_to_progression": 762,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "08505b91-58b8-4121-a8ea-b9832331c24a",
+    "patient_ID": "TCGA.02.0071",
+    "bcr_followup_barcode": "TCGA-02-0071-F22354",
+    "days_to_progression": 8,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "281e1a57-9a8c-4fa0-ac5e-e5e1df7ef8e2",
+    "patient_ID": "TCGA.02.0074",
+    "bcr_followup_barcode": "TCGA-02-0074-F22356",
+    "days_to_progression": 154,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "281e1a57-9a8c-4fa0-ac5e-e5e1df7ef8e2",
+    "patient_ID": "TCGA.02.0074",
+    "bcr_followup_barcode": "TCGA-02-0074-F22356",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b196f82b-ef3f-4e05-99f7-da5df65e691e",
+    "patient_ID": "TCGA.02.0075",
+    "bcr_followup_barcode": "TCGA-02-0075-F22361",
+    "days_to_progression": 336,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "e711a200-cdd5-459e-8dc0-1480bd9bc5df",
+    "patient_ID": "TCGA.02.0079",
+    "bcr_followup_barcode": "TCGA-02-0079-F22365",
+    "days_to_progression": 798,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "5da36fd2-0cea-41b8-90dc-b94c3c28cbd9",
+    "patient_ID": "TCGA.02.0080",
+    "bcr_followup_barcode": "TCGA-02-0080-F22367",
+    "days_to_progression": 2339,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "b72fab50-aed2-48e7-b6ad-2a5bc7157cfd",
+    "patient_ID": "TCGA.02.0083",
+    "bcr_followup_barcode": "TCGA-02-0083-F22372",
+    "days_to_progression": 463,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "2deec528-4550-47b2-9a0d-cac7eeb24f3e",
+    "patient_ID": "TCGA.02.0085",
+    "bcr_followup_barcode": "TCGA-02-0085-F22378",
+    "days_to_progression": 976,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "8e3fbea7-d22e-40fc-8031-58fe6fe091bb",
+    "patient_ID": "TCGA.02.0086",
+    "bcr_followup_barcode": "TCGA-02-0086-F22382",
+    "days_to_progression": 97,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "9a4b35cb-99dc-4343-a08e-25c3c8693243",
+    "patient_ID": "TCGA.02.0087",
+    "bcr_followup_barcode": "TCGA-02-0087-F22390",
+    "days_to_progression": 1757,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "dfaae397-52c3-4d29-b665-971969e23432",
+    "patient_ID": "TCGA.02.0089",
+    "bcr_followup_barcode": "TCGA-02-0089-F22392",
+    "days_to_progression": 358,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f3e57166-c428-4a44-9396-679e3a2b16a2",
+    "patient_ID": "TCGA.02.0102",
+    "bcr_followup_barcode": "TCGA-02-0102-F22401",
+    "days_to_progression": 450,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f3e57166-c428-4a44-9396-679e3a2b16a2",
+    "patient_ID": "TCGA.02.0102",
+    "bcr_followup_barcode": "TCGA-02-0102-F22401",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "db38e6b7-102f-4670-875f-b327790c70e4",
+    "patient_ID": "TCGA.02.0104",
+    "bcr_followup_barcode": "TCGA-02-0104-F22407",
+    "days_to_progression": 1457,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "db38e6b7-102f-4670-875f-b327790c70e4",
+    "patient_ID": "TCGA.02.0104",
+    "bcr_followup_barcode": "TCGA-02-0104-F22407",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "d0b7d446-5488-41a2-a22a-c1e00a009482",
+    "patient_ID": "TCGA.02.0106",
+    "bcr_followup_barcode": "TCGA-02-0106-F22412",
+    "days_to_progression": 196,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "372a4cc6-8fc9-4157-9cdc-fe020b176249",
+    "patient_ID": "TCGA.02.0107",
+    "bcr_followup_barcode": "TCGA-02-0107-F22418",
+    "days_to_progression": 146,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "09ddf661-25fd-4baa-a1e8-bf90b2bb1d31",
+    "patient_ID": "TCGA.02.0111",
+    "bcr_followup_barcode": "TCGA-02-0111-F22422",
+    "days_to_progression": 74,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "b363b624-a5b0-46e4-b671-8813cc12eaf4",
+    "patient_ID": "TCGA.02.0113",
+    "bcr_followup_barcode": "TCGA-02-0113-F22426",
+    "days_to_progression": 1560,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "658c8e31-2c60-40f0-ab25-d0d0168647db",
+    "patient_ID": "TCGA.02.0114",
+    "bcr_followup_barcode": "TCGA-02-0114-F22430",
+    "days_to_progression": 2296,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "658c8e31-2c60-40f0-ab25-d0d0168647db",
+    "patient_ID": "TCGA.02.0114",
+    "bcr_followup_barcode": "TCGA-02-0114-F22430",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c9b25b65-ef41-4ffb-8b1c-a9e3a3c5cd8c",
+    "patient_ID": "TCGA.02.0115",
+    "bcr_followup_barcode": "TCGA-02-0115-F22438",
+    "days_to_progression": 91,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c9b25b65-ef41-4ffb-8b1c-a9e3a3c5cd8c",
+    "patient_ID": "TCGA.02.0115",
+    "bcr_followup_barcode": "TCGA-02-0115-F22438",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e117fe84-f003-40a4-96b5-8e26d0513151",
+    "patient_ID": "TCGA.02.0116",
+    "bcr_followup_barcode": "TCGA-02-0116-F22443",
+    "days_to_progression": 1231,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "70fc222d-7423-4921-9007-cdf27c7f1ff7",
+    "patient_ID": "TCGA.02.0258",
+    "bcr_followup_barcode": "TCGA-02-0258-F22449",
+    "days_to_progression": 503,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "3324be1b-e9b2-4c1a-96d8-84d054c0d1c3",
+    "patient_ID": "TCGA.02.0260",
+    "bcr_followup_barcode": "TCGA-02-0260-F22451",
+    "radiation": false,
+    "days_to_surgery": 379,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "ca9ad9d3-0ac6-403a-98a2-f679d0ee009e",
+    "patient_ID": "TCGA.02.0266",
+    "bcr_followup_barcode": "TCGA-02-0266-F22453",
+    "days_to_progression": 293,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "ca9ad9d3-0ac6-403a-98a2-f679d0ee009e",
+    "patient_ID": "TCGA.02.0266",
+    "bcr_followup_barcode": "TCGA-02-0266-F22453",
+    "radiation": false,
+    "days_to_surgery": 237,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "cfc44ad0-c915-43f6-ab03-e0e67b735185",
+    "patient_ID": "TCGA.02.0269",
+    "bcr_followup_barcode": "TCGA-02-0269-F22455",
+    "days_to_progression": 99,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "96fa386d-f930-45da-96ba-e7ca3f9de5b2",
+    "patient_ID": "TCGA.02.0289",
+    "bcr_followup_barcode": "TCGA-02-0289-F22463",
+    "days_to_progression": 245,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "96fa386d-f930-45da-96ba-e7ca3f9de5b2",
+    "patient_ID": "TCGA.02.0289",
+    "bcr_followup_barcode": "TCGA-02-0289-F22463",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "74a70685-d95e-45a5-b8a9-80106c8b1bd7",
+    "patient_ID": "TCGA.02.0290",
+    "bcr_followup_barcode": "TCGA-02-0290-F22469",
+    "days_to_progression": 374,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "74a70685-d95e-45a5-b8a9-80106c8b1bd7",
+    "patient_ID": "TCGA.02.0290",
+    "bcr_followup_barcode": "TCGA-02-0290-F22469",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "6879e9da-dacf-48b3-8e95-760796f96a1b",
+    "patient_ID": "TCGA.02.0317",
+    "bcr_followup_barcode": "TCGA-02-0317-F22475",
+    "days_to_progression": 238,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "05875fe7-ad0e-45e1-a880-9aece4fea3b9",
+    "patient_ID": "TCGA.02.0321",
+    "bcr_followup_barcode": "TCGA-02-0321-F22479",
+    "days_to_progression": 73,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "05875fe7-ad0e-45e1-a880-9aece4fea3b9",
+    "patient_ID": "TCGA.02.0321",
+    "bcr_followup_barcode": "TCGA-02-0321-F22479",
+    "radiation": false,
+    "days_to_surgery": 74,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "54ee59ef-faa5-4ba8-957c-968bac78426a",
+    "patient_ID": "TCGA.02.0324",
+    "bcr_followup_barcode": "TCGA-02-0324-F22481",
+    "days_to_progression": 164,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "f49b3e5a-6d40-4018-86ae-8396455d8878",
+    "patient_ID": "TCGA.02.0325",
+    "bcr_followup_barcode": "TCGA-02-0325-F22483",
+    "days_to_progression": 284,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "513925f1-c450-4ab8-a84b-9613614eaa84",
+    "patient_ID": "TCGA.02.0326",
+    "bcr_followup_barcode": "TCGA-02-0326-F22490",
+    "days_to_progression": 5,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "799bfae2-b189-43bc-a3bc-d425cd4fe556",
+    "patient_ID": "TCGA.02.0330",
+    "bcr_followup_barcode": "TCGA-02-0330-F22492",
+    "days_to_progression": 120,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "54b4c27e-aaa6-4a79-b289-0ba251a5460e",
+    "patient_ID": "TCGA.02.0332",
+    "bcr_followup_barcode": "TCGA-02-0332-F22500",
+    "days_to_progression": 438,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "107335ed-03d3-47ab-b70d-df40e66102ac",
+    "patient_ID": "TCGA.02.0333",
+    "bcr_followup_barcode": "TCGA-02-0333-F22506",
+    "days_to_progression": 4,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "19146c75-8f41-44f3-8423-7db4d0d0efe1",
+    "patient_ID": "TCGA.02.0337",
+    "bcr_followup_barcode": "TCGA-02-0337-F22508",
+    "days_to_progression": 691,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "94d1e2d5-319a-44a4-849d-9434432339ed",
+    "patient_ID": "TCGA.02.0338",
+    "bcr_followup_barcode": "TCGA-02-0338-F22514",
+    "days_to_progression": 168,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "1edfe67c-1142-4498-927c-9b7b426af7a3",
+    "patient_ID": "TCGA.02.0339",
+    "bcr_followup_barcode": "TCGA-02-0339-F22516",
+    "days_to_progression": 148,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "4dc1ec79-1d64-45db-b357-903445c838e6",
+    "patient_ID": "TCGA.02.0422",
+    "bcr_followup_barcode": "TCGA-02-0422-F22518",
+    "days_to_progression": 125,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "74b42897-e88c-45da-a3e4-3b7d22481995",
+    "patient_ID": "TCGA.02.0430",
+    "bcr_followup_barcode": "TCGA-02-0430-F22520",
+    "radiation": false,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "1e63e985-fbb7-4e43-93a5-e718d0b4ad09",
+    "patient_ID": "TCGA.02.0432",
+    "bcr_followup_barcode": "TCGA-02-0432-F22522",
+    "days_to_progression": 1053,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "1b415f4a-b103-450d-8917-e682cdf34149",
+    "patient_ID": "TCGA.02.0439",
+    "bcr_followup_barcode": "TCGA-02-0439-F22526",
+    "days_to_progression": 13,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "502f47db-7d3d-4081-ab15-1c38e7e78652",
+    "patient_ID": "TCGA.02.0440",
+    "bcr_followup_barcode": "TCGA-02-0440-F22528",
+    "days_to_progression": 212,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "a98afa02-6821-47db-8074-68ecc14b62a6",
+    "patient_ID": "TCGA.02.0446",
+    "bcr_followup_barcode": "TCGA-02-0446-F22532",
+    "days_to_progression": 15,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "a5d3714d-1b1b-480e-8ec6-f01317cdbf14",
+    "patient_ID": "TCGA.02.0451",
+    "bcr_followup_barcode": "TCGA-02-0451-F22534",
+    "days_to_progression": 428,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "a5d3714d-1b1b-480e-8ec6-f01317cdbf14",
+    "patient_ID": "TCGA.02.0451",
+    "bcr_followup_barcode": "TCGA-02-0451-F22534",
+    "radiation": false,
+    "days_to_surgery": 434,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "dfc9b5e8-0beb-4118-8990-cf999127cdb7",
+    "patient_ID": "TCGA.02.0456",
+    "bcr_followup_barcode": "TCGA-02-0456-F22536",
+    "days_to_progression": 12,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "c4171de5-8dac-44bd-a6eb-174f9451dbb7",
+    "patient_ID": "TCGA.02.2466",
+    "bcr_followup_barcode": "TCGA-02-2466-F22538",
+    "days_to_progression": 128,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c4171de5-8dac-44bd-a6eb-174f9451dbb7",
+    "patient_ID": "TCGA.02.2466",
+    "bcr_followup_barcode": "TCGA-02-2466-F22538",
+    "radiation": false,
+    "days_to_surgery": 324,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e948d951-9299-4dec-9772-60b4ac3569cb",
+    "patient_ID": "TCGA.02.2470",
+    "bcr_followup_barcode": "TCGA-02-2470-F22543",
+    "days_to_progression": 183,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e948d951-9299-4dec-9772-60b4ac3569cb",
+    "patient_ID": "TCGA.02.2470",
+    "bcr_followup_barcode": "TCGA-02-2470-F22543",
+    "radiation": false,
+    "days_to_surgery": 189,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "521ea765-1bd1-423d-a75d-091243df37a9",
+    "patient_ID": "TCGA.02.2485",
+    "bcr_followup_barcode": "TCGA-02-2485-F22553",
+    "days_to_progression": 186,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "8da3103e-3e6c-4176-a583-d5fe5e60601e",
+    "patient_ID": "TCGA.06.0125",
+    "bcr_followup_barcode": "TCGA-06-0125-F22569",
+    "days_to_progression": 797,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "8da3103e-3e6c-4176-a583-d5fe5e60601e",
+    "patient_ID": "TCGA.06.0125",
+    "bcr_followup_barcode": "TCGA-06-0125-F22569",
+    "radiation": true,
+    "days_to_surgery": 812,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f66d92ff-85ad-4c83-b127-ce34c8488040",
+    "patient_ID": "TCGA.06.0127",
+    "bcr_followup_barcode": "TCGA-06-0127-F22578",
+    "days_to_progression": 91,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "31e6e6c8-9197-4927-bfe4-8f6836f963da",
+    "patient_ID": "TCGA.06.0128",
+    "bcr_followup_barcode": "TCGA-06-0128-F22582",
+    "days_to_progression": 190,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "31e6e6c8-9197-4927-bfe4-8f6836f963da",
+    "patient_ID": "TCGA.06.0128",
+    "bcr_followup_barcode": "TCGA-06-0128-F22582",
+    "radiation": true,
+    "days_to_surgery": 670,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bde84ea9-55c9-4d6d-be86-58fd9222c1d6",
+    "patient_ID": "TCGA.06.0129",
+    "bcr_followup_barcode": "TCGA-06-0129-F22591",
+    "days_to_progression": 148,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bde84ea9-55c9-4d6d-be86-58fd9222c1d6",
+    "patient_ID": "TCGA.06.0129",
+    "bcr_followup_barcode": "TCGA-06-0129-F22591",
+    "radiation": false,
+    "days_to_surgery": 182,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7cada85b-00b1-41e5-9924-e09eb077ad56",
+    "patient_ID": "TCGA.06.0130",
+    "bcr_followup_barcode": "TCGA-06-0130-F22596",
+    "days_to_progression": 244,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7cada85b-00b1-41e5-9924-e09eb077ad56",
+    "patient_ID": "TCGA.06.0130",
+    "bcr_followup_barcode": "TCGA-06-0130-F22596",
+    "radiation": false,
+    "days_to_surgery": 270,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "9ad6c241-ccc5-4532-a6ac-098271b13b5f",
+    "patient_ID": "TCGA.06.0132",
+    "bcr_followup_barcode": "TCGA-06-0132-F22600",
+    "days_to_progression": 482,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0133e584-111e-450a-b451-77a2799ef529",
+    "patient_ID": "TCGA.06.0133",
+    "bcr_followup_barcode": "TCGA-06-0133-F22602",
+    "days_to_progression": 78,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "d0de6676-6ba1-4d79-a9b0-ec3f1e8a8775",
+    "patient_ID": "TCGA.06.0137",
+    "bcr_followup_barcode": "TCGA-06-0137-F22609",
+    "days_to_progression": 487,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "d0de6676-6ba1-4d79-a9b0-ec3f1e8a8775",
+    "patient_ID": "TCGA.06.0137",
+    "bcr_followup_barcode": "TCGA-06-0137-F22609",
+    "radiation": false,
+    "days_to_surgery": 637,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "66bd4c9e-2ebd-4092-a2b0-69027e8af5b8",
+    "patient_ID": "TCGA.06.0138",
+    "bcr_followup_barcode": "TCGA-06-0138-F22612",
+    "days_to_progression": 394,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "66bd4c9e-2ebd-4092-a2b0-69027e8af5b8",
+    "patient_ID": "TCGA.06.0138",
+    "bcr_followup_barcode": "TCGA-06-0138-F22612",
+    "radiation": true,
+    "days_to_surgery": 406,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5bbeb8a7-3ac2-4ef1-bd48-6f83bc994a75",
+    "patient_ID": "TCGA.06.0139",
+    "bcr_followup_barcode": "TCGA-06-0139-F22614",
+    "days_to_progression": 152,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "4b43da9d-60ee-4269-b44d-d92c034b844c",
+    "patient_ID": "TCGA.06.0141",
+    "bcr_followup_barcode": "TCGA-06-0141-F22618",
+    "days_to_progression": 145,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "357e2b63-6876-4c69-9728-c52fada81970",
+    "patient_ID": "TCGA.06.0143",
+    "bcr_followup_barcode": "TCGA-06-0143-F22624",
+    "days_to_progression": 265,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "357e2b63-6876-4c69-9728-c52fada81970",
+    "patient_ID": "TCGA.06.0143",
+    "bcr_followup_barcode": "TCGA-06-0143-F22624",
+    "radiation": false,
+    "days_to_surgery": 280,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "3003cbfa-98d5-464d-90a5-b1bef32bcef1",
+    "patient_ID": "TCGA.06.0146",
+    "bcr_followup_barcode": "TCGA-06-0146-F22629",
+    "days_to_progression": 530,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "3003cbfa-98d5-464d-90a5-b1bef32bcef1",
+    "patient_ID": "TCGA.06.0146",
+    "bcr_followup_barcode": "TCGA-06-0146-F22629",
+    "radiation": false,
+    "days_to_surgery": 534,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "562d2831-ea9e-4ee1-bcee-77138e0a7d9d",
+    "patient_ID": "TCGA.06.0147",
+    "bcr_followup_barcode": "TCGA-06-0147-F22634",
+    "days_to_progression": 92,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "07a2c1da-040e-44ea-9a56-751a06761894",
+    "patient_ID": "TCGA.06.0148",
+    "bcr_followup_barcode": "TCGA-06-0148-F22642",
+    "days_to_progression": 189,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "be8fa1fb-5696-4719-af16-2059f6b9d270",
+    "patient_ID": "TCGA.06.0149",
+    "bcr_followup_barcode": "TCGA-06-0149-F22645",
+    "days_to_progression": 204,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f5bc5d97-e054-4e53-992d-71b896bd97d5",
+    "patient_ID": "TCGA.06.0152",
+    "bcr_followup_barcode": "TCGA-06-0152-F22647",
+    "days_to_progression": 299,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f5bc5d97-e054-4e53-992d-71b896bd97d5",
+    "patient_ID": "TCGA.06.0152",
+    "bcr_followup_barcode": "TCGA-06-0152-F22647",
+    "radiation": false,
+    "days_to_surgery": 173,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "24ae6f30-eec8-49a7-abde-246b3873679e",
+    "patient_ID": "TCGA.06.0154",
+    "bcr_followup_barcode": "TCGA-06-0154-F22654",
+    "days_to_progression": 208,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "24ae6f30-eec8-49a7-abde-246b3873679e",
+    "patient_ID": "TCGA.06.0154",
+    "bcr_followup_barcode": "TCGA-06-0154-F22654",
+    "radiation": true,
+    "days_to_surgery": 235,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "fa1f1cfc-9da0-488b-93fe-60aaff99c171",
+    "patient_ID": "TCGA.06.0155",
+    "bcr_followup_barcode": "TCGA-06-0155-F22662",
+    "days_to_progression": 256,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "fa1f1cfc-9da0-488b-93fe-60aaff99c171",
+    "patient_ID": "TCGA.06.0155",
+    "bcr_followup_barcode": "TCGA-06-0155-F22662",
+    "radiation": false,
+    "days_to_surgery": 257,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bc316a17-9d73-4ef3-97e9-c4ac5516b75a",
+    "patient_ID": "TCGA.06.0158",
+    "bcr_followup_barcode": "TCGA-06-0158-F22676",
+    "days_to_progression": 90,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "9ad6535c-da13-4f16-9df9-2b5df9aafe8c",
+    "patient_ID": "TCGA.06.0164",
+    "bcr_followup_barcode": "TCGA-06-0164-F22684",
+    "days_to_progression": 1428,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "9ad6535c-da13-4f16-9df9-2b5df9aafe8c",
+    "patient_ID": "TCGA.06.0164",
+    "bcr_followup_barcode": "TCGA-06-0164-F22684",
+    "radiation": false,
+    "days_to_surgery": 1462,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "4a85a43b-4dbc-4081-b552-df06eef1ad80",
+    "patient_ID": "TCGA.06.0166",
+    "bcr_followup_barcode": "TCGA-06-0166-F22686",
+    "days_to_progression": 66,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "224235c1-5b6e-48d5-a5d1-777dfede0f1e",
+    "patient_ID": "TCGA.06.0168",
+    "bcr_followup_barcode": "TCGA-06-0168-F22690",
+    "days_to_progression": 461,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bcc72cf4-90ce-466e-a683-bb0ebfb3cf82",
+    "patient_ID": "TCGA.06.0169",
+    "bcr_followup_barcode": "TCGA-06-0169-F22697",
+    "days_to_progression": 92,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "01a92062-967a-4900-8dc7-a5ecd3b3f8e2",
+    "patient_ID": "TCGA.06.0171",
+    "bcr_followup_barcode": "TCGA-06-0171-F22701",
+    "days_to_progression": 117,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "01a92062-967a-4900-8dc7-a5ecd3b3f8e2",
+    "patient_ID": "TCGA.06.0171",
+    "bcr_followup_barcode": "TCGA-06-0171-F22701",
+    "radiation": false,
+    "days_to_surgery": 119,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "ee3fc631-1e88-4f70-ab31-335851b38640",
+    "patient_ID": "TCGA.06.0174",
+    "bcr_followup_barcode": "TCGA-06-0174-F22708",
+    "days_to_progression": 47,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "22297a8b-4761-4f5c-b080-60a39c3a0670",
+    "patient_ID": "TCGA.06.0175",
+    "bcr_followup_barcode": "TCGA-06-0175-F22712",
+    "days_to_progression": 39,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7391f99d-9528-46a1-9799-c5f0a7bfc63e",
+    "patient_ID": "TCGA.06.0176",
+    "bcr_followup_barcode": "TCGA-06-0176-F22716",
+    "days_to_progression": 41,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7391f99d-9528-46a1-9799-c5f0a7bfc63e",
+    "patient_ID": "TCGA.06.0176",
+    "bcr_followup_barcode": "TCGA-06-0176-F19251",
+    "days_to_progression": 41,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "53abce1d-7e33-4ebd-832f-f3789f67377f",
+    "patient_ID": "TCGA.06.0178",
+    "bcr_followup_barcode": "TCGA-06-0178-F22720",
+    "days_to_progression": 192,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "53abce1d-7e33-4ebd-832f-f3789f67377f",
+    "patient_ID": "TCGA.06.0178",
+    "bcr_followup_barcode": "TCGA-06-0178-F20890",
+    "days_to_progression": 2517,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f3158197-173b-4917-ac3b-ed3ba04a5c42",
+    "patient_ID": "TCGA.06.0179",
+    "bcr_followup_barcode": "TCGA-06-0179-F22722",
+    "days_to_progression": 250,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "1f48f010-98fe-4b5a-b96a-14fb25eff23f",
+    "patient_ID": "TCGA.06.0184",
+    "bcr_followup_barcode": "TCGA-06-0184-F19255",
+    "days_to_progression": 1276,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "8f3acbbd-b2ca-4e66-8fe5-dbb49277f35b",
+    "patient_ID": "TCGA.06.0185",
+    "bcr_followup_barcode": "TCGA-06-0185-F22728",
+    "days_to_progression": 711,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "8f3acbbd-b2ca-4e66-8fe5-dbb49277f35b",
+    "patient_ID": "TCGA.06.0185",
+    "bcr_followup_barcode": "TCGA-06-0185-F22728",
+    "radiation": false,
+    "days_to_surgery": 711,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "8f3acbbd-b2ca-4e66-8fe5-dbb49277f35b",
+    "patient_ID": "TCGA.06.0185",
+    "bcr_followup_barcode": "TCGA-06-0185-F19261",
+    "days_to_progression": 711,
+    "radiation": true,
+    "days_to_surgery": 711,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "149be735-d5db-43b6-80b7-d40e3a84500b",
+    "patient_ID": "TCGA.06.0187",
+    "bcr_followup_barcode": "TCGA-06-0187-F22730",
+    "days_to_progression": 531,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6573378a-ad14-4654-8810-9f3bd3597bc2",
+    "patient_ID": "TCGA.06.0188",
+    "bcr_followup_barcode": "TCGA-06-0188-F20854",
+    "days_to_progression": 310,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "74139255-a635-4c87-814d-3dd04ed630a8",
+    "patient_ID": "TCGA.06.0190",
+    "bcr_followup_barcode": "TCGA-06-0190-F22736",
+    "days_to_progression": 88,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "74139255-a635-4c87-814d-3dd04ed630a8",
+    "patient_ID": "TCGA.06.0190",
+    "bcr_followup_barcode": "TCGA-06-0190-F22736",
+    "radiation": false,
+    "days_to_surgery": -144,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f08280d6-2c80-4dd7-93d3-a0c55f7da5b3",
+    "patient_ID": "TCGA.06.0192",
+    "bcr_followup_barcode": "TCGA-06-0192-F20865",
+    "days_to_progression": 648,
+    "radiation": true,
+    "days_to_surgery": 670,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0383769b-f54d-4293-a9dc-88b830d775dc",
+    "patient_ID": "TCGA.06.0194",
+    "bcr_followup_barcode": "TCGA-06-0194-F22740",
+    "days_to_progression": 125,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "0383769b-f54d-4293-a9dc-88b830d775dc",
+    "patient_ID": "TCGA.06.0194",
+    "bcr_followup_barcode": "TCGA-06-0194-F22740",
+    "radiation": false,
+    "days_to_surgery": 125,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "67e2af1c-3478-4652-8759-b9d5c5b6a3e0",
+    "patient_ID": "TCGA.06.0195",
+    "bcr_followup_barcode": "TCGA-06-0195-F22742",
+    "days_to_progression": 147,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "9733968f-262f-4e97-9194-240cda8caf65",
+    "patient_ID": "TCGA.06.0197",
+    "bcr_followup_barcode": "TCGA-06-0197-F22750",
+    "days_to_progression": 47,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "4d04939f-9509-4e9b-9406-16051afecf82",
+    "patient_ID": "TCGA.06.0206",
+    "bcr_followup_barcode": "TCGA-06-0206-F22755",
+    "days_to_progression": 106,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "e3711a9b-6d4c-44df-bbab-0a675046a5df",
+    "patient_ID": "TCGA.06.0208",
+    "bcr_followup_barcode": "TCGA-06-0208-F22759",
+    "days_to_progression": 149,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "de7b7cac-f094-4d59-8651-e991e34ea093",
+    "patient_ID": "TCGA.06.0210",
+    "bcr_followup_barcode": "TCGA-06-0210-F22767",
+    "days_to_progression": 67,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "de7b7cac-f094-4d59-8651-e991e34ea093",
+    "patient_ID": "TCGA.06.0210",
+    "bcr_followup_barcode": "TCGA-06-0210-F22767",
+    "radiation": false,
+    "days_to_surgery": 67,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "5c984433-33cf-42fc-b3ba-511efcdcab19",
+    "patient_ID": "TCGA.06.0211",
+    "bcr_followup_barcode": "TCGA-06-0211-F22770",
+    "days_to_progression": 53,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5c984433-33cf-42fc-b3ba-511efcdcab19",
+    "patient_ID": "TCGA.06.0211",
+    "bcr_followup_barcode": "TCGA-06-0211-F22770",
+    "radiation": false,
+    "days_to_surgery": 53,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "9853c6bb-a42c-4698-abe5-f3c897ebc8f6",
+    "patient_ID": "TCGA.06.0214",
+    "bcr_followup_barcode": "TCGA-06-0214-F22778",
+    "days_to_progression": 48,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a8033f85-ac9b-41f3-b775-a1aee3f21b8f",
+    "patient_ID": "TCGA.06.0216",
+    "bcr_followup_barcode": "TCGA-06-0216-F22784",
+    "days_to_progression": 175,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a8033f85-ac9b-41f3-b775-a1aee3f21b8f",
+    "patient_ID": "TCGA.06.0216",
+    "bcr_followup_barcode": "TCGA-06-0216-F22784",
+    "radiation": true,
+    "days_to_surgery": 546,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "054f472f-98cb-4559-b2e2-b5f800fc8eef",
+    "patient_ID": "TCGA.06.0221",
+    "bcr_followup_barcode": "TCGA-06-0221-F22793",
+    "days_to_progression": 260,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "054f472f-98cb-4559-b2e2-b5f800fc8eef",
+    "patient_ID": "TCGA.06.0221",
+    "bcr_followup_barcode": "TCGA-06-0221-F22793",
+    "radiation": false,
+    "days_to_surgery": 280,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "eddbca7a-d668-4c5d-9843-340d7f18e30e",
+    "patient_ID": "TCGA.06.0238",
+    "bcr_followup_barcode": "TCGA-06-0238-F22806",
+    "days_to_progression": 311,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "6d4ab866-ca0b-4455-898e-df8a6ac3e924",
+    "patient_ID": "TCGA.06.0241",
+    "bcr_followup_barcode": "TCGA-06-0241-F22808",
+    "days_to_progression": 196,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6d4ab866-ca0b-4455-898e-df8a6ac3e924",
+    "patient_ID": "TCGA.06.0241",
+    "bcr_followup_barcode": "TCGA-06-0241-F20950",
+    "days_to_progression": 196,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7ffeaa19-61c5-4af1-aafd-36ec65cf4768",
+    "patient_ID": "TCGA.06.0394",
+    "bcr_followup_barcode": "TCGA-06-0394-F22810",
+    "days_to_progression": 87,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "28bf7388-f041-4ff6-ba70-4dcfa05805a3",
+    "patient_ID": "TCGA.06.0397",
+    "bcr_followup_barcode": "TCGA-06-0397-F22817",
+    "radiation": false,
+    "days_to_surgery": 20,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "6db66d6e-b44e-41fa-b904-aa61af0acf1c",
+    "patient_ID": "TCGA.06.0409",
+    "bcr_followup_barcode": "TCGA-06-0409-F22825",
+    "days_to_progression": 334,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6db66d6e-b44e-41fa-b904-aa61af0acf1c",
+    "patient_ID": "TCGA.06.0409",
+    "bcr_followup_barcode": "TCGA-06-0409-F22825",
+    "radiation": true,
+    "days_to_surgery": 1267,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "98d3ae4b-1f14-4067-ac60-7eaace5007f2",
+    "patient_ID": "TCGA.06.0412",
+    "bcr_followup_barcode": "TCGA-06-0412-F22840",
+    "days_to_progression": 130,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a9601d20-d51d-4db3-9e82-7171f5f7e034",
+    "patient_ID": "TCGA.06.0414",
+    "bcr_followup_barcode": "TCGA-06-0414-F22848",
+    "days_to_progression": 1013,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "a9601d20-d51d-4db3-9e82-7171f5f7e034",
+    "patient_ID": "TCGA.06.0414",
+    "bcr_followup_barcode": "TCGA-06-0414-F22848",
+    "radiation": false,
+    "days_to_surgery": 1055,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "652a39f0-c539-4303-bedc-f0d7f4669d9f",
+    "patient_ID": "TCGA.06.0644",
+    "bcr_followup_barcode": "TCGA-06-0644-F22853",
+    "days_to_progression": 85,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "652a39f0-c539-4303-bedc-f0d7f4669d9f",
+    "patient_ID": "TCGA.06.0644",
+    "bcr_followup_barcode": "TCGA-06-0644-F20896",
+    "days_to_progression": 85,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "ea82c1da-eada-4108-80ec-77ce891d82a7",
+    "patient_ID": "TCGA.06.0646",
+    "bcr_followup_barcode": "TCGA-06-0646-F22857",
+    "days_to_progression": 90,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ea82c1da-eada-4108-80ec-77ce891d82a7",
+    "patient_ID": "TCGA.06.0646",
+    "bcr_followup_barcode": "TCGA-06-0646-F22857",
+    "radiation": false,
+    "days_to_surgery": 103,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ef6f6553-2575-457e-bc07-401215e54759",
+    "patient_ID": "TCGA.06.0648",
+    "bcr_followup_barcode": "TCGA-06-0648-F22859",
+    "days_to_progression": 202,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "522808a2-f19d-4fab-b67e-0c31ec54b757",
+    "patient_ID": "TCGA.06.0650",
+    "bcr_followup_barcode": "TCGA-06-0650-F23088",
+    "days_to_progression": 351,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "522808a2-f19d-4fab-b67e-0c31ec54b757",
+    "patient_ID": "TCGA.06.0650",
+    "bcr_followup_barcode": "TCGA-06-0650-F23088",
+    "radiation": true,
+    "days_to_surgery": 355,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c931f3bd-74c5-4ebd-bc0f-c7c6becd25ab",
+    "patient_ID": "TCGA.06.0686",
+    "bcr_followup_barcode": "TCGA-06-0686-F22863",
+    "days_to_progression": 160,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c931f3bd-74c5-4ebd-bc0f-c7c6becd25ab",
+    "patient_ID": "TCGA.06.0686",
+    "bcr_followup_barcode": "TCGA-06-0686-F22863",
+    "radiation": false,
+    "days_to_surgery": 160,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e2e83064-7d1c-4dd5-993f-cc7a5ee228ed",
+    "patient_ID": "TCGA.06.0743",
+    "bcr_followup_barcode": "TCGA-06-0743-F22865",
+    "days_to_progression": 176,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e2e83064-7d1c-4dd5-993f-cc7a5ee228ed",
+    "patient_ID": "TCGA.06.0743",
+    "bcr_followup_barcode": "TCGA-06-0743-F29624",
+    "days_to_progression": 176,
+    "radiation": false,
+    "days_to_surgery": 755,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5613f5f6-086d-470b-8f77-6dcb7f8625b7",
+    "patient_ID": "TCGA.06.0744",
+    "bcr_followup_barcode": "TCGA-06-0744-F20885",
+    "days_to_progression": 1277,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "386b629e-fab1-4033-b088-45d6eeb4a13e",
+    "patient_ID": "TCGA.06.0745",
+    "bcr_followup_barcode": "TCGA-06-0745-F22869",
+    "days_to_progression": 92,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "98e0344d-71c6-477c-a990-0bd0277606af",
+    "patient_ID": "TCGA.06.0875",
+    "bcr_followup_barcode": "TCGA-06-0875-F22877",
+    "days_to_progression": 279,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "c5e08764-822b-4214-9ce6-f3ec2756190e",
+    "patient_ID": "TCGA.06.0876",
+    "bcr_followup_barcode": "TCGA-06-0876-F31562",
+    "days_to_progression": 424,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "98e2f2ec-bdcd-490a-bf45-600e3b6c7491",
+    "patient_ID": "TCGA.06.0878",
+    "bcr_followup_barcode": "TCGA-06-0878-F22888",
+    "days_to_progression": 66,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f9ce2045-2821-4843-b5e9-cf7cc7e783d4",
+    "patient_ID": "TCGA.06.0879",
+    "bcr_followup_barcode": "TCGA-06-0879-F22894",
+    "days_to_progression": 699,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f9ce2045-2821-4843-b5e9-cf7cc7e783d4",
+    "patient_ID": "TCGA.06.0879",
+    "bcr_followup_barcode": "TCGA-06-0879-F31541",
+    "days_to_progression": 699,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f9ce2045-2821-4843-b5e9-cf7cc7e783d4",
+    "patient_ID": "TCGA.06.0879",
+    "bcr_followup_barcode": "TCGA-06-0879-F31541",
+    "radiation": true,
+    "days_to_surgery": 984,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "1b6c184a-5868-4a51-8a82-aa16a7e65126",
+    "patient_ID": "TCGA.06.0881",
+    "bcr_followup_barcode": "TCGA-06-0881-F22899",
+    "days_to_progression": 141,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "1b6c184a-5868-4a51-8a82-aa16a7e65126",
+    "patient_ID": "TCGA.06.0881",
+    "bcr_followup_barcode": "TCGA-06-0881-F31567",
+    "days_to_progression": 141,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "2188c194-dfe4-4471-9b8b-050db1a1062c",
+    "patient_ID": "TCGA.06.0882",
+    "bcr_followup_barcode": "TCGA-06-0882-F31551",
+    "days_to_progression": 213,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "cb9f842c-9bf5-48c3-8d3e-b344b1b6c190",
+    "patient_ID": "TCGA.06.0939",
+    "bcr_followup_barcode": "TCGA-06-0939-F22909",
+    "days_to_progression": 329,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "cb9f842c-9bf5-48c3-8d3e-b344b1b6c190",
+    "patient_ID": "TCGA.06.0939",
+    "bcr_followup_barcode": "TCGA-06-0939-F18625",
+    "days_to_progression": 360,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ac3582a9-46b1-4322-95fa-9e8b149b8044",
+    "patient_ID": "TCGA.06.1084",
+    "bcr_followup_barcode": "TCGA-06-1084-F22911",
+    "days_to_progression": 208,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "ac3582a9-46b1-4322-95fa-9e8b149b8044",
+    "patient_ID": "TCGA.06.1084",
+    "bcr_followup_barcode": "TCGA-06-1084-F18620",
+    "days_to_progression": 208,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "98dd5ea6-8d40-4963-bbae-2d37001d71c8",
+    "patient_ID": "TCGA.06.1087",
+    "bcr_followup_barcode": "TCGA-06-1087-F22921",
+    "days_to_progression": 109,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b1ce95bf-7441-4aac-8131-19a177d2b8ac",
+    "patient_ID": "TCGA.06.1800",
+    "bcr_followup_barcode": "TCGA-06-1800-F22925",
+    "days_to_progression": 750,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b1ce95bf-7441-4aac-8131-19a177d2b8ac",
+    "patient_ID": "TCGA.06.1800",
+    "bcr_followup_barcode": "TCGA-06-1800-F22925",
+    "radiation": false,
+    "days_to_surgery": 750,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "bdc75722-1076-49f3-8dc7-f2b91e5a15eb",
+    "patient_ID": "TCGA.06.1801",
+    "bcr_followup_barcode": "TCGA-06-1801-F22929",
+    "days_to_progression": 232,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bdc75722-1076-49f3-8dc7-f2b91e5a15eb",
+    "patient_ID": "TCGA.06.1801",
+    "bcr_followup_barcode": "TCGA-06-1801-F18582",
+    "days_to_progression": 232,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "13d12179-3182-4f41-85a2-90fd50e51480",
+    "patient_ID": "TCGA.06.1802",
+    "bcr_followup_barcode": "TCGA-06-1802-F22931",
+    "days_to_progression": 81,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "13d12179-3182-4f41-85a2-90fd50e51480",
+    "patient_ID": "TCGA.06.1802",
+    "bcr_followup_barcode": "TCGA-06-1802-F18612",
+    "days_to_progression": 81,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "d6a48eb1-7c20-4ae3-ae35-b6b641238ef1",
+    "patient_ID": "TCGA.06.2561",
+    "bcr_followup_barcode": "TCGA-06-2561-F22946",
+    "days_to_progression": 78,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "d6a48eb1-7c20-4ae3-ae35-b6b641238ef1",
+    "patient_ID": "TCGA.06.2561",
+    "bcr_followup_barcode": "TCGA-06-2561-F22946",
+    "radiation": false,
+    "days_to_surgery": 91,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "d6a48eb1-7c20-4ae3-ae35-b6b641238ef1",
+    "patient_ID": "TCGA.06.2561",
+    "bcr_followup_barcode": "TCGA-06-2561-F29202",
+    "days_to_progression": 78,
+    "radiation": true,
+    "days_to_surgery": 91,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e3251837-f6f3-4dad-856f-108e20d03dad",
+    "patient_ID": "TCGA.06.2562",
+    "bcr_followup_barcode": "TCGA-06-2562-F22953",
+    "days_to_progression": 151,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ba383ea6-c885-49f0-bddc-e00be0230a6b",
+    "patient_ID": "TCGA.06.2563",
+    "bcr_followup_barcode": "TCGA-06-2563-F29198",
+    "days_to_progression": 554,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c7b4fd72-b45d-4524-8424-983120abfec0",
+    "patient_ID": "TCGA.06.2565",
+    "bcr_followup_barcode": "TCGA-06-2565-F22965",
+    "days_to_progression": 178,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c7b4fd72-b45d-4524-8424-983120abfec0",
+    "patient_ID": "TCGA.06.2565",
+    "bcr_followup_barcode": "TCGA-06-2565-F31566",
+    "days_to_progression": 178,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "af055b98-be6a-4012-ac64-f1b6539b23d0",
+    "patient_ID": "TCGA.06.5408",
+    "bcr_followup_barcode": "TCGA-06-5408-F22991",
+    "days_to_progression": 158,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "3f960d3b-a58c-43d0-a8a4-f3555b399c9d",
+    "patient_ID": "TCGA.06.5411",
+    "bcr_followup_barcode": "TCGA-06-5411-F22999",
+    "days_to_progression": 214,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e6e2d4c3-d37c-4de3-ac68-b301800770f0",
+    "patient_ID": "TCGA.06.5412",
+    "bcr_followup_barcode": "TCGA-06-5412-F23005",
+    "days_to_progression": 88,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "8d2e88d9-d8d0-4c42-8aa2-205a788dea58",
+    "patient_ID": "TCGA.06.5413",
+    "bcr_followup_barcode": "TCGA-06-5413-F23010",
+    "days_to_progression": 195,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7a650a2c-bc3f-4e0c-820e-4f492977107b",
+    "patient_ID": "TCGA.06.5414",
+    "bcr_followup_barcode": "TCGA-06-5414-F23015",
+    "days_to_progression": 167,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7a650a2c-bc3f-4e0c-820e-4f492977107b",
+    "patient_ID": "TCGA.06.5414",
+    "bcr_followup_barcode": "TCGA-06-5414-F23015",
+    "radiation": false,
+    "days_to_surgery": 270,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "d1547b99-3c96-4c62-8261-5111bcf860a9",
+    "patient_ID": "TCGA.06.5858",
+    "bcr_followup_barcode": "TCGA-06-5858-F23036",
+    "days_to_progression": 97,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7eb1d526-923d-4b31-b8be-27d83b3dd025",
+    "patient_ID": "TCGA.06.6388",
+    "bcr_followup_barcode": "TCGA-06-6388-F23048",
+    "days_to_progression": 85,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0628cb4a-c480-4b2f-bd2e-bb33e6994302",
+    "patient_ID": "TCGA.06.6695",
+    "bcr_followup_barcode": "TCGA-06-6695-F23057",
+    "days_to_progression": 133,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b28b3575-8097-4a97-b32a-5f0eeff64863",
+    "patient_ID": "TCGA.06.6697",
+    "bcr_followup_barcode": "TCGA-06-6697-F23062",
+    "days_to_progression": 306,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "603D2B61-B636-4054-AC95-AB66DABB3B48",
+    "patient_ID": "TCGA.06.A5U0",
+    "bcr_followup_barcode": "TCGA-06-A5U0-F71293",
+    "days_to_progression": 100,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "603D2B61-B636-4054-AC95-AB66DABB3B48",
+    "patient_ID": "TCGA.06.A5U0",
+    "bcr_followup_barcode": "TCGA-06-A5U0-F71293",
+    "days_to_progression": 100,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "603D2B61-B636-4054-AC95-AB66DABB3B48",
+    "patient_ID": "TCGA.06.A5U0",
+    "bcr_followup_barcode": "TCGA-06-A5U0-F71293",
+    "days_to_progression": 100,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "41685C5A-A548-483A-8A20-305AD8D61771",
+    "patient_ID": "TCGA.06.A7TK",
+    "bcr_followup_barcode": "TCGA-06-A7TK-F71298",
+    "days_to_progression": 342,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "41685C5A-A548-483A-8A20-305AD8D61771",
+    "patient_ID": "TCGA.06.A7TK",
+    "bcr_followup_barcode": "TCGA-06-A7TK-F71298",
+    "days_to_progression": 342,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "41685C5A-A548-483A-8A20-305AD8D61771",
+    "patient_ID": "TCGA.06.A7TK",
+    "bcr_followup_barcode": "TCGA-06-A7TK-F71298",
+    "days_to_progression": 342,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0CA72EBD-FF33-45B8-A97C-3F1435603D71",
+    "patient_ID": "TCGA.06.A7TL",
+    "bcr_followup_barcode": "TCGA-06-A7TL-F71295",
+    "days_to_progression": 188,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0CA72EBD-FF33-45B8-A97C-3F1435603D71",
+    "patient_ID": "TCGA.06.A7TL",
+    "bcr_followup_barcode": "TCGA-06-A7TL-F71295",
+    "days_to_progression": 188,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "1af5c959-0f36-4a14-8383-ebc0543db3bb",
+    "patient_ID": "TCGA.08.0244",
+    "bcr_followup_barcode": "TCGA-08-0244-F23117",
+    "days_to_progression": 484,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "1af5c959-0f36-4a14-8383-ebc0543db3bb",
+    "patient_ID": "TCGA.08.0244",
+    "bcr_followup_barcode": "TCGA-08-0244-F23117",
+    "days_to_surgery": 516,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "e6dee2d7-ca05-44e2-bf25-1068a416bd14",
+    "patient_ID": "TCGA.08.0245",
+    "bcr_followup_barcode": "TCGA-08-0245-F23122",
+    "days_to_progression": 463,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "66d2e309-eaa1-4225-a34d-4565b4ef8019",
+    "patient_ID": "TCGA.08.0246",
+    "bcr_followup_barcode": "TCGA-08-0246-F23131",
+    "days_to_progression": 103,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "bef21d11-f743-4d9d-8cba-fb5cd24b6927",
+    "patient_ID": "TCGA.08.0344",
+    "bcr_followup_barcode": "TCGA-08-0344-F23135",
+    "days_to_progression": 1880,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bef21d11-f743-4d9d-8cba-fb5cd24b6927",
+    "patient_ID": "TCGA.08.0344",
+    "bcr_followup_barcode": "TCGA-08-0344-F23135",
+    "radiation": true,
+    "days_to_surgery": 1936,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5536201c-e739-46e6-8200-0bdcc28ae9ef",
+    "patient_ID": "TCGA.08.0346",
+    "bcr_followup_barcode": "TCGA-08-0346-F23144",
+    "days_to_progression": 75,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "5536201c-e739-46e6-8200-0bdcc28ae9ef",
+    "patient_ID": "TCGA.08.0346",
+    "bcr_followup_barcode": "TCGA-08-0346-F23144",
+    "radiation": false,
+    "days_to_surgery": 130,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "dbb601ed-e39c-48a6-aa00-645f740fc6e2",
+    "patient_ID": "TCGA.08.0347",
+    "bcr_followup_barcode": "TCGA-08-0347-F23148",
+    "days_to_progression": 59,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "dbb601ed-e39c-48a6-aa00-645f740fc6e2",
+    "patient_ID": "TCGA.08.0347",
+    "bcr_followup_barcode": "TCGA-08-0347-F23148",
+    "radiation": true,
+    "days_to_surgery": 472,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e1aabb11-f499-445e-a6fd-59a32b3c3531",
+    "patient_ID": "TCGA.08.0348",
+    "bcr_followup_barcode": "TCGA-08-0348-F23157",
+    "days_to_progression": 198,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0645038d-8abe-4a79-8695-bf8824d33f67",
+    "patient_ID": "TCGA.08.0349",
+    "bcr_followup_barcode": "TCGA-08-0349-F23165",
+    "days_to_progression": 93,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "dc624b20-2854-4235-ae7e-672156ee30e3",
+    "patient_ID": "TCGA.08.0350",
+    "bcr_followup_barcode": "TCGA-08-0350-F23172",
+    "days_to_progression": 439,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "91063e7e-60db-47a5-aeca-af7c37b1074e",
+    "patient_ID": "TCGA.08.0351",
+    "bcr_followup_barcode": "TCGA-08-0351-F23178",
+    "days_to_progression": 1542,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "91063e7e-60db-47a5-aeca-af7c37b1074e",
+    "patient_ID": "TCGA.08.0351",
+    "bcr_followup_barcode": "TCGA-08-0351-F23178",
+    "radiation": false,
+    "days_to_surgery": 1560,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "872cb8e8-cd79-4c0b-9b54-5553b07a6ca6",
+    "patient_ID": "TCGA.08.0353",
+    "bcr_followup_barcode": "TCGA-08-0353-F23187",
+    "days_to_progression": 164,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "a23511df-ed31-4f3f-9fe5-87a3621c0de9",
+    "patient_ID": "TCGA.08.0354",
+    "bcr_followup_barcode": "TCGA-08-0354-F23193",
+    "days_to_progression": 253,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bb8230b5-f984-4d28-9f10-b3c89bab1c28",
+    "patient_ID": "TCGA.08.0355",
+    "bcr_followup_barcode": "TCGA-08-0355-F23201",
+    "days_to_progression": 519,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bb8230b5-f984-4d28-9f10-b3c89bab1c28",
+    "patient_ID": "TCGA.08.0355",
+    "bcr_followup_barcode": "TCGA-08-0355-F23201",
+    "radiation": false,
+    "days_to_surgery": 615,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f7532982-524f-4ed5-9e0d-50d3a7d72c3c",
+    "patient_ID": "TCGA.08.0356",
+    "bcr_followup_barcode": "TCGA-08-0356-F23211",
+    "days_to_progression": 447,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "548c3d4c-7993-40dc-bd02-5bb304188d28",
+    "patient_ID": "TCGA.08.0357",
+    "bcr_followup_barcode": "TCGA-08-0357-F23216",
+    "days_to_progression": 155,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "548c3d4c-7993-40dc-bd02-5bb304188d28",
+    "patient_ID": "TCGA.08.0357",
+    "bcr_followup_barcode": "TCGA-08-0357-F23216",
+    "radiation": false,
+    "days_to_surgery": 180,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "ec504558-e96a-44e9-835a-7b12680681ed",
+    "patient_ID": "TCGA.08.0358",
+    "bcr_followup_barcode": "TCGA-08-0358-F23234",
+    "days_to_progression": 264,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "ec504558-e96a-44e9-835a-7b12680681ed",
+    "patient_ID": "TCGA.08.0358",
+    "bcr_followup_barcode": "TCGA-08-0358-F23234",
+    "radiation": false,
+    "days_to_surgery": 286,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6d6dae20-431d-4fbe-ba47-e7ed8d73b4d8",
+    "patient_ID": "TCGA.08.0360",
+    "bcr_followup_barcode": "TCGA-08-0360-F23246",
+    "days_to_progression": 112,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6d6dae20-431d-4fbe-ba47-e7ed8d73b4d8",
+    "patient_ID": "TCGA.08.0360",
+    "bcr_followup_barcode": "TCGA-08-0360-F23246",
+    "radiation": false,
+    "days_to_surgery": 127,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0ce23e2c-8e64-4391-8148-de823bce0d5f",
+    "patient_ID": "TCGA.08.0375",
+    "bcr_followup_barcode": "TCGA-08-0375-F23251",
+    "days_to_progression": 161,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "6fc40b53-5db2-4319-a039-b023e1bb1d64",
+    "patient_ID": "TCGA.08.0380",
+    "bcr_followup_barcode": "TCGA-08-0380-F23255",
+    "days_to_progression": 151,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "314d9188-c8fd-43fc-905d-b6889de542c8",
+    "patient_ID": "TCGA.08.0386",
+    "bcr_followup_barcode": "TCGA-08-0386-F23265",
+    "days_to_progression": 427,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "314d9188-c8fd-43fc-905d-b6889de542c8",
+    "patient_ID": "TCGA.08.0386",
+    "bcr_followup_barcode": "TCGA-08-0386-F23265",
+    "radiation": false,
+    "days_to_surgery": 442,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "06e32525-6043-45a1-9fef-fa24ab219a1f",
+    "patient_ID": "TCGA.08.0510",
+    "bcr_followup_barcode": "TCGA-08-0510-F23288",
+    "days_to_progression": 90,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7772b164-bd95-4dcd-981b-26158a31d67c",
+    "patient_ID": "TCGA.08.0512",
+    "bcr_followup_barcode": "TCGA-08-0512-F23297",
+    "days_to_progression": 231,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b0ebaa85-476c-4f44-8b23-5bab107454a9",
+    "patient_ID": "TCGA.08.0516",
+    "bcr_followup_barcode": "TCGA-08-0516-F23303",
+    "days_to_progression": 40,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "b0ebaa85-476c-4f44-8b23-5bab107454a9",
+    "patient_ID": "TCGA.08.0516",
+    "bcr_followup_barcode": "TCGA-08-0516-F23303",
+    "radiation": true,
+    "days_to_surgery": 171,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "9773acd0-e8bf-4991-8913-53f0d2adfc72",
+    "patient_ID": "TCGA.08.0517",
+    "bcr_followup_barcode": "TCGA-08-0517-F23307",
+    "days_to_progression": 1024,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "9773acd0-e8bf-4991-8913-53f0d2adfc72",
+    "patient_ID": "TCGA.08.0517",
+    "bcr_followup_barcode": "TCGA-08-0517-F23307",
+    "radiation": false,
+    "days_to_surgery": 1049,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "64fa7f09-724a-45ee-a802-09e4affe077e",
+    "patient_ID": "TCGA.08.0518",
+    "bcr_followup_barcode": "TCGA-08-0518-F23312",
+    "days_to_progression": 134,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "e924d7c6-c98f-4469-8089-70e4ac3ca306",
+    "patient_ID": "TCGA.08.0520",
+    "bcr_followup_barcode": "TCGA-08-0520-F23315",
+    "days_to_progression": 105,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "b2a01580-d18f-40b5-875b-93e9c000b0e1",
+    "patient_ID": "TCGA.08.0521",
+    "bcr_followup_barcode": "TCGA-08-0521-F23320",
+    "days_to_progression": 125,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b2a01580-d18f-40b5-875b-93e9c000b0e1",
+    "patient_ID": "TCGA.08.0521",
+    "bcr_followup_barcode": "TCGA-08-0521-F23320",
+    "radiation": false,
+    "days_to_surgery": 125,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b2a01580-d18f-40b5-875b-93e9c000b0e1",
+    "patient_ID": "TCGA.08.0521",
+    "bcr_followup_barcode": "TCGA-08-0521-F23320",
+    "radiation": false,
+    "days_to_surgery": 142,
+    "new_tumor": "METASTATIC",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "51e5a60f-e7b1-4b8b-b0b1-447c28940fe6",
+    "patient_ID": "TCGA.08.0522",
+    "bcr_followup_barcode": "TCGA-08-0522-F23325",
+    "days_to_progression": 266,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "51e5a60f-e7b1-4b8b-b0b1-447c28940fe6",
+    "patient_ID": "TCGA.08.0522",
+    "bcr_followup_barcode": "TCGA-08-0522-F23325",
+    "radiation": false,
+    "days_to_surgery": 266,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "ea8b757b-3d33-47e1-8657-503cf69939bb",
+    "patient_ID": "TCGA.08.0524",
+    "bcr_followup_barcode": "TCGA-08-0524-F23333",
+    "days_to_progression": 61,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "1b042663-dcb1-4fc9-b813-7b90cc2eb392",
+    "patient_ID": "TCGA.08.0525",
+    "bcr_followup_barcode": "TCGA-08-0525-F23341",
+    "days_to_progression": 343,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "1b042663-dcb1-4fc9-b813-7b90cc2eb392",
+    "patient_ID": "TCGA.08.0525",
+    "bcr_followup_barcode": "TCGA-08-0525-F23341",
+    "radiation": false,
+    "days_to_surgery": 438,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "aaa7d45b-ce3c-4099-ab4a-377e3aee9f96",
+    "patient_ID": "TCGA.08.0529",
+    "bcr_followup_barcode": "TCGA-08-0529-F23347",
+    "days_to_progression": 328,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "aaa7d45b-ce3c-4099-ab4a-377e3aee9f96",
+    "patient_ID": "TCGA.08.0529",
+    "bcr_followup_barcode": "TCGA-08-0529-F23347",
+    "radiation": false,
+    "days_to_surgery": 343,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "141a1ef1-9be6-46d1-b445-305b222727d2",
+    "patient_ID": "TCGA.12.0615",
+    "bcr_followup_barcode": "TCGA-12-0615-F23452",
+    "days_to_progression": 160,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "edcfac32-adb4-4fe7-86a0-309d3c6430e5",
+    "patient_ID": "TCGA.12.0616",
+    "bcr_followup_barcode": "TCGA-12-0616-F23461",
+    "days_to_progression": 398,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0389b35b-651b-4776-b12a-d315a100f47c",
+    "patient_ID": "TCGA.12.0619",
+    "bcr_followup_barcode": "TCGA-12-0619-F23477",
+    "days_to_progression": 203,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a7b55dae-c9b8-45c6-986f-fb1055f1c67b",
+    "patient_ID": "TCGA.12.0653",
+    "bcr_followup_barcode": "TCGA-12-0653-F33741",
+    "days_to_progression": 267,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e67edc2e-5de7-4d3c-ba47-e8558a0b9f5a",
+    "patient_ID": "TCGA.12.0654",
+    "bcr_followup_barcode": "TCGA-12-0654-F23492",
+    "days_to_progression": 216,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c4ff28e5-9de7-43df-89a2-6832b8a0c00b",
+    "patient_ID": "TCGA.12.0656",
+    "bcr_followup_barcode": "TCGA-12-0656-F23497",
+    "days_to_progression": 1467,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c4ff28e5-9de7-43df-89a2-6832b8a0c00b",
+    "patient_ID": "TCGA.12.0656",
+    "bcr_followup_barcode": "TCGA-12-0656-F23497",
+    "radiation": false,
+    "days_to_surgery": 1467,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a3cc2845-8a44-4b50-8a3e-17a3c2c3e077",
+    "patient_ID": "TCGA.12.0662",
+    "bcr_followup_barcode": "TCGA-12-0662-F23511",
+    "days_to_progression": 600,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a3cc2845-8a44-4b50-8a3e-17a3c2c3e077",
+    "patient_ID": "TCGA.12.0662",
+    "bcr_followup_barcode": "TCGA-12-0662-F23511",
+    "radiation": false,
+    "days_to_surgery": 858,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f7dd387f-eca9-4028-b296-2ca6d56d3bde",
+    "patient_ID": "TCGA.12.0670",
+    "bcr_followup_barcode": "TCGA-12-0670-F23531",
+    "days_to_progression": 379,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f7dd387f-eca9-4028-b296-2ca6d56d3bde",
+    "patient_ID": "TCGA.12.0670",
+    "bcr_followup_barcode": "TCGA-12-0670-F23531",
+    "radiation": false,
+    "days_to_surgery": 744,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "65a48904-9532-4dfb-8e84-4deef1881197",
+    "patient_ID": "TCGA.12.0688",
+    "bcr_followup_barcode": "TCGA-12-0688-F23555",
+    "days_to_progression": 228,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bb0aca6b-55ab-4b24-8e64-29e0c96a9862",
+    "patient_ID": "TCGA.12.0691",
+    "bcr_followup_barcode": "TCGA-12-0691-F23565",
+    "days_to_progression": 98,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bb0aca6b-55ab-4b24-8e64-29e0c96a9862",
+    "patient_ID": "TCGA.12.0691",
+    "bcr_followup_barcode": "TCGA-12-0691-F23565",
+    "radiation": false,
+    "days_to_surgery": 20,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "24164e89-16ae-48c1-a464-9be94141deef",
+    "patient_ID": "TCGA.12.0692",
+    "bcr_followup_barcode": "TCGA-12-0692-F23570",
+    "days_to_progression": 35,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "0a85c7b4-f07d-4727-b9d2-7b14c52edabb",
+    "patient_ID": "TCGA.12.0703",
+    "bcr_followup_barcode": "TCGA-12-0703-F23573",
+    "days_to_progression": 208,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "29b34909-9cdc-4a52-b0ab-fa99f3ab17bb",
+    "patient_ID": "TCGA.12.0769",
+    "bcr_followup_barcode": "TCGA-12-0769-F23582",
+    "days_to_progression": 378,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "3726b315-6cf8-49a3-a581-b7f3f4ca6e16",
+    "patient_ID": "TCGA.12.0772",
+    "bcr_followup_barcode": "TCGA-12-0772-F23589",
+    "days_to_progression": 607,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "3726b315-6cf8-49a3-a581-b7f3f4ca6e16",
+    "patient_ID": "TCGA.12.0772",
+    "bcr_followup_barcode": "TCGA-12-0772-F23589",
+    "radiation": true,
+    "days_to_surgery": 29,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "df4168bd-9f94-4323-9c33-a446a9fae999",
+    "patient_ID": "TCGA.12.0773",
+    "bcr_followup_barcode": "TCGA-12-0773-F23607",
+    "days_to_progression": 725,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "df4168bd-9f94-4323-9c33-a446a9fae999",
+    "patient_ID": "TCGA.12.0773",
+    "bcr_followup_barcode": "TCGA-12-0773-F23607",
+    "radiation": false,
+    "days_to_surgery": 748,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7751fc13-ec33-4057-965d-3b2ac6183344",
+    "patient_ID": "TCGA.12.0775",
+    "bcr_followup_barcode": "TCGA-12-0775-F23626",
+    "days_to_progression": 94,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c1a00516-091c-480b-991e-7db4e0a30aea",
+    "patient_ID": "TCGA.12.0776",
+    "bcr_followup_barcode": "TCGA-12-0776-F23631",
+    "days_to_progression": 127,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "db5ea0e6-4cac-4f18-8643-32afb1e0287d",
+    "patient_ID": "TCGA.12.0778",
+    "bcr_followup_barcode": "TCGA-12-0778-F23638",
+    "days_to_progression": 232,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "120e257d-1cf1-421f-9a6b-6a5681eaea2e",
+    "patient_ID": "TCGA.12.0780",
+    "bcr_followup_barcode": "TCGA-12-0780-F23654",
+    "days_to_progression": 91,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e57b296a-80e9-4446-a3d1-3dbfeaf04f5e",
+    "patient_ID": "TCGA.12.0818",
+    "bcr_followup_barcode": "TCGA-12-0818-F23664",
+    "radiation": false,
+    "days_to_surgery": 1643,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "025a7401-a65d-4ea0-8b4e-0ba775b0322a",
+    "patient_ID": "TCGA.12.0819",
+    "bcr_followup_barcode": "TCGA-12-0819-F23673",
+    "days_to_progression": 428,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "ca261ec9-888b-47c8-8e71-5a22545d7161",
+    "patient_ID": "TCGA.12.0820",
+    "bcr_followup_barcode": "TCGA-12-0820-F23683",
+    "days_to_progression": 272,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "eae44c1c-1628-4b58-8b90-d3372e3577d5",
+    "patient_ID": "TCGA.12.0821",
+    "bcr_followup_barcode": "TCGA-12-0821-F23695",
+    "days_to_progression": 259,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "151ca826-a4d7-42eb-8684-f9fe7b93543f",
+    "patient_ID": "TCGA.12.0822",
+    "bcr_followup_barcode": "TCGA-12-0822-F23701",
+    "days_to_progression": 91,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "151ca826-a4d7-42eb-8684-f9fe7b93543f",
+    "patient_ID": "TCGA.12.0822",
+    "bcr_followup_barcode": "TCGA-12-0822-F23701",
+    "radiation": false,
+    "days_to_surgery": 112,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "b75845ed-a19a-4caa-b362-e62b1e538152",
+    "patient_ID": "TCGA.12.0827",
+    "bcr_followup_barcode": "TCGA-12-0827-F23714",
+    "radiation": false,
+    "days_to_surgery": 452,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "dae7e5c3-0b17-419c-a5fc-3bb271222bce",
+    "patient_ID": "TCGA.12.0828",
+    "bcr_followup_barcode": "TCGA-12-0828-F23726",
+    "days_to_progression": 13,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "dae7e5c3-0b17-419c-a5fc-3bb271222bce",
+    "patient_ID": "TCGA.12.0828",
+    "bcr_followup_barcode": "TCGA-12-0828-F23726",
+    "radiation": false,
+    "days_to_surgery": 13,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "97094aed-69f7-4f4e-a87e-533979e11514",
+    "patient_ID": "TCGA.12.0829",
+    "bcr_followup_barcode": "TCGA-12-0829-F23730",
+    "days_to_progression": 473,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "97094aed-69f7-4f4e-a87e-533979e11514",
+    "patient_ID": "TCGA.12.0829",
+    "bcr_followup_barcode": "TCGA-12-0829-F23730",
+    "radiation": false,
+    "days_to_surgery": 467,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f8a5b835-b00b-421e-bdf5-9adb4ee84730",
+    "patient_ID": "TCGA.12.1091",
+    "bcr_followup_barcode": "TCGA-12-1091-F23373",
+    "days_to_progression": 56,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f8a5b835-b00b-421e-bdf5-9adb4ee84730",
+    "patient_ID": "TCGA.12.1091",
+    "bcr_followup_barcode": "TCGA-12-1091-F23373",
+    "radiation": true,
+    "days_to_surgery": 812,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "4c070166-025e-49b7-b4d0-fe25c8a355b1",
+    "patient_ID": "TCGA.12.1092",
+    "bcr_followup_barcode": "TCGA-12-1092-F23390",
+    "days_to_progression": 637,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "77d4d3ef-3fe0-4f93-a863-b5840926576c",
+    "patient_ID": "TCGA.12.1093",
+    "bcr_followup_barcode": "TCGA-12-1093-F23402",
+    "days_to_progression": 322,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "77d4d3ef-3fe0-4f93-a863-b5840926576c",
+    "patient_ID": "TCGA.12.1093",
+    "bcr_followup_barcode": "TCGA-12-1093-F23402",
+    "radiation": false,
+    "days_to_surgery": 322,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "dca3a016-5e89-4850-80bf-e78dc19a2453",
+    "patient_ID": "TCGA.12.1094",
+    "bcr_followup_barcode": "TCGA-12-1094-F23410",
+    "days_to_progression": 186,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "dca3a016-5e89-4850-80bf-e78dc19a2453",
+    "patient_ID": "TCGA.12.1094",
+    "bcr_followup_barcode": "TCGA-12-1094-F23410",
+    "radiation": false,
+    "days_to_surgery": 223,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "82a3f532-ae59-4d06-9bfc-e5e7519c0a33",
+    "patient_ID": "TCGA.12.1095",
+    "bcr_followup_barcode": "TCGA-12-1095-F23419",
+    "days_to_progression": 96,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "b02aa13e-7fd9-40ba-9083-cbf7d4bfc948",
+    "patient_ID": "TCGA.12.1096",
+    "bcr_followup_barcode": "TCGA-12-1096-F23428",
+    "days_to_progression": 270,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f7106bb6-332a-4542-bc08-59bba48f4b04",
+    "patient_ID": "TCGA.12.1097",
+    "bcr_followup_barcode": "TCGA-12-1097-F23435",
+    "days_to_progression": 166,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a05c4aca-5b7c-452a-a92c-f252539f9e9a",
+    "patient_ID": "TCGA.12.1098",
+    "bcr_followup_barcode": "TCGA-12-1098-F23443",
+    "days_to_progression": 93,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "0d04d215-b709-40dd-9d18-d470cfb5bafd",
+    "patient_ID": "TCGA.12.1099",
+    "bcr_followup_barcode": "TCGA-12-1099-F23447",
+    "days_to_progression": 62,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "2b82e941-1b16-444e-af41-24dbc0a7e8b5",
+    "patient_ID": "TCGA.12.1597",
+    "bcr_followup_barcode": "TCGA-12-1597-F23740",
+    "days_to_progression": 180,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "165b8f99-f7ba-4553-96ed-235e3f77e19c",
+    "patient_ID": "TCGA.12.1599",
+    "bcr_followup_barcode": "TCGA-12-1599-F23754",
+    "days_to_progression": 89,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "12b67dc2-5e4c-48eb-92ba-8d91d2eadfe2",
+    "patient_ID": "TCGA.12.1600",
+    "bcr_followup_barcode": "TCGA-12-1600-F23770",
+    "days_to_progression": 404,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "8ac5b22f-3925-47a9-8d09-d819c2e191e5",
+    "patient_ID": "TCGA.12.1602",
+    "bcr_followup_barcode": "TCGA-12-1602-F23775",
+    "days_to_progression": 140,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f6c6e2c9-a3d6-4b81-a421-04ffef6b8744",
+    "patient_ID": "TCGA.12.3644",
+    "bcr_followup_barcode": "TCGA-12-3644-F23780",
+    "days_to_progression": 1142,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f6c6e2c9-a3d6-4b81-a421-04ffef6b8744",
+    "patient_ID": "TCGA.12.3644",
+    "bcr_followup_barcode": "TCGA-12-3644-F23780",
+    "radiation": true,
+    "days_to_surgery": 857,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e8e43a65-4ec8-4e07-a884-a6989eec28cc",
+    "patient_ID": "TCGA.12.3646",
+    "bcr_followup_barcode": "TCGA-12-3646-F23812",
+    "days_to_progression": 1315,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e8e43a65-4ec8-4e07-a884-a6989eec28cc",
+    "patient_ID": "TCGA.12.3646",
+    "bcr_followup_barcode": "TCGA-12-3646-F23812",
+    "radiation": true,
+    "days_to_surgery": 1007,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "407849a8-8447-4ede-a9d1-c1dfb535222e",
+    "patient_ID": "TCGA.12.3648",
+    "bcr_followup_barcode": "TCGA-12-3648-F23823",
+    "days_to_progression": 86,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "407849a8-8447-4ede-a9d1-c1dfb535222e",
+    "patient_ID": "TCGA.12.3648",
+    "bcr_followup_barcode": "TCGA-12-3648-F23823",
+    "radiation": true,
+    "days_to_surgery": 467,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "93737759-b088-4d64-adfe-c2d5ec715341",
+    "patient_ID": "TCGA.12.3649",
+    "bcr_followup_barcode": "TCGA-12-3649-F23834",
+    "days_to_progression": 351,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "5ef9486a-aeff-421d-b620-03ef119d85a5",
+    "patient_ID": "TCGA.12.3650",
+    "bcr_followup_barcode": "TCGA-12-3650-F23844",
+    "days_to_progression": 239,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "d540d6d2-266c-48f9-8e73-304389b2060b",
+    "patient_ID": "TCGA.12.3651",
+    "bcr_followup_barcode": "TCGA-12-3651-F23859",
+    "days_to_progression": 358,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "159e0318-6173-440f-be07-8d956086e99d",
+    "patient_ID": "TCGA.12.3652",
+    "bcr_followup_barcode": "TCGA-12-3652-F23868",
+    "days_to_progression": 203,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "2f61ea6b-a3f2-477f-ab98-47ed07b3b2cd",
+    "patient_ID": "TCGA.12.3653",
+    "bcr_followup_barcode": "TCGA-12-3653-F23881",
+    "days_to_progression": 224,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "2f61ea6b-a3f2-477f-ab98-47ed07b3b2cd",
+    "patient_ID": "TCGA.12.3653",
+    "bcr_followup_barcode": "TCGA-12-3653-F23881",
+    "radiation": false,
+    "days_to_surgery": 232,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c970240f-03e2-4395-85be-5eb81a69b710",
+    "patient_ID": "TCGA.12.5295",
+    "bcr_followup_barcode": "TCGA-12-5295-F23890",
+    "days_to_progression": 399,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "cdfcf14d-ed6c-419f-88f5-e7dee96fcaf6",
+    "patient_ID": "TCGA.14.0736",
+    "bcr_followup_barcode": "TCGA-14-0736-F25026",
+    "days_to_progression": 128,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "cdfcf14d-ed6c-419f-88f5-e7dee96fcaf6",
+    "patient_ID": "TCGA.14.0736",
+    "bcr_followup_barcode": "TCGA-14-0736-F25026",
+    "radiation": false,
+    "days_to_surgery": 207,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "12824b2b-9c0a-4dcf-8941-34593a4e93da",
+    "patient_ID": "TCGA.14.0786",
+    "bcr_followup_barcode": "TCGA-14-0786-F25041",
+    "days_to_progression": 127,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7cbabf1d-ec38-4048-ae1c-7d0f3001691b",
+    "patient_ID": "TCGA.14.0789",
+    "bcr_followup_barcode": "TCGA-14-0789-F25061",
+    "days_to_progression": 105,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7cbabf1d-ec38-4048-ae1c-7d0f3001691b",
+    "patient_ID": "TCGA.14.0789",
+    "bcr_followup_barcode": "TCGA-14-0789-F25061",
+    "radiation": false,
+    "days_to_surgery": 118,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7d5c3699-ce28-4129-8391-736f670e8beb",
+    "patient_ID": "TCGA.14.0865",
+    "bcr_followup_barcode": "TCGA-14-0865-F25084",
+    "days_to_progression": 215,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7d5c3699-ce28-4129-8391-736f670e8beb",
+    "patient_ID": "TCGA.14.0865",
+    "bcr_followup_barcode": "TCGA-14-0865-F25084",
+    "radiation": true,
+    "days_to_surgery": 238,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c3432b21-d2e9-4caf-9c8e-c6a8d92b195d",
+    "patient_ID": "TCGA.14.0866",
+    "bcr_followup_barcode": "TCGA-14-0866-F25091",
+    "days_to_progression": 97,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c3432b21-d2e9-4caf-9c8e-c6a8d92b195d",
+    "patient_ID": "TCGA.14.0866",
+    "bcr_followup_barcode": "TCGA-14-0866-F25091",
+    "radiation": false,
+    "days_to_surgery": 237,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0078b0c4-68a9-483b-9aab-61156d263213",
+    "patient_ID": "TCGA.14.1034",
+    "bcr_followup_barcode": "TCGA-14-1034-F25103",
+    "days_to_progression": 282,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0078b0c4-68a9-483b-9aab-61156d263213",
+    "patient_ID": "TCGA.14.1034",
+    "bcr_followup_barcode": "TCGA-14-1034-F25103",
+    "radiation": false,
+    "days_to_surgery": 448,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6a9d719d-249a-4756-adc8-e92fa60da229",
+    "patient_ID": "TCGA.14.1037",
+    "bcr_followup_barcode": "TCGA-14-1037-F25109",
+    "days_to_progression": 326,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bf339349-062f-4ea9-a0b2-d87d3a21099e",
+    "patient_ID": "TCGA.14.1402",
+    "bcr_followup_barcode": "TCGA-14-1402-F25123",
+    "days_to_progression": 333,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bf339349-062f-4ea9-a0b2-d87d3a21099e",
+    "patient_ID": "TCGA.14.1402",
+    "bcr_followup_barcode": "TCGA-14-1402-F25123",
+    "radiation": false,
+    "days_to_surgery": 868,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f2ec3b94-cb92-4335-bdf9-02c046130bab",
+    "patient_ID": "TCGA.14.1450",
+    "bcr_followup_barcode": "TCGA-14-1450-F25270",
+    "days_to_progression": 826,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "06c427a1-8c2d-4003-b744-139114a04440",
+    "patient_ID": "TCGA.14.1451",
+    "bcr_followup_barcode": "TCGA-14-1451-F25134",
+    "days_to_progression": 19,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "06c427a1-8c2d-4003-b744-139114a04440",
+    "patient_ID": "TCGA.14.1451",
+    "bcr_followup_barcode": "TCGA-14-1451-F25134",
+    "radiation": true,
+    "days_to_surgery": 153,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f82bfa67-4e72-4a09-8022-a2fe0050090f",
+    "patient_ID": "TCGA.14.1452",
+    "bcr_followup_barcode": "TCGA-14-1452-F25147",
+    "days_to_progression": 172,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c2399f5d-dc29-42e9-81f1-1d164d4cc55d",
+    "patient_ID": "TCGA.14.1454",
+    "bcr_followup_barcode": "TCGA-14-1454-F25157",
+    "days_to_progression": 291,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0fe6684a-5ab2-4999-b69d-d99aa5679c97",
+    "patient_ID": "TCGA.14.1456",
+    "bcr_followup_barcode": "TCGA-14-1456-F25170",
+    "days_to_progression": 98,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5d2487b9-e0cd-40fc-a158-7b1803c8dc88",
+    "patient_ID": "TCGA.14.1458",
+    "bcr_followup_barcode": "TCGA-14-1458-F25179",
+    "days_to_progression": 81,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0798dbe2-1914-427c-a2fe-2a865d0d6eda",
+    "patient_ID": "TCGA.14.1459",
+    "bcr_followup_barcode": "TCGA-14-1459-F25187",
+    "days_to_progression": 275,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0798dbe2-1914-427c-a2fe-2a865d0d6eda",
+    "patient_ID": "TCGA.14.1459",
+    "bcr_followup_barcode": "TCGA-14-1459-F25187",
+    "radiation": false,
+    "days_to_surgery": 291,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "38dd826d-06dc-4a73-b852-c3d78c9c3ff4",
+    "patient_ID": "TCGA.14.1821",
+    "bcr_followup_barcode": "TCGA-14-1821-F25201",
+    "days_to_progression": 331,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a515cf2d-e918-4958-9bf6-e611b425a97e",
+    "patient_ID": "TCGA.14.1823",
+    "bcr_followup_barcode": "TCGA-14-1823-F25207",
+    "days_to_progression": 140,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e0e1b5b3-6e3c-4b79-aa2a-32b320c3e45a",
+    "patient_ID": "TCGA.14.1825",
+    "bcr_followup_barcode": "TCGA-14-1825-F25216",
+    "days_to_progression": 82,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "b1c4579c-72fa-4974-830c-b6a81ace45f4",
+    "patient_ID": "TCGA.14.2554",
+    "bcr_followup_barcode": "TCGA-14-2554-F25231",
+    "radiation": false,
+    "days_to_surgery": 29,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "872511fb-98cd-4fba-82f6-4c3689c75ae2",
+    "patient_ID": "TCGA.14.3476",
+    "bcr_followup_barcode": "TCGA-14-3476-F25240",
+    "days_to_progression": 9,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "38acdfc8-8abc-4d89-a68b-58c493650b48",
+    "patient_ID": "TCGA.14.4157",
+    "bcr_followup_barcode": "TCGA-14-4157-F25249",
+    "days_to_progression": 96,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f19850cb-50c4-4f3a-ba80-b1464958ffa8",
+    "patient_ID": "TCGA.15.0742",
+    "bcr_followup_barcode": "TCGA-15-0742-F25278",
+    "days_to_progression": 232,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "05d5da50-52fe-4342-9c15-9ee4c1d6662e",
+    "patient_ID": "TCGA.15.1446",
+    "bcr_followup_barcode": "TCGA-15-1446-F25283",
+    "days_to_progression": 443,
+    "radiation": false,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "bcr_patient_uuid": "05d5da50-52fe-4342-9c15-9ee4c1d6662e",
+    "patient_ID": "TCGA.15.1446",
+    "bcr_followup_barcode": "TCGA-15-1446-F25283",
+    "radiation": false,
+    "days_to_surgery": 578,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "03e9a354-7c95-4484-9ead-ed04acce7cb6",
+    "patient_ID": "TCGA.15.1447",
+    "bcr_followup_barcode": "TCGA-15-1447-F25287",
+    "days_to_progression": 340,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "03e9a354-7c95-4484-9ead-ed04acce7cb6",
+    "patient_ID": "TCGA.15.1447",
+    "bcr_followup_barcode": "TCGA-15-1447-F25287",
+    "radiation": false,
+    "days_to_surgery": 499,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "2749c671-dee1-4d91-b3fa-4b50accf7a11",
+    "patient_ID": "TCGA.15.1449",
+    "bcr_followup_barcode": "TCGA-15-1449-F25293",
+    "days_to_progression": 74,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "535efef2-f2db-4888-9a8d-13caa8e1e6ef",
+    "patient_ID": "TCGA.16.0848",
+    "bcr_followup_barcode": "TCGA-16-0848-F25299",
+    "days_to_progression": 129,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "535efef2-f2db-4888-9a8d-13caa8e1e6ef",
+    "patient_ID": "TCGA.16.0848",
+    "bcr_followup_barcode": "TCGA-16-0848-F25299",
+    "radiation": false,
+    "days_to_surgery": 105,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "389d5472-9e4a-47b3-bd6c-994eb0fafea2",
+    "patient_ID": "TCGA.16.0850",
+    "bcr_followup_barcode": "TCGA-16-0850-F25305",
+    "days_to_progression": 83,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "8a83ea25-d02e-4af8-9167-b29d3ef393cc",
+    "patient_ID": "TCGA.16.0861",
+    "bcr_followup_barcode": "TCGA-16-0861-F25309",
+    "days_to_progression": 94,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "cd73f38a-f6ff-4e7b-bd43-ec7b82dbe7df",
+    "patient_ID": "TCGA.16.1045",
+    "bcr_followup_barcode": "TCGA-16-1045-F25312",
+    "days_to_progression": 654,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "8e8688f7-bf69-432b-a5ac-4f5f4d5c10ba",
+    "patient_ID": "TCGA.16.1047",
+    "bcr_followup_barcode": "TCGA-16-1047-F25316",
+    "days_to_progression": 25,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "85a1ec02-14ee-4eef-aedc-f2f6fc031a24",
+    "patient_ID": "TCGA.16.1055",
+    "bcr_followup_barcode": "TCGA-16-1055-F25318",
+    "days_to_progression": 288,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "5234bf79-decc-45a1-8377-e6b09ceba82a",
+    "patient_ID": "TCGA.16.1056",
+    "bcr_followup_barcode": "TCGA-16-1056-F25321",
+    "days_to_progression": 239,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "1101faa1-a713-489b-8593-960a9d6bda42",
+    "patient_ID": "TCGA.16.1060",
+    "bcr_followup_barcode": "TCGA-16-1060-F25324",
+    "days_to_progression": 111,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "0987f48e-9d58-47b5-a1a6-de704caf4ed5",
+    "patient_ID": "TCGA.16.1062",
+    "bcr_followup_barcode": "TCGA-16-1062-F25327",
+    "days_to_progression": 518,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "6e6962d8-34b8-431c-8220-42b0b92a410b",
+    "patient_ID": "TCGA.16.1063",
+    "bcr_followup_barcode": "TCGA-16-1063-F25330",
+    "days_to_progression": 369,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "a589e2dc-7649-492c-9569-592698acaa6f",
+    "patient_ID": "TCGA.19.0957",
+    "bcr_followup_barcode": "TCGA-19-0957-F25340",
+    "days_to_progression": 50,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a589e2dc-7649-492c-9569-592698acaa6f",
+    "patient_ID": "TCGA.19.0957",
+    "bcr_followup_barcode": "TCGA-19-0957-F25340",
+    "radiation": false,
+    "days_to_surgery": 413,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "163e93a7-4d8d-4f28-a9f6-4d0ed16630cd",
+    "patient_ID": "TCGA.19.0963",
+    "bcr_followup_barcode": "TCGA-19-0963-F25357",
+    "days_to_progression": 310,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "163e93a7-4d8d-4f28-a9f6-4d0ed16630cd",
+    "patient_ID": "TCGA.19.0963",
+    "bcr_followup_barcode": "TCGA-19-0963-F25357",
+    "radiation": false,
+    "days_to_surgery": 310,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "a79b97df-d7f7-4df4-861b-936f94a1ab30",
+    "patient_ID": "TCGA.19.1385",
+    "bcr_followup_barcode": "TCGA-19-1385-F25366",
+    "days_to_progression": 177,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a79b97df-d7f7-4df4-861b-936f94a1ab30",
+    "patient_ID": "TCGA.19.1385",
+    "bcr_followup_barcode": "TCGA-19-1385-F25366",
+    "radiation": false,
+    "days_to_surgery": 175,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "fb86044c-161e-41d7-a49e-3d5ec18294ef",
+    "patient_ID": "TCGA.19.1386",
+    "bcr_followup_barcode": "TCGA-19-1386-F25371",
+    "days_to_progression": 237,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "fb86044c-161e-41d7-a49e-3d5ec18294ef",
+    "patient_ID": "TCGA.19.1386",
+    "bcr_followup_barcode": "TCGA-19-1386-F25371",
+    "radiation": false,
+    "days_to_surgery": 253,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "2f8b698a-cbd0-4cab-a814-dc683e0e9305",
+    "patient_ID": "TCGA.19.1387",
+    "bcr_followup_barcode": "TCGA-19-1387-F25379",
+    "days_to_progression": 79,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "166e76db-ccd8-4760-a517-d2bc8937ea29",
+    "patient_ID": "TCGA.19.1388",
+    "bcr_followup_barcode": "TCGA-19-1388-F25383",
+    "days_to_progression": 148,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "309005a2-93a8-4566-b8d3-6b9310144266",
+    "patient_ID": "TCGA.19.1389",
+    "bcr_followup_barcode": "TCGA-19-1389-F25390",
+    "days_to_progression": 81,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "309005a2-93a8-4566-b8d3-6b9310144266",
+    "patient_ID": "TCGA.19.1389",
+    "bcr_followup_barcode": "TCGA-19-1389-F25390",
+    "radiation": false,
+    "days_to_surgery": 81,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "456bcab3-165d-456f-94e3-f34f81a61d2e",
+    "patient_ID": "TCGA.19.1787",
+    "bcr_followup_barcode": "TCGA-19-1787-F25403",
+    "days_to_progression": 308,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "aeeaf19a-3b0d-4c79-a029-44642581f4d8",
+    "patient_ID": "TCGA.19.1790",
+    "bcr_followup_barcode": "TCGA-19-1790-F25418",
+    "days_to_progression": 88,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f2de4316-026c-4c2d-b091-47bc0ec8612a",
+    "patient_ID": "TCGA.19.2619",
+    "bcr_followup_barcode": "TCGA-19-2619-F25424",
+    "days_to_progression": 146,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e17a6048-7a72-42c0-ad3f-97cbff02bc9f",
+    "patient_ID": "TCGA.19.2629",
+    "bcr_followup_barcode": "TCGA-19-2629-F25447",
+    "days_to_progression": 145,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a262928c-e20a-4c02-8114-1227e05c43e1",
+    "patient_ID": "TCGA.19.4065",
+    "bcr_followup_barcode": "TCGA-19-4065-F25511",
+    "days_to_progression": 70,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a262928c-e20a-4c02-8114-1227e05c43e1",
+    "patient_ID": "TCGA.19.4065",
+    "bcr_followup_barcode": "TCGA-19-4065-F25511",
+    "radiation": false,
+    "days_to_surgery": 70,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "13b4d676-ee9b-499b-94bb-2365830fb37e",
+    "patient_ID": "TCGA.19.5947",
+    "bcr_followup_barcode": "TCGA-19-5947-F25462",
+    "days_to_progression": 43,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ec56b685-022b-44b4-8051-d8bbbcc17ee0",
+    "patient_ID": "TCGA.19.5950",
+    "bcr_followup_barcode": "TCGA-19-5950-F25465",
+    "days_to_progression": 294,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ec56b685-022b-44b4-8051-d8bbbcc17ee0",
+    "patient_ID": "TCGA.19.5950",
+    "bcr_followup_barcode": "TCGA-19-5950-F25465",
+    "radiation": false,
+    "days_to_surgery": 294,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ec56b685-022b-44b4-8051-d8bbbcc17ee0",
+    "patient_ID": "TCGA.19.5950",
+    "bcr_followup_barcode": "TCGA-19-5950-F43163",
+    "days_to_progression": 294,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "aa703529-7153-4f74-8577-2601876e3374",
+    "patient_ID": "TCGA.19.5953",
+    "bcr_followup_barcode": "TCGA-19-5953-F25509",
+    "days_to_progression": 119,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7e70a318-3acc-42f3-8287-158a2199f0bc",
+    "patient_ID": "TCGA.19.5956",
+    "bcr_followup_barcode": "TCGA-19-5956-F43175",
+    "days_to_progression": 647,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7e70a318-3acc-42f3-8287-158a2199f0bc",
+    "patient_ID": "TCGA.19.5956",
+    "bcr_followup_barcode": "TCGA-19-5956-F43175",
+    "days_to_progression": 647,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "81622677-9742-40ea-ad60-5f9b2a624ea7",
+    "patient_ID": "TCGA.19.5958",
+    "bcr_followup_barcode": "TCGA-19-5958-F43233",
+    "days_to_progression": 356,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "81622677-9742-40ea-ad60-5f9b2a624ea7",
+    "patient_ID": "TCGA.19.5958",
+    "bcr_followup_barcode": "TCGA-19-5958-F43233",
+    "days_to_progression": 356,
+    "radiation": false,
+    "days_to_surgery": 357,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "42e92d73-29eb-4508-a653-9b77f36021c0",
+    "patient_ID": "TCGA.19.5959",
+    "bcr_followup_barcode": "TCGA-19-5959-F25497",
+    "days_to_progression": 119,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "42e92d73-29eb-4508-a653-9b77f36021c0",
+    "patient_ID": "TCGA.19.5959",
+    "bcr_followup_barcode": "TCGA-19-5959-F43159",
+    "days_to_progression": 318,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "93ed7a2b-b0cb-4a84-871f-5c34a0b6a640",
+    "patient_ID": "TCGA.19.5960",
+    "bcr_followup_barcode": "TCGA-19-5960-F43299",
+    "days_to_progression": 382,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "93ed7a2b-b0cb-4a84-871f-5c34a0b6a640",
+    "patient_ID": "TCGA.19.5960",
+    "bcr_followup_barcode": "TCGA-19-5960-F43299",
+    "days_to_progression": 382,
+    "radiation": false,
+    "days_to_surgery": 396,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "7638E294-2DCF-4C03-B238-24E40491C2AD",
+    "patient_ID": "TCGA.19.A6J5",
+    "bcr_followup_barcode": "TCGA-19-A6J5-F64477",
+    "days_to_progression": 784,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "17dffffc-65d6-4209-9075-18a441001f0f",
+    "patient_ID": "TCGA.26.1438",
+    "bcr_followup_barcode": "TCGA-26-1438-F26846",
+    "days_to_progression": 158,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "17dffffc-65d6-4209-9075-18a441001f0f",
+    "patient_ID": "TCGA.26.1438",
+    "bcr_followup_barcode": "TCGA-26-1438-F26846",
+    "radiation": false,
+    "days_to_surgery": 297,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a6312802-12ad-4545-8109-178a7ebd618f",
+    "patient_ID": "TCGA.26.1439",
+    "bcr_followup_barcode": "TCGA-26-1439-F26853",
+    "days_to_progression": 284,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "9b775a6a-242a-4bfa-818d-d2d2f5bac5bf",
+    "patient_ID": "TCGA.26.1440",
+    "bcr_followup_barcode": "TCGA-26-1440-F26857",
+    "days_to_progression": 233,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "e4aafd82-fd32-4a52-96fe-21a21297849f",
+    "patient_ID": "TCGA.26.1443",
+    "bcr_followup_barcode": "TCGA-26-1443-F26862",
+    "days_to_progression": 217,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ff61d536-b505-47e7-9d3c-a7252e9037a1",
+    "patient_ID": "TCGA.26.1799",
+    "bcr_followup_barcode": "TCGA-26-1799-F26867",
+    "days_to_progression": 213,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "a28b256e-e085-467d-bdba-5c39718012d7",
+    "patient_ID": "TCGA.26.5133",
+    "bcr_followup_barcode": "TCGA-26-5133-F26876",
+    "days_to_progression": 370,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "a28b256e-e085-467d-bdba-5c39718012d7",
+    "patient_ID": "TCGA.26.5133",
+    "bcr_followup_barcode": "TCGA-26-5133-F26876",
+    "radiation": false,
+    "days_to_surgery": 392,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "5F9BAF9B-6D2D-495A-83A1-77F7E4CB9CCD",
+    "patient_ID": "TCGA.26.A7UX",
+    "bcr_followup_barcode": "TCGA-26-A7UX-F68744",
+    "days_to_progression": 407,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5F9BAF9B-6D2D-495A-83A1-77F7E4CB9CCD",
+    "patient_ID": "TCGA.26.A7UX",
+    "bcr_followup_barcode": "TCGA-26-A7UX-F68744",
+    "days_to_progression": 407,
+    "radiation": false,
+    "days_to_surgery": 419,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6e72d2e2-96fe-4fbb-9fe6-39ec28753eb6",
+    "patient_ID": "TCGA.27.1830",
+    "bcr_followup_barcode": "TCGA-27-1830-F26906",
+    "days_to_progression": 124,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f45f4a30-6b4c-4f15-9140-959d6a25a45f",
+    "patient_ID": "TCGA.27.1831",
+    "bcr_followup_barcode": "TCGA-27-1831-F26913",
+    "days_to_progression": 144,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "dd76930a-1678-4b70-9864-730534174d41",
+    "patient_ID": "TCGA.27.1832",
+    "bcr_followup_barcode": "TCGA-27-1832-F26920",
+    "days_to_progression": 176,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "f40e45c8-2042-4844-99b5-b629f20afd58",
+    "patient_ID": "TCGA.27.1833",
+    "bcr_followup_barcode": "TCGA-27-1833-F26926",
+    "days_to_progression": 469,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "7340f325-579f-4b90-96aa-3a7b362129ca",
+    "patient_ID": "TCGA.27.1834",
+    "bcr_followup_barcode": "TCGA-27-1834-F26934",
+    "days_to_progression": 335,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "987cb702-057b-4198-8ef3-9cf6a9c51989",
+    "patient_ID": "TCGA.27.1835",
+    "bcr_followup_barcode": "TCGA-27-1835-F26943",
+    "days_to_progression": 157,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "4d18f820-6396-46ae-b5d6-4ba446279be8",
+    "patient_ID": "TCGA.27.1836",
+    "bcr_followup_barcode": "TCGA-27-1836-F26953",
+    "days_to_progression": 172,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "4d18f820-6396-46ae-b5d6-4ba446279be8",
+    "patient_ID": "TCGA.27.1836",
+    "bcr_followup_barcode": "TCGA-27-1836-F26953",
+    "radiation": false,
+    "days_to_surgery": 236,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "bc7a0c8f-c1c1-447c-8019-389e52525081",
+    "patient_ID": "TCGA.27.1837",
+    "bcr_followup_barcode": "TCGA-27-1837-F26965",
+    "days_to_progression": 136,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "6fc6b9ca-84d8-4647-bbc8-c5ab472b1c02",
+    "patient_ID": "TCGA.27.1838",
+    "bcr_followup_barcode": "TCGA-27-1838-F26973",
+    "days_to_progression": 119,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "d3d27286-73e1-4cdd-914a-34c210fd6398",
+    "patient_ID": "TCGA.27.2518",
+    "bcr_followup_barcode": "TCGA-27-2518-F26980",
+    "days_to_progression": 539,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "d3d27286-73e1-4cdd-914a-34c210fd6398",
+    "patient_ID": "TCGA.27.2518",
+    "bcr_followup_barcode": "TCGA-27-2518-F26980",
+    "radiation": false,
+    "days_to_surgery": 559,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6ff96a7e-1b96-4530-b8a8-7f2e9e541955",
+    "patient_ID": "TCGA.27.2519",
+    "bcr_followup_barcode": "TCGA-27-2519-F26989",
+    "days_to_progression": 256,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "6ff96a7e-1b96-4530-b8a8-7f2e9e541955",
+    "patient_ID": "TCGA.27.2519",
+    "bcr_followup_barcode": "TCGA-27-2519-F26989",
+    "radiation": false,
+    "days_to_surgery": 274,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "737b35e1-d668-4fce-9b6e-76946c7952b6",
+    "patient_ID": "TCGA.27.2523",
+    "bcr_followup_barcode": "TCGA-27-2523-F27003",
+    "days_to_progression": 402,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "be3a7ef3-34ed-40e1-9d9c-187940596b26",
+    "patient_ID": "TCGA.27.2528",
+    "bcr_followup_barcode": "TCGA-27-2528-F27030",
+    "days_to_progression": 72,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "1e2108e8-b620-4865-a8d8-77f9a0fe28a2",
+    "patient_ID": "TCGA.28.1745",
+    "bcr_followup_barcode": "TCGA-28-1745-F27038",
+    "days_to_progression": 317,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "b92047e1-8a76-46dd-baa7-6e629cfaebdb",
+    "patient_ID": "TCGA.28.1749",
+    "bcr_followup_barcode": "TCGA-28-1749-F27051",
+    "days_to_progression": 280,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f077df02-5056-402f-8522-7198c42bcc98",
+    "patient_ID": "TCGA.28.1750",
+    "bcr_followup_barcode": "TCGA-28-1750-F27057",
+    "days_to_progression": 116,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "28df4629-204f-4352-a19f-303a2e067633",
+    "patient_ID": "TCGA.28.1751",
+    "bcr_followup_barcode": "TCGA-28-1751-F27064",
+    "days_to_progression": 219,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "b7b86c1f-9688-4129-891c-843e3a37b3e5",
+    "patient_ID": "TCGA.28.1760",
+    "bcr_followup_barcode": "TCGA-28-1760-F27092",
+    "days_to_progression": 105,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ec1791b3-0192-45da-89c1-f942a6736704",
+    "patient_ID": "TCGA.28.2506",
+    "bcr_followup_barcode": "TCGA-28-2506-F27101",
+    "days_to_progression": 84,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ec1791b3-0192-45da-89c1-f942a6736704",
+    "patient_ID": "TCGA.28.2506",
+    "bcr_followup_barcode": "TCGA-28-2506-F27101",
+    "radiation": false,
+    "days_to_surgery": 153,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "4ca9c0f2-1be9-4376-aa27-d9db948d3f68",
+    "patient_ID": "TCGA.28.2512",
+    "bcr_followup_barcode": "TCGA-28-2512-F30232",
+    "days_to_progression": 193,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "30256f61-7be9-4d47-8afd-afafa7a079c0",
+    "patient_ID": "TCGA.28.2513",
+    "bcr_followup_barcode": "TCGA-28-2513-F27113",
+    "days_to_progression": 75,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "46bfebf4-0ef6-4348-81dc-d7d3cb52c08f",
+    "patient_ID": "TCGA.28.5208",
+    "bcr_followup_barcode": "TCGA-28-5208-F15027",
+    "days_to_progression": 148,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "46bfebf4-0ef6-4348-81dc-d7d3cb52c08f",
+    "patient_ID": "TCGA.28.5208",
+    "bcr_followup_barcode": "TCGA-28-5208-F28868",
+    "days_to_progression": 148,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "46bfebf4-0ef6-4348-81dc-d7d3cb52c08f",
+    "patient_ID": "TCGA.28.5208",
+    "bcr_followup_barcode": "TCGA-28-5208-F45609",
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "cf6689b9-d0fa-4461-a6b7-db477629e258",
+    "patient_ID": "TCGA.28.5211",
+    "bcr_followup_barcode": "TCGA-28-5211-F15035",
+    "days_to_progression": 225,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "cf6689b9-d0fa-4461-a6b7-db477629e258",
+    "patient_ID": "TCGA.28.5211",
+    "bcr_followup_barcode": "TCGA-28-5211-F28880",
+    "days_to_progression": 225,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "cb4f4617-8260-475d-a650-2f049474b001",
+    "patient_ID": "TCGA.28.5214",
+    "bcr_followup_barcode": "TCGA-28-5214-F14982",
+    "days_to_progression": 247,
+    "radiation": false,
+    "days_to_surgery": 324,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "cb4f4617-8260-475d-a650-2f049474b001",
+    "patient_ID": "TCGA.28.5214",
+    "bcr_followup_barcode": "TCGA-28-5214-F28890",
+    "days_to_progression": 247,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "cb4f4617-8260-475d-a650-2f049474b001",
+    "patient_ID": "TCGA.28.5214",
+    "bcr_followup_barcode": "TCGA-28-5214-F28890",
+    "radiation": true,
+    "days_to_surgery": 324,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c9e4f0bf-48fc-4600-9e03-314bc575273f",
+    "patient_ID": "TCGA.28.5215",
+    "bcr_followup_barcode": "TCGA-28-5215-F14979",
+    "days_to_progression": 164,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c9e4f0bf-48fc-4600-9e03-314bc575273f",
+    "patient_ID": "TCGA.28.5215",
+    "bcr_followup_barcode": "TCGA-28-5215-F28897",
+    "days_to_progression": 164,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "567a8bf1-3793-46bc-9943-16302df056ce",
+    "patient_ID": "TCGA.28.5219",
+    "bcr_followup_barcode": "TCGA-28-5219-F14961",
+    "days_to_progression": 258
+  },
+  {
+    "bcr_patient_uuid": "567a8bf1-3793-46bc-9943-16302df056ce",
+    "patient_ID": "TCGA.28.5219",
+    "bcr_followup_barcode": "TCGA-28-5219-F28910",
+    "days_to_progression": 258,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "8e6b9705-e9d2-4fbc-ac03-35c1a5115eef",
+    "patient_ID": "TCGA.28.5220",
+    "bcr_followup_barcode": "TCGA-28-5220-F14967",
+    "days_to_progression": 262,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "8e6b9705-e9d2-4fbc-ac03-35c1a5115eef",
+    "patient_ID": "TCGA.28.5220",
+    "bcr_followup_barcode": "TCGA-28-5220-F28914",
+    "days_to_progression": 262,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "6c5154d2-af36-492f-b520-d925528824e4",
+    "patient_ID": "TCGA.32.1970",
+    "bcr_followup_barcode": "TCGA-32-1970-F27719",
+    "days_to_progression": 408,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "f6d64459-e639-4557-bf10-a9148263ee26",
+    "patient_ID": "TCGA.32.1973",
+    "bcr_followup_barcode": "TCGA-32-1973-F27724",
+    "days_to_progression": 507,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "1974470e-ec23-4dfc-8907-2e4052c2a0fc",
+    "patient_ID": "TCGA.32.1979",
+    "bcr_followup_barcode": "TCGA-32-1979-F27846",
+    "days_to_progression": 265,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "1974470e-ec23-4dfc-8907-2e4052c2a0fc",
+    "patient_ID": "TCGA.32.1979",
+    "bcr_followup_barcode": "TCGA-32-1979-F27846",
+    "days_to_surgery": 265,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "7ac80045-7c05-4e8f-8217-a380544a6125",
+    "patient_ID": "TCGA.32.1986",
+    "bcr_followup_barcode": "TCGA-32-1986-F27742",
+    "days_to_progression": 233,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "582f0912-20e9-4790-afd9-1e858728223e",
+    "patient_ID": "TCGA.32.1987",
+    "bcr_followup_barcode": "TCGA-32-1987-F27746",
+    "days_to_progression": 68,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "582f0912-20e9-4790-afd9-1e858728223e",
+    "patient_ID": "TCGA.32.1987",
+    "bcr_followup_barcode": "TCGA-32-1987-F27746",
+    "radiation": false,
+    "days_to_surgery": 68,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "73655446-bbf3-4cc9-a032-2c95051bc3e7",
+    "patient_ID": "TCGA.32.1991",
+    "bcr_followup_barcode": "TCGA-32-1991-F27753",
+    "days_to_progression": 345,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "73655446-bbf3-4cc9-a032-2c95051bc3e7",
+    "patient_ID": "TCGA.32.1991",
+    "bcr_followup_barcode": "TCGA-32-1991-F27753",
+    "radiation": false,
+    "days_to_surgery": 345,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "ace727ec-036b-4ddc-9af8-eecf70ec6b46",
+    "patient_ID": "TCGA.32.2491",
+    "bcr_followup_barcode": "TCGA-32-2491-F27762",
+    "days_to_progression": 70,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c50998f6-369c-48fe-a8e7-a4c5a4cef0e6",
+    "patient_ID": "TCGA.32.2494",
+    "bcr_followup_barcode": "TCGA-32-2494-F27767",
+    "days_to_progression": 488,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e7d728e5-1a9f-4f27-9604-272e1235e08a",
+    "patient_ID": "TCGA.32.2495",
+    "bcr_followup_barcode": "TCGA-32-2495-F27779",
+    "days_to_progression": 252,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e7d728e5-1a9f-4f27-9604-272e1235e08a",
+    "patient_ID": "TCGA.32.2495",
+    "bcr_followup_barcode": "TCGA-32-2495-F27779",
+    "radiation": true,
+    "days_to_surgery": 252,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "30011f30-2926-47f2-a8f3-4f1b58ffa227",
+    "patient_ID": "TCGA.32.2615",
+    "bcr_followup_barcode": "TCGA-32-2615-F27788",
+    "days_to_progression": 131,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "30011f30-2926-47f2-a8f3-4f1b58ffa227",
+    "patient_ID": "TCGA.32.2615",
+    "bcr_followup_barcode": "TCGA-32-2615-F27788",
+    "radiation": true,
+    "days_to_surgery": 131,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "52408d9f-2637-4952-9b90-cb607a860f23",
+    "patient_ID": "TCGA.32.2616",
+    "bcr_followup_barcode": "TCGA-32-2616-F30224",
+    "days_to_progression": 182,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "5438322c-9db0-4974-ba01-801020559f97",
+    "patient_ID": "TCGA.32.4209",
+    "bcr_followup_barcode": "TCGA-32-4209-F27818",
+    "days_to_progression": 94,
+    "radiation": false,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5438322c-9db0-4974-ba01-801020559f97",
+    "patient_ID": "TCGA.32.4209",
+    "bcr_followup_barcode": "TCGA-32-4209-F27818",
+    "radiation": false,
+    "days_to_surgery": 94,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5438322c-9db0-4974-ba01-801020559f97",
+    "patient_ID": "TCGA.32.4209",
+    "bcr_followup_barcode": "TCGA-32-4209-F15697",
+    "days_to_progression": 338,
+    "radiation": true,
+    "days_to_surgery": 338,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "5438322c-9db0-4974-ba01-801020559f97",
+    "patient_ID": "TCGA.32.4209",
+    "bcr_followup_barcode": "TCGA-32-4209-F17347",
+    "days_to_progression": 436,
+    "radiation": false,
+    "days_to_surgery": 436,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "22e0c3ea-9f6d-4d73-9282-17ee4553f436",
+    "patient_ID": "TCGA.32.4213",
+    "bcr_followup_barcode": "TCGA-32-4213-F27830",
+    "days_to_progression": 353,
+    "radiation": true,
+    "new_tumor": "RECURRENCE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "22e0c3ea-9f6d-4d73-9282-17ee4553f436",
+    "patient_ID": "TCGA.32.4213",
+    "bcr_followup_barcode": "TCGA-32-4213-F27830",
+    "radiation": true,
+    "days_to_surgery": 357,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "22e0c3ea-9f6d-4d73-9282-17ee4553f436",
+    "patient_ID": "TCGA.32.4213",
+    "bcr_followup_barcode": "TCGA-32-4213-F15678",
+    "days_to_progression": 561,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "e876dd29-68b0-4bf1-83d1-488c40068a35",
+    "patient_ID": "TCGA.32.5222",
+    "bcr_followup_barcode": "TCGA-32-5222-F27842",
+    "days_to_progression": 118,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "e876dd29-68b0-4bf1-83d1-488c40068a35",
+    "patient_ID": "TCGA.32.5222",
+    "bcr_followup_barcode": "TCGA-32-5222-F27842",
+    "radiation": false,
+    "days_to_surgery": 118,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "e876dd29-68b0-4bf1-83d1-488c40068a35",
+    "patient_ID": "TCGA.32.5222",
+    "bcr_followup_barcode": "TCGA-32-5222-F15695",
+    "days_to_progression": 193,
+    "radiation": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "722f462d-f939-4bc1-aae4-8f78b1335a87",
+    "patient_ID": "TCGA.41.2571",
+    "bcr_followup_barcode": "TCGA-41-2571-F27980",
+    "days_to_progression": 26,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "1e80ccf6-ef81-4662-bf5e-392f092c1e67",
+    "patient_ID": "TCGA.41.2572",
+    "bcr_followup_barcode": "TCGA-41-2572-F27983",
+    "days_to_progression": 122,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "12084e89-dbc2-43b3-a6d0-0e71e53d0eac",
+    "patient_ID": "TCGA.41.2573",
+    "bcr_followup_barcode": "TCGA-41-2573-F27989",
+    "days_to_progression": 167,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "2c922593-d94d-4e8f-b68b-b4b8cfcbf3e4",
+    "patient_ID": "TCGA.41.2575",
+    "bcr_followup_barcode": "TCGA-41-2575-F27996",
+    "days_to_progression": 131,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "43d98306-8b1f-4840-a1a0-146ba0c36400",
+    "patient_ID": "TCGA.41.3915",
+    "bcr_followup_barcode": "TCGA-41-3915-F12837",
+    "days_to_progression": 288,
+    "radiation": false,
+    "days_to_surgery": 301,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "c184c3ca-7ad3-4202-b108-cb9fd5f5d947",
+    "patient_ID": "TCGA.41.5651",
+    "bcr_followup_barcode": "TCGA-41-5651-F28015",
+    "days_to_progression": 210,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c184c3ca-7ad3-4202-b108-cb9fd5f5d947",
+    "patient_ID": "TCGA.41.5651",
+    "bcr_followup_barcode": "TCGA-41-5651-F28015",
+    "radiation": false,
+    "days_to_surgery": 231,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "c184c3ca-7ad3-4202-b108-cb9fd5f5d947",
+    "patient_ID": "TCGA.41.5651",
+    "bcr_followup_barcode": "TCGA-41-5651-F19525",
+    "days_to_progression": 322,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "a8d708ab-6388-4d42-bc6e-05a8a718ecff",
+    "patient_ID": "TCGA.41.6646",
+    "bcr_followup_barcode": "TCGA-41-6646-F28022",
+    "days_to_progression": 200,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "998C8517-89C1-43B2-84E4-B60905787BF6",
+    "patient_ID": "TCGA.4W.AA9T",
+    "bcr_followup_barcode": "TCGA-4W-AA9T-F71040",
+    "days_to_progression": 749,
+    "radiation": false
+  },
+  {
+    "bcr_patient_uuid": "66a03e91-77c7-4aef-a825-6deef805640c",
+    "patient_ID": "TCGA.74.6575",
+    "bcr_followup_barcode": "TCGA-74-6575-F16928",
+    "days_to_progression": 460,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "66a03e91-77c7-4aef-a825-6deef805640c",
+    "patient_ID": "TCGA.74.6575",
+    "bcr_followup_barcode": "TCGA-74-6575-F28509",
+    "days_to_progression": 460,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "66a03e91-77c7-4aef-a825-6deef805640c",
+    "patient_ID": "TCGA.74.6575",
+    "bcr_followup_barcode": "TCGA-74-6575-F18980",
+    "days_to_progression": 93,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "9888bf87-d0d1-474b-960d-d76b13352e7c",
+    "patient_ID": "TCGA.74.6577",
+    "bcr_followup_barcode": "TCGA-74-6577-F16920",
+    "days_to_progression": 132,
+    "radiation": false,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "9888bf87-d0d1-474b-960d-d76b13352e7c",
+    "patient_ID": "TCGA.74.6577",
+    "bcr_followup_barcode": "TCGA-74-6577-F28511",
+    "days_to_progression": 132,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "4dee170b-175c-4e08-83f4-af1317b07209",
+    "patient_ID": "TCGA.74.6578",
+    "bcr_followup_barcode": "TCGA-74-6578-F16913",
+    "days_to_progression": 222,
+    "radiation": false,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "4dee170b-175c-4e08-83f4-af1317b07209",
+    "patient_ID": "TCGA.74.6578",
+    "bcr_followup_barcode": "TCGA-74-6578-F28513",
+    "days_to_progression": 222,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "22b5cbba-cc78-4377-a08c-a9413294c3bf",
+    "patient_ID": "TCGA.74.6584",
+    "bcr_followup_barcode": "TCGA-74-6584-F16901",
+    "days_to_progression": 91,
+    "radiation": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "22b5cbba-cc78-4377-a08c-a9413294c3bf",
+    "patient_ID": "TCGA.74.6584",
+    "bcr_followup_barcode": "TCGA-74-6584-F28517",
+    "days_to_progression": 91,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "872abc8a-6c1f-4114-b993-7d0327fb38bd",
+    "patient_ID": "TCGA.76.4925",
+    "bcr_followup_barcode": "TCGA-76-4925-F28519",
+    "days_to_progression": 88,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "8df94420-c736-4a36-b001-5dbe3dff17f0",
+    "patient_ID": "TCGA.76.4926",
+    "bcr_followup_barcode": "TCGA-76-4926-F28523",
+    "days_to_progression": 34,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "9d1d9ae5-4640-4060-a207-c9c5b0e905e1",
+    "patient_ID": "TCGA.76.4927",
+    "bcr_followup_barcode": "TCGA-76-4927-F28527",
+    "days_to_progression": 416,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "9d1d9ae5-4640-4060-a207-c9c5b0e905e1",
+    "patient_ID": "TCGA.76.4927",
+    "bcr_followup_barcode": "TCGA-76-4927-F28527",
+    "days_to_surgery": 416,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true
+  },
+  {
+    "bcr_patient_uuid": "752a6e21-9a91-417f-beba-bfdf331d5cac",
+    "patient_ID": "TCGA.76.4931",
+    "bcr_followup_barcode": "TCGA-76-4931-F28535",
+    "days_to_progression": 112,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "752a6e21-9a91-417f-beba-bfdf331d5cac",
+    "patient_ID": "TCGA.76.4931",
+    "bcr_followup_barcode": "TCGA-76-4931-F28535",
+    "radiation": true,
+    "days_to_surgery": 112,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "8820ca5f-4f6b-4389-ba86-9015d0bcec1d",
+    "patient_ID": "TCGA.76.4935",
+    "bcr_followup_barcode": "TCGA-76-4935-F28545",
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE"
+  },
+  {
+    "bcr_patient_uuid": "8c3b2851-fced-473c-9c11-731eb66d8f3e",
+    "patient_ID": "TCGA.76.6191",
+    "bcr_followup_barcode": "TCGA-76-6191-F28550",
+    "days_to_progression": 323,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "68749001-c4c2-415d-830c-07e39c3a504a",
+    "patient_ID": "TCGA.76.6192",
+    "bcr_followup_barcode": "TCGA-76-6192-F28557",
+    "days_to_progression": 76,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "aa15f655-c1e9-4f4a-acee-2fb76ec82858",
+    "patient_ID": "TCGA.76.6193",
+    "bcr_followup_barcode": "TCGA-76-6193-F28561",
+    "days_to_progression": 64,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "6ccc0eda-96f8-475c-9d8c-016b26fdd81d",
+    "patient_ID": "TCGA.76.6280",
+    "bcr_followup_barcode": "TCGA-76-6280-F30214",
+    "days_to_progression": 108,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "6ccc0eda-96f8-475c-9d8c-016b26fdd81d",
+    "patient_ID": "TCGA.76.6280",
+    "bcr_followup_barcode": "TCGA-76-6280-F30214",
+    "radiation": true,
+    "days_to_surgery": 136,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "c472482e-225d-4ab0-8ba5-b659e7ff3e89",
+    "patient_ID": "TCGA.76.6282",
+    "bcr_followup_barcode": "TCGA-76-6282-F28565",
+    "days_to_progression": 458,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "c472482e-225d-4ab0-8ba5-b659e7ff3e89",
+    "patient_ID": "TCGA.76.6282",
+    "bcr_followup_barcode": "TCGA-76-6282-F28565",
+    "radiation": false,
+    "days_to_surgery": 468,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "0a211ae1-a48c-4989-9379-04d59500d94d",
+    "patient_ID": "TCGA.76.6286",
+    "bcr_followup_barcode": "TCGA-76-6286-F28573",
+    "days_to_progression": 180,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "0a211ae1-a48c-4989-9379-04d59500d94d",
+    "patient_ID": "TCGA.76.6286",
+    "bcr_followup_barcode": "TCGA-76-6286-F28573",
+    "radiation": true,
+    "days_to_surgery": 239,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "3763b815-308f-4b64-a3a7-56822079765f",
+    "patient_ID": "TCGA.76.6657",
+    "bcr_followup_barcode": "TCGA-76-6657-F28583",
+    "days_to_progression": 135,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": false
+  },
+  {
+    "bcr_patient_uuid": "92f323c8-dae4-4fdc-a108-148ddc238d1a",
+    "patient_ID": "TCGA.76.6662",
+    "bcr_followup_barcode": "TCGA-76-6662-F30219",
+    "days_to_progression": 205,
+    "radiation": false,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "92f323c8-dae4-4fdc-a108-148ddc238d1a",
+    "patient_ID": "TCGA.76.6662",
+    "bcr_followup_barcode": "TCGA-76-6662-F30219",
+    "radiation": false,
+    "days_to_surgery": 217,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "05944575-8473-4ed0-9de8-8091018001c2",
+    "patient_ID": "TCGA.81.5911",
+    "bcr_followup_barcode": "TCGA-81-5911-F28602",
+    "days_to_progression": 277,
+    "radiation": true,
+    "new_tumor": "PROGRESSION OF DISEASE",
+    "drug": true
+  },
+  {
+    "bcr_patient_uuid": "05944575-8473-4ed0-9de8-8091018001c2",
+    "patient_ID": "TCGA.81.5911",
+    "bcr_followup_barcode": "TCGA-81-5911-F28602",
+    "radiation": true,
+    "days_to_surgery": 309,
+    "new_tumor": "LOCOREGIONAL DISEASE",
+    "surgery_procedure": true,
+    "drug": true
+  }
+]
