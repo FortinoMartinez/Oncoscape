@@ -1,4 +1,10 @@
-#JSON updated script
+###
+#
+#       This Script Executes Basic Processing On TCGA Files
+#       Specifically It Types, Uppercases and In Cases Enforces Enumeration Types
+#       
+###
+
 # Configuration -----------------------------------------------------------
 rm(list = ls(all = TRUE))
 options(stringsAsFactors = FALSE)
@@ -29,15 +35,9 @@ os.enum.na <- c("", "NA", "[NOTAVAILABLE]","[UNKNOWN]","[NOT AVAILABLE]","[NOT E
 #os.enum.other <- c( "OTHER","OTHER: SPECIFY IN NOTES","OTHER (SPECIFY BELOW)","SPECIFY","OTHER REPORTING SCALE")
 os.enum.logical.true  <- c("TRUE","YES","1","Y")
 os.enum.logical.false <- c("FALSE","NO","0","N")
-os.tcga.ignore.columns <- c("bcr_patient_uuid", 
-                            "bcr_drug_uuid","bcr_drug_barcode",
-                            "bcr_followup_uuid","bcr_followup_barcode",
-                            "bcr_radiation_uuid","bcr_radiation_barcode", 
-                            "bcr_omf_uuid", "bcr_omf_barcode",
-                            "informed_consent_verified", "form_completion_date", 
-                            "project_code", "patient_id")
-
-
+os.tcga.ignore.columns <- c("bcr_patient_uuid","bcr_drug_uuid","bcr_drug_barcode","bcr_followup_uuid","bcr_followup_barcode","bcr_radiation_uuid","bcr_radiation_barcode","bcr_omf_uuid", "bcr_omf_barcode","informed_consent_verified", "form_completion_date","project_code", "patient_id") 
+                            
+                                         
 Map( function(key, value, env=parent.frame()){
   setClass(key)
   setAs("character", key, function(from){ 
@@ -151,33 +151,25 @@ setAs("character","os.class.tcgaBoolean", function(from){
 # IO Utility Functions :: [Batch, Load, Save]  -------------------------------------------------------
 
 ### Save Function Takes A matrix/data.frame + Base File Path (w/o extension) & Writes to Disk In Multiple (optionally specified) Formats
-os.data.save <- function(df, file, format = c("tsv", "csv", "RData", "json")){
+os.data.save <- function(df, file, format = c("tsv", "csv", "RData","json")){
   
   # Write Tab Delimited
-  if("tsv" %in% format)
-    write.table(df, file=paste(file,".tsv", sep = ""), quote=F, sep="\t")
+  # if("tsv" %in% format)
+  #   write.table(df, file=paste(file,".tsv", sep = ""), quote=F, sep="\t")
   
-  # Write CSV Delimited
-  if("csv" %in% format)
-    write.csv(df, file=paste(file,".csv",sep = ""), quote = F)
+  # # Write CSV Delimited
+  # if("csv" %in% format)
+  #   write.csv(df, file=paste(file,".csv",sep = ""), quote = F)
   
-  # Write RData File
-  if("RData" %in% format)
-    save(df, file=paste(file,".RData", sep = "") )
+  # # Write RData File
+  # if("RData" %in% format)
+  #   save(df, file=paste(file,".RData", sep = "") )
   
-  # Write json File
   if("json" %in% format)
-    write( toJSON(df, pretty = TRUE), file=paste(file,".json", sep = "") )
-
+   write( toJSON(df, pretty = TRUE), file=paste(file,".json", sep = "") )
+   
   # Return DataFrame For Chaining
   return(df)
-}
-
-os.data.writeColumns <- function(inputFile, outputFile){
-        df<-read.delim(inputFile, header=FALSE, skip=1, dec=".", sep = "\t", strip.white = T, nrows = 2)
-        df[2,] <- str_replace(df[2,], "CDE_ID:","") # Strip CDE ID
-        write( toJSON(df, pretty = TRUE), file=paste( outputFile, "_metadata.json", sep = "") )
-        rm(df)
 }
 
 ### Load Function Takes An Import File + Column List & Returns A DataFrame
@@ -244,25 +236,18 @@ os.data.batch <- function(inputFile, outputDirectory, ...){
       currentDisease   <- inputFiles[ rowIndex, os.data.batch.inputFile.studyCol ];
       currentDirectory <- inputFiles[ rowIndex, os.data.batch.inputFile.dirCol ]
       currentDataFile  <- inputFiles[ rowIndex, currentTable]
-      
       if (is.na(currentDataFile)) next()
       cat(currentDisease, currentTable,"\n")
       inputFile <- paste(currentDirectory, currentDataFile, sep = "")
       outputFile <- paste(outputDirectory, currentDisease, "_", currentTable, sep="")
       
-      
-      
-      os.data.writeColumns( inputFile, outputFile )
-      
-      df <- os.data.load( inputFile = inputFile, ...)
       # Load Data Frame - map and filter by named columns
       df <- os.data.load( inputFile = inputFile, ...)
       
       # Save Data Frame
       os.data.save(
-              df = df,
-              file = outputFile)
-      
+        df = df,
+        file = outputFile)
       
       # Remove Df From Memory
       rm(df)
@@ -276,5 +261,4 @@ os.data.batch(
   outputDirectory = os.data.batch.outputDir,
   checkEnumerations = TRUE,
   checkClassType = "os.class.tcgaCharacter")
-
 

@@ -1,2 +1,0 @@
-,bcr_patient_uuid,patient_ID,days_to_progression,surgery_procedure,radiation,drug,days_to_surgery,new_neoplasm_event_occurrence_anatomic_site,new_tumor,new_neoplasm_occurrence_anatomic_site_text,surgery_procedure.1,progression_determined_by,residual_tumor
-1,BD818AE4-B31A-4616-9303-B8AEE56A848F,TCGA.AF.A56K,1217,NA,TRUE,TRUE,1458,NA,LOCOREGIONAL DISEASE,NA,TRUE,[Not Available],R1
