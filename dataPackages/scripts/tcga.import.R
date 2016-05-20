@@ -31,11 +31,18 @@ os.tcga.field.enumerations  <- fromJSON("os.tcga.field.enumerations.json")
 os.tcga.column.enumerations <- fromJSON("os.tcga.column.enumerations.json")
 
 # Class Definitions :: Enumerations -------------------------------------------------------
-os.enum.na <- c("", "NA", "[NOTAVAILABLE]","[UNKNOWN]","[NOT AVAILABLE]","[NOT EVALUATED]","UKNOWN","[DISCREPANCY]","NOT LISTED IN MEDICAL RECORD","[NOT APPLICABLE]","[PENDING]","PENDING", "[NOT AVAILABLE]","[PENDING]","[NOTAVAILABLE]","NOT SPECIFIED","[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]","N/A")
+os.enum.na <- c("", "NA", "[NOTAVAILABLE]","[UNKNOWN]","[NOT AVAILABLE]","[NOT EVALUATED]","UKNOWN","[DISCREPANCY]",
+"NOT LISTED IN MEDICAL RECORD","[NOT APPLICABLE]","[PENDING]","PENDING", "[NOT AVAILABLE]","[PENDING]","[NOTAVAILABLE]",
+"NOT SPECIFIED","[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
+"[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
+"[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]","N/A")
 #os.enum.other <- c( "OTHER","OTHER: SPECIFY IN NOTES","OTHER (SPECIFY BELOW)","SPECIFY","OTHER REPORTING SCALE")
 os.enum.logical.true  <- c("TRUE","YES","1","Y")
 os.enum.logical.false <- c("FALSE","NO","0","N")
-os.tcga.ignore.columns <- c("bcr_patient_uuid","bcr_drug_uuid","bcr_drug_barcode","bcr_followup_uuid","bcr_followup_barcode","bcr_radiation_uuid","bcr_radiation_barcode","bcr_omf_uuid", "bcr_omf_barcode","informed_consent_verified", "form_completion_date","project_code", "patient_id") 
+os.tcga.ignore.columns <- c("bcr_patient_uuid","bcr_drug_uuid","bcr_drug_barcode",
+                            "bcr_followup_uuid", "bcr_followup_barcode",
+                            "bcr_radiation_uuid","bcr_radiation_barcode","bcr_omf_uuid", "bcr_omf_barcode",
+                            "informed_consent_verified", "form_completion_date","project_code", "patient_id") 
                             
                                          
 Map( function(key, value, env=parent.frame()){
@@ -154,16 +161,16 @@ setAs("character","os.class.tcgaBoolean", function(from){
 os.data.save <- function(df, file, format = c("tsv", "csv", "RData","json")){
   
   # Write Tab Delimited
-  # if("tsv" %in% format)
-  #   write.table(df, file=paste(file,".tsv", sep = ""), quote=F, sep="\t")
+   if("tsv" %in% format)
+     write.table(df, file=paste(file,".tsv", sep = ""), quote=F, sep="\t")
   
   # # Write CSV Delimited
-  # if("csv" %in% format)
-  #   write.csv(df, file=paste(file,".csv",sep = ""), quote = F)
+   if("csv" %in% format)
+     write.csv(df, file=paste(file,".csv",sep = ""), quote = F)
   
   # # Write RData File
-  # if("RData" %in% format)
-  #   save(df, file=paste(file,".RData", sep = "") )
+   if("RData" %in% format)
+     save(df, file=paste(file,".RData", sep = "") )
   
   if("json" %in% format)
    write( toJSON(df, pretty = TRUE), file=paste(file,".json", sep = "") )
@@ -177,9 +184,16 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
   
   # Columns :: Create List From Url
   columns <- unlist(strsplit(readLines(inputFile, n=1),'\t'));
+  
+  # if checkEnumerations - all columns will be read in and assigned 'character' class by default
+  # otherwise only classes with defined enumerations will be stored in the mapped table
   if(checkEnumerations) { column.type <- rep("character", length(columns))}
   else                  { column.type <- rep("NULL", length(columns)) }
   
+
+  # assign class types for recognized columns
+  #   for each enumerated class type, 
+  #     rename matching column to mapped name and assign appropriate type
   os.tcga.classes <- names(os.tcga.column.enumerations)
   for(class.type in os.tcga.classes){
     for(colName in names(os.tcga.column.enumerations[[class.type]])){
@@ -202,16 +216,21 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
                           colClasses = column.type
   );
   
+  # 
   if(checkEnumerations) {
+    
+    # Grab columns matching class type and remove those within the ignore list
     headerWithData <- columns[column.type == checkClassType]
     ignoreCols <- which(headerWithData %in% os.tcga.ignore.columns)
     if(length(ignoreCols > 0))       headerWithData <- headerWithData[- ignoreCols ]
     if(length(headerWithData) == 0)  return(mappedTable);
     
+    # Discard columns where all values are NA
     DataIndicator <- sapply(headerWithData, function(colName){!all(toupper(mappedTable[,colName]) %in% os.enum.na)})
     headerWithData <- headerWithData[DataIndicator]
     if(length(headerWithData) == 0) return(mappedTable);
     
+    # Print list of unique values for each column
     unMappedData <- lapply(headerWithData, function(colName){ unique(mappedTable[,colName])})
     names(unMappedData) <- headerWithData
     print("---Unused columns")
@@ -247,7 +266,8 @@ os.data.batch <- function(inputFile, outputDirectory, ...){
       # Save Data Frame
       os.data.save(
         df = df,
-        file = outputFile)
+        file = outputFile,
+        format = "json")
       
       # Remove Df From Memory
       rm(df)

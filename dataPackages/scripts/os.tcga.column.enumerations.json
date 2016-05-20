@@ -51,9 +51,9 @@
 		"her2_status_by_ihc":["her2_status_by_ihc"],
 		"hiv_status":["hiv_status"],
 		"epstein_barr_viral_status":["epstein_barr_viral_status"],
-		"pet_scan_after_treatment_results":["pet_scan_after_treatment_results"]
+		"pet_scan_after_treatment_results":["pet_scan_after_treatment_results"],
+		"ret":["ret"]
 	},
-	
 	//All Boolean Classes???
 	"os.class.gene_result": {
 		"braf_result": ["braf_result"],
@@ -65,46 +65,29 @@
 	"os.class.status": {
 		"status_tumor": ["tumor_status"]
 	},
-	"os.class.atypical_mitotic_figures": {
-		"atypical_mitotic_figures":["atypical_mitotic_figures"]
-	},
-	"os.class.cytoplasm_presence_less_than_equal_25_percent": {
-		"cytoplasm_presence_less_than_equal_25_percent":["cytoplasm_presence_less_than_equal_25_percent"]
-	},
-	"os.class.diffuse_architecture": {
-		"diffuse_architecture":["diffuse_architecture"]
-	},
-	"os.class.invasion_of_tumor_capsule": {
-		"invasion_of_tumor_capsule":["invasion_of_tumor_capsule"]
-	},
-	"os.class.mitotic_rate": {
-		"mitotic_rate":["mitotic_rate"]
-	},
-	"os.class.necrosis": {
-		"necrosis":["necrosis"]
+	"os.class.present.indicator": {
+		"atypical_mitotic_figures":["atypical_mitotic_figures"],
+		"necrosis":["necrosis"],
+		"cytoplasm_less_than_equal_25_percent":["cytoplasm_presence_less_than_equal_25_percent"],
+		"diffuse_architecture":["diffuse_architecture"].
+		"invasion_of_tumor_capsule":["invasion_of_tumor_capsule"],
+		"mitotic_rate_greater_than_5/50_HPF":["mitotic_rate"],
+		"sinusoid_invasion":["sinusoid_invasion"],
+		"weiss_venous_invasion":["weiss_venous_invasion"],
+		"lymphovascular_involvement":["lymphovascular_involvement"],
+		"corpus_involvement" :["corpus_involvement"],
+		"intratubular_germ_cell_neoplasm":["intratubular_germ_cell_neoplasm"]
 	},
 	"os.class.nuclear_grade_III_IV": {
 		"nuclear_grade_III_IV":["nuclear_grade_III_IV"]
 	},
 	"os.class.ret": {
-		"ret":["ret"]
+		
 	},
-	"os.class.sinusoid_invasion": {
-		"sinusoid_invasion":["sinusoid_invasion"]
-	},
-	"os.class.weiss_venous_invasion": {
-		"weiss_venous_invasion":["weiss_venous_invasion"]
-	},
-	"os.class.corpus_involvement": {
-		"corpus_involvement" :["corpus_involvement"]
-	},
-	"os.class.intratubular_germ_cell_neoplasm": {
-		"intratubular_germ_cell_neoplasm":["intratubular_germ_cell_neoplasm"]
-	},
- 	"os.class.igh_genotype_result": {
+ 	"os.class.status_clonal": {
 		 "igh_genotype_result":["igh_genotype_result"]
 	},
-	"os.class.history_hpylori_infection_indicator": {
+	"os.class.temporal_indicator": {
 		 "history_hpylori_infection_indicator":["history_hpylori_infection_indicator"]
 	},
 	"os.class.tumor_focality": {
@@ -214,20 +197,17 @@
 	"os.class.malignancy_type": {
 		"malignancy_type": ["malignancy_type"]
 	},
-	"os.class.alcohol_exposure_intensity": {
+	"os.class.temporal_intensity": {
 		"alcohol_exposure_intensity": ["alcohol_exposure_intensity"]
 	},	
 	"os.class.tumor_total_depth": {
 		"tumor_total_depth": ["tumor_total_depth"]
 	},
-	"os.class.ihc_percent_positive": {
-			"er_status_ihc_percent_positive": ["er_status_ihc_Percent_Positive"],
-			"pr_status_ihc_percent_positive": ["pr_status_ihc_percent_positive"],
-			"her2_ihc_percent_positive": ["her2_ihc_percent_positive"],
-			"pr_status_ihcPos": ["nte_pr_status_ihc_positive","nte_pr_status_ihc__positive"],
-			"nte_er_status_ihc_positive": ["nte_er_status_ihc__positive"],
-			"her2_status_ihc_positive": ["nte_her2_status_ihc__positive"]		
-	
+	"os.class.percent_ranges": {
+		"er_ihc_positive": ["er_status_ihc_Percent_Positive", "nte_er_status_ihc__positive"],
+		"pr_ihc_positive": ["pr_status_ihc_percent_positive"],
+		"her2_ihc_positive": ["her2_ihc_percent_positive", "nte_her2_status_ihc__positive"],
+		"pr_ihc_positive": ["nte_pr_status_ihc_positive","nte_pr_status_ihc__positive"],
 	},		
 	"os.class.tcgaNumeric": {
 		"age_allergy_animals_insects": ["allergy_animals_insects_dx_age"],
@@ -595,7 +575,13 @@
 		"history_if_barretts_goblet_cell_indicator":["history_if_barretts_goblet_cell_indicator"],
 		"family_history_esoph_gastic_cancer":["family_history_esoph_gastic_cancer"]
 	},
+	"os.class.status.menopause": {
+			"status_menopause": ["menopause_status"],
+	},
 	"os.class.tcgaCharacter": {
+		"icd_10" : ["icd_10"],
+		"icd_3": ["icd_o_3_site"],
+		"icd_3_histology": ["icd_o_3_histology"],
 		"anatomic_neoplasm_subdivision": ["anatomic_neoplasm_subdivision"],
 		"new_tumor": ["new_tumor_event_type", "new_neoplasm_event_type"], //make a class once we figure out how to handle SKCM
 		"pharmaceutical_therapy_extent": ["pharmaceutical_therapy_extent"], //moved back from os.classes
@@ -615,7 +601,6 @@
 		"occupation_primary": ["occupation_primary"],
 		"allergy_animals_insects_type": ["allergy_animals_insects_dx_type"],
 		"allergy_food_type": ["allergy_food_dx_type"],
-		"menopause_status": ["menopause_status"],
 		"history_family_cancer_relationship": ["family_history_cancer_relationship"],
 		"history_family_cancer_type": ["family_history_cancer_type"],
 		"anatomic_neoplasm_subdivision_other": ["anatomic_neoplasm_subdivision_other"],
@@ -742,7 +727,6 @@
 		"margins_involved_hysterectomy":["margins_involved_hysterectomy"],                                                    
 		"other_involved_margins":["other_involved_margins"],                                                           
 		"pelvic_extension_comment":["pelvic_extension_comment"],                                                         
-		"lymphovascular_involvement":["lymphovascular_involvement"],                                                                                                      
 		"fedpet_or_ct_results" :["fedpet_or_ct_results"],                                                            
 		"pos_lymph_node_location" :["pos_lymph_node_location"],                                                         
 		"other_pos_node_location" :["other_pos_node_location"],                                                                                                                                                    
@@ -900,11 +884,8 @@
 		"new_tumor_event_histology":["new_tumor_event_histology"],
 		"new_tumor_event_dx_method_other":["new_tumor_event_dx_method_other"],
 		 "history_hormonal_contraceptives_use":["history_hormonal_contraceptives_use"], 
-		 "history_tamoxifen_use":["history_tamoxifen_use"]
+		 "history_tamoxifen_use":["history_tamoxifen_use"],
+		 "history_immunosuppressive_disease": ["history_immunosuppressive_disease"]
 	}
 } 
 
-
-
-                                                               
- 
