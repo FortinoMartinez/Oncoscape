@@ -215,7 +215,7 @@
 	// 	"LOCOREGIONAL_UROTHELIAL": ["LOCOREGIONAL (UROTHELIAL TUMOR EVENT)"]
 	// },
 	"os.class.tumor_total_depth":{
-		"SUPERFICIAL":["SUPERFICIAL"], JSON BROKE IT
+		"SUPERFICIAL":["SUPERFICIAL"], //JSON BROKE IT
 		"DEEP":["DEEP"] 
 	},
 	"os.class.laterality": {
