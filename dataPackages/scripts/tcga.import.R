@@ -31,7 +31,7 @@ os.tcga.field.enumerations  <- fromJSON("os.tcga.field.enumerations.json")
 os.tcga.column.enumerations <- fromJSON("os.tcga.column.enumerations.json")
 
 # Class Definitions :: Enumerations -------------------------------------------------------
-os.enum.na <- c("", "NA", "[NOTAVAILABLE]","[UNKNOWN]","[NOT AVAILABLE]","[NOT EVALUATED]","UKNOWN","[DISCREPANCY]",
+os.enum.na <- c("", "NA", "[NOTAVAILABLE]","[UNKNOWN]","[NOT AVAILABLE]","[NOT EVALUATED]","UKNOWN","[DISCREPANCY]","[DISCREPANCY]|[DISCREPANCY]",
 "NOT LISTED IN MEDICAL RECORD","[NOT APPLICABLE]","[PENDING]","PENDING", "[NOT AVAILABLE]","[PENDING]","[NOTAVAILABLE]",
 "NOT SPECIFIED","[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
 "[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
@@ -43,6 +43,9 @@ os.tcga.ignore.columns <- c("bcr_patient_uuid","bcr_drug_uuid","bcr_drug_barcode
                             "bcr_followup_uuid", "bcr_followup_barcode",
                             "bcr_radiation_uuid","bcr_radiation_barcode","bcr_omf_uuid", "bcr_omf_barcode",
                             "informed_consent_verified", "form_completion_date","project_code", "patient_id") 
+
+# aggregate list of unmapped data
+unmapped.List <- list()
                             
                                          
 Map( function(key, value, env=parent.frame()){
@@ -184,6 +187,7 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
   
   # Columns :: Create List From Url
   columns <- unlist(strsplit(readLines(inputFile, n=1),'\t'));
+  unMappedData <- list()
   
   # if checkEnumerations - all columns will be read in and assigned 'character' class by default
   # otherwise only classes with defined enumerations will be stored in the mapped table
@@ -234,20 +238,21 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
     unMappedData <- lapply(headerWithData, function(colName){ unique(mappedTable[,colName])})
     names(unMappedData) <- headerWithData
     print("---Unused columns")
-    print(unMappedData)
+#    print(unMappedData)
+
   }
   
-  return(mappedTable)
+  return(list(mapped=mappedTable, unmapped = unMappedData))
 }
 
 ### Batch Is Used To Process Multiple TCGA Files Defined 
-os.data.batch <- function(inputFile, outputDirectory, ...){
+os.data.batch <- function(inputFile, outputDirectory, tables, ...){
   
   # Load Input File 
   inputFiles <- read.delim(inputFile, sep="\t", header=TRUE)
   
   # Loop Column Wise: for each file type
-  for (currentTable in os.data.batch.inputFile.fileCols)
+  for (currentTable in tables)
   {
     # Loop Row Wise: for each disease type
     for (rowIndex in 1:nrow(inputFiles))
@@ -261,8 +266,10 @@ os.data.batch <- function(inputFile, outputDirectory, ...){
       outputFile <- paste(outputDirectory, currentDisease, "_", currentTable, sep="")
       
       # Load Data Frame - map and filter by named columns
-      df <- os.data.load( inputFile = inputFile, ...)
-      
+      MapData <- os.data.load( inputFile = inputFile, ...)
+      df <- MapData$mapped
+	  unmapped.List <- appendList(unmapped.List, MapData$unmapped)
+
       # Save Data Frame
       os.data.save(
         df = df,
@@ -273,12 +280,33 @@ os.data.batch <- function(inputFile, outputDirectory, ...){
       rm(df)
     }
   }
+  os.data.save(
+        df = unmapped.List,
+        file = "unmapped.List",
+        format = "json")
+   
 }
+
+# Aggregate unmapped column names and classes into a single list  ------------------
+appendList <- function (x, val) 
+{
+    if(!is.list(x) && !is.list(val)) return(x)
+    xnames <- names(x)
+    for (v in names(val)) {
+        x[[v]] <- if (v %in% xnames && is.list(x[[v]]) && is.list(val[[v]])) 
+            appendList(x[[v]], val[[v]])
+        else unique(c(x[[v]], val[[v]]))
+    }
+    x
+}
+
 
 # Run Block  -------------------------------------------------------
 os.data.batch(
   inputFile = os.data.batch.inputFile,
   outputDirectory = os.data.batch.outputDir,
+  tables = "pt", 
   checkEnumerations = TRUE,
   checkClassType = "os.class.tcgaCharacter")
 
+#tables = os.data.batch.inputFile.fileCols,
