@@ -1,6 +1,6 @@
 
 {
-
+//demographics
 	"os.class.tcgaId": {
 		"patient_ID": ["bcr_patient_barcode"]
 	},
@@ -19,8 +19,13 @@
 	"os.class.vital": {
 		"status_vital": ["vital_status"]
 	},
+	"os.class.occupation": {
+	  "occupation_primary_industry": [
+	  "occupation_current": [
 
+	},
 
+//tests
 	"os.class.test_method": {
 		"idh1_method": ["idh1_mutation_test_method"],
 		"eml4_alk_method": ["eml4_alk_analysis_type"],
@@ -30,7 +35,7 @@
 		"genetic_abnormality_method":["genetic_abnormality_method_other"]
 	},
 
-
+//systems
 	"os.class.stage": {
 		"stage_M": ["clinical_M", "ajcc_metastasis_pathologic_pm","ajcc_metastasis_clinical_cm"],
 		"stage_N": ["clinical_N","ajcc_nodes_pathologic_pn", "pathologic_N","ajcc_nodes_clinical_cn"],
@@ -40,6 +45,12 @@
 		"fab_category": ["fab_category"],
 		"serum_markers":["serum_markers"],
 		"masaoka_stage":["masaoka_stage"]
+	},
+	"os.class.clark.level":{
+		"clark_level_at_diagnosis": [  "clark_level_at_diagnosis"]
+	},
+	"os.class.pugh.classification":{
+		"child_pugh_classification": ["child_pugh_classification"]
 	},
 	"os.class.route": {
 		"drug_route": ["route_of_administration"]
@@ -79,7 +90,7 @@
 		"grade_tier_system": ["grade_tier_system"]
 	},
 
-
+//indicators
 	"os.class.margin_status": {
 		"margin_status": ["margin_status"],
 		"margin_status_reexcision": ["margin_status_reexcision"]
@@ -142,7 +153,7 @@
 		"extracapsular_extension_present": ["extracapsular_extension_present"]
 	},
 
-
+//temporal indicators
 	"os.class.temporal_indicator": {
 		 "history_hpylori_infection_indicator":["history_hpylori_infection_indicator"]
 	},
@@ -152,8 +163,11 @@
 	"os.class.status.menopause": {
 			"status_menopause": ["menopause_status"]
 	},
+	"os.class.year_range": {
+		"asthma_eczema_allergy_first_diagnosis": ["asthma_eczema_allergy_first_diagnosis"]
+	},
 
-
+// encounter reason/status
 	"os.class.encounter_type": {
 		"encounter_type": ["performance_status_timing"]
 	},
@@ -165,9 +179,22 @@
 		"drug_total_dose_units": ["pharmaceutical_tx_total_dose_units"],	
 		"radiation_total_dose_units": ["radiation_adjuvant_units"]
 	},
-	"os.class.nuclear_grade_III_IV": {
-		
+	"os.class.followup_reason": {
+		"followup_reason": ["followup_reason"]
 	},
+	"os.class.cause_of_death_source": {
+		"cause_of_death_source": ["cause_of_death_source"]
+	},
+	"os.class.disease_type": {
+		"cause_of_death": ["cause_of_death"]
+		"family_history_cancer_type": ["family_history_cancer_type_other", "family_cancer_type_txt", "history_family_cancer_type"]
+	},
+	"os.class.family.relationship": {
+		"family_history_thyroid_cancer": ["family_history_thyroid_cancer"],
+		"history_family_cancer_relationship": ["history_family_cancer_relationship"]
+	}
+	
+//treatment
 	"os.class.treatment_outcomes": { 
 		"treatment_outcome_first_course": ["treatment_outcome_first_course"],
 		"treatment_outcome_at_tcga_followup": ["treatment_outcome_at_tcga_followup"],
@@ -178,10 +205,10 @@
 		"radiation_type_other": ["radiation_type_other"]
 	},
 	"os.class.drug_agent": {
-		"drug_therapy_name": ["drug_name"]
+		"drug_therapy_name": ["drug_name", "chemo_concurrent_type_other", "chemo_concurrent_type"]
 	},
 
-
+//positioning
 	"os.class.zone_of_origin": {
 		"zone_of_origin": ["zone_of_origin"]
 	},
@@ -200,23 +227,16 @@
 	"os.class.tumor_total_depth": {
 		"tumor_total_depth": ["tumor_total_depth"]
 	},
-
 	"os.class.new_tumor": { //added back to tcgacharacter for now
 	 	"new_tumor": ["new_tumor_event_type", "new_neoplasm_event_type"] 
 	},
 
+	"os.class.tcgaNumeric.radiation":{
+	  "i_131_radiation_first_tx_dose":
+      "i_131_radiation_tx_cumulative_dose":
+      "i_131_radiation_subsequent_tx":
 
-	"os.class.followup_reason": {
-		"followup_reason": ["followup_reason"]
-	},
-	"os.class.cause_of_death_source": {
-		"cause_of_death_source": ["cause_of_death_source"]
-	},
-	"os.class.cause_of_death": {
-		"cause_of_death": ["cause_of_death"]
-	},
-	
-
+	}
 
 	"os.class.tcgaNumeric": {
 		"24hr_of_banking_bands": ["bands_24hr_of_banking"],
@@ -577,10 +597,22 @@
 	"os.class.allergy.food": {
 		"allergy_food_type": ["allergy_food_dx_type"],
 	},
+	"os.class.anatomic_organ_subdivision": {
+		"anatomic_organ_subdivision": ["anatomic_organ_subdivision"],
+		"contiguous_organ_resection_other"
+		"contiguous_organ_resection"
+		"extranodal_involvment_other"
+		"maximum_tumor_bulk_anatomic_site":
+    	"metastasis_site"
+		"metastasis_site_other":
+		"metastatic_site_other"
+		"metastatic_site"
+		"metastatic_tumor_site"
+	},
+
 	"os.class.tcgaCharacter": {
 		"anatomic_neoplasm_subdivision_other": ["anatomic_neoplasm_subdivision_other"],
 		"anatomic_neoplasm_subdivision": ["anatomic_neoplasm_subdivision"],
-		"anatomic_organ_subdivision": ["anatomic_organ_subdivision"],
 		"anatomic_site": ["other_malignancy_anatomic_site_text", "other_malignancy_anatomic_site"],
 		"asbestos_exposure_source":["asbestos_exposure_source"],
 		"asthma_eczema_allergy_first_diagnosis": ["asthma_eczema_allergy_first_dx"],
@@ -633,8 +665,6 @@
 		"esophageal_tumor_location_involved":["esophageal_tumor_location_involved"],
 		"extracapsular_spread_pathologic": ["extracapsular_spread_pathologic"],
 		"extranocular_nodule_size":["extranocular_nodule_size"],
-		"extranodal_involvement":["extranodal_involvement"],	
-		"extranodal_involvment_other":["extranodal_involvment_other"],
 		"extrathyroidal_extension":["extrathyroidal_extension"],
 		"extravascular_matrix_patterns":["extravascular_matrix_patterns"],
 		"eye_color":["eye_color"],

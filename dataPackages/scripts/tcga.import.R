@@ -111,6 +111,31 @@ setAs("character","os.class.tcgaCharacter", function(from){
   return(from)
 })
 
+### TCGA Numeric Radiation
+setClass("os.class.tcgaNumeric.radiation");
+setAs("character","os.class.tcgaNumeric.radiation", function(from){
+  
+  # Convert Input Character Vector To Uppercase
+  from<-toupper(from) 
+  
+  # Get Indexes Of Fram Where Value Is In NA
+  from.na<-which(from %in% os.enum.na)
+  
+  # Set From Indexes Values To NA
+  from[from.na]<-NA 
+  
+  from<- gsub("MCI|MILLICURIES|-MILLICURIE|MCI (3730 MBQ)|MILLICURIES 131-IODINE", "", from)
+  trim(from)
+  
+  from <- as.numeric(from)
+  
+  if(all(is.numeric(from))) return (from)
+  
+  # Kill If Not In Enum or Na
+  stop(paste("os.class.tcgaNumeric.radiation not properly set: ", from[!is.numeric(from)], collapse=";"))
+  
+})
+
 
 ### TCGA Numeric
 setClass("os.class.tcgaNumeric");
