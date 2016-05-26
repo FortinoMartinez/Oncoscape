@@ -32,7 +32,7 @@ os.tcga.column.enumerations <- fromJSON("os.tcga.column.enumerations.json")
 
 # Class Definitions :: Enumerations -------------------------------------------------------
 os.enum.na <- c("", "NA", "[NOTAVAILABLE]","[UNKNOWN]","[NOT AVAILABLE]","[NOT EVALUATED]","UKNOWN","[DISCREPANCY]","[DISCREPANCY]|[DISCREPANCY]",
-"NOT LISTED IN MEDICAL RECORD","[NOT APPLICABLE]","[PENDING]","PENDING", "[NOT AVAILABLE]","[PENDING]","[NOTAVAILABLE]",
+"NOT LISTED IN MEDICAL RECORD","[NOT APPLICABLE]","[PENDING]","PENDING", "[NOT AVAILABLE]","[PENDING]","[NOTAVAILABLE]","[NOT APPLICABLE]|[NOT APPLICABLE]","[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]",
 "NOT SPECIFIED","[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
 "[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
 "[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]","N/A")
@@ -62,6 +62,7 @@ Map( function(key, value, env=parent.frame()){
       values <-os.tcga.field.enumerations[[key]][[fieldName]]
       from[ which(from %in% values)] <- fieldName
     }
+    # !!!! need to convert so all standardized names stored for each raw value
     
     if(all(from %in% c(standardVals, NA)))
       return(from)
@@ -240,6 +241,7 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
                           dec = ".", 
                           sep = "\t",
                           strip.white = TRUE,
+                          check.names=FALSE,
                           numerals = "warn.loss",
                           col.names = columns,
                           colClasses = column.type
@@ -263,7 +265,7 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
     unMappedData <- lapply(headerWithData, function(colName){ unique(mappedTable[,colName])})
     names(unMappedData) <- headerWithData
     print("---Unused columns")
-#    print(unMappedData)
+    print(unMappedData)
 
   }
   
@@ -280,7 +282,7 @@ os.data.batch <- function(inputFile, outputDirectory, tables, ...){
   for (currentTable in tables)
   {
     # Loop Row Wise: for each disease type
-    for (rowIndex in 1:nrow(inputFiles))
+    for (rowIndex in 24:nrow(inputFiles))
     {
       currentDisease   <- inputFiles[ rowIndex, os.data.batch.inputFile.studyCol ];
       currentDirectory <- inputFiles[ rowIndex, os.data.batch.inputFile.dirCol ]
@@ -293,7 +295,7 @@ os.data.batch <- function(inputFile, outputDirectory, tables, ...){
       # Load Data Frame - map and filter by named columns
       MapData <- os.data.load( inputFile = inputFile, ...)
       df <- MapData$mapped
-	  unmapped.List <- appendList(unmapped.List, MapData$unmapped)
+	    unmapped.List <- appendList(unmapped.List, MapData$unmapped)
 
       # Save Data Frame
       os.data.save(
@@ -332,6 +334,6 @@ os.data.batch(
   outputDirectory = os.data.batch.outputDir,
   tables = "pt", 
   checkEnumerations = TRUE,
-  checkClassType = "os.class.tcgaCharacter")
+  checkClassType = "character")
 
 #tables = os.data.batch.inputFile.fileCols,
