@@ -269,7 +269,7 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
     if(length(headerWithData) == 0) return(mappedTable);
     
     # Print list of unique values for each column
-    unMappedData <- lapply(headerWithData, function(colName){ unique(mappedTable[,colName])})
+    unMappedData <- lapply(headerWithData, function(colName){ unique(toupper(mappedTable[,colName]))})
     names(unMappedData) <- headerWithData
     print("---Unused columns")
     print(unMappedData)
