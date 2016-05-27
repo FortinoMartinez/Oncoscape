@@ -213,7 +213,14 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
   
   # Columns :: Create List From Url
   columns <- unlist(strsplit(readLines(inputFile, n=1),'\t'));
-  unMappedData <- list()
+  unMappedData <- list();
+  
+  if(grepl("clinical_patient_skcm.txt",inputFile)){
+  	columns[columns=="submitted_tumor_site"] = "skcm_tissue_site"
+  }
+  if(grepl("clinical_patient_thca.txt",inputFile)){
+    columns[columns=="metastatic_dx_confirmed_by_other"] = "thca_metastatic_dx_confirmed_by_other"
+  }
   
   # if checkEnumerations - all columns will be read in and assigned 'character' class by default
   # otherwise only classes with defined enumerations will be stored in the mapped table
@@ -282,7 +289,7 @@ os.data.batch <- function(inputFile, outputDirectory, tables, ...){
   for (currentTable in tables)
   {
     # Loop Row Wise: for each disease type
-    for (rowIndex in 24:nrow(inputFiles))
+    for (rowIndex in 1:nrow(inputFiles))
     {
       currentDisease   <- inputFiles[ rowIndex, os.data.batch.inputFile.studyCol ];
       currentDirectory <- inputFiles[ rowIndex, os.data.batch.inputFile.dirCol ]

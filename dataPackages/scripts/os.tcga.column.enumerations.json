@@ -222,7 +222,8 @@
 	},
 	"os.class.disease_type": {
 		"cause_of_death": ["cause_of_death"],
-		"family_history_cancer_type": ["family_history_cancer_type_other", "family_cancer_type_txt", "history_family_cancer_type", "family_history_cancer_type"]
+		"family_history_cancer_type": ["family_history_cancer_type_other", "family_cancer_type_txt", "history_family_cancer_type", "family_history_cancer_type", "relative_family_cancer_hx_text"],
+		"thca_metastatic_dx_confirmed_by_other": ["thca_metastatic_dx_confirmed_by_other"]
 	},
 	"os.class.family.relationship": {
 		"family_history_thyroid_cancer": ["family_history_thyroid_cancer"],
@@ -281,8 +282,9 @@
 	"os.class.tumor_total_depth": {
 		"tumor_total_depth": ["tumor_total_depth"]
 	},
-	"os.class.new_tumor": { //added back to tcgacharacter for now
-	 	"new_tumor": ["new_tumor_event_type", "new_neoplasm_event_type"] 
+	"os.class.tumor_type": { //added back to tcgacharacter for now
+	 	"new_tumor": ["new_tumor_event_type", "new_neoplasm_event_type"],
+	 	"tumor_site": ["skcm_tumor_site"]
 	},
     "os.class.proximity":{
 		"esophageal_tumor_location": ["esophageal_tumor_location_involved", "esophageal_tumor_location_centered"]
@@ -668,7 +670,6 @@
 		"extranodal_involvment_other": ["extranodal_involvment_other"],
 		"maximum_tumor_bulk_anatomic_site":["maximum_tumor_bulk_anatomic_site"],
     	"metastatic_site": ["metastasis_site", "metastasis_site_other", "metastatic_site_other", "metastatic_site", "metastatic_tumor_site", "other_metastatic_site"],
-    	"relative_family_cancer_hx_text": ["relative_family_cancer_hx_text"],
     	"site_of_primary_tumor_other": ["site_of_primary_tumor_other"],
     	"tumor_site": ["tumor_site", "submitted_tumor_site"],
     	"location_lung_parenchyma":["location_lung_parenchyma"]
