@@ -1,0 +1,75 @@
+[
+  {
+    "patient_ID": "TCGA.OR.A5K0",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -18235,
+    "surgery_procedure": true,
+    "days_to_surgery": -18235,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.OR.A5KP",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -2129,
+    "surgery_procedure": true,
+    "days_to_surgery": -2129,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -2093,
+    "ajcc_staging_edition": "5TH",
+    "stage_T": "T2A",
+    "stage_N": "N0",
+    "stage_M": "M0",
+    "stage_S": "S2",
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.OR.A5L5",
+    "malignancy_type": "SYNCHRONOUS MALIGNANCY",
+    "days_to_diagnosis": 22,
+    "surgery_procedure": true,
+    "days_to_surgery": 22,
+    "pharmaceutical_therapy": true,
+    "days_to_drug_start": 42,
+    "radiation_therapy": false,
+    "ajcc_staging_edition": "2009",
+    "stage_T": "T2A",
+    "stage_N": "NX",
+    "stage_M": "M0",
+    "stage_S.1": "S2A",
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.OR.A5LB",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": 0,
+    "surgery_procedure": true,
+    "days_to_surgery": 0,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "stage_N": "NX",
+    "stage_M": "M0",
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.P6.A5OG",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -6881,
+    "surgery_procedure": true,
+    "days_to_surgery": -6881,
+    "pharmaceutical_therapy": true,
+    "days_to_drug_start": -6881,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "surgery_procedure": false,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "RIGHT"
+  }
+]

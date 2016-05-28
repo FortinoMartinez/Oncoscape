@@ -1,0 +1,130 @@
+[
+  {
+    "patient_ID": "TCGA.AF.3913",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": 134,
+    "pharmaceutical_therapy": true,
+    "days_to_drug_start": 9,
+    "radiation_therapy": false,
+    "ajcc_staging_edition": "7TH",
+    "stage_T": "T3A",
+    "stage_N": "N0",
+    "stage_M": "MX",
+    "stage_S": "S3",
+    "laterality": "BOTH"
+  },
+  {
+    "patient_ID": "TCGA.AG.3580",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.AG.3611",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "pharmaceutical_therapy": true,
+    "drug_therapy_name": "HORMONE",
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.AG.3612",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -1037,
+    "pharmaceutical_therapy": true,
+    "drug_therapy_name": "CHEMOTHERAPY",
+    "radiation_therapy": true,
+    "stage_T": "T1C",
+    "stage_N": "N0",
+    "stage_M": "M0"
+  },
+  {
+    "patient_ID": "TCGA.AG.3890",
+    "malignancy_type": "SYNCHRONOUS MALIGNANCY",
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AG.4008",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -5510,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "stage_T": "T3A",
+    "stage_N": "N0",
+    "stage_M": "M0"
+  },
+  {
+    "patient_ID": "TCGA.AG.A00H",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -3318,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AG.A014",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -1492,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AG.A015",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -5964,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AG.A015",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AG.A01N",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -7883,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AG.A023",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -1096,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.BM.6198",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false
+  },
+  {
+    "patient_ID": "TCGA.G5.6233",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -1622,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false
+  },
+  {
+    "patient_ID": "TCGA.G5.6235",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -3334,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -964,
+    "ajcc_staging_edition": "5TH",
+    "stage_T": "T3"
+  },
+  {
+    "patient_ID": "TCGA.G5.6641",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -4967,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  }
+]

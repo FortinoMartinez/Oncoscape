@@ -1,0 +1,444 @@
+[
+  {
+    "patient_ID": "TCGA.3B.A9HJ",
+    "malignancy_type": "SYNCHRONOUS MALIGNANCY",
+    "days_to_diagnosis": 0,
+    "surgery_procedure": true,
+    "days_to_surgery": 0,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "ajcc_staging_edition": "7TH",
+    "stage_T": "TX",
+    "stage_N": "NX",
+    "stage_M": "MX",
+    "stage_S": "S1A"
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HO",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -750,
+    "surgery_procedure": true,
+    "days_to_surgery": -689,
+    "pharmaceutical_therapy": true,
+    "days_to_drug_start": -689,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -689,
+    "ajcc_staging_edition": "7TH",
+    "stage_S": "S3",
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.DX.A3M2",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -2457,
+    "surgery_procedure": true,
+    "days_to_surgery": -2457,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BK",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -6094,
+    "surgery_procedure": true,
+    "days_to_surgery": -6094,
+    "pharmaceutical_therapy": true,
+    "days_to_drug_start": -6094,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -6094
+  },
+  {
+    "patient_ID": "TCGA.DX.A6YT",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -9290,
+    "surgery_procedure": true,
+    "days_to_surgery": -9290,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6YU",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -1540,
+    "surgery_procedure": true,
+    "days_to_surgery": -1540,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -1143
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EL",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -2634,
+    "surgery_procedure": true,
+    "days_to_surgery": -2604,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -2559
+  },
+  {
+    "patient_ID": "TCGA.DX.A7ET",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -2938,
+    "surgery_procedure": true,
+    "days_to_surgery": -2938,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EU",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -83,
+    "surgery_procedure": true,
+    "days_to_surgery": -83,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BG",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -6382,
+    "surgery_procedure": true,
+    "days_to_surgery": -6382,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BH",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -1453,
+    "surgery_procedure": true,
+    "days_to_surgery": -1453,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BP",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -185,
+    "surgery_procedure": true,
+    "days_to_surgery": -185,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2H",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -7573,
+    "surgery_procedure": true,
+    "days_to_surgery": -7573,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2J",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -7336,
+    "surgery_procedure": true,
+    "days_to_surgery": -7336,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2P",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -7136,
+    "surgery_procedure": true,
+    "days_to_surgery": -7136,
+    "pharmaceutical_therapy": true,
+    "days_to_drug_start": -7167,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2W",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -771,
+    "surgery_procedure": true,
+    "days_to_surgery": -771,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2X",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -3969,
+    "surgery_procedure": true,
+    "days_to_surgery": -3963,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.DX.AB30",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -2416,
+    "surgery_procedure": true,
+    "days_to_surgery": -2399,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -2389,
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.DX.AB32",
+    "malignancy_type": "SYNCHRONOUS MALIGNANCY",
+    "days_to_diagnosis": 63,
+    "surgery_procedure": true,
+    "days_to_surgery": 63,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.DX.AB35",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -5058,
+    "surgery_procedure": true,
+    "days_to_surgery": -4868,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB36",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -3991,
+    "surgery_procedure": true,
+    "days_to_surgery": -3991,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.DX.AB37",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -2310,
+    "surgery_procedure": true,
+    "days_to_surgery": -2310,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.DX.AB3A",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -2763,
+    "surgery_procedure": true,
+    "days_to_surgery": -2763,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.FX.A3NK",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -2883,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.HB.A43Z",
+    "malignancy_type": "SYNCHRONOUS MALIGNANCY",
+    "days_to_diagnosis": 5,
+    "surgery_procedure": true,
+    "days_to_surgery": 5,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "ajcc_staging_edition": "7TH",
+    "stage_T": "T1B",
+    "stage_N": "N0",
+    "stage_M": "M0",
+    "stage_S": "S1",
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.HB.A5W3",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "surgery_procedure": true,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.HS.A5N9",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "surgery_procedure": true,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.HS.A5N9",
+    "malignancy_type": "PRIOR MALIGNANCY"
+  },
+  {
+    "patient_ID": "TCGA.IE.A4EH",
+    "malignancy_type": "SYNCHRONOUS MALIGNANCY",
+    "days_to_diagnosis": 314,
+    "surgery_procedure": true,
+    "days_to_surgery": 314,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.IF.A4AK",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -1986,
+    "pharmaceutical_therapy": true,
+    "days_to_drug_start": -1876,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -1925,
+    "ajcc_staging_edition": "6TH",
+    "stage_T": "T1",
+    "stage_N": "N0",
+    "stage_M": "M0",
+    "stage_S": "S1A",
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.IS.A3K6",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.IS.A3K8",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.IS.A3K8",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.IW.A3M6",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "stage_T": "TIS (DCIS)",
+    "stage_N": "NX",
+    "stage_M": "MX",
+    "stage_S": "S0IS"
+  },
+  {
+    "patient_ID": "TCGA.KF.A41W",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "surgery_procedure": true,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.LI.A9QH",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -1631,
+    "surgery_procedure": false,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -1541,
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.MB.A5Y9",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -11878,
+    "surgery_procedure": true,
+    "days_to_surgery": -11878,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.PC.A5DM",
+    "malignancy_type": "PRIOR MALIGNANCY"
+  },
+  {
+    "patient_ID": "TCGA.PC.A5DP",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -14606,
+    "surgery_procedure": true,
+    "days_to_surgery": -14606
+  },
+  {
+    "patient_ID": "TCGA.QC.A6FX",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -2079,
+    "surgery_procedure": true,
+    "days_to_surgery": -2079,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.QC.A6FX",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -465,
+    "surgery_procedure": true,
+    "days_to_surgery": -465,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.QQ.A8VB",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": 0,
+    "surgery_procedure": true,
+    "days_to_surgery": 3,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.SG.A849",
+    "malignancy_type": "SYNCHRONOUS MALIGNANCY",
+    "days_to_diagnosis": 0,
+    "surgery_procedure": true,
+    "days_to_surgery": 29,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "ajcc_staging_edition": "7TH",
+    "stage_T": "T1",
+    "stage_N": "NX",
+    "stage_M": "MX",
+    "stage_S": "S1"
+  },
+  {
+    "patient_ID": "TCGA.VT.A80J",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -641,
+    "surgery_procedure": true,
+    "days_to_surgery": -641,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "LEFT"
+  },
+  {
+    "patient_ID": "TCGA.WK.A8XT",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -3319,
+    "surgery_procedure": true,
+    "days_to_surgery": -3307,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -12735,
+    "surgery_procedure": true,
+    "days_to_surgery": -12735,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "days_to_radiation_start": -12704
+  }
+]

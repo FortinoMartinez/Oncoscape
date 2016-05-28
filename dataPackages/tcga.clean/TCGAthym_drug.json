@@ -1,0 +1,136 @@
+[
+  {
+    "patient_ID": "TCGA.4V.A9QQ",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 261,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 369,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QQ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 261,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 369,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.4X.A9FA",
+    "drug_therapy_name": "AZATHIOPRINE",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 2,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.4X.A9FD",
+    "drug_therapy_name": "AZATHIOPRINE",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.5U.AB0D",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 15,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 201,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.5U.AB0D",
+    "drug_therapy_name": "ETOPOSIDE",
+    "days_to_drug_start": 15,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 201,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M5",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M5",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M5",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M6",
+    "drug_therapy_name": "PEMETREXED",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 4100,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 4213,
+    "treatment_best_response": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M6",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2000,
+    "treatment_best_response": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M6",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2000,
+    "treatment_best_response": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M6",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2000,
+    "treatment_best_response": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.XM.AAZ1",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 13,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 55,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XU.A933",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 137,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 218,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XU.A933",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 137,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 221,
+    "therapy_on_clinical_trial": false
+  }
+]

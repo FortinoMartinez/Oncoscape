@@ -1,0 +1,2376 @@
+[
+  {
+    "patient_ID": "TCGA.2J.AAB1",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 59,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AAB4",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 145,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 187,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AAB6",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AAB8",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 262,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AAB9",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 308,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABA",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABE",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 91,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABE",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 112,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 185,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABF",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 244,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABH",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 40,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 229,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABI",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 103,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 222,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABK",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABO",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 57,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABP",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 237,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABR",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 43,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 252,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABT",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 90,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABU",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 139,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2J.AABV",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2L.AAQA",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 82,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2L.AAQE",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2L.AAQI",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 72,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2L.AAQJ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 171,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I5",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 78,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 211,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I5",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 110,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 147,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I7",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 191,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 203,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I7",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 103,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 139,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I7",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 72,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 86,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I9",
+    "drug_therapy_name": "DEXAMETHASONE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 518,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 620,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I9",
+    "drug_therapy_name": "MEGESTROL ACETATE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 518,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 620,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I9",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 294,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 336,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I9",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 336,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I9",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 265,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I9",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 518,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 620,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9I9",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 518,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 620,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IC",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 168,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 245,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IC",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 125,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IC",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 98,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 105,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IC",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 512,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 722,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IH",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 71,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 237,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IH",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 379,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 538,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IH",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 379,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IH",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 379,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IH",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 763,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IN",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 193,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 231,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IU",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 89,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 371,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IX",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 128,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IX",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 155,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 239,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9IZ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 224,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9J0",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 153,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 335,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9J0",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 393,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9J0",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 393,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9J0",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 393,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 470,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3A.A9J0",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 393,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3E.AAAY",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3E.AAAZ",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1332,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1789,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3E.AAAZ",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1332,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1789,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3E.AAAZ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1332,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1789,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.6879",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 190,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 225,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.6880",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 167,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.7273",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 90,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.7273",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 221,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.7273",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 280,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.7273",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 280,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.7273",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 280,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.7273",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 280,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.7276",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 41,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 141,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.A44G",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 75,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.A44G",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 98,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 144,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.A44H",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 98,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 196,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.A44H",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 228,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 267,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F2.A8YN",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 116,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 147,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A4P5",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 138,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A4P6",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 130,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 221,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A4P6",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 96,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A4P6",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 698,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 726,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A4P6",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 698,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 726,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A4P6",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 698,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 726,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A545",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 113,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 224,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A545",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 113,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 224,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A545",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 457,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 634,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A545",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 457,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 634,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A545",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 457,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 634,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A5VM",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 162,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A5VM",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 195,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A5VM",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 195,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.A78T",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 106,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 115,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.AAPP",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 89,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 150,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.AAPP",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 181,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 303,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.AAPP",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 181,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 303,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.AAPQ",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.FB.AAPY",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 243,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.AAPZ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 435,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 543,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.AAPZ",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 435,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 543,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FB.AAQ6",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 156,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FZ.5919",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FZ.5922",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 639,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 800,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FZ.5922",
+    "drug_therapy_name": "ERLOTINIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 76,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 442,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FZ.5923",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 444,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FZ.5924",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 257,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 362,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.H6.8124",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 43,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 141,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.H6.8124",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 166,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 205,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.H8.A6C1",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 79,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 233,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.H8.A6C1",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 468,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.H8.A6C1",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 468,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.H8.A6C1",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 468,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.H8.A6C1",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 468,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HV.A5A6",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1834,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1895,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HV.A7OP",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 77,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HV.A7OP",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 362,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 404,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HV.A7OP",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 432,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HV.A7OP",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 432,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HV.AA8V",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 37,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 149,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HV.AA8V",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 568,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 780,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HV.AA8V",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 281,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 435,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HV.AA8X",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 45,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 253,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7289",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 438,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7918",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 98,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 137,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7918",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 553,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 666,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7918",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 553,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 666,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7918",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 553,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 666,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7918",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 553,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 666,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7918",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 910,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 960,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7918",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 910,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 960,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7918",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 910,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 960,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7918",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 910,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 960,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7920",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 118,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7923",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 194,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.7924",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 253,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 522,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.8001",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 265,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.8001",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 265,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.8317",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 137,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 186,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.8519",
+    "drug_therapy_name": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 226,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.8637",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 76,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 351,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A49G",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 235,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A49H",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 121,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 207,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A49I",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 86,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A4BK",
+    "drug_therapy_name": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 136,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 228,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A77O",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 96,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 120,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A77P",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 48,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 146,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A9TJ",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 65,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 81,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A9TJ",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 65,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 81,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A9TJ",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 65,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 81,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A9TJ",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 65,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 81,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A9TJ",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 142,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HZ.A9TJ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 532,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7644",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 217,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7645",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 178,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7645",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 811,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1230,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7645",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1309,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1377,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7645",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 178,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7645",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1309,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1377,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7645",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 1309,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1377,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7645",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1224,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1230,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7645",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1224,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1230,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7647",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 141,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 537,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7651",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 124,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 343,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.IB.7651",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 581,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 581,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7651",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 581,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 581,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7651",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 581,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 581,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7652",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 115,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 268,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7885",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 95,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 279,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7888",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 154,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 329,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7888",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 448,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 881,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7888",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 154,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 329,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7889",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 125,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 202,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7891",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 70,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 223,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7891",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 539,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 539,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7891",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 564,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7891",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 539,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 539,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7891",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 539,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 539,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7891",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 539,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 539,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.7891",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 564,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 859,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.8126",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 103,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 413,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.8127",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 194,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A5SO",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 309,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 309,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A5SP",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 90,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 169,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A5SS",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 52,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 259,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A6UF",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 117,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 271,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A6UF",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 636,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A6UF",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 636,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A6UF",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 636,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A7LX",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A7LX",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A7LX",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A7LX",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.A7LX",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 193,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 230,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUO",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 91,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 205,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUP",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 119,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUQ",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 169,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUQ",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 169,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUQ",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 169,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUS",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 96,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUT",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 48,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUU",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUV",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 89,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IB.AAUW",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.L1.A7W4",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 66,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 116,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.L1.A7W4",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 225,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 225,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LB.A7SX",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 113,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LB.A7SX",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 113,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LB.A8F3",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 88,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 101,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LB.A8F3",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 126,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 192,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LB.A8F3",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 197,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 225,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LB.A9Q5",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 169,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LB.A9Q5",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 198,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 238,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LB.A9Q5",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 310,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 310,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LB.A9Q5",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 303,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 310,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.M8.A5N4",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 59,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 203,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.M8.A5N4",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 59,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 203,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.OE.A75W",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 87,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 87,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.OE.A75W",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 118,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.PZ.A5RE",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 65,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.PZ.A5RE",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 79,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.PZ.A5RE",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 104,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 142,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.Q3.A5QY",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 35,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.RB.A7B8",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RB.A7B8",
+    "drug_therapy_name": "FU7",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 115,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 115,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RB.A7B8",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 115,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 115,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RB.AA9M",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 67,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 218,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RM",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 103,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 264,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RO",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 98,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RO",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 35,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 155,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RO",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 309,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 378,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RO",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 309,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 378,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RO",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 421,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 485,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RO",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 421,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 485,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RO",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 421,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 485,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RP",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 413,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 435,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RP",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 413,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RP",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RP",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 203,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 242,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RP",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 408,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 408,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RP",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 413,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S4.A8RP",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 413,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.US.A774",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 116,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 250,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUG",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 13,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 109,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUG",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 13,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 109,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUG",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 130,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUG",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 130,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUG",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 130,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUG",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 130,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUH",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 85,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUI",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUI",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 190,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUI",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 190,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XD.AAUL",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.YB.A89D",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 7,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 210,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YB.A89D",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 87,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 123,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YY.A8LH",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 176,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 218,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YY.A8LH",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 43,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YY.A8LH",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 85,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 135,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.Z5.AAPL",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 21,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.Z5.AAPL",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 21,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.Z5.AAPL",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 21,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "patient_ID": "TCGA.FA.8693",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A4BB",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A4XK",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A4XK",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A6HN",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A6HO",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A6HO",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 739,
+    "first_progression_biopsiedr": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A7DS",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A7DS",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A7Q1",
+    "pet_scan_after_treatment_results": "NOT DONE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A82F",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FA.A86F",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 150,
+    "first_progression_biopsiedr": false,
+    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FF.8041",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FF.8042",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FF.8043",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FF.8046",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FF.8047",
+    "pet_scan_after_treatment_results": "POSITIVE",
+    "days_to_progression": 24,
+    "first_progression_biopsiedr": true,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.FF.8061",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FF.8062",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FF.A7CQ",
+    "pet_scan_after_treatment_results": "POSITIVE",
+    "days_to_progression": 255,
+    "first_progression_biopsiedr": false,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.FF.A7CR",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 290,
+    "first_progression_biopsiedr": true,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.FF.A7CW",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FF.A7CW",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FF.A7CX",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.FM.8000",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.G8.6324",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "days_to_progression": 338,
+    "first_progression_biopsiedr": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.G8.6325",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.G8.6326",
+    "pet_scan_after_treatment_results": "INDETERMINATE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.G8.6326",
+    "pet_scan_after_treatment_results": "INDETERMINATE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.G8.6906",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 6383
+  },
+  {
+    "patient_ID": "TCGA.G8.6909",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.G8.6914",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 3669,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GR.7351",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GR.7353",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GR.A4D4",
+    "pet_scan_after_treatment_results": "INDETERMINATE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GR.A4D4",
+    "pet_scan_after_treatment_results": "INDETERMINATE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GR.A4D5",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GR.A4D6",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GR.A4D9",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 1218,
+    "first_progression_biopsiedr": true,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TQ",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TQ",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TQ",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TT",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TU",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TU",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TV",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TV",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TW",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TW",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TX",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TX",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TX",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TY",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "days_to_progression": 3255,
+    "first_progression_biopsiedr": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TZ",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TZ",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9U3",
+    "pet_scan_after_treatment_results": "NEGATIVE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9U3",
+    "pet_scan_after_treatment_results": "NEGATIVE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9U4",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "days_to_progression": 106,
+    "first_progression_biopsiedr": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.RQ.A68N",
+    "pet_scan_after_treatment_results": "NOT DONE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.RQ.A6JB"
+  },
+  {
+    "patient_ID": "TCGA.RQ.AAAT",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  }
+]

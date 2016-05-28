@@ -1,0 +1,73 @@
+[
+  {
+    "patient_ID": "TCGA.2E.A9G8",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ABDOMINAL WALL",
+    "days_to_progression": 335,
+    "surgery_procedure": true,
+    "days_to_surgery": 396,
+    "new_tumor_event_procedure": "SURGICAL RESECTION",
+    "radiation_therapy": true,
+    "drug": true,
+    "residual_tumor": "R0"
+  },
+  {
+    "patient_ID": "TCGA.5B.A90C",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 517,
+    "surgery_procedure": true,
+    "days_to_surgery": 517,
+    "new_tumor_event_procedure": "OTHER",
+    "new_tumor_event_procedure_other": "EXCISIONAL BIOPSY",
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.AP.A5FX",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEAL LN; VULVAR MASS",
+    "days_to_progression": 407,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KP.A3W3",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 661,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KP.A3W3",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ABDOMINAL CARCINOMATOSIS",
+    "days_to_progression": 661,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KP.A3W4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 321,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KP.A3W4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ABDOMINAL CARCINOMATOSIS",
+    "days_to_progression": 321,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  }
+]

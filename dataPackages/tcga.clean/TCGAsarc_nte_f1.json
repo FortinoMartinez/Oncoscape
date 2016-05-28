@@ -1,0 +1,1630 @@
+[
+  {
+    "patient_ID": "TCGA.3B.A9HI",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 606,
+    "surgery_procedure": true,
+    "days_to_surgery": 624,
+    "radiation_therapy": false,
+    "drug": false,
+    "count_discontiguous_lesion": 23,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HI",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 791,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 4
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HI",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 791,
+    "surgery_procedure": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HI",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "AXILLARY LN/CHEST WALL",
+    "days_to_progression": 791,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 1
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HO",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ABDOMINAL WALL",
+    "days_to_progression": 595,
+    "surgery_procedure": true,
+    "days_to_surgery": 672,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 496,
+    "surgery_procedure": true,
+    "days_to_surgery": 1156,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 3,
+    "residual_tumor": "RX",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 1372,
+    "surgery_procedure": true,
+    "days_to_surgery": 1645,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "RX",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ARM",
+    "days_to_progression": 1974,
+    "surgery_procedure": true,
+    "days_to_surgery": 1637,
+    "radiation_therapy": true,
+    "drug": true,
+    "count_discontiguous_lesion": 2,
+    "residual_tumor": "R1",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HT",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 670,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HU",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 746,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HZ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 309,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 6,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HZ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PELVIS",
+    "days_to_progression": 546,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9I0",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 503,
+    "surgery_procedure": true,
+    "days_to_surgery": 896,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 4,
+    "residual_tumor": "R0",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.3B.A9I3",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "AXILLARY LYMPH NODE",
+    "days_to_progression": 87,
+    "surgery_procedure": true,
+    "days_to_surgery": 242,
+    "radiation_therapy": true,
+    "drug": false,
+    "count_discontiguous_lesion": 2,
+    "residual_tumor": "RX",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A1KU",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ABDOMEN",
+    "days_to_progression": 94
+  },
+  {
+    "patient_ID": "TCGA.DX.A1KY",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 205
+  },
+  {
+    "patient_ID": "TCGA.DX.A1KZ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 1294
+  },
+  {
+    "patient_ID": "TCGA.DX.A1L0",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 103
+  },
+  {
+    "patient_ID": "TCGA.DX.A1L1",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 349
+  },
+  {
+    "patient_ID": "TCGA.DX.A1L1",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 573
+  },
+  {
+    "patient_ID": "TCGA.DX.A1L2",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 1480
+  },
+  {
+    "patient_ID": "TCGA.DX.A1L3",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 437
+  },
+  {
+    "patient_ID": "TCGA.DX.A1L3",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 515
+  },
+  {
+    "patient_ID": "TCGA.DX.A1L4",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 340
+  },
+  {
+    "patient_ID": "TCGA.DX.A23T",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 104
+  },
+  {
+    "patient_ID": "TCGA.DX.A23U",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 873
+  },
+  {
+    "patient_ID": "TCGA.DX.A23V",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 378
+  },
+  {
+    "patient_ID": "TCGA.DX.A23Y",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 172
+  },
+  {
+    "patient_ID": "TCGA.DX.A23Z",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 751
+  },
+  {
+    "patient_ID": "TCGA.DX.A2J0",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 213
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LS",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 114
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LT",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "UPPER ARM",
+    "days_to_progression": 1303,
+    "surgery_procedure": true,
+    "days_to_surgery": 1318,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R1",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LU",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 290,
+    "surgery_procedure": true,
+    "days_to_surgery": 497,
+    "drug": true,
+    "residual_tumor": "R0"
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LU",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 290,
+    "surgery_procedure": true,
+    "days_to_surgery": 497,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 2,
+    "pathologic_tumor_burden": 19,
+    "residual_tumor": "R0",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LU",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 1716,
+    "surgery_procedure": true,
+    "days_to_surgery": 2218,
+    "radiation_therapy": false,
+    "drug": true,
+    "radiologic_tumor_burden": 6.2,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LU",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 2480,
+    "surgery_procedure": true,
+    "days_to_surgery": 2509,
+    "radiation_therapy": false,
+    "drug": false,
+    "radiologic_tumor_burden": 5.8,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LW",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 1125
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LW",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 1125,
+    "surgery_procedure": true,
+    "days_to_surgery": 3234,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LW",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 3590,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "count_discontiguous_lesion": 4,
+    "radiologic_tumor_burden": 22.4,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3M1",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 1212,
+    "surgery_procedure": true,
+    "days_to_surgery": 1252,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R2",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U6",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 160
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U6",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 160,
+    "surgery_procedure": true,
+    "days_to_surgery": 173,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R1",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U6",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 406,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 349
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 349
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "new_tumor_event_site_other": "SACRUM",
+    "days_to_progression": 1284,
+    "surgery_procedure": false,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 1284,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 1284,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 349,
+    "surgery_procedure": true,
+    "days_to_surgery": 662,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "R2",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 349,
+    "surgery_procedure": true,
+    "days_to_surgery": 626,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 605,
+    "surgery_procedure": true,
+    "days_to_surgery": 662,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "R2",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 740,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PERITONEUM",
+    "days_to_progression": 1031,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "KIDNEY",
+    "days_to_progression": 1031,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U8",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 128
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U9",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 203
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U9",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PELVIS",
+    "days_to_progression": 336
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 176,
+    "surgery_procedure": true,
+    "days_to_surgery": 299,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 563,
+    "surgery_procedure": true,
+    "days_to_surgery": 772
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 176,
+    "surgery_procedure": true,
+    "days_to_surgery": 299,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 563,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 916,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 1027,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "INTERCOSTAL",
+    "days_to_progression": 1287,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UD",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 603
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UD",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 603,
+    "surgery_procedure": true,
+    "days_to_surgery": 630,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 3,
+    "pathologic_tumor_burden": 6.1,
+    "residual_tumor": "R0",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UD",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 876,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UD",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 876,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UE",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 224,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UF",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 964
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UF",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 964,
+    "surgery_procedure": true,
+    "days_to_surgery": 1035,
+    "radiation_therapy": false,
+    "drug": false,
+    "radiologic_tumor_burden": 2.8,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UF",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 1929,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UF",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 964,
+    "surgery_procedure": true,
+    "days_to_surgery": 1035,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UF",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 1792,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UF",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 1929,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A48J",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 97
+  },
+  {
+    "patient_ID": "TCGA.DX.A48J",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 98
+  },
+  {
+    "patient_ID": "TCGA.DX.A48L",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 316
+  },
+  {
+    "patient_ID": "TCGA.DX.A48L",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 316
+  },
+  {
+    "patient_ID": "TCGA.DX.A48R",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 315
+  },
+  {
+    "patient_ID": "TCGA.DX.A48R",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 315
+  },
+  {
+    "patient_ID": "TCGA.DX.A48R",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 315
+  },
+  {
+    "patient_ID": "TCGA.DX.A48R",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 315
+  },
+  {
+    "patient_ID": "TCGA.DX.A48V",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "FLANK",
+    "days_to_progression": 1407,
+    "surgery_procedure": true,
+    "days_to_surgery": 1432,
+    "radiation_therapy": false,
+    "drug": false,
+    "count_discontiguous_lesion": 2,
+    "residual_tumor": "R0",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 408,
+    "surgery_procedure": true,
+    "days_to_surgery": 867,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 2,
+    "pathologic_tumor_burden": 13.5,
+    "residual_tumor": "R0",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 1010,
+    "surgery_procedure": true,
+    "days_to_surgery": 1147,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 1010,
+    "surgery_procedure": true,
+    "days_to_surgery": 1147,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 1492,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 1414,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BF",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 947
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BG",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 149,
+    "surgery_procedure": true,
+    "days_to_surgery": 448,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 2,
+    "residual_tumor": "R1",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BG",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PERITONEUM",
+    "days_to_progression": 518,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BH",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 232,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6Z2",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 2659,
+    "surgery_procedure": true,
+    "days_to_surgery": 2681,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EL",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 2249,
+    "surgery_procedure": true,
+    "days_to_surgery": 2261,
+    "radiation_therapy": false,
+    "drug": false,
+    "count_discontiguous_lesion": 2,
+    "pathologic_tumor_burden": 1.9,
+    "residual_tumor": "R0",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EN",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 352,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BG",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 330,
+    "surgery_procedure": true,
+    "days_to_surgery": 369,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BH",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PLEURA",
+    "days_to_progression": 272,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 4,
+    "radiologic_tumor_burden": 31.7,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BO",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "CALF",
+    "days_to_progression": 333,
+    "surgery_procedure": true,
+    "days_to_surgery": 483,
+    "radiation_therapy": true,
+    "drug": false,
+    "residual_tumor": "R0"
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BO",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LOWER LEG",
+    "days_to_progression": 333,
+    "surgery_procedure": true,
+    "days_to_surgery": 483,
+    "radiation_therapy": true,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BT",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "AXILLA",
+    "days_to_progression": 668,
+    "surgery_procedure": true,
+    "days_to_surgery": 805,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BT",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "AXILLA",
+    "days_to_progression": 668,
+    "surgery_procedure": true,
+    "days_to_surgery": 805,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BT",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "AXILLA",
+    "days_to_progression": 668,
+    "surgery_procedure": true,
+    "days_to_surgery": 805,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2E",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 132,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2E",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RIGHT VENTRICLE",
+    "days_to_progression": 132,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2E",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "INTRACARDIAC",
+    "days_to_progression": 132,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2E",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 132,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2E",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PLEURA",
+    "days_to_progression": 132,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2E",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "HEART",
+    "days_to_progression": 132,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2Q",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "INGUINAL LYMPH NODE",
+    "days_to_progression": 490,
+    "surgery_procedure": true,
+    "days_to_surgery": 498,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2Q",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "INGUINAL LYMPH NODE",
+    "days_to_progression": 490,
+    "surgery_procedure": true,
+    "days_to_surgery": 498,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2T",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 784,
+    "surgery_procedure": true,
+    "days_to_surgery": 862,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB35",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "days_to_progression": 284,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB3C",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 567,
+    "surgery_procedure": true,
+    "days_to_surgery": 576,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB3C",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "POPLITEAL SPACE",
+    "days_to_progression": 1857,
+    "surgery_procedure": true,
+    "days_to_surgery": 2226,
+    "residual_tumor": "R0"
+  },
+  {
+    "patient_ID": "TCGA.FX.A48G",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 168,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.HB.A3L4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 489,
+    "surgery_procedure": true,
+    "days_to_surgery": 572,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 2,
+    "pathologic_tumor_burden": 14,
+    "radiologic_tumor_burden": 13.9,
+    "residual_tumor": "R0",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.HB.A3L4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 683,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.HB.A3L4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 326,
+    "surgery_procedure": true,
+    "days_to_surgery": 347,
+    "radiation_therapy": false,
+    "drug": false,
+    "count_discontiguous_lesion": 2,
+    "pathologic_tumor_burden": 3.1,
+    "radiologic_tumor_burden": 2.7,
+    "residual_tumor": "R0",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.HB.A3L4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 424,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.HB.A43Z",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 894
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 490,
+    "surgery_procedure": true,
+    "days_to_surgery": 490,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 490,
+    "surgery_procedure": true,
+    "days_to_surgery": 730,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT THIGH",
+    "days_to_progression": 1371,
+    "surgery_procedure": true,
+    "days_to_surgery": 1371,
+    "radiation_therapy": false,
+    "drug": true,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT KIDNEY",
+    "days_to_progression": 1785,
+    "surgery_procedure": true,
+    "days_to_surgery": 1785,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 2,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RIGHT FLANK AND ABDOMINAL WALL",
+    "days_to_progression": 2197,
+    "surgery_procedure": true,
+    "days_to_surgery": 2197,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 2,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "NECK",
+    "days_to_progression": 2197,
+    "surgery_procedure": true,
+    "days_to_surgery": 2197,
+    "radiation_therapy": false,
+    "drug": true,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 2435,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PARASPINAL METS",
+    "days_to_progression": 2435,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.IS.A3K7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 119,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.IS.A3KA",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 76,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.IW.A3M4",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 2207,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.IW.A3M5",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 9,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.K1.A3PN",
+    "days_to_progression": 1033
+  },
+  {
+    "patient_ID": "TCGA.K1.A42W",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 826
+  },
+  {
+    "patient_ID": "TCGA.K1.A42X",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ADJEACENT AREA",
+    "days_to_progression": 2036
+  },
+  {
+    "patient_ID": "TCGA.K1.A6RT",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 129
+  },
+  {
+    "patient_ID": "TCGA.KD.A5QS",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 359,
+    "surgery_procedure": true,
+    "days_to_surgery": 359,
+    "radiation_therapy": false,
+    "drug": true,
+    "radiologic_tumor_burden": 16,
+    "residual_tumor": "RX",
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.KD.A5QU",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 1060,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LI.A67I",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 574,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LI.A9QH",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 426
+  },
+  {
+    "patient_ID": "TCGA.MO.A47R",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BRAIN",
+    "days_to_progression": 259,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.N1.A6IA",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 116,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.N1.A6IA",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 116,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.QC.A7B5",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "SKIN",
+    "days_to_progression": 259
+  },
+  {
+    "patient_ID": "TCGA.QQ.A8VG",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 1852,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.RN.AAAQ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT SHOULDER",
+    "days_to_progression": 307
+  },
+  {
+    "patient_ID": "TCGA.RN.AAAQ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "SUPRACLAVICULAR REGION",
+    "days_to_progression": 307,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.SG.A6Z4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 105,
+    "surgery_procedure": true,
+    "days_to_surgery": 444,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "RX"
+  },
+  {
+    "patient_ID": "TCGA.SI.A71O",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 683,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.WP.A9GB",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 214,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.WP.A9GB",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PERITONEAL CAVITY",
+    "days_to_progression": 214,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A7WC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 594,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A7WC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 762,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true,
+    "count_discontiguous_lesion": 2,
+    "radiologic_tumor_burden": 3.4,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A7WC",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 1029,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "count_discontiguous_lesion": 1,
+    "radiologic_tumor_burden": 6.5,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A7WD",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 558,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "count_discontiguous_lesion": 4,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C2",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 581,
+    "surgery_procedure": true,
+    "days_to_surgery": 624,
+    "radiation_therapy": true,
+    "drug": true,
+    "count_discontiguous_lesion": 2,
+    "radiologic_tumor_burden": 4.5,
+    "residual_tumor": "R1",
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 317,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 504,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 504,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 772,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "new_tumor_event_site_other": "T11",
+    "days_to_progression": 772,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 1,
+    "radiologic_tumor_burden": 1.4,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT GLUTEAL MUSCLE MASS",
+    "days_to_progression": 772,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 1,
+    "radiologic_tumor_burden": 3.9,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "new_tumor_event_site_other": "5TH RIB",
+    "days_to_progression": 772,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 1,
+    "radiologic_tumor_burden": 2.7,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 843,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT GLUTEAL MUSCLE MASS",
+    "days_to_progression": 843,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 1,
+    "radiologic_tumor_burden": 4.8,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 975,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT GLUTEAL MUSCLE MASS",
+    "days_to_progression": 975,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "count_discontiguous_lesion": 1,
+    "radiologic_tumor_burden": 5.4,
+    "tumor_multifocal": false
+  },
+  {
+    "patient_ID": "TCGA.X9.A971",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 224,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "count_discontiguous_lesion": 4,
+    "tumor_multifocal": true
+  },
+  {
+    "patient_ID": "TCGA.X9.A971",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 332,
+    "surgery_procedure": true,
+    "days_to_surgery": 390,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R1",
+    "tumor_multifocal": false
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "patient_ID": "TCGA.V4.A9E7",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_surgery": 56,
+    "days_to_progression": 35
+  },
+  {
+    "patient_ID": "TCGA.V4.A9E8",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_progression": 557
+  },
+  {
+    "patient_ID": "TCGA.V4.A9EE",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 211
+  },
+  {
+    "patient_ID": "TCGA.V4.A9EI",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 241
+  },
+  {
+    "patient_ID": "TCGA.V4.A9EL",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "surgery_procedure": false,
+    "drug": true,
+    "days_to_progression": 413
+  },
+  {
+    "patient_ID": "TCGA.V4.A9EQ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "drug": true,
+    "days_to_progression": 252
+  },
+  {
+    "patient_ID": "TCGA.V4.A9EU",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BILIARY",
+    "days_to_progression": 86
+  },
+  {
+    "patient_ID": "TCGA.V4.A9EW",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "drug": true,
+    "days_to_progression": 197
+  },
+  {
+    "patient_ID": "TCGA.V4.A9EX",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "drug": true,
+    "days_to_progression": 381
+  },
+  {
+    "patient_ID": "TCGA.V4.A9F0",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "drug": true,
+    "days_to_progression": 489
+  },
+  {
+    "patient_ID": "TCGA.V4.A9F3",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "drug": true,
+    "days_to_progression": 355
+  },
+  {
+    "patient_ID": "TCGA.V4.A9F3",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "SKIN",
+    "surgery_procedure": true,
+    "drug": false,
+    "days_to_surgery": 595,
+    "days_to_progression": 597
+  },
+  {
+    "patient_ID": "TCGA.VD.A8KD",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": -4
+  },
+  {
+    "patient_ID": "TCGA.VD.A8KF",
+    "new_tumor": "DISTANT METASTASIS"
+  },
+  {
+    "patient_ID": "TCGA.WC.A87T",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "SKIN",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 2020,
+    "days_to_progression": 2020
+  },
+  {
+    "patient_ID": "TCGA.WC.A87W",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "SKIN",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 625,
+    "days_to_progression": 606
+  },
+  {
+    "patient_ID": "TCGA.WC.AA9A",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "SKIN",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 371,
+    "days_to_progression": 371
+  },
+  {
+    "patient_ID": "TCGA.YZ.A984",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "THYROID",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 154,
+    "days_to_progression": 154
+  },
+  {
+    "patient_ID": "TCGA.YZ.A984",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 916
+  }
+]

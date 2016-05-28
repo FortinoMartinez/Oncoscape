@@ -1,0 +1,116 @@
+[
+  {
+    "patient_ID": "TCGA.FA.A86F",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 36,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 244,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 280,
+    "treatment_best_response": "STABLE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.G8.6324",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 40,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 20,
+    "days_to_radiation_start": 563,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 591,
+    "treatment_best_response": "STABLE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.G8.6906",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_total_dose": 1200,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 6,
+    "days_to_radiation_start": 2646,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 2648,
+    "course_number": 1,
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.G8.6907",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_total_dose": 1000,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 5,
+    "days_to_radiation_start": 383,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 385,
+    "course_number": 1,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.GR.7351",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 39.6,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 22,
+    "days_to_radiation_start": 112,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 141,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TU",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 15,
+    "days_to_radiation_start": 214,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 235,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TV",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 25.2,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 149,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 169,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TW",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 27,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 188,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 208,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TX",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 76,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 96,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.GS.A9TZ",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 156,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 182,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  }
+]

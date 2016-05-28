@@ -1,0 +1,14 @@
+[
+  {
+    "patient_ID": "TCGA.3X.AAVA",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 2000,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 5,
+    "days_to_radiation_start": 271,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 277,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  }
+]

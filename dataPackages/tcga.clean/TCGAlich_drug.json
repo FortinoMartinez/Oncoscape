@@ -1,0 +1,651 @@
+[
+  {
+    "patient_ID": "TCGA.2Y.A9GV",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2233,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2304,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2Y.A9GZ",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 719,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 842,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2Y.A9H8",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 398,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 491,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2Y.A9H8",
+    "drug_therapy_name": "EVEROLIMUS",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 498,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 608,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.2Y.A9H8",
+    "drug_therapy_name": "PASIREOTIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 498,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 608,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.2Y.A9H9",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1017,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3K.AAZ8",
+    "drug_therapy_name": "SORAFENIB",
+    "days_to_drug_start": 212,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 304,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3K.AAZ8",
+    "drug_therapy_name": "REGORAFENIB",
+    "days_to_drug_start": 304,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BC.4073",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG/DAY",
+    "drug_dose": 400,
+    "regimen_number": 1,
+    "drug_route": "ORAL",
+    "therapy_regimen": "PROGRESSION",
+    "drug_total_dose": 800
+  },
+  {
+    "patient_ID": "TCGA.BC.4073",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 166,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG/DAY",
+    "drug_dose": 200,
+    "regimen_number": 2,
+    "drug_route": "ORAL",
+    "therapy_regimen": "OTHER",
+    "therapy_regimen_other": "DOSE REDUCTION",
+    "drug_total_dose": 400
+  },
+  {
+    "patient_ID": "TCGA.BC.A10Q",
+    "drug_therapy_name": "TAMOXIFEN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 359,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 408,
+    "regimen_number": 1,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.BC.A10Q",
+    "drug_therapy_name": "MITOMYCIN",
+    "pharmaceutical_therapy_type.1": "OTHER",
+    "days_to_drug_start": 217,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 217,
+    "drug_cycles": 1,
+    "pharma_type_other": "CHEMOEMBOLIZATION",
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 5,
+    "regimen_number": 1,
+    "drug_route": "INHALATION",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 5
+  },
+  {
+    "patient_ID": "TCGA.BC.A10Q",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "OTHER",
+    "days_to_drug_start": 217,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 217,
+    "drug_cycles": 1,
+    "pharma_type_other": "CHEMOEMBOLIZATION",
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 20,
+    "regimen_number": 1,
+    "drug_route": "INHALATION",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 20
+  },
+  {
+    "patient_ID": "TCGA.BC.A10Q",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 426,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 751,
+    "regimen_number": 2,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.BC.A10R",
+    "pharmaceutical_therapy_type.1": "OTHER",
+    "days_to_drug_start": 237,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 237,
+    "drug_cycles": 1,
+    "pharma_type_other": "CHEMOEMBOLIZATION",
+    "regimen_number": 1,
+    "drug_route": "INHALATION",
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.BC.A10W",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 82,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 85,
+    "drug_cycles": 1,
+    "regimen_number": 1,
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.BC.A8YO",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 186,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BW.A5NP",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 128,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 289,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CC.A8HV",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 158,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 188,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A115",
+    "pharmaceutical_therapy_type": "PHASE II TRIAL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 502,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 841,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DD.A11D",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 586,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 641,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A11D",
+    "drug_therapy_name": "VELIPARIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 709,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1105,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DD.A11D",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1408,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1474,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A1EC",
+    "pharmaceutical_therapy_type": "PHASE III TRIAL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 330,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DD.A1EG",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1154,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1310,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A1EH",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 358,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 863,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A1EH",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 553,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 721,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A1EH",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 862,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 975,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DD.A1EJ",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 264,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 887,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A1EK",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 188,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 349,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A3A4",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 459,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 486,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A3A7",
+    "pharmaceutical_therapy_type": "PHASE II TRIAL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 146,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 192,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DD.A4ND",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 20,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 218,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A4NE",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 225,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A4NH",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 162,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 305,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A4NQ",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 290,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A4NS",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1116,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1314,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DD.A4NS",
+    "drug_therapy_name": "ABT-888",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1349,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1425,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DD.A4NS",
+    "drug_therapy_name": "LY228820",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1685,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1903,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DD.A4NS",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1349,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1425,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.ED.A459",
+    "drug_therapy_name": "ALVESIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 103,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EP.A2KA",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 312,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FV.A3I0",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 166,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 586,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FV.A3R2",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 25,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FV.A3R2",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 25,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G3.A25S",
+    "drug_therapy_name": "SUNITINIB",
+    "pharmaceutical_therapy_type": "OTHER",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 313,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 348,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G3.A25S",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 351,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 369,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G3.A3CG",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 367,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 577,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G3.A3CH",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 717,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G3.A3CJ",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 346,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 367,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G3.A5SI",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 599,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 733,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G3.AAV5",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 227,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.K7.AAU7",
+    "drug_therapy_name": "GEMCITABINE",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K7.AAU7",
+    "drug_therapy_name": "CISPLATIN",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LG.A9QD",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.UB.A7MA",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 207,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.UB.A7MA",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 207,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.UB.A7MA",
+    "drug_therapy_name": "TEMSIROLIMUS",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 485,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.UB.A7MA",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 485,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.UB.A7MB",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 168,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.UB.A7MB",
+    "pharmaceutical_therapy_type": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 187,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 382,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.UB.A7MB",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 480,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 510,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.UB.A7MB",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 480,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 510,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.UB.A7MB",
+    "pharmaceutical_therapy_type": "IMMUNOTHERAPY",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 525,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.WX.AA44",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 306,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 375,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WX.AA47",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 331,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 493,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  }
+]

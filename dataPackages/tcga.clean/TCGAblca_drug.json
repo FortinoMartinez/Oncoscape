@@ -1,0 +1,2940 @@
+[
+  {
+    "patient_ID": "TCGA.BL.A0C8",
+    "drug_therapy_name": "BCG",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 680,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 722,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A20N",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 198,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 323,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A20N",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 198,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 323,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A20T",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 161,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 263,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A20T",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 161,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 263,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A20T",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 263,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 331,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.BT.A20T",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 263,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 331,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.BT.A20T",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 419,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 419,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A2LA",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 96,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 180,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A2LA",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 96,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 180,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A2LD",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 458,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 611,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A2LD",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 458,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 611,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A3PJ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 68,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A3PJ",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 68,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A42B",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 121,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 190,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A42B",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 121,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 190,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A42B",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 121,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 190,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A42E",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 154,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BT.A42E",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 154,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.C4.A0EZ",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.C4.A0EZ",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.C4.A0EZ",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 243,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 243,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CF.A47S",
+    "drug_therapy_name": "BCG",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 109,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 317,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CF.A47S",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 109,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 324,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CF.A47T",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 149,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CF.A47T",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 149,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CU.A3YL",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 155,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 224,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CU.A3YL",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 155,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 224,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A1A7",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 133,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 246,
+    "drug_cycles": 6,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 1000,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "PROGRESSION",
+    "drug_total_dose": 1300
+  },
+  {
+    "patient_ID": "TCGA.DK.A1A7",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 133,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 246,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A1AA",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.DK.A1AB",
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.DK.A1AC",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 168,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 242,
+    "drug_cycles": 4,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 1000,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 129
+  },
+  {
+    "patient_ID": "TCGA.DK.A1AC",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 178,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 242,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A1AD"
+  },
+  {
+    "patient_ID": "TCGA.DK.A1AF",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 289,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 435,
+    "drug_cycles": 6,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 800,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "PROGRESSION",
+    "drug_total_dose": 1200
+  },
+  {
+    "patient_ID": "TCGA.DK.A3IQ",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 277,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 319,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3IQ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 277,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 417,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3IU",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 521,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 578,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3IU",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 521,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 578,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3IV",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 17,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 87,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3IV",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 17,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 87,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3WW",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3WW",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3WW",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3WX",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 105,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3WX",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 105,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A3WY",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 132,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 235,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DK.A3WY",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 132,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 235,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DK.A6B2",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 283,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 370,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A6B5",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 248,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 348,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A6B5",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 248,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 348,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A6B5",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 248,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 348,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A6B6",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 43,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 113,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.A6B6",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 43,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 113,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6M",
+    "drug_therapy_name": "GEMCITABINE",
+    "days_to_drug_start": 735,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 820,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6M",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 735,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 820,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6P",
+    "drug_therapy_name": "GEMCITABINE",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 99,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6P",
+    "drug_therapy_name": "CISPLATIN",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 99,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6R",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 125,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 204,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6R",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 125,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 204,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6S",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 575,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 710,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6S",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 575,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 710,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6S",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 575,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 710,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6T",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 75,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 110,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6T",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 75,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 110,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6U",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 13,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 90,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6U",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 13,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 90,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA6W",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 263,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 328,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA76",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 114,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA76",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 114,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DK.AA77",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 601,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DK.AA77",
+    "drug_therapy_name": "NIVOLUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 601,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.E5.A2PC",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 139,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E5.A2PC",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 139,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E5.A2PC",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 139,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E5.A2PC",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 139,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E5.A4TZ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 351,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 421,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E5.A4TZ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 351,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 421,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E5.A4U1",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 37,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 114,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E5.A4U1",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 37,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 114,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E5.A4U1",
+    "pharmaceutical_therapy_type": "PLATINUM-BASED ANTINEOPLASTIC",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 719,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.E5.A4U1",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1024,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1150,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3B4",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 115,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3B4",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 115,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SJ",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 401,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 436,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SJ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 315,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 436,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SJ",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 274,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 275,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SJ",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 274,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 275,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SJ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 274,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 380,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SJ",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 274,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 275,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SL",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 302,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SL",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 302,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SN",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 117,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SN",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 117,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SO",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 65,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 141,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SO",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 66,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 141,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SP",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SP",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SP",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SP",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SQ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 78,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SQ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 78,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SR",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 146,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 244,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SR",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 146,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 244,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SS",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 87,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A3SS",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 87,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A43S",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 175,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A43S",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 175,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A43U",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 187,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A43U",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 187,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A5BS",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 777,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 854,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A5BS",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 777,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 854,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A5C0",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 160,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 307,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A5C0",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 160,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 279,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A5C1",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1421,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1491,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A5C1",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1421,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1491,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A62S",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 243,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 292,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A62S",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 243,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 292,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A6TA",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A6TA",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A6TA",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A6TA",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A6TC",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 88,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 144,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FD.A6TC",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 88,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 144,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A3Z7",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 70,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 70,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A3Z7",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 70,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 70,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A3Z9",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 32,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 122,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A3Z9",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 46,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 89,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A3ZF",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 41,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A3ZF",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 41,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A871",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 84,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 91,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A871",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 84,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 205,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A871",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 113,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 205,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A871",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 113,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 205,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FJ.A871",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 113,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 189,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EC",
+    "drug_therapy_name": "BEVACIZUMAB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 75,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EC",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 75,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EC",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 75,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EC",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 75,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EC",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 75,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EF",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 170,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EF",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 170,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EF",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 170,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EF",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 170,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EJ",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 38,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EJ",
+    "drug_therapy_name": "MESNA",
+    "pharmaceutical_therapy_type": "CHEMOPROTECTANT",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 38,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EJ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 38,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EJ",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 38,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EK",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 16,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 51,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EK",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 16,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 51,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EK",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 16,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 51,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EK",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 16,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 51,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EL",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 84,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 147,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A2EL",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 84,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 147,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IB",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 143,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 145,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IB",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 143,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 145,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IB",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 143,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 145,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IB",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 143,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 145,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IE",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 29,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 68,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IE",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 29,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 68,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IE",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 29,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 68,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IE",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 100,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IE",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 100,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IE",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 100,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3IE",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 100,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.A3VY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 210,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 210,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3C",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 200,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3C",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 200,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3D",
+    "drug_therapy_name": "ERLOTINIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 15,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 35,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3D",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 178,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3D",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 178,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3D",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 178,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3D",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 178,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3F",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 54,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3F",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 54,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3F",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 54,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G2.AA3F",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 54,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GC.A3YS",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 146,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GC.A3YS",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 106,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GC.A3YS",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 106,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 146,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GD.A2C5",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 325,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.GD.A2C5",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 327,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GD.A2C5",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 327,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GD.A2C5",
+    "drug_therapy_name": "FOSAPREPITANT",
+    "days_to_drug_start": 327,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GD.A3OS",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 156,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GD.A3OS",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 156,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GD.A3OS",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 499,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 549,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GU.A42R",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 344,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GU.A42R",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 344,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A3JW",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 291,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 321,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A3JW",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 291,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 321,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A3JZ",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 529,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 589,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.GV.A3QF",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 197,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 246,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A3QF",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 197,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 261,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A3QH",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 170,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A3QH",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 170,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A3QI",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 771,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 895,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A3QK",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 126,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A3QK",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 126,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A40E",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 98,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GV.A40E",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 98,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HQ.A2OE",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 131
+  },
+  {
+    "patient_ID": "TCGA.HQ.A2OE",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 131
+  },
+  {
+    "patient_ID": "TCGA.K4.A6MB",
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K4.A83P",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K4.A83P",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K4.AAQO",
+    "drug_therapy_name": "GEMCITABINE",
+    "days_to_drug_start": 120,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K4.AAQO",
+    "drug_therapy_name": "CISPLATIN",
+    "days_to_drug_start": 120,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KQ.A41P",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 189,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 331,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KQ.A41P",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 189,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 331,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LT.A5Z6",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 29,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LT.A5Z6",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 29,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SY.A9G5",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 145,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SY.A9G5",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 145,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.UY.A78L",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 152,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 232,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.UY.A78L",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 152,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 232,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.UY.A8OB",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.UY.A8OB",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A8HI",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 161,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 544,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SH",
+    "drug_therapy_name": "HALICHONDRIN B",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 625,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 996,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SH",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1633,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1680,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SH",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1759,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1782,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SH",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1759,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1782,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SH",
+    "drug_therapy_name": "MESNA",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 1759,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1782,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SK",
+    "drug_therapy_name": "BCG",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": -368,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SK",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 142,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 304,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SK",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 142,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 304,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SU",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 137,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 137,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SU",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 137,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 137,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SV",
+    "drug_therapy_name": "BCG",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 0,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 0,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SV",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 174,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 208,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SV",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 174,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 208,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SV",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 258,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 342,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SX",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 136,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 348,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SX",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 136,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 348,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SY",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 199,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 256,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SY",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 199,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 256,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SZ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 169,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9SZ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 169,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9T4",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 158,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 281,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9T4",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 158,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 281,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9T4",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 402,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 436,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9T4",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 402,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 436,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9T4",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 402,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 436,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9T5",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 687,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 757,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.A9T5",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 687,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 757,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAME",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2569,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2569,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAME",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2500,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2543,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAME",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2500,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2543,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMF",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 161,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 274,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMF",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 161,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 274,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMG",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMG",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMJ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 82,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 143,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMJ",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 82,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 143,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMR",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 119,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 192,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMR",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 119,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 192,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMY",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 669,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 853,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMY",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 671,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 853,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAMZ",
+    "drug_therapy_name": "BCG",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 0,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 0,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 53,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 175,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 175,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "HALICHONDRIN B",
+    "pharmaceutical_therapy_type": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 614,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 866,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 898,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1052,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 898,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1052,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 898,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1052,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1094,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1136,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1094,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1136,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1265,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1318,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1265,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1318,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1423,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1486,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1465,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1486,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1598,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1598,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1598,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1598,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "TEMSIROLIMUS",
+    "pharmaceutical_therapy_type": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1703,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1703,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN0",
+    "drug_therapy_name": "VINORELBINE",
+    "pharmaceutical_therapy_type": "BIOLOGICAL THERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1703,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1703,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN1",
+    "drug_therapy_name": "BCG",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 0,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 0,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN1",
+    "drug_therapy_name": "BCG",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 0,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 0,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN3",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 121,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 142,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN3",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 121,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 142,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN5",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 211,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN5",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 211,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN7",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 162,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 200,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN7",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 162,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 200,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN7",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 351,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 374,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN7",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 0,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 9,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN7",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 0,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 9,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XF.AAN7",
+    "drug_therapy_name": "DOCETAXEL;VANDETANIB",
+    "pharmaceutical_therapy_type": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 399,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 442,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.YC.A89H",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 35,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YC.A89H",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 35,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YF.AA3L",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 215,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YF.AA3L",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 214,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZF.AA4V",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 202,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 265,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZF.AA51",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 148,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZF.AA51",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 148,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZF.AA53",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 68,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZF.AA53",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 68,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZF.AA58",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 166,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZF.AA58",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 166,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZF.AA5H",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZF.AA5H",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  }
+]

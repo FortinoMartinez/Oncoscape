@@ -1,0 +1,36 @@
+[
+  {
+    "patient_ID": "TCGA.V4.A9EL",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "surgery_procedure": true,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false
+  },
+  {
+    "patient_ID": "TCGA.WC.A87U",
+    "malignancy_type": "SYNCHRONOUS MALIGNANCY",
+    "days_to_diagnosis": -18,
+    "surgery_procedure": false,
+    "pharmaceutical_therapy": true,
+    "days_to_drug_start": 8,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.WC.A881",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "surgery_procedure": false,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false
+  },
+  {
+    "patient_ID": "TCGA.WC.AA9A",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "surgery_procedure": true,
+    "days_to_surgery": -4019,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false,
+    "laterality": "LEFT"
+  }
+]

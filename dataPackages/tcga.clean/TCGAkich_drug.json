@@ -1,0 +1,188 @@
+[
+  {
+    "patient_ID": "TCGA.KL.8323",
+    "drug_therapy_name": "LYMPHOCYTE INFUSION",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 880,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KL.8323",
+    "drug_therapy_name": "VATALANIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 911,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 942,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KL.8336",
+    "drug_therapy_name": "SUNITINIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 138,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 559,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KL.8336",
+    "drug_therapy_name": "TEMSIROLIMUS",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 558,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 817,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KL.8336",
+    "drug_therapy_name": "BEVACIZUMAB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 824,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 838,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KL.8339",
+    "drug_therapy_name": "SUNITINIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 251,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KL.8341",
+    "drug_therapy_name": "SUNITINIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 196,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 366,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KL.8341",
+    "drug_therapy_name": "BEVACIZUMAB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 196,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 366,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KL.8341",
+    "drug_therapy_name": "SUNITINIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 397,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 457,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KL.8341",
+    "drug_therapy_name": "TEMSIROLIMUS",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 567,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 609,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KL.8341",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 624,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KM.8438",
+    "drug_therapy_name": "SUNITINIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 2342,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2731,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KM.8438",
+    "drug_therapy_name": "TEMSIROLIMUS",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 2731,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 4436,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KM.8438",
+    "drug_therapy_name": "BEVACIZUMAB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 3554,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3858,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KM.A7Q8",
+    "drug_therapy_name": "SUNITINIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KN.8426",
+    "drug_therapy_name": "BEVACIZUMAB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KN.8426",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KN.8428",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 510,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 638,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KO.8404",
+    "drug_therapy_name": "THALIDOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 117,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 139,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.UW.A7GR",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 22,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 288,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.UW.A7GR",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 22,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 288,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  }
+]

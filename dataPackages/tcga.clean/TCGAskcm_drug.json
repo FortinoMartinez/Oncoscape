@@ -1,0 +1,2540 @@
+[
+  {
+    "patient_ID": "TCGA.D3.A1Q1",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 247,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 341,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A1Q1",
+    "pharmaceutical_therapy_type": "MELANOMA-DERIVED HELPER PEPTIDES",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 247,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 341,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A1Q1",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 247,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 341,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A1Q3",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 362,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 362,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A1Q6",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 476,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A1Q9",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 356,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 504,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A1Q9",
+    "drug_therapy_name": "GP-100",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 356,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 504,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A1QA",
+    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 1485,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1538,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A2JC",
+    "drug_therapy_name": "INTERFERON ALFA",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 415,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A2JH",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 291,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 321,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A2JL",
+    "drug_therapy_name": "GP-100",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 2552,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2911,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A2JL",
+    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 2552,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2911,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A2JN",
+    "drug_therapy_name": "INTERFERON ALFA",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 123,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A2JP",
+    "drug_therapy_name": "INTERFERON ALFA",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 193,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A3C1",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A3C7",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 488,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A3CB",
+    "drug_therapy_name": "MEL-44",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 2716,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3079,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A3MV",
+    "drug_therapy_name": "IL-2",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 572,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 639,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A51E",
+    "drug_therapy_name": "DACTINOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2506,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2506,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A51E",
+    "drug_therapy_name": "MELPHALAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2506,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2506,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A51G",
+    "drug_therapy_name": "MELPHALAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A51G",
+    "drug_therapy_name": "DACTINOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A51G",
+    "drug_therapy_name": "GP-100",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A51G",
+    "drug_therapy_name": "RESIQUIMOD",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D3.A51H",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 894,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1045,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A51H",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 894,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1045,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A51H",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 894,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1045,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A5GT",
+    "drug_therapy_name": "INTERFERON ALFA",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 110,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A8GB",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 318,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A8GK",
+    "drug_therapy_name": "MEL-44",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 2060,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2425,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D3.A8GN",
+    "pharmaceutical_therapy_type": "CANCERVAX",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1224,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1639,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.D9.A148",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 4426,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 4496,
+    "drug_cycles": 4,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.DA.A1I1",
+    "drug_therapy_name": "PEMBROLIZUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 6607,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DA.A3F2",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 475,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 772,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DA.A3F5",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 6830,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 6869,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DA.A3F5",
+    "drug_therapy_name": "PEMBROLIZUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 6660,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 6814,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EB.A24C",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 20,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 203,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24C",
+    "drug_therapy_name": "INTERFERON ALFA 2B",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 20,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 203,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24C",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 20,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 203,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24C",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 547,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 632,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24C",
+    "drug_therapy_name": "INTERFERON ALFA 2B",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 505,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 559,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24C",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 505,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 559,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24C",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 505,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 517,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24D",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 41,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24D",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 645,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24D",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 567,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 582,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A24D",
+    "drug_therapy_name": "ALFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 525,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 645,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A3XC",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 410,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 558,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A3Y6",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A4OY",
+    "drug_therapy_name": "TOREMIFENE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 52,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 593,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A4OY",
+    "drug_therapy_name": "LOMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 52,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 593,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A550",
+    "drug_therapy_name": "TAMOXIFEN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 6,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 264,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A553",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 115,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A553",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 115,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A57M",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A57M",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A57M",
+    "drug_therapy_name": "ONDANSETRON",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A57M",
+    "drug_therapy_name": "DEXAMETHASONE",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A57M",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A57M",
+    "drug_therapy_name": "ERYTHROPOIETIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A57M",
+    "drug_therapy_name": "CYCLOSPORIN",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A57M",
+    "drug_therapy_name": "RENAMIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5FP",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 52,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5FP",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 52,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5KH",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 557,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 615,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5KH",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 557,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 615,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5KH",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 557,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 615,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5KH",
+    "drug_therapy_name": "SARGRAMOSTIM",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 557,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 615,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5SH",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1091,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1125,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5SH",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1091,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1125,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5SH",
+    "drug_therapy_name": "INTERFERON ALFA",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1154,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1217,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5UL",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 140,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 280,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5UL",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 140,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 280,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A5UL",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 140,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 280,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A6QY",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 192,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A6QY",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 192,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A6QY",
+    "drug_therapy_name": "INTERFERON ALFA 2B",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 210,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 218,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A6QZ",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 153,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 244,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A6QZ",
+    "drug_therapy_name": "VINCRISTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 153,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 244,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A6R0",
+    "drug_therapy_name": "LOMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 19,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 321,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A85J",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 13,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EB.A85J",
+    "drug_therapy_name": "VINCRISTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 13,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A182",
+    "drug_therapy_name": "PV-10",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 329,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 329,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A185",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 104,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A29C",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 439,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 620,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A29C",
+    "drug_therapy_name": "BRAF INHIBITOR",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 1114,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1502,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A29C",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1500,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1623,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A29C",
+    "drug_therapy_name": "DABRAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 2262,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2413,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A29C",
+    "drug_therapy_name": "TRAMETINIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 2262,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2413,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A29H",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 895,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A29H",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 895,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1231,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A29H",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 1294,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A29Q",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1837,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1858,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A29T",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 11015,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A29V",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 715,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 787,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A29X",
+    "drug_therapy_name": "FOTEMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 517,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 517,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2A5",
+    "drug_therapy_name": "FOTEMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1142,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1142,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GH",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 4948,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GH",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 4948,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 5753,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GI",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 642,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GI",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 642,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1393,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GL",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 1421,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GL",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 1421,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2093,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GS",
+    "drug_therapy_name": "DABRAFENIB",
+    "pharmaceutical_therapy_type": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 1596,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1978,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GS",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1979,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2075,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GS",
+    "pharmaceutical_therapy_type": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 2127,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GS",
+    "pharmaceutical_therapy_type": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 2257,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2354,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GS",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 2372,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2GU",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 1855,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2609,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2M5",
+    "drug_therapy_name": "PNU-159548",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 559,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 559,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2M6",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 992,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2763,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2MD",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1377,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1408,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2ME",
+    "drug_therapy_name": "CANCER VAX",
+    "pharmaceutical_therapy_type": "CANCERVAX",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 2296,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2933,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2MG",
+    "drug_therapy_name": "CANCER VAX",
+    "pharmaceutical_therapy_type": "CANCERVAX",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 1837,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2585,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2MG",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2764,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2932,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2MH",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 356,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 429,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2ML",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5973,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 6156,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2ML",
+    "drug_therapy_name": "FOTEMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 6279,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 6339,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2ML",
+    "drug_therapy_name": "MORAB-004",
+    "pharmaceutical_therapy_type": "IMMUNOTHERAPY",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 6355,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 6440,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A2MM",
+    "drug_therapy_name": "VMCL",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 3636,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 4328,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2MM",
+    "drug_therapy_name": "AUTOLOGOUS VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 4412,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 4618,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2MN",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1290,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1338,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A2MQ",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1176,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1207,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A3AA",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 44,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A3AD",
+    "drug_therapy_name": "BRAF INHIBITOR",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 632,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.EE.A3AE",
+    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 804,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1574,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A3AF",
+    "drug_therapy_name": "FOTEMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 384,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 404,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A3AG",
+    "pharmaceutical_therapy_type": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 741,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A3AG",
+    "pharmaceutical_therapy_type": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 741,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A3AH",
+    "drug_therapy_name": "MUPARFOSTAT",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3977,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 4104,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.EE.A3JB",
+    "drug_therapy_name": "ALFERON",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 24,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A3JI",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 4529,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 4571,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EE.A3JI",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 4608,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ER.A195",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 562,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 911,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A198",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 426,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 517,
+    "drug_units": "MG",
+    "drug_dose": 400,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19E",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 230,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 257,
+    "drug_cycles": 2,
+    "regimen_number": 6,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19E",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 230,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 257,
+    "drug_cycles": 2,
+    "regimen_number": 6,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19G",
+    "drug_therapy_name": "SARGRAMOSTIM",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 4740,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 5013,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19H",
+    "drug_therapy_name": "PATRIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3716,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19H",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3627,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3716,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ER.A19J",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 119,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 119,
+    "drug_cycles": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19K",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 388,
+    "drug_cycles": 2,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19M",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1019,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1093,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ER.A19N",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 4,
+    "drug_dose": 20,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19O",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 154,
+    "pharmaceutical_tx_ongoing": false,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19Q",
+    "drug_therapy_name": "IL-18",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1274,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1337,
+    "drug_cycles": 2,
+    "drug_units": "MG/KG",
+    "drug_dose": 1,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A19Q",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1394,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1428,
+    "drug_cycles": 1,
+    "drug_units": "G/DAY",
+    "drug_dose": 1,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A1A1",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 84,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 418,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.ER.A2NC",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1278,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A2NF",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 120,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 136,
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.ER.A2NF",
+    "drug_therapy_name": "IL-2",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 471,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 502,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A2NF",
+    "drug_therapy_name": "AFLIBERCEPT",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 471,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A2NG",
+    "drug_therapy_name": "IL-2",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 705,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 766,
+    "drug_cycles": 2,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A2NG",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 889,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_units": "MG",
+    "drug_dose": 480,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A2NG",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 578,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 609,
+    "drug_cycles": 4,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.ER.A3EV",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 366,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 366,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FR.A2OS",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 311,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 368,
+    "drug_cycles": 1,
+    "drug_units": "MG/DAY",
+    "drug_dose": 400,
+    "regimen_number": 1,
+    "drug_route": "ORAL",
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.FR.A3YN",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 2324,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2387,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FR.A3YO",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FR.A44A",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 2769,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3134,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FR.A69P",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 107,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FR.A728",
+    "drug_therapy_name": "DABRAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 100,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 119,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FR.A728",
+    "drug_therapy_name": "TRAMETINIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 100,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 119,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FR.A729",
+    "drug_therapy_name": "SYLATRON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 6253,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FR.A7U8",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 89,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 208,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FR.A7U9",
+    "drug_therapy_name": "T-VEC",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 115,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 178,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FR.A7U9",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FR.A8YC",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1020,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1020,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FR.A8YD",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 812,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 880,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FS.A1ZE",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 651,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 761,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FS.A1ZE",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 762,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 853,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FS.A1ZE",
+    "drug_therapy_name": "ANGIOCAL",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 896,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1034,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FS.A1ZE",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1188,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1249,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FS.A1ZE",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1188,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1249,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FS.A1ZS",
+    "drug_therapy_name": "INTERFERON ALFA",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 2566,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2790,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FS.A1ZT",
+    "drug_therapy_name": "INTERFERON ALFA",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 398,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1053,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FS.A1ZW",
+    "drug_therapy_name": "INTERFERON ALFA",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 700,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1005,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FS.A4F0",
+    "drug_therapy_name": "TREOSULFAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1543,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1603,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FS.A4F0",
+    "drug_therapy_name": "INTERFERON ALFA",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 82,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 568,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FS.A4F0",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1359,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1521,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FS.A4F0",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1543,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1603,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.FS.A4F9",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1035,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FW.A3R5",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 714,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 993,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FW.A3TV",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 33,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 58,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FW.A3TV",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GF.A3OT",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 95,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 216,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GF.A3OT",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 95,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 216,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GF.A3OT",
+    "drug_therapy_name": "BEVACIZUMAB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 95,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 216,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GF.A3OT",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 249,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 249,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A264",
+    "drug_therapy_name": "INTERFERON ALFA 2B",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 2752,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3111,
+    "regimen_number": 1,
+    "drug_route": "SUBCUTANEOUS",
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.GN.A267",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1520,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1530,
+    "regimen_number": 1,
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.GN.A26D",
+    "pharmaceutical_therapy_type.1": "OTHER",
+    "days_to_drug_start": 757,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 757,
+    "pharma_type_other": "ISOLATED LIMB PERFUSION (ILP)",
+    "regimen_number": 1,
+    "therapy_regimen": "OTHER",
+    "therapy_regimen_other": "AT SAME TIME AS SURGERY"
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U3",
+    "drug_therapy_name": "IL-2",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 2299,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2574,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U4",
+    "drug_therapy_name": "AXITINIB",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 245,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 647,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U4",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 637,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 707,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U5",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 211,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 435,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U7",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 190,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U8",
+    "drug_therapy_name": "SYLATRON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1186,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U9",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 165,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 249,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U9",
+    "drug_therapy_name": "MELPHALAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 60,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U9",
+    "drug_therapy_name": "IMIQUIMOD",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 384,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A4U9",
+    "drug_therapy_name": "AXITINIB",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 523,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 579,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.GN.A8LK",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1248,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1269,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A8LK",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1493,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1513,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A8LK",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1407,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1428,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.GN.A8LN",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 464,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 464,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A8LN",
+    "drug_therapy_name": "CARBOPLATIN",
+    "days_to_drug_start": 603,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A8LN",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 603,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A8LN",
+    "drug_therapy_name": "PEMBROLIZUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 772,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A9SD",
+    "drug_therapy_name": "DACTINOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1268,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1268,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A9SD",
+    "drug_therapy_name": "MELPHALAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1366,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1366,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A9SD",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1519,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1687,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.GN.A9SD",
+    "drug_therapy_name": "MELPHALAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1268,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1268,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HR.A2OH",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 108,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 471,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HR.A2OH",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1729,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1753,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HR.A2OH",
+    "drug_therapy_name": "IL-2",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1830,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1848,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.QB.AA9O",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 171,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 234,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.A824",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1491,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2710,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.A825",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1644,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1767,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.A825",
+    "drug_therapy_name": "VINBLASTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1644,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1767,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.A825",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1644,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1767,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.A825",
+    "drug_therapy_name": "TAMOXIFEN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1644,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1767,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.A825",
+    "drug_therapy_name": "IL-2",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1644,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1767,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.A825",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1644,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1767,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.A828",
+    "pharmaceutical_therapy_type": "BIOLOGICAL THERAPY",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1887,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2283,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1O",
+    "drug_therapy_name": "CARMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1O",
+    "drug_therapy_name": "TAMOXIFEN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1O",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1O",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1Q",
+    "drug_therapy_name": "TAMOXIFEN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1735,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1Q",
+    "drug_therapy_name": "TRASTUZUMAB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 1735,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1Q",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1492,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1Q",
+    "pharmaceutical_therapy_type": "BIOLOGICAL THERAPY",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1735,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1Q",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1735,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1Q",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 913,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1R",
+    "pharmaceutical_therapy_type": "TCV",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 792,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2192,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1R",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "VACCINE",
+    "days_to_drug_start": 1006,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2863,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1R",
+    "pharmaceutical_therapy_type": "CANCERVAX",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 2526,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3349,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1R",
+    "drug_therapy_name": "IL-2",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 3105,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1V",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1005,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1280,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1W",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 335,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 761,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.AA1W",
+    "pharmaceutical_therapy_type": "VACCINE",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1065,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1765,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.W3.AA21",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3075,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.AA21",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3075,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.W3.AA21",
+    "pharmaceutical_therapy_type": "TCV",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1065,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2100,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.WE.A8K5",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1823,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1860,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.A8K6",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 294,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.A8ZM",
+    "drug_therapy_name": "DIPHENCYPRONE",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 2946,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.A8ZN",
+    "drug_therapy_name": "NIVOLUMAB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1533,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1618,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.WE.A8ZQ",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1818,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.A8ZQ",
+    "drug_therapy_name": "DABRAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 1853,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.A8ZR",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 137,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 261,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.AAA0",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 856,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 917,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.AAA0",
+    "drug_therapy_name": "PEMBROLIZUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1166,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.AAA4",
+    "drug_therapy_name": "MELPHALAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 360,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 360,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.AAA4",
+    "drug_therapy_name": "VEMURAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 517,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 527,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.AAA4",
+    "drug_therapy_name": "DABRAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 535,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WE.AAA4",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 739,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XV.A9W5",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 264,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XV.AB01",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YG.AA3O",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1081,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YG.AA3O",
+    "drug_therapy_name": "INTERFERON",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 977,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1006,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YG.AA3P",
+    "drug_therapy_name": "IPILIMUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 385,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.Z2.A8RT",
+    "pharmaceutical_therapy_type": "PHASE III TRIAL",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 722,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.Z2.AA3V",
+    "pharmaceutical_therapy_type": "PHASE III TRIAL",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 228,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  }
+]

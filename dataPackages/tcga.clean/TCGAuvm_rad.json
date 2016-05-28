@@ -1,0 +1,26 @@
+[
+  {
+    "patient_ID": "TCGA.WC.A87Y",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 60,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 30,
+    "days_to_radiation_start": 22,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 64,
+    "treatment_best_response": "STABLE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.WC.AA9E",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 60,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 30,
+    "days_to_radiation_start": 253,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 296,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  }
+]

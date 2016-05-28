@@ -1,0 +1,61 @@
+[
+  {
+    "patient_ID": "TCGA.QR.A6GT",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "days_to_radiation_start": 2266,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 2266
+  },
+  {
+    "patient_ID": "TCGA.QR.A70P",
+    "radiation_type": "SYSTEMIC",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose_units": "CGY",
+    "days_to_radiation_start": 2963,
+    "radiation_therapy_ongoing": false,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.QR.A70P",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "days_to_radiation_start": 704,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 704,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.SR.A6MV",
+    "radiation_type": "SYSTEMIC",
+    "radiation_total_dose": 129,
+    "radiation_total_dose_units": "MCI",
+    "days_to_radiation_start": 415,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 418,
+    "treatment_best_response": "PARTIAL RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.WB.A81E",
+    "radiation_type": "SYSTEMIC",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 600,
+    "radiation_total_dose_units": "MCI",
+    "radiation_number_fractions_total": 3,
+    "days_to_radiation_start": 1252,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1468,
+    "treatment_best_response": "STABLE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.WB.A81Q",
+    "radiation_type": "SYSTEMIC",
+    "radiation_total_dose": 310,
+    "radiation_total_dose_units": "MCI",
+    "radiation_number_fractions_total": 2,
+    "days_to_radiation_start": 123,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 551,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  }
+]

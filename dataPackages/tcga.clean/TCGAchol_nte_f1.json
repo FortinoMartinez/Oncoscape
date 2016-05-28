@@ -1,0 +1,43 @@
+[
+  {
+    "patient_ID": "TCGA.W5.AA34",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "new_tumor_event_liver_transplant": false,
+    "drug": false,
+    "new_tumor_event_ablation_embo_tx": true,
+    "radiation_therapy": false,
+    "days_to_progression": 40
+  },
+  {
+    "patient_ID": "TCGA.W5.AA34",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "new_tumor_event_liver_transplant": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false,
+    "radiation_therapy": false,
+    "days_to_progression": 152
+  },
+  {
+    "patient_ID": "TCGA.W6.AA0S",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "NON-REGIONAL / DISTANT LYMPH NODES",
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "new_tumor_event_ablation_embo_tx": false,
+    "radiation_therapy": false,
+    "days_to_progression": 549
+  },
+  {
+    "patient_ID": "TCGA.ZD.A8I3",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LIVER",
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "drug": false,
+    "new_tumor_event_ablation_embo_tx": false,
+    "radiation_therapy": false,
+    "days_to_progression": 59
+  }
+]

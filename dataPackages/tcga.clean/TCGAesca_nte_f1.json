@@ -1,0 +1,416 @@
+[
+  {
+    "patient_ID": "TCGA.IC.A6RF",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "REGIONAL LYMPH NODES",
+    "days_to_progression": 293,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.IG.A3YC",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 542,
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "surgery_procedure": true,
+    "days_to_surgery": 542,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.JY.A6FH",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 749,
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.JY.A6FH",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "new_tumor_event_site_other": "LIVER",
+    "days_to_progression": 824,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.JY.A6FH",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 1127,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.JY.A938",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ADRENAL GLAND",
+    "days_to_progression": 493,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": true,
+    "days_to_surgery": 735,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.JY.A938",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "COLON",
+    "days_to_progression": 666,
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "surgery_procedure": true,
+    "days_to_surgery": 735,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.JY.A938",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ADRENAL GLAND",
+    "days_to_progression": 850,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.JY.A938",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "THIGH",
+    "days_to_progression": 1011,
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.JY.A93C",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 652,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.JY.A93D",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MEDIASTINAL LYMPH NODE",
+    "days_to_progression": 732,
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.L5.A43E",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RIGHT DIAPHRAGM-HG SPINDLE CELL SARCOMA",
+    "days_to_progression": 885,
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "surgery_procedure": true,
+    "days_to_surgery": 882
+  },
+  {
+    "patient_ID": "TCGA.L5.A43J",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 98,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.L5.A4OI",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LYMPH NODE",
+    "days_to_progression": 267,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING"
+  },
+  {
+    "patient_ID": "TCGA.L7.A56G",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 270,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A49O",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 193,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A49P",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 320,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A49S",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 49,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A49Y",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 90,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LN.A4A1",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 205,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LN.A4A5",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 224,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A4A6",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 158,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A4A8",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 250,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LN.A4A9",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 274,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A4MQ",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 25,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LN.A4MR",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 226,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LN.A5U7",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 535,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LN.A7HW",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 97,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A7HY",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 88,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LN.A7HZ",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 117,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.LN.A8I0",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 57,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A9FP",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 290,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.LN.A9FQ",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 82,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.R6.A6DN",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BRAIN",
+    "days_to_progression": 199,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.R6.A6L4",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "new_tumor_event_site_other": "LEFT GASTRIC NODE",
+    "days_to_progression": 167,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.R6.A6XG",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BRAIN",
+    "days_to_progression": 572,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": true,
+    "days_to_surgery": 587,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S8.A6BV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 267,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.V5.A7RE",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BONE",
+    "days_to_progression": 294,
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "surgery_procedure": true,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.V5.AASV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 322,
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.V5.AASW",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 282,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.V5.AASW",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 282,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.V5.AASW",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 282,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.V5.AASX",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BONE",
+    "days_to_progression": 273,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.ZR.A9CJ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 163,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.ZR.A9CJ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BRAIN - RIGHT OCCIPITAL LOBE AND CEREBELLUM",
+    "days_to_progression": 548,
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  }
+]

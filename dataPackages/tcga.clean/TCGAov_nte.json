@@ -1,0 +1,59 @@
+[
+  {
+    "patient_ID": "TCGA.29.A5NZ",
+    "days_to_progression": 704,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.29.A5NZ",
+    "days_to_progression": 358,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.59.A5PD",
+    "days_to_progression": 145,
+    "new_tumor_event_dx_evidence": "IMAGING STUDY",
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.59.A5PD",
+    "days_to_progression": 145,
+    "new_tumor_event_dx_evidence": "IMAGING STUDY",
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.OY.A56P",
+    "days_to_progression": 794,
+    "new_tumor_event_dx_evidence": "IMAGING STUDY",
+    "drug": true,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.OY.A56P",
+    "days_to_progression": 794,
+    "new_tumor_event_dx_evidence": "IMAGING STUDY",
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.WR.A838",
+    "days_to_progression": 245,
+    "new_tumor_event_dx_evidence": "IMAGING STUDY",
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.WR.A838",
+    "days_to_progression": 245,
+    "new_tumor_event_dx_evidence": "IMAGING STUDY",
+    "radiation_therapy": false,
+    "drug": true
+  }
+]

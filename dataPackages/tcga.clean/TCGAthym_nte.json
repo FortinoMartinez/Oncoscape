@@ -1,0 +1,216 @@
+[
+  {
+    "patient_ID": "TCGA.3G.AB0T",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "PLEURA/PLEURAL EFFUSION",
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "days_to_progression": 1786
+  },
+  {
+    "patient_ID": "TCGA.3G.AB19",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LUNG",
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "days_to_progression": 2428
+  },
+  {
+    "patient_ID": "TCGA.3S.A8YW",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "SKIN (CHEEK)",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 224
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QJ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "PLEURA/PLEURAL EFFUSION",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 793
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QQ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "PLEURA/PLEURAL EFFUSION",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 782
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QQ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "PLEURA/PLEURAL EFFUSION",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 890
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M5",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "OVARY",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M6",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MEDIASTINUM",
+    "surgery_procedure": true,
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_progression": 1901
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M6",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "PLEURA/PLEURAL EFFUSION",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_progression": 3538
+  },
+  {
+    "patient_ID": "TCGA.XM.A8R8",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BREAST",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 244
+  },
+  {
+    "patient_ID": "TCGA.XU.A92Y",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "POSTERIOR MEDIASTINAL TUMOUR, ADRENAL/PERINEPHRIC TUMOUR INVOLVING LEFT PLEURAL SPACE, DIAPHRAGM, CHEST WALL, SPINE",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 1224
+  },
+  {
+    "patient_ID": "TCGA.XU.A931",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LUNG",
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_progression": 1377
+  },
+  {
+    "patient_ID": "TCGA.YT.A95D",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "THYROID PAPILLARY CARCINOMA",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_progression": 168
+  },
+  {
+    "patient_ID": "TCGA.ZB.A966",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LUNG",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 296
+  },
+  {
+    "patient_ID": "TCGA.ZB.A966",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BRAIN",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 296
+  },
+  {
+    "patient_ID": "TCGA.ZB.A966",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 296
+  },
+  {
+    "patient_ID": "TCGA.ZB.A966",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 296
+  },
+  {
+    "patient_ID": "TCGA.ZB.A966",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ADRENAL GLAND",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 296
+  },
+  {
+    "patient_ID": "TCGA.ZB.A966",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "PLEURA/PLEURAL EFFUSION",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 296
+  },
+  {
+    "patient_ID": "TCGA.ZB.A966",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LYMPH NODES",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 296
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96B",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BLADDER",
+    "days_to_progression": 91
+  },
+  {
+    "patient_ID": "TCGA.ZC.AAAA",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MEDIASTINUM",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 137
+  },
+  {
+    "patient_ID": "TCGA.ZC.AAAH",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MEDIASTINUM",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 166
+  }
+]

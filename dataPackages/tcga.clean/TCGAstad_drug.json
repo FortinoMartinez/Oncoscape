@@ -1,0 +1,4595 @@
+[
+  {
+    "patient_ID": "TCGA.3M.AB46",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3M.AB46",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3M.AB47",
+    "drug_therapy_name": "FLUOROURACIL",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 242,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.3M.AB47",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.3M.AB47",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 181,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 242,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.3M.AB47",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.3M.AB47",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 181,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 242,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.B7.A5TI",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 10,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 231,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.B7.A5TK",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 13,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 55,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.B7.A5TN",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.4191",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "drug_cycles": 4,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG/M2",
+    "drug_dose": 75,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 300
+  },
+  {
+    "patient_ID": "TCGA.BR.4191",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.4191",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.4201",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 21,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 137,
+    "drug_cycles": 3,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG/M2",
+    "drug_dose": 75,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 225
+  },
+  {
+    "patient_ID": "TCGA.BR.4201",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 21,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 137,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.4279",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 115,
+    "drug_cycles": 3,
+    "drug_units": "MG/M2/DAY",
+    "drug_total_dose_units": "MG/M2/DAY",
+    "drug_dose": 400,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 1200
+  },
+  {
+    "patient_ID": "TCGA.BR.4279",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 115,
+    "drug_cycles": 3,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG/M2",
+    "drug_dose": 40,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 120
+  },
+  {
+    "patient_ID": "TCGA.BR.4279",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 115,
+    "drug_cycles": 3,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG/M2",
+    "drug_dose": 400,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 1200
+  },
+  {
+    "patient_ID": "TCGA.BR.4279",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 115,
+    "drug_cycles": 3,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG/M2",
+    "drug_dose": 40,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 120
+  },
+  {
+    "patient_ID": "TCGA.BR.6455",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 44,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 131,
+    "drug_cycles": 3,
+    "drug_units": "MG/DAY",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 200,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 1800
+  },
+  {
+    "patient_ID": "TCGA.BR.6455",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 44,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 131,
+    "drug_cycles": 3,
+    "drug_units": "MG/DAY",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 750,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 6750
+  },
+  {
+    "patient_ID": "TCGA.BR.6455",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "OTHER",
+    "days_to_drug_start": 44,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 131,
+    "drug_cycles": 3,
+    "pharma_type_other": "ANCILLARY",
+    "drug_units": "MG/DAY",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 100,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 900
+  },
+  {
+    "patient_ID": "TCGA.BR.6457",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6457",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6458",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 167,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6458",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 167,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6458",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 98,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6563",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 157,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 330,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6563",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 157,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 330,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6563",
+    "drug_therapy_name": "VINCRISTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 157,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 330,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6563",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 157,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 330,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6706",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 147,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6706",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 147,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6706",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 56,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 147,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6706",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 402,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 445,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6706",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 402,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 445,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6706",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 402,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 410,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6706",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 441,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 445,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6707",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 426,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 491,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6707",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 426,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 491,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6707",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 426,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 491,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6709",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 206,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6709",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 206,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6709",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 206,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6709",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 206,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6710",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 78,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 85,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6710",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 78,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 85,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6802",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 847,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 854,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6802",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 847,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 854,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.6802",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 875,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 940,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7196",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 348,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 390,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7196",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 348,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 390,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7196",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 348,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 390,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7196",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 149,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7196",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 149,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7196",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 149,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7723",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 559,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 564,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7723",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 559,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 564,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7723",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 559,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 564,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.7959",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 35,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 127,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8291",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 137,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8291",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 137,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8291",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 137,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8296",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 44,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 180,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8296",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 44,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 180,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8296",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 44,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 180,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8297",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 67,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 97,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8297",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 67,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 97,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8297",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 67,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 97,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8362",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 154,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8362",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 154,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8362",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 154,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8362",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 370,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 375,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8362",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 370,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 375,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8362",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 370,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 375,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8367",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 163,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8367",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 229,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8367",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 229,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8367",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 189,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 611,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8367",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 189,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 611,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8367",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 189,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 611,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8370",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 34,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 101,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8370",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 34,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 101,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8370",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 34,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 101,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8371",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 189,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8371",
+    "drug_therapy_name": "POLYPLATILLEN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 98,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8371",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 189,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8371",
+    "drug_therapy_name": "POLYPLATILLEN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 337,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 351,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8371",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 119,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 189,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8371",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 337,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 351,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8372",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 174,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8372",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 174,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8372",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 174,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8373",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8373",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8373",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8380",
+    "drug_therapy_name": "POLYPLATILLEN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 190,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8380",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 190,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8380",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 190,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8381",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 35,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 161,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8381",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 35,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 161,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8381",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 35,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 161,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8483",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 161,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8483",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 161,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8590",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 203,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8590",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 203,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8590",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 203,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8592",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 113,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8592",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 113,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8592",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 113,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8680",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 150,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8680",
+    "drug_therapy_name": "ERIBULIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 150,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8680",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 150,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8680",
+    "drug_therapy_name": "METHYLPREDNISOLONE",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 150,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8682",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8682",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8682",
+    "drug_therapy_name": "DEXAMETHASONE",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8682",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 60,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8690",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 196,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8690",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 118,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 122,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8690",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 122,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.8690",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 118,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 122,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A44T",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 196,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A44T",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 196,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A44T",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 682,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 714,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A44T",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 682,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 714,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A44T",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 682,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 714,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IU",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 156,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IU",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 156,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IU",
+    "drug_therapy_name": "DEXAMETHASONE",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 156,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IV",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IV",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IV",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IV",
+    "drug_therapy_name": "DEXAMETHASONE",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IY",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IY",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IY",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4IY",
+    "drug_therapy_name": "DEXAMETHASONE",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 177,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4J2",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 125,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4J2",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 125,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4J2",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 125,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4J2",
+    "drug_therapy_name": "DEXAMETHASONE",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 125,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4J2",
+    "drug_therapy_name": "SARGRAMOSTIM",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 125,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4J8",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 65,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 77,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QI",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 383,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QI",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 383,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QI",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 383,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QI",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 383,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 551,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QI",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 383,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 551,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QI",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 383,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 551,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QL",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 59,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 90,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QL",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 59,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 90,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QL",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 59,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 90,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QL",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 48,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QL",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 48,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QM",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 106,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QM",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 106,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.BR.A4QM",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 106,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.5802",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 217,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.5802",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 217,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.5802",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 217,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.5804",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 41,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.5804",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 41,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.5804",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 41,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8524",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 168,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8524",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 168,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8524",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 168,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8525",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8525",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8525",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8526",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 111,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8526",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 111,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8526",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 111,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8527",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 34,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 60,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8527",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 34,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 60,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8527",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 34,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 60,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8528",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 232,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8528",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 232,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8528",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 231,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8529",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 148,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8529",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 148,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8529",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 148,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8530",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 75,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 176,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8530",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 75,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 176,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8530",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 75,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 176,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8531",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 106,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 197,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8531",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 106,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 197,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8531",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 106,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 197,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8533",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 226,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 245,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8535",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 138,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 234,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8535",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 138,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 234,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8535",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 138,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 234,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8536",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 135,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8536",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 135,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.8536",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 135,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A486",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 37,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 57,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A486",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 37,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 57,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A486",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 37,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 57,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A487",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 284,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A487",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 284,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A487",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 284,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A48A",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 66,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A4MH",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 118,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A4MH",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 118,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A4MH",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 118,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A4MJ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 86,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 186,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A4MJ",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 86,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 186,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CD.A4MJ",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 86,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 186,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4305",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 607,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 669,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4305",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 607,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 699,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4305",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 607,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 699,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4444",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 92,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4460",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4460",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4460",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 487,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 608,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4460",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 487,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 608,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4460",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 487,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 608,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4465",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 62,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4465",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 62,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4465",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 62,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4469",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 215,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4469",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 215,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4469",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 215,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4472",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 273,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4472",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4472",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4472",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 303,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4477",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 426,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 457,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.4477",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 426,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 457,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5717",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5717",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5717",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 212,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5724",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 153,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 305,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5725",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5725",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5725",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5725",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 334,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 334,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5725",
+    "drug_therapy_name": "CETUXIMAB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5732",
+    "drug_therapy_name": "MITOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 366,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 427,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5732",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1949,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2070,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5732",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1949,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2070,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5732",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1949,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2070,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CG.5732",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2070,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2070,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.5577",
+    "drug_therapy_name": "CALCIUM FOLIATUM",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_units": "MG",
+    "drug_dose": 420,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.D7.5577",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.5577",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.5577",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 81,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.5579",
+    "drug_therapy_name": "CALCIUM FOLIATUM",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 25,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 307,
+    "drug_cycles": 5,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.D7.5579",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 25,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 307,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.5579",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 25,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 307,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6519",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 503,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_cycles": 2,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG",
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "PALLIATIVE"
+  },
+  {
+    "patient_ID": "TCGA.D7.6519",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 237,
+    "drug_cycles": 6,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 425,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 19700
+  },
+  {
+    "patient_ID": "TCGA.D7.6520",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 172,
+    "drug_cycles": 6,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 87.5,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.D7.6520",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 249,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 321,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6520",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 172,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6520",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 172,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6520",
+    "drug_therapy_name": "DEXAMETHASONE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 249,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 321,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6520",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 249,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 321,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6520",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 249,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 321,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6521",
+    "drug_therapy_name": "PLFE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 29,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_total_dose_units": "MG",
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.D7.6525",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "drug_route": "INHALATION",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.D7.6526",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_units": "MG",
+    "drug_dose": 30,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.D7.6526",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6526",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6526",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6527",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 116,
+    "drug_units": "MG",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.D7.6527",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 116,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.6817",
+    "drug_therapy_name": "FLUOROURACIL;LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 32,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 144,
+    "drug_cycles": 5,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG",
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.D7.6818",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 201,
+    "drug_cycles": 5,
+    "drug_units": "MG/M2",
+    "drug_total_dose_units": "MG",
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.D7.6818",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 201,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.8570",
+    "drug_therapy_name": "PLFE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 36,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 243,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.8579",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 213,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A4YU",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 213,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A4YU",
+    "drug_therapy_name": "FLUCONAZOLE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 518,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A4YY",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 40,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A4Z0",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 72,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A747",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 85,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 208,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A747",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 85,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 208,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A747",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 85,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 208,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A748",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 104,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A748",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 40,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 72,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A748",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 104,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.D7.A748",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 104,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EQ.8122",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 68,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EQ.8122",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 68,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EQ.A4SO",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 300,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EQ.A4SO",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 300,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.EQ.A4SO",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 179,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 222,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F1.A448",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 98,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 119,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F1.A448",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 98,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 119,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F1.A448",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 161,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 175,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.F1.A72C",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 166,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.7829",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 85,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.7916",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 108,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 142,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.7998",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 168,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 501,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.7998",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 168,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 501,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.8209",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.8209",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.8210",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 62,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.8210",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 62,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.8210",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 31,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 62,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.8211",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 110,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 357,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.8211",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 110,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 279,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.A4BE",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 102,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 239,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.A9TM",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 110,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 142,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FP.A9TM",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 110,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 142,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HF.7131",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 5,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 40,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.HF.7131",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 5,
+    "drug_units": "MG",
+    "drug_dose": 820,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.HF.7132",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 5,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 180,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 782
+  },
+  {
+    "patient_ID": "TCGA.HF.7132",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 5,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 3785,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 16841
+  },
+  {
+    "patient_ID": "TCGA.HF.7132",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 75,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 208,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HF.7133",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 2,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 347,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 2429
+  },
+  {
+    "patient_ID": "TCGA.HF.7133",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 1,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 87,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 87
+  },
+  {
+    "patient_ID": "TCGA.HF.7133",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 1,
+    "drug_units": "MG",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 104,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 104
+  },
+  {
+    "patient_ID": "TCGA.HF.7133",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 85,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 85,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HF.7133",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 85,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 85,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HF.7133",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 85,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 141,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HF.7136",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 4,
+    "drug_units": "MG/DAY",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 40,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 680
+  },
+  {
+    "patient_ID": "TCGA.HF.7136",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 5,
+    "drug_units": "MG/DAY",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 76,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "PROGRESSION",
+    "drug_total_dose": 421
+  },
+  {
+    "patient_ID": "TCGA.HF.7136",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 4,
+    "drug_units": "MG/DAY",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 800,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 14100
+  },
+  {
+    "patient_ID": "TCGA.HF.7136",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 5,
+    "drug_units": "MG/DAY",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 90,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "PROGRESSION",
+    "drug_total_dose": 501
+  },
+  {
+    "patient_ID": "TCGA.HF.7136",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "drug_cycles": 5,
+    "drug_units": "MG/DAY",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 1050,
+    "drug_route": "ORAL",
+    "therapy_regimen": "PROGRESSION",
+    "drug_total_dose": 5650
+  },
+  {
+    "patient_ID": "TCGA.HF.A5NB",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 207,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HJ.7597",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 296,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 471,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HJ.7597",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 296,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 471,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HJ.7597",
+    "drug_therapy_name": "METHOTREXATE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 793,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 795,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.8238",
+    "drug_therapy_name": "DIDOX",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 135,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.8238",
+    "drug_therapy_name": "COPOLANG",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 75,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.8243",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 36,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 157,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.8249",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 286,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.8602",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 30,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 154,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.8604",
+    "drug_therapy_name": "DOXIFLURIDINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.8608",
+    "drug_therapy_name": "DOXIFLURIDINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 36,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4G2",
+    "drug_therapy_name": "DOXIFLURIDINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4G3",
+    "drug_therapy_name": "MITOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 20,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 97,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4G3",
+    "drug_therapy_name": "DOXIFLURIDINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 184,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4G3",
+    "drug_therapy_name": "COPOLANG",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 184,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4G8",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 41,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GD",
+    "drug_therapy_name": "MITOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 20,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 76,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GD",
+    "drug_therapy_name": "DOXIFLURIDINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 90,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 397,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GD",
+    "drug_therapy_name": "COPOLANG",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 90,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 381,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GD",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 468,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GD",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 468,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GJ",
+    "drug_therapy_name": "TS-1",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 564,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 677,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GJ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 222,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GJ",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 187,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GN",
+    "drug_therapy_name": "COPOLANG",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 107,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 614,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GN",
+    "drug_therapy_name": "DOXIFLURIDINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 107,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GN",
+    "drug_therapy_name": "MITOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 100,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GP",
+    "drug_therapy_name": "DIDOX",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 70,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 362,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GP",
+    "drug_therapy_name": "COPOLANG",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 70,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 127,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GT",
+    "drug_therapy_name": "COPOLANG",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 43,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 100,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GT",
+    "drug_therapy_name": "DIDOX",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 43,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 279,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GX",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 48,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 48,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4GX",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 48,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 48,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4H3",
+    "drug_therapy_name": "TS-1",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 316,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4H3",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 466,
+    "pharmaceutical_tx_ongoing": true,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4H3",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 466,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 666,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4H4",
+    "drug_therapy_name": "TS-1",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 13,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 309,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4H5",
+    "drug_therapy_name": "DOXIFLURIDINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 404,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4H6",
+    "drug_therapy_name": "DOXIFLURIDINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4H8",
+    "drug_therapy_name": "DIDOX",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HU.A4HB",
+    "drug_therapy_name": "TS-1",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 23,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.7806",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 116,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.7806",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 116,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.7806",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 62,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 116,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.8462",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 298,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 319,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.8462",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 298,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 319,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.8462",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 298,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 319,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.8462",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 427,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 540,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A6RO",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 200,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A6RO",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 200,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A6RP",
+    "drug_therapy_name": "IRINOTECAN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 79,
+    "pharmaceutical_tx_ongoing": true,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A6RP",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 79,
+    "pharmaceutical_tx_ongoing": true,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A6RR",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": false,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A7NR",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 154,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A7NR",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 154,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A7NT",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 112,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A7NT",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 112,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A7NT",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 112,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A7NU",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 169,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.A7NU",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 169,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.AB1X",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 104,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.AB1X",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 104,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IN.AB1X",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 104,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KB.A6F7",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 150,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 154,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KB.A93J",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 157,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 255,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MX.A666",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 22,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 22,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MX.A666",
+    "drug_therapy_name": "OXALIPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 22,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 22,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MX.A666",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 22,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 22,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MX.A666",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 117,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 131,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MX.A666",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 117,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 131,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A7BS",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 104,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A7BW",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 124,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A7BW",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 49,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A7BW",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 49,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8MV",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 186,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8MV",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 50,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8MV",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 50,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8MW",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 96,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N0",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 64,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N0",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 64,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N0",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 123,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N1",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 75,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 211,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N4",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 189,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N4",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 49,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N4",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 49,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N5",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 82,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 209,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N9",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 136,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 239,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N9",
+    "drug_therapy_name": "EPIRUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 225,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RD.A8N9",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 225,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 35,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 35,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 35,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 70,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 70,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 64,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 70,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 101,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 106,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 101,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 106,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 101,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 106,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 136,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 141,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 136,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 141,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SW.A7EB",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 136,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 141,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8DT",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 94,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 222,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8DU",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 130,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 130,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8DZ",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 201,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 341,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8E0",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8E2",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 145,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 277,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8P2",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 107,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8P3",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 124,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 254,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8P5",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 115,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 213,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8PB",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 273,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8PD",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 117,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 121,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8PP",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 165,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 333,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8PT",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 193,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 197,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8PT",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 221,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 263,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8PU",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 139,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 288,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8PY",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 192,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A8PZ",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 121,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 234,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91D",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 147,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 242,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91E",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 59,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 59,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91K",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 89,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 234,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91N",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 98,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 219,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91Q",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 158,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 311,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91S",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 238,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91V",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 228,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91V",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 228,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91W",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 87,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 217,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91Y",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 84,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 237,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91Z",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 322,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A91Z",
+    "drug_therapy_name": "LEUCOVORIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 322,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A922",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 83,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 85,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A928",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 98,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 138,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A94O",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 200,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 392,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.A94R",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 591,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 645,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.AA64",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 192,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.AA68",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 152,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 324,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.AA6B",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 131,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 262,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.AA6D",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 114,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.AA6F",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 119,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 249,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.AA6G",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 171,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 297,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.AA6I",
+    "drug_therapy_name": "CAPECITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 133,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 349,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VQ.AA6K",
+    "drug_therapy_name": "FLUOROURACIL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 136,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 280,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  }
+]

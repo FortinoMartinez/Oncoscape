@@ -1,0 +1,58 @@
+[
+  {
+    "patient_ID": "TCGA.06.1806",
+    "days_to_progression": 256,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.06.1806",
+    "days_to_progression": 256,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.06.1806",
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_surgery": 270,
+    "new_tumor": "LOCOREGIONAL"
+  },
+  {
+    "patient_ID": "TCGA.06.A5U0",
+    "days_to_progression": 100,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.06.A5U0",
+    "days_to_progression": 100,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.06.A6S1",
+    "days_to_progression": 46,
+    "radiation_therapy": false,
+    "drug": false,
+    "new_tumor": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.15.1444",
+    "days_to_progression": 1550,
+    "new_tumor": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.15.1444",
+    "days_to_progression": 1550,
+    "new_tumor": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.RR.A6KC",
+    "days_to_progression": 369,
+    "new_tumor": "RECURRENCE"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "patient_ID": "TCGA.BJ.A28X",
+    "days_to_progression": 494,
+    "new_tumor_event_histo_progression": true,
+    "surgery_procedure": true,
+    "days_to_surgery": 494,
+    "radiation_therapy": true,
+    "i_131_radiation_first_tx_method": "THYROXINE WITHDRAWAL",
+    "i_131_radiation_first_dose": 152
+  },
+  {
+    "patient_ID": "TCGA.BJ.A3PU",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 174,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A3PU",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 221,
+    "surgery_procedure": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A45I",
+    "days_to_progression": 110
+  },
+  {
+    "patient_ID": "TCGA.DE.A4MC",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 332,
+    "surgery_procedure": true,
+    "days_to_surgery": 462,
+    "radiation_therapy": true,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "THYROXINE WITHDRAWAL",
+    "i_131_radiation_first_dose": 200,
+    "i_131_radiation_cumulative_dose": 350,
+    "radiation_therapy_xrt_method_prep": "NONE",
+    "radiation_therapy_xrt_sensitizers": true
+  },
+  {
+    "patient_ID": "TCGA.DE.A4MD",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 267,
+    "surgery_procedure": true,
+    "days_to_surgery": 271,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT"
+  },
+  {
+    "patient_ID": "TCGA.DJ.A3VL",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BOWEL",
+    "days_to_progression": 411
+  },
+  {
+    "patient_ID": "TCGA.EL.A3GU",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 544,
+    "new_tumor_event_histo_progression": true,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "radiation_therapy_xrt_method_prep": "IMRT",
+    "radiation_therapy_xrt_dose": "60",
+    "radiation_therapy_xrt_sensitizers": false
+  },
+  {
+    "patient_ID": "TCGA.EL.A3GX",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT THYROID BED",
+    "days_to_progression": 439,
+    "new_tumor_event_histo_progression": true,
+    "surgery_procedure": true,
+    "days_to_surgery": 455,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "NONE"
+  },
+  {
+    "patient_ID": "TCGA.EL.A3MX",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_sensitizers": false
+  },
+  {
+    "patient_ID": "TCGA.EL.A3MX",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "FEMUR",
+    "days_to_progression": 1708,
+    "surgery_procedure": true,
+    "days_to_surgery": 1708,
+    "radiation_therapy": true,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "IMRT"
+  },
+  {
+    "patient_ID": "TCGA.EL.A3MX",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "NECK",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_sensitizers": false
+  },
+  {
+    "patient_ID": "TCGA.EL.A3MX",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PLEURA",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_sensitizers": false
+  },
+  {
+    "patient_ID": "TCGA.EL.A3MX",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LIVER",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_sensitizers": false
+  },
+  {
+    "patient_ID": "TCGA.EL.A3T2",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "SOFT TISSUE",
+    "days_to_progression": 946,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_sensitizers": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A4FF",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 1855,
+    "new_tumor_event_histo_progression": false,
+    "surgery_procedure": true,
+    "days_to_surgery": 1855,
+    "radiation_therapy": true,
+    "i_131_radiation_first_tx_method": "THYROXINE WITHDRAWAL",
+    "i_131_radiation_first_dose": 125,
+    "i_131_radiation_cumulative_dose": 229
+  },
+  {
+    "patient_ID": "TCGA.ET.A40Q",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 218,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  }
+]

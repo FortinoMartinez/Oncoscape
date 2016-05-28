@@ -1,0 +1,319 @@
+[
+  {
+    "patient_ID": "TCGA.OR.A5J8",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 4500,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 25,
+    "days_to_radiation_start": 107,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 138
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JF",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "days_to_radiation_start": 52,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 97,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JK",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 50.4,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 28,
+    "days_to_radiation_start": 39,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 78,
+    "treatment_best_response": "STABLE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JM",
+    "radiation_type": "INTERNAL",
+    "days_to_radiation_start": 134,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 196,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JS",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 55,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 49,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 83
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JS",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "REGIONAL SITE",
+    "radiation_total_dose": 45,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 49,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 83
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JT",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 50.6,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 49,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 111
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JU",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 55,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 25,
+    "days_to_radiation_start": 40,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 70,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JU",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "REGIONAL SITE",
+    "radiation_total_dose": 45,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 25,
+    "days_to_radiation_start": 36,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 70,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JW",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 52.8,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 53,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 88
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JW",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "REGIONAL SITE",
+    "radiation_total_dose": 42.8,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 53,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 88
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JX",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 55,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 25,
+    "days_to_radiation_start": 57,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 91
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JX",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "REGIONAL SITE",
+    "radiation_total_dose": 45,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 25,
+    "days_to_radiation_start": 48,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 91
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JY",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 78,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 93
+  },
+  {
+    "patient_ID": "TCGA.OR.A5JZ",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 55,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 16,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 85
+  },
+  {
+    "patient_ID": "TCGA.OR.A5K2",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 52.8,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 39,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 74
+  },
+  {
+    "patient_ID": "TCGA.OR.A5K2",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "REGIONAL SITE",
+    "radiation_total_dose": 43.2,
+    "radiation_total_dose_units": "GY",
+    "days_to_radiation_start": 39,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 74
+  },
+  {
+    "patient_ID": "TCGA.OR.A5K4",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "days_to_radiation_start": 18,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 102,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.OR.A5K5",
+    "days_to_radiation_start": 30,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 103,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.OU.A5PI",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 48,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 4,
+    "days_to_radiation_start": 476,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 486,
+    "treatment_best_response": "STABLE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 8,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 1,
+    "days_to_radiation_start": 1099,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1099,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 10,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 1,
+    "days_to_radiation_start": 1113,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1113,
+    "treatment_best_response": "PARTIAL RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 10,
+    "days_to_radiation_start": 1058,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1072,
+    "treatment_best_response": "PARTIAL RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 10,
+    "days_to_radiation_start": 1289,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1303
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 10,
+    "days_to_radiation_start": 1289,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1303
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 10,
+    "days_to_radiation_start": 1289,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1303
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 10,
+    "days_to_radiation_start": 1289,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1303
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 10,
+    "days_to_radiation_start": 1233,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1246
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT SITE",
+    "radiation_total_dose": 30,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 10,
+    "days_to_radiation_start": 1233,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1246
+  },
+  {
+    "patient_ID": "TCGA.PK.A5HB",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 40,
+    "radiation_total_dose_units": "GY",
+    "radiation_number_fractions_total": 15,
+    "days_to_radiation_start": 1172,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1192
+  }
+]

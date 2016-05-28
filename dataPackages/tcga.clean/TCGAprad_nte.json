@@ -1,0 +1,600 @@
+[
+  {
+    "patient_ID": "TCGA.2A.A8W3",
+    "new_tumor": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.EJ.7318",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 380,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.EJ.8469",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1925,
+    "new_tumor_event_site": "NON-REGIONAL / DISTANT LYMPH NODES",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.EJ.8472",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 196
+  },
+  {
+    "patient_ID": "TCGA.EJ.A46F",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 215
+  },
+  {
+    "patient_ID": "TCGA.EJ.A65F",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 75,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.EJ.A6RA",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 353
+  },
+  {
+    "patient_ID": "TCGA.EJ.A7NN",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 197
+  },
+  {
+    "patient_ID": "TCGA.EJ.A8FP",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 117
+  },
+  {
+    "patient_ID": "TCGA.EJ.A8FS",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 216
+  },
+  {
+    "patient_ID": "TCGA.FC.A6HD"
+  },
+  {
+    "patient_ID": "TCGA.G9.6339",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1634,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.G9.6498",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1342,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.G9.A9S0",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 423,
+    "new_tumor_event_site": "BONE",
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_tx_type": "DISTANT METASTASIS",
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.G9.A9S4",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.J4.A67N",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 442
+  },
+  {
+    "patient_ID": "TCGA.J4.A83N",
+    "new_tumor": "PRIMARY TUMOR",
+    "days_to_progression": 433,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.J4.AATZ",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 79,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.J9.A52B",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 57,
+    "progression_after_hormone_therapy": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.J9.A52E",
+    "new_tumor": "PROGRESSION",
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.J9.A8CL",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 132
+  },
+  {
+    "patient_ID": "TCGA.J9.A8CM",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 344,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.KC.A4BL",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 193
+  },
+  {
+    "patient_ID": "TCGA.KC.A4BR",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1022,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KC.A4BV",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1328
+  },
+  {
+    "patient_ID": "TCGA.KK.A59Y",
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A5A1",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 203,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A6E0",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 941,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A7AQ",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1217,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A7AU",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 207,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A7AW"
+  },
+  {
+    "patient_ID": "TCGA.KK.A7AY",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1124,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A7B0",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 606,
+    "progression_after_hormone_therapy": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A7B4",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 637
+  },
+  {
+    "patient_ID": "TCGA.KK.A8I4",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 1162,
+    "new_tumor_event_site": "BONE",
+    "progression_after_hormone_therapy": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A8I7",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1088,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A8IC",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1060,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A8IF",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 648
+  },
+  {
+    "patient_ID": "TCGA.KK.A8II",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 626,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A8IJ",
+    "new_tumor": "PRIMARY TUMOR",
+    "days_to_progression": 307,
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MELANOMA IN SITU OF THE RIGHT MIDBACK",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.M7.A722",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 559,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.M7.A724",
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.V1.A8MF",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8MJ",
+    "new_tumor": "PROGRESSION",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8MK",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8ML",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8MM",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 990
+  },
+  {
+    "patient_ID": "TCGA.V1.A8MU",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8WL",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8WN",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8WS",
+    "new_tumor": "PROGRESSION",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8WV",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8WW",
+    "new_tumor": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.V1.A8X3",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9O5",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 124
+  },
+  {
+    "patient_ID": "TCGA.V1.A9O7",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 819
+  },
+  {
+    "patient_ID": "TCGA.V1.A9O9",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9OA",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9OF",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9OH",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9OL",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 105
+  },
+  {
+    "patient_ID": "TCGA.V1.A9OQ",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9OT",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 292,
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9OX",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9OY",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9Z7",
+    "new_tumor": "PROGRESSION",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9Z8",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9Z9",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9ZG",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9ZI",
+    "new_tumor": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.V1.A9ZK"
+  },
+  {
+    "patient_ID": "TCGA.V1.A9ZR",
+    "new_tumor": "PROGRESSION",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.VP.A878",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 98,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.VP.A87D",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1194,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_tx_type": "EVIDENCE OF DISEASE",
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.VP.A87K",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 533,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.XK.AAIW",
+    "new_tumor": "PRIMARY TUMOR",
+    "days_to_progression": 427,
+    "progression_after_hormone_therapy": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.XK.AAJR",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 131,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.XQ.A8TA",
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_tx_type": "DISTANT METASTASIS"
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HJ",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HK",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1376,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_tx_type": "EVIDENCE OF DISEASE",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HO",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1068,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8S8",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 679,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8S9",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 1006,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SB",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SC"
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SI",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1423
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SJ",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 752,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SK",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SP",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SQ",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 329,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_tx_type": "EVIDENCE OF DISEASE",
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WH",
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WJ",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 1476,
+    "new_tumor_event_site": "NON-REGIONAL / DISTANT LYMPH NODES"
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WK",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1009,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_tx_type": "EVIDENCE OF DISEASE",
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WL",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 740,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_tx_type": "EVIDENCE OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WX",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 1506
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WY",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 765,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_tx_type": "EVIDENCE OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9KY"
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9L1",
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9L2",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 180,
+    "progression_after_hormone_therapy": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9L4",
+    "progression_after_hormone_therapy": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9L5"
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9L6",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 664,
+    "progression_after_hormone_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9L9",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 51,
+    "progression_after_hormone_therapy": true,
+    "progression_after_hormone_tx_type": "DISTANT METASTASIS",
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9LZ",
+    "progression_after_hormone_therapy": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9M4",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9MC",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9N3",
+    "progression_after_hormone_therapy": false,
+    "radiation_therapy": false,
+    "drug": false
+  }
+]

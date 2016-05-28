@@ -1,0 +1,522 @@
+[
+  {
+    "patient_ID": "TCGA.DB.A4X9",
+    "days_to_progression": 501,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 518,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.DB.A4XF",
+    "days_to_progression": 468,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DB.A64O",
+    "days_to_progression": 430,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DH.A669",
+    "days_to_progression": 260,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 426,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DU.A5TP",
+    "days_to_progression": 203,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 203,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.DU.A5TW",
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.DU.A6S6",
+    "days_to_progression": 2267,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 2267,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DU.A76K",
+    "days_to_progression": 203,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 203,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DU.A76L",
+    "days_to_progression": 410,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 441,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DU.A76R",
+    "days_to_progression": 338,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 344,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DU.A7T8",
+    "days_to_progression": 3028,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 3028,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DU.A7TB",
+    "days_to_progression": 74,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.DU.A7TD",
+    "days_to_progression": 188,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 188,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.DU.A7TI",
+    "days_to_progression": 822,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 840,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YD",
+    "days_to_progression": 284,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YE",
+    "days_to_progression": 188,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 237,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 237,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YH",
+    "days_to_progression": 689,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YI",
+    "days_to_progression": 56,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YJ",
+    "days_to_progression": 516,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YL",
+    "days_to_progression": 91,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YM",
+    "days_to_progression": 88,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YN",
+    "days_to_progression": 420,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YO",
+    "days_to_progression": 1977,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YQ",
+    "days_to_progression": 580,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YV",
+    "days_to_progression": 97,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YW",
+    "days_to_progression": 409,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7YY",
+    "days_to_progression": 958,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7Z2",
+    "days_to_progression": 213,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 215,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7Z3",
+    "days_to_progression": 1569,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 1656,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7Z4",
+    "days_to_progression": 846,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 883,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.E1.A7Z6",
+    "days_to_progression": 294,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.FG.A4MT",
+    "days_to_progression": 499,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 637,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.FG.A6J3",
+    "days_to_progression": 285,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 340,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.FG.A70Y",
+    "days_to_progression": 490,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.FG.A711",
+    "days_to_progression": 347,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.HT.8564",
+    "days_to_progression": 120,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 120,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.HT.A617",
+    "days_to_progression": 395,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 395
+  },
+  {
+    "patient_ID": "TCGA.KT.A7W1",
+    "days_to_progression": 84,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 102,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S9.A6TS",
+    "days_to_progression": 1324,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 1324,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.S9.A6TU",
+    "days_to_progression": 1475,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 1504,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S9.A6TX",
+    "days_to_progression": 856,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S9.A6TZ",
+    "days_to_progression": 552,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S9.A6U8",
+    "days_to_progression": 367,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S9.A6UA",
+    "days_to_progression": 161,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S9.A6WL",
+    "days_to_progression": 240,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S9.A6WO",
+    "days_to_progression": 187,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S9.A7IX",
+    "days_to_progression": 350,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.S9.A7R1",
+    "days_to_progression": 3637,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 3637,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.S9.A7R3",
+    "days_to_progression": 970,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 970,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.S9.A7R7",
+    "days_to_progression": 144,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.S9.A7R8",
+    "days_to_progression": 698,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 698,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 698,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.S9.A89V",
+    "days_to_progression": 129,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 129,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.TM.A7C3",
+    "days_to_progression": 713,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 713,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.TM.A7CF",
+    "days_to_progression": 924,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 924
+  },
+  {
+    "patient_ID": "TCGA.TM.A84J",
+    "days_to_progression": 454,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 454,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.TM.A84L",
+    "days_to_progression": 987,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 987,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.TM.A84Q",
+    "days_to_progression": 455,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 455,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.TQ.A7RK",
+    "days_to_progression": 858,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 882,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.TQ.A7RV",
+    "days_to_progression": 530,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.TQ.A7RW",
+    "days_to_progression": 511,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 511,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.TQ.A8XE",
+    "days_to_progression": 455,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.VM.A8C8",
+    "days_to_progression": 456,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.VM.A8CE",
+    "days_to_progression": 815,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.WH.A86K",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.WY.A85C",
+    "days_to_progression": 809,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 819,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.WY.A85D",
+    "days_to_progression": 887,
+    "days_to_surgery_locoregional": 922,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.WY.A85E",
+    "days_to_progression": 532,
+    "days_to_surgery_locoregional": 536,
+    "radiation_therapy": true,
+    "drug": true
+  }
+]

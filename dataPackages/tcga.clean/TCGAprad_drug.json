@@ -1,0 +1,1179 @@
+[
+  {
+    "patient_ID": "TCGA.2A.A8VT",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 85,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1086,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.4L.AA1F",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 15,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CH.5741",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 334,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CH.5751",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CH.5751",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CH.5751",
+    "drug_therapy_name": "ZOMETA",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 245,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CH.5752",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 578,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CH.5788",
+    "drug_therapy_name": "TRIPTORELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 396,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CH.5788",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 609,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FC.A4JI",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 52,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 143,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FC.A5OB",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 118,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G9.7521",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 207,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G9.7521",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 207,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G9.7521",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 676,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G9.A9S0",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 115,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 762,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G9.A9S0",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 444,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 528,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G9.A9S0",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 591,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 654,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G9.A9S0",
+    "drug_therapy_name": "CABAZITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 727,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 727,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.G9.A9S4",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 93,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HC.7742",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 211,
+    "pharmaceutical_tx_ongoing": true,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HC.8257",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 91,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HC.A48F",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 57,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HC.A9TE",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 216,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 417,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HC.A9TH",
+    "drug_therapy_name": "DEGARELIX ",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 455,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HI.7168",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 341,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1923,
+    "drug_cycles": 13,
+    "drug_units": "MG",
+    "drug_dose": 22.5,
+    "regimen_number": 1,
+    "drug_route": "INTRAMUSCULAR",
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.HI.7168",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1552,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2014,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HI.7168",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2511,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HI.7171",
+    "drug_therapy_name": "KETOCONAZOLE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 648,
+    "drug_units": "MG",
+    "drug_dose": 400,
+    "regimen_number": 3,
+    "drug_route": "ORAL",
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.HI.7171",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "regimen_number": 1,
+    "drug_route": "INTRAMUSCULAR",
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.HI.7171",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "regimen_number": 1,
+    "drug_route": "ORAL",
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.HI.7171",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 559,
+    "pharmaceutical_tx_ongoing": false,
+    "drug_units": "MG",
+    "drug_dose": 50,
+    "regimen_number": 0,
+    "drug_route": "SUBCUTANEOUS",
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.J4.A6G3",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 30,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.J4.A83N",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 488,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.J4.AATZ",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 142,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.J9.A52B",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 88,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 198,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.J9.A52E",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 209,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KC.A4BR",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1079,
+    "pharmaceutical_tx_ongoing": true,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A59X",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2169,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A59X",
+    "drug_therapy_name": "CABAZITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2262,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2455,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A59X",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2262,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2455,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A59X",
+    "drug_therapy_name": "ABIRATERONE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2535,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A59Y",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 71,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1072,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A6E0",
+    "drug_therapy_name": "ABIRATERONE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1078,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A6E0",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1078,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A6E0",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 424,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 605,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A6E1",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 107,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 778,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A7AQ",
+    "drug_therapy_name": "ABIRATERONE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1219,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A7AQ",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1219,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A7AU",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 207,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 676,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A7AU",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 207,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 564,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A7AU",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1287,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A7B0",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 913,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A7B4",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 119,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A7B4",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 312,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 439,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8I4",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1204,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1984,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8I4",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2259,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8I7",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1311,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8I7",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1757,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1757,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8I9",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 427,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8IA",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 210,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8IC",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2051,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A8IC",
+    "drug_therapy_name": "ABIRATERONE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2051,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.KK.A8ID",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1455,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8II",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 904,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1106,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8II",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2453,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3467,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8II",
+    "drug_therapy_name": "DEGARELIX ",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2431,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3467,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8II",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2516,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2738,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KK.A8II",
+    "drug_therapy_name": "CABAZITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2780,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2892,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.M7.A723",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.M7.A723",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 74,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.M7.A724",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 179,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8MU",
+    "drug_therapy_name": "LHRH AGONIST",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 259,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8WV",
+    "drug_therapy_name": "LHRH AGONIST",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 250,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 615,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A8WW",
+    "drug_therapy_name": "LHRH AGONIST",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 112,
+    "pharmaceutical_tx_ongoing": true,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.V1.A9O5",
+    "drug_therapy_name": "LHRH AGONIST AND ANTI-ANDROGENS COMBINED ANDROGEN BLOCKADE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 118,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VN.A88K",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 130,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VN.A88R",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 666,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VN.A88R",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 652,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 666,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VP.A878",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2376,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VP.A878",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 115,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 784,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VP.A87B",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2540,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VP.A87D",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 248,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 370,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VP.A87D",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 370,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 837,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VP.A87D",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 248,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 837,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X4.A8KQ",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 963,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XJ.A9DI",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XJ.A9DI",
+    "drug_therapy_name": "NILUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1339,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1461,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XJ.A9DI",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 913,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1339,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XJ.A9DX",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.XJ.A9DX",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.XK.AAIV",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 111,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XK.AAIV",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 97,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 126,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HJ",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 209,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 306,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HJ",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 209,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1036,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HK",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 179,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 208,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HK",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 192,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HL",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 132,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 162,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HL",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 132,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1228,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HM",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 216,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 251,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8HM",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 216,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 752,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SB",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 270,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 299,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SB",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 280,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 998,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SB",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1600,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1630,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SB",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1609,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SC",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 166,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 195,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SC",
+    "drug_therapy_name": "TRIPTORELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 166,
+    "pharmaceutical_tx_ongoing": true,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SI",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1482,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SK",
+    "pharmaceutical_therapy_type": "HORMONE THERAPY",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 163,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 940,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SL",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 266,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 296,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SL",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 266,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SO",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1387,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1862,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SO",
+    "drug_therapy_name": "GOSERELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1387,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SP",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 359,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 749,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SP",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 359,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 749,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SP",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1183,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2170,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SP",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1814,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2170,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SQ",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 481,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A8SQ",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 481,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WH",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 203,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 232,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WH",
+    "drug_therapy_name": "TRIPTORELIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 210,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 650,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WK",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 360,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 834,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WK",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1163,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1527,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WK",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1897,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WK",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1891,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WL",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 271,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 349,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WY",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 236,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YL.A9WY",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 236,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A8QZ",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 89,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9LN",
+    "drug_therapy_name": "LEUPROLIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZG.A9N3",
+    "drug_therapy_name": "BICALUTAMIDE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 140,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  }
+]

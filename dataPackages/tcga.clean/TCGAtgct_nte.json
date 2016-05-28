@@ -1,0 +1,232 @@
+[
+  {
+    "patient_ID": "TCGA.2G.AAEW",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 143
+  },
+  {
+    "patient_ID": "TCGA.2G.AAF6",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 810
+  },
+  {
+    "patient_ID": "TCGA.2G.AAF8",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "TESTES",
+    "days_to_progression": 3149
+  },
+  {
+    "patient_ID": "TCGA.2G.AAF8",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 3234
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFE",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 617
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFG",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "TESTES",
+    "days_to_progression": 2495
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFJ",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 313
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFL",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "TESTES",
+    "days_to_progression": 38
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFL",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 130
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG0",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 90
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG3",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 181
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG3",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 414
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG5",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 451
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGC",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 317
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGE",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 121
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGF",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 139
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGI",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "TESTES",
+    "days_to_progression": 2193
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGJ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 171
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGK",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 713
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGT",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 15
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGX",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "TESTES",
+    "days_to_progression": 4323
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGX",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BLADDER",
+    "days_to_progression": 5027
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGY",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "TESTES",
+    "days_to_progression": 623
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH0",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 107
+  },
+  {
+    "patient_ID": "TCGA.2G.AAHP",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "TESTES",
+    "days_to_progression": 816
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKG",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 122
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKG",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "TESTES",
+    "days_to_progression": 4616
+  },
+  {
+    "patient_ID": "TCGA.2G.AAL5",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "TESTES",
+    "days_to_progression": 3723
+  },
+  {
+    "patient_ID": "TCGA.2G.AAL7",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 9
+  },
+  {
+    "patient_ID": "TCGA.4K.AAAL",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "days_to_progression": 147
+  },
+  {
+    "patient_ID": "TCGA.XE.AANJ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RPLN, LT SPERMATIC CORD; LT INGUINAL RING",
+    "days_to_progression": 328
+  },
+  {
+    "patient_ID": "TCGA.XE.AANV",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "days_to_progression": 1387
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOB",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "days_to_progression": 231
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOB",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 432
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOB",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 432
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOB",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "days_to_progression": 432
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOJ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MATURE TERATOMA: ABDOMINAL WALL",
+    "days_to_progression": 266
+  },
+  {
+    "patient_ID": "TCGA.YU.AA4L",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "RETROPERITONEAL LYMPH NODES",
+    "days_to_progression": 105
+  }
+]

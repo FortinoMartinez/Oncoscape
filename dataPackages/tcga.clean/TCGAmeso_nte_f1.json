@@ -1,0 +1,304 @@
+[
+  {
+    "patient_ID": "TCGA.3U.A98E",
+    "new_tumor": "PROGRESSION",
+    "surgery_procedure": false,
+    "days_to_progression": 1257
+  },
+  {
+    "patient_ID": "TCGA.3U.A98E",
+    "new_tumor": "PROGRESSION",
+    "surgery_procedure": false,
+    "days_to_progression": 1425
+  },
+  {
+    "patient_ID": "TCGA.3U.A98E",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY",
+    "days_to_progression": 117
+  },
+  {
+    "patient_ID": "TCGA.3U.A98F",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "IPSILATERAL CHEST CAVITY",
+    "surgery_procedure": false,
+    "days_to_progression": 365
+  },
+  {
+    "patient_ID": "TCGA.3U.A98F",
+    "surgery_procedure": false,
+    "days_to_progression": 463
+  },
+  {
+    "patient_ID": "TCGA.3U.A98F",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "SPINE",
+    "days_to_progression": 440
+  },
+  {
+    "patient_ID": "TCGA.3U.A98G",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY",
+    "surgery_procedure": false,
+    "days_to_progression": 497
+  },
+  {
+    "patient_ID": "TCGA.3U.A98H",
+    "surgery_procedure": false,
+    "days_to_progression": 798
+  },
+  {
+    "patient_ID": "TCGA.3U.A98H",
+    "surgery_procedure": false,
+    "days_to_progression": 966
+  },
+  {
+    "patient_ID": "TCGA.3U.A98H",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "surgery_procedure": false,
+    "days_to_progression": 1038
+  },
+  {
+    "patient_ID": "TCGA.3U.A98H",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY AND IPSILATERAL CHEST WALL",
+    "days_to_progression": 434
+  },
+  {
+    "patient_ID": "TCGA.3U.A98I",
+    "new_tumor": "PROGRESSION",
+    "surgery_procedure": false,
+    "days_to_progression": 404
+  },
+  {
+    "patient_ID": "TCGA.3U.A98I",
+    "new_tumor": "PROGRESSION",
+    "surgery_procedure": false,
+    "drug": true,
+    "days_to_progression": 551
+  },
+  {
+    "patient_ID": "TCGA.3U.A98I",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY",
+    "days_to_progression": 404
+  },
+  {
+    "patient_ID": "TCGA.3U.A98I",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 551
+  },
+  {
+    "patient_ID": "TCGA.3U.A98J",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY",
+    "surgery_procedure": false,
+    "drug": true,
+    "days_to_progression": 620
+  },
+  {
+    "patient_ID": "TCGA.MQ.A6BR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY",
+    "days_to_progression": 629
+  },
+  {
+    "patient_ID": "TCGA.MQ.A6BR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY",
+    "days_to_progression": 1244
+  },
+  {
+    "patient_ID": "TCGA.MQ.A6BR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY",
+    "days_to_progression": 1574
+  },
+  {
+    "patient_ID": "TCGA.MQ.A6BS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY",
+    "days_to_progression": 332
+  },
+  {
+    "patient_ID": "TCGA.SC.AA5Z",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "LUNG",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 591
+  },
+  {
+    "patient_ID": "TCGA.SH.A9CT",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST WALL",
+    "days_to_progression": 43
+  },
+  {
+    "patient_ID": "TCGA.SH.A9CU",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL CHEST CAVITY",
+    "days_to_progression": 90
+  },
+  {
+    "patient_ID": "TCGA.SH.A9CU",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL LYMPH NODES",
+    "days_to_progression": 90
+  },
+  {
+    "patient_ID": "TCGA.UD.AABY",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 47
+  },
+  {
+    "patient_ID": "TCGA.UD.AABY",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "IPSILATERAL",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 204
+  },
+  {
+    "patient_ID": "TCGA.UD.AAC1",
+    "new_tumor": "PROGRESSION",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_progression": 85
+  },
+  {
+    "patient_ID": "TCGA.UD.AAC1",
+    "new_tumor": "PROGRESSION",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_progression": 85
+  },
+  {
+    "patient_ID": "TCGA.UD.AAC4",
+    "new_tumor": "PROGRESSION",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_progression": 555
+  },
+  {
+    "patient_ID": "TCGA.UD.AAC5",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ABDOMEN",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 230
+  },
+  {
+    "patient_ID": "TCGA.UD.AAC5",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 230
+  },
+  {
+    "patient_ID": "TCGA.UD.AAC5",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "CONTRALATERAL PLEURA",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 237
+  },
+  {
+    "patient_ID": "TCGA.UD.AAC6",
+    "new_tumor": "PROGRESSION",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_progression": 126
+  },
+  {
+    "patient_ID": "TCGA.UD.AAC6",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "SUBCUTANEOUS NODULES",
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_progression": 130
+  },
+  {
+    "patient_ID": "TCGA.UD.AAC7",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PLEURA",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "days_to_progression": 265
+  },
+  {
+    "patient_ID": "TCGA.UT.A88C",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MEDIASTINUM AND CONTRALATERAL PLEURA",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "days_to_progression": 479
+  },
+  {
+    "patient_ID": "TCGA.UT.A88C",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MEDIASTINUM AND CONTRALATERAL PLEURA",
+    "surgery_procedure": false,
+    "days_to_progression": 479
+  },
+  {
+    "patient_ID": "TCGA.UT.A88D",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT SIDED DRAINAGE TRACT, CHEST WALL SOFT TISSUE ON THE LEFT, RIGHT SIDED SUBPLEURAL FAT AND IN PERIUMBILICAL REGION.",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 716
+  },
+  {
+    "patient_ID": "TCGA.UT.A88D",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "ABDOMEN",
+    "days_to_progression": 568
+  },
+  {
+    "patient_ID": "TCGA.ZN.A9VS",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "LUNG",
+    "surgery_procedure": false,
+    "days_to_progression": 1025
+  },
+  {
+    "patient_ID": "TCGA.ZN.A9VV",
+    "new_tumor": "PROGRESSION",
+    "new_tumor_event_site": "LUNG",
+    "surgery_procedure": false,
+    "days_to_progression": 1299
+  }
+]

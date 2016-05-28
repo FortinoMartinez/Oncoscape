@@ -1,0 +1,38 @@
+[
+  {
+    "patient_ID": "TCGA.V4.A9EM",
+    "drug_therapy_name": "FOTEMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 187,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.V4.A9ET",
+    "drug_therapy_name": "FOTEMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 21,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 174,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.V4.A9F1",
+    "drug_therapy_name": "FOTEMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 22,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 147,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.V4.A9F3",
+    "drug_therapy_name": "FOTEMUSTINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 175,
+    "therapy_on_clinical_trial": true
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "patient_ID": "TCGA.3X.AAV9",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 216,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.3X.AAV9",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 216,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.3X.AAVA",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 265,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.3X.AAVA",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 264,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.3X.AAVA",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 264,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.4G.AAZO",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 424,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA2I",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BLADDER",
+    "days_to_progression": 217,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": true,
+    "days_to_surgery": 226,
+    "residual_tumor": "R1",
+    "radiation_therapy": true,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA2M",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PERITONEUM, LUNGS",
+    "days_to_progression": 157,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA2O",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 215,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA2T",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 295,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": true,
+    "days_to_surgery": 296,
+    "residual_tumor": "R0",
+    "radiation_therapy": true,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA2T",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 561,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": true,
+    "days_to_surgery": 907,
+    "residual_tumor": "RX",
+    "radiation_therapy": true,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA2T",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 896,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA2T",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 993,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": true,
+    "days_to_surgery": 1021,
+    "residual_tumor": "RX",
+    "radiation_therapy": true,
+    "drug": false,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA2U",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 95,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA2W",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 237,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA34",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 40,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "new_tumor_event_ablation_embo_tx": true
+  },
+  {
+    "patient_ID": "TCGA.W5.AA34",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 152,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA36",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 362,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA36",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 362,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.W5.AA38",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 377,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": true,
+    "residual_tumor": "R0",
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.YR.A95A",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ADRENAL GLAND",
+    "days_to_progression": 17,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.ZH.A8Y1",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 49,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.ZH.A8Y2",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 198,
+    "surgery_procedure": true,
+    "days_to_surgery": 245,
+    "residual_tumor": "R1",
+    "radiation_therapy": true,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.ZH.A8Y4",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 281,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.ZH.A8Y5",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 242,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": false
+  },
+  {
+    "patient_ID": "TCGA.ZH.A8Y7",
+    "new_tumor": "RECURRENCE",
+    "days_to_progression": 301,
+    "new_tumor_event_liver_transplant": false,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "new_tumor_event_ablation_embo_tx": true
+  },
+  {
+    "patient_ID": "TCGA.ZU.A8S4",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 72
+  },
+  {
+    "patient_ID": "TCGA.ZU.A8S4",
+    "new_tumor": "RECURRENCE",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MESENTERY, GEROTA'S FASCIA, EXTENSIVE INVOLVEMENT IN CHEST",
+    "days_to_progression": 72
+  }
+]

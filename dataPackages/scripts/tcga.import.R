@@ -32,10 +32,11 @@ os.tcga.column.enumerations <- fromJSON("os.tcga.column.enumerations.json")
 
 # Class Definitions :: Enumerations -------------------------------------------------------
 os.enum.na <- c("", "NA", "[NOTAVAILABLE]","[UNKNOWN]","UNKOWN","[NOT AVAILABLE]","[NOT EVALUATED]","UKNOWN","[DISCREPANCY]","[DISCREPANCY]|[DISCREPANCY]",
-"NOT LISTED IN MEDICAL RECORD","[NOT APPLICABLE]","[PENDING]","PENDING", "[NOT AVAILABLE]","[PENDING]","[NOTAVAILABLE]","[NOT APPLICABLE]|[NOT APPLICABLE]","[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]",
-"NOT SPECIFIED","[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
-"[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
-"[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT AVAILABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]","N/A")
+"NOT LISTED IN MEDICAL RECORD","[NOT APPLICABLE]","[PENDING]","PENDING", "[NOT AVAILABLE]","[PENDING]","[NOTAVAILABLE]","NOT SPECIFIED","N/A",
+"[NOT AVAILABLE]|[NOT AVAILABLE]", "[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]", "[NOT APPLICABLE]|[NOT APPLICABLE]","[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]",
+"[UNKNOWN]|[UNKNOWN]|[UNKNOWN]|[UNKNOWN];[UNKNOWN]|[UNKNOWN]|[UNKNOWN]", "[UNKNOWN]|[UNKNOWN]|[UNKNOWN]", "[UNKNOWN]|[UNKNOWN]", "[UNKNOWN]|[UNKNOWN]|[UNKNOWN]|[UNKNOWN]",
+"[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
+"[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]")
 #os.enum.other <- c( "OTHER","OTHER: SPECIFY IN NOTES","OTHER (SPECIFY BELOW)","SPECIFY","OTHER REPORTING SCALE")
 os.enum.logical.true  <- c("TRUE","YES","1","Y")
 os.enum.logical.false <- c("FALSE","NO","0","N")
@@ -222,7 +223,9 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
   if(grepl("clinical_patient_skcm.txt",inputFile)){
   	columns[match("submitted_tumor_site", columns)] = "skcm_tissue_site"
   	columns[match("submitted_tumor_site", columns)] = "skcm_tumor_type"
-
+  }
+  if(grepl("follow_up_v2.0_skcm.txt",inputFile)){
+  	columns[match("new_tumor_event_type", columns)] = "skcm_tumor_event_type"
   }
   if(grepl("clinical_patient_thca.txt",inputFile)){
     columns[columns=="metastatic_dx_confirmed_by_other"] = "thca_metastatic_dx_confirmed_by_other"
@@ -288,7 +291,7 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
 }
 
 ### Batch Is Used To Process Multiple TCGA Files Defined 
-os.data.batch <- function(inputFile, outputDirectory, tables, ...){
+os.data.batch <- function(inputFile, outputDirectory, tables,checkEnumerations, ...){
   
   # Load Input File 
   inputFiles <- read.delim(inputFile, sep="\t", header=TRUE)
@@ -324,10 +327,12 @@ os.data.batch <- function(inputFile, outputDirectory, tables, ...){
       rm(df)
     }
   }
-  os.data.save(
-        df = unmapped.List,
-        file = "unmapped.List",
-        format = "json")
+  if(checkEnumerations){
+      os.data.save(
+          df = unmapped.List,
+          file = "unmapped.List",
+          format = "json")
+  }
    
 }
 
@@ -349,8 +354,8 @@ appendList <- function (x, val)
 os.data.batch(
   inputFile = os.data.batch.inputFile,
   outputDirectory = os.data.batch.outputDir,
-  tables = "f1",
-  checkEnumerations = TRUE,
-  checkClassType = "character")
+  tables = os.data.batch.inputFile.fileCols, 
+  checkEnumerations = FALSE,
+  checkClassType = "character");
 
 #tables = os.data.batch.inputFile.fileCols, 

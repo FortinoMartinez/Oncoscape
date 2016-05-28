@@ -1,0 +1,87 @@
+[
+  {
+    "patient_ID": "TCGA.PR.A5PG",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 2278
+  },
+  {
+    "patient_ID": "TCGA.PR.A5PG",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 2278
+  },
+  {
+    "patient_ID": "TCGA.PR.A5PG",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 2278
+  },
+  {
+    "patient_ID": "TCGA.QT.A5XJ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "L BREAST",
+    "days_to_progression": 1044
+  },
+  {
+    "patient_ID": "TCGA.RT.A6Y9",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LEFT THIGH",
+    "days_to_progression": 3282
+  },
+  {
+    "patient_ID": "TCGA.RT.A6Y9",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RIGHT FOREARM",
+    "days_to_progression": 3282
+  },
+  {
+    "patient_ID": "TCGA.SP.A6QF",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "THYROID",
+    "days_to_progression": 588
+  },
+  {
+    "patient_ID": "TCGA.TT.A6YO",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 377
+  },
+  {
+    "patient_ID": "TCGA.TT.A6YO",
+    "new_tumor": "PROGRESSION",
+    "days_to_progression": 377
+  },
+  {
+    "patient_ID": "TCGA.WB.A80K",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LYMPH NODE(S)",
+    "days_to_progression": 772
+  },
+  {
+    "patient_ID": "TCGA.WB.A80K",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "SKIN"
+  },
+  {
+    "patient_ID": "TCGA.WB.A80P",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 6925
+  },
+  {
+    "patient_ID": "TCGA.WB.A80P",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 6925
+  },
+  {
+    "patient_ID": "TCGA.WB.A81E",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE"
+  }
+]

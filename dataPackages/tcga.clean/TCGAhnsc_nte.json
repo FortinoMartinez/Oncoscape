@@ -1,0 +1,485 @@
+[
+  {
+    "patient_ID": "TCGA.BA.A4IF",
+    "days_to_progression": 463,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.BA.A4II",
+    "days_to_progression": 197,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_site_other": "L FOM",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_surgery": 209,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.BA.A6DB",
+    "days_to_progression": 208,
+    "new_tumor_event_site": "CERVICAL LYMPH NODES",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "days_to_surgery": 216,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.BA.A6DD",
+    "days_to_progression": 96,
+    "new_tumor_event_site": "CERVICAL LYMPH NODES",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.BA.A6DI",
+    "days_to_progression": 266,
+    "new_tumor_event_site": "LARYNX",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.BA.A6DJ",
+    "days_to_progression": 240,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "LUNGS",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": true,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.BB.8601",
+    "days_to_progression": 440,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "drug": false,
+    "days_to_surgery": 440,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.BB.A5HY",
+    "days_to_progression": 230,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "BRAIN",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": true,
+    "drug": false,
+    "days_to_surgery": 237,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.BB.A6UO",
+    "days_to_progression": 212,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "LUNG",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CN.A498",
+    "days_to_progression": 186,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_site_other": "TONGUE, R NECK NODES",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 211,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.CN.A49A",
+    "days_to_progression": 344,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "SPINE",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CQ.7063",
+    "days_to_progression": 1160,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_site_other": "LEFT ORAL TONGUE",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 1220,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.CQ.A4C7",
+    "days_to_progression": 207,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_site_other": "LEFT LATERAL FLAP MARGINS OVERLYING RECONSTRUCTED MANDIBLE",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": true,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CQ.A4C9",
+    "days_to_progression": 287,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 365,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.CQ.A4CG",
+    "days_to_progression": 350,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "NEW PRIMARY IN LEFT UPPER LUNG LOBE WITH METASTASIS TO BRAIN",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CQ.A4CH",
+    "days_to_progression": 210,
+    "new_tumor_event_site_other": "TRACHEA",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CQ.A4CI",
+    "days_to_progression": 517,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "LUNG",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CV.A45P",
+    "days_to_progression": 639,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CV.A45U",
+    "days_to_progression": 1064,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "PELVIS",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CV.A45Y",
+    "days_to_progression": 2318,
+    "new_tumor_event_site_other": "R. LUNG",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CV.A464",
+    "days_to_progression": 28,
+    "new_tumor_event_site_other": "PTERYGOID",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": false,
+    "days_to_surgery": 42,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.CV.A6JM",
+    "days_to_progression": 107,
+    "new_tumor_event_site_other": "RETROPHARYNGEAL",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": true,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CV.A6JO",
+    "days_to_progression": 127,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_site_other": "SUBMANDIBULAR",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CV.A6JZ",
+    "days_to_progression": 393,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_site_other": "SUBMANDIBULAR",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CV.A6K0",
+    "days_to_progression": 146,
+    "new_tumor_event_site": "CERVICAL LYMPH NODES",
+    "new_tumor_event_site_other": "NECK",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.CV.A6K2",
+    "days_to_progression": 134,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 231,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.D6.A6EM",
+    "days_to_progression": 232,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_site_other": "ORAL TONGUE",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.H7.A6C4",
+    "days_to_progression": 245,
+    "new_tumor_event_site_other": "STOMA SITE",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": true,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.IQ.A61G",
+    "days_to_progression": 249,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.IQ.A61L",
+    "days_to_progression": 156,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_surgery": 191,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.KU.A6H8",
+    "days_to_progression": 110,
+    "new_tumor_event_site_other": "RIGHT SIDE, BASE OF TONGUE AND LEVEL 2A CERVICAL NODE",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.MZ.A6I9",
+    "days_to_progression": 246,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "LUNG, MEDIASTINAL LYMPH NODE",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 246,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.P3.A5Q6",
+    "days_to_progression": 280,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "LUNG",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": true,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.P3.A5QA",
+    "days_to_progression": 1601,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_site_other": "TONGUE",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 1625,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.P3.A5QF",
+    "days_to_progression": 140,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "LUNG",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.P3.A6T0",
+    "days_to_progression": 365,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 365,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.P3.A6T3",
+    "days_to_progression": 242,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "LUNG",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 273,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.P3.A6T5",
+    "days_to_progression": 335,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": false,
+    "days_to_surgery": 335,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.P3.A6T6",
+    "days_to_progression": 273,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": true,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.QK.A64Z",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.QK.A6IG",
+    "days_to_progression": 142,
+    "new_tumor_event_site": "CERVICAL LYMPH NODES",
+    "new_tumor_event_site_other": "LEFT LEVEL IB LYMPH NODE",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 169,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.QK.A6IH",
+    "days_to_progression": 228,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "LUNG",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.QK.A6II",
+    "days_to_progression": 176,
+    "new_tumor_event_site": "CERVICAL LYMPH NODES",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": true,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.T2.A6WZ",
+    "days_to_progression": 229,
+    "new_tumor_event_site": "DISTANT METASTASIS",
+    "new_tumor_event_site_other": "LEFT MEDIAL PTERYGOID MUSCLE, PULMONARY NODULES",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": true,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.UF.A7JC",
+    "days_to_progression": 229,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": true,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.UF.A7JK",
+    "days_to_progression": 341,
+    "new_tumor_event_site": "LARYNX",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": false,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.UF.A7JO",
+    "days_to_progression": 525,
+    "new_tumor_event_site": "ORAL CAVITY",
+    "new_tumor_event_site_other": "FLOOR OF MOUTH",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_surgery": 614,
+    "surgery_procedure": true
+  },
+  {
+    "patient_ID": "TCGA.UF.A7JT",
+    "days_to_progression": 718,
+    "new_tumor_event_site_other": "CERVIX",
+    "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
+    "radiation_therapy": true,
+    "drug": true,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.UF.A7JV",
+    "days_to_progression": 55,
+    "new_tumor_event_site": "OROPHARYNX",
+    "new_tumor_event_site_other": "OROPHARYNX AND CERVICAL LYMPH NODE",
+    "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
+    "radiation_therapy": false,
+    "drug": true,
+    "surgery_procedure": false
+  }
+]

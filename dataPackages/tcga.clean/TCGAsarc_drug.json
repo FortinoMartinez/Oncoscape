@@ -1,0 +1,2045 @@
+[
+  {
+    "patient_ID": "TCGA.3B.A9HI",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 850,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 959,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HI",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 850,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 959,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HI",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 983,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1262,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HI",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 983,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1262,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HI",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1493,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HL",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 185,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 215,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HL",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 447,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 481,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HL",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 229,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 432,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HL",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 229,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 432,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HL",
+    "drug_therapy_name": "PAZOPANIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 532,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 542,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HP",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 595,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 616,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HP",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 595,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 616,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1019,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1088,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1019,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1088,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "drug_therapy_name": "TRABECTEDIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1425,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1621,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1758,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2096,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2117,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2396,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2117,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2396,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HR",
+    "drug_therapy_name": "PAZOPANIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2396,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2683,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HS",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 568,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 592,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HS",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 568,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 592,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HS",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1034,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1132,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HS",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1034,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1132,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HS",
+    "drug_therapy_name": "TEMOZOLOMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1202,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1243,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HT",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 51,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 103,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HV",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 112,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 271,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HV",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 105,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 270,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HV",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 339,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 369,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HV",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 339,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 369,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HZ",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 482,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 602,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HZ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 482,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 602,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HZ",
+    "drug_therapy_name": "PAZOPANIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 834,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 889,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HZ",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 906,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1164,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9HZ",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 906,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1164,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9I0",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 580,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 706,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.3B.A9I0",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 948,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1054,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9I0",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 941,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1054,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9I1",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 71,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 176,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9I1",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 36,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 36,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9I1",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 332,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 388,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.3B.A9I1",
+    "drug_therapy_name": "LETROZOLE",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 437,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 500,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LU",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 451,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 492,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LU",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 451,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 492,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3LU",
+    "drug_therapy_name": "PD 0332991",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1974,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2200,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U6",
+    "drug_therapy_name": "PD 0332991",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 484,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 540,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U6",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 554,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 966,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 350,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 549,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 350,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 606,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 741,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 922,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 741,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 922,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 942,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 945,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 969,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1126,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "drug_therapy_name": "PAZOPANIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1133,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1182,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1258,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1301,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3U7",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1352,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1427,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 629,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 709,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1045,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1119,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1045,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1119,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "drug_therapy_name": "PAZOPANIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1144,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1287,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "drug_therapy_name": "TRABECTEDIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1308,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1329,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UC",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1675,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1675,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UF",
+    "drug_therapy_name": "MORAB-004",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1802,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1915,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A3UF",
+    "drug_therapy_name": "MLN8237",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1938,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1945,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6B7",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 65,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 86,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6B7",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 65,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 72,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6B8",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 255,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "drug_therapy_name": "PAZOPANIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 1493,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 705,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 867,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "drug_therapy_name": "EVEROLIMUS",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 525,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 567,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "drug_therapy_name": "R1507",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 525,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 567,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BA",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 446,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 507,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BG",
+    "drug_therapy_name": "PD 0332991",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 161,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 191,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BG",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 198,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6BG",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 198,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6YX",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 285,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 407,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6YX",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 292,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 407,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A6YX",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 444,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 484,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EI",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 990,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 991,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EN",
+    "drug_therapy_name": "PAZOPANIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 352,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EN",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 34,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 216,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EN",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 34,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 216,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EQ",
+    "drug_therapy_name": "VORINOSTAT",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 791,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 830,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EQ",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 559,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 675,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EQ",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 559,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 675,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EQ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 451,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 508,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EQ",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 403,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 424,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A7EQ",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 293,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 349,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BH",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 280,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BT",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 697,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 773,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BT",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 697,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 773,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BU",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1080,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1081,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BU",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 678,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1035,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BU",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 678,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1035,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BU",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 590,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 647,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BU",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 228,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BU",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 123,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 228,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BV",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 750,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 903,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BV",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 750,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 903,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BV",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 415,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 446,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.A8BV",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 415,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 446,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2E",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 133,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 222,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2E",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 133,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 222,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB2E",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 253,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB3B",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 158,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 269,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB3B",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 158,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 269,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB3C",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 48,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB3C",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 90,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 181,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DX.AB3C",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 48,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 89,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FX.A3RE",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 136,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FX.A48G",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 168,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FX.A48G",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 54,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 168,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FX.A48G",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 174,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 289,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FX.A48G",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 309,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 414,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FX.A48G",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 503,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 593,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FX.A8OO",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 118,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 243,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HB.A3L4",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 431,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 473,
+    "drug_cycles": 3,
+    "drug_units": "MG/M2",
+    "drug_dose": 50,
+    "regimen_number": 2,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.HB.A3L4",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 734,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 945,
+    "drug_cycles": 11,
+    "drug_units": "G/DAY",
+    "drug_dose": 2.8,
+    "regimen_number": 4,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.HB.A3L4",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 32,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 216,
+    "drug_cycles": 8,
+    "drug_units": "MG/M2",
+    "drug_dose": 100,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.HB.A3L4",
+    "drug_therapy_name": "LETROZOLE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 582,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_units": "MG/DAY",
+    "drug_dose": 2.5,
+    "regimen_number": 3,
+    "drug_route": "ORAL",
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.HB.A3L4",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 32,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 216,
+    "drug_cycles": 8,
+    "drug_units": "MG/M2",
+    "drug_dose": 900,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.HB.A43Z",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 105,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HB.A43Z",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 105,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HB.A43Z",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 126,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 189,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HS.A5N9",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 42,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 91,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.HS.A5N9",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 91,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 102,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 102,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 778,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 836,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 787,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 836,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "TRABECTEDIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1411,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1594,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "AP-23573 (ARIAD)",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1609,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1660,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "EZN-2968",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 1834,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1918,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "ENOTICUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 1973,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2037,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "THRESHOLD-302",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2073,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2093,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.IE.A3OV",
+    "drug_therapy_name": "PEMETREXED",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2232,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2293,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IE.A4EH",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 326,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 448,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.IE.A4EH",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 326,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 448,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.IE.A6BZ",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 112,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 204,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.IE.A6BZ",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 112,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 204,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.IE.A6BZ",
+    "drug_therapy_name": "MESNA",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 112,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 204,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.IF.A3RQ",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 441,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 457,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IF.A4AJ",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 567,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 600,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IS.A3K7",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 126,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 238,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IS.A3KA",
+    "drug_therapy_name": "TAMOXIFEN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 101,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 187,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IS.A3KA",
+    "drug_therapy_name": "MEGESTROL ACETATE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 101,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 187,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IW.A3M4",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 170,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IW.A3M4",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 58,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 170,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IW.A3M5",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 154,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 154,
+    "drug_cycles": 1,
+    "drug_units": "G/M2",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 80,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 384000
+  },
+  {
+    "patient_ID": "TCGA.IW.A3M5",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 147,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 170,
+    "drug_cycles": 3,
+    "drug_units": "G/M2",
+    "drug_total_dose_units": "MG",
+    "drug_dose": 675,
+    "regimen_number": 1,
+    "drug_route": "INTRAVENOUS",
+    "therapy_regimen": "ADJUVANT",
+    "drug_total_dose": 3240000
+  },
+  {
+    "patient_ID": "TCGA.IW.A3M6",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 45,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IW.A3M6",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 45,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.JV.A5VE",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 165,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.JV.A5VE",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 165,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.JV.A75J",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 19,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.JV.A75J",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 19,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K1.A3PN",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 121,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 182,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K1.A3PN",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 151,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 182,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K1.A42X",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2134,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2293,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K1.A42X",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3256,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3417,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K1.A6RT",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 275,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.K1.A6RU",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 143,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KD.A5QS",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 30,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 72,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KD.A5QS",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 30,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 72,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KD.A5QS",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 366,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 876,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KD.A5QS",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 366,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 471,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KD.A5QS",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 499,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 876,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KD.A5QU",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 93,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 219,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KD.A5QU",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 93,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 219,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KF.A41W",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 61,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 137,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.LI.A67I",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 595,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 670,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MB.A5Y8",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 248,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MB.A5Y8",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "days_to_drug_start": 248,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MO.A47P",
+    "drug_therapy_name": "DOXORUBICIN",
+    "days_to_drug_start": 33,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 227,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.PT.A8TR",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 40,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 155,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.PT.A8TR",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 40,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 155,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.QQ.A5VB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_tx_ongoing": false
+  },
+  {
+    "patient_ID": "TCGA.QQ.A8VD",
+    "drug_therapy_name": "SULINDAC",
+    "pharmaceutical_therapy_type.1": "ANCILLARY",
+    "days_to_drug_start": 529,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1499,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.QQ.A8VD",
+    "drug_therapy_name": "TAMOXIFEN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 613,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1499,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.QQ.A8VD",
+    "drug_therapy_name": "IMATINIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2094,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2780,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.QQ.A8VD",
+    "drug_therapy_name": "RALOXIFENE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2807,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2886,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.QQ.A8VD",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2898,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3026,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.QQ.A8VD",
+    "drug_therapy_name": "SORAFENIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3939,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RN.AAAQ",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 40,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 89,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RN.AAAQ",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 362,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 392,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RN.AAAQ",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 392,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 453,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.RN.AAAQ",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 392,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 453,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SG.A6Z4",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 228,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.SI.A71O",
+    "drug_therapy_name": "BEVACIZUMAB",
+    "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
+    "days_to_drug_start": 350,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 462,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.SI.A71O",
+    "drug_therapy_name": "EVEROLIMUS",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 350,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 462,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.SI.A71O",
+    "drug_therapy_name": "TIVOZANIB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 489,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 545,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.SI.A71P",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 174,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 269,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X2.A95T",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 10,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 132,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X2.A95T",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 10,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 132,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A7WC",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 819,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 854,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C2",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 677,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C4",
+    "pharmaceutical_therapy_type": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 156,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C4",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 327,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 504,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C4",
+    "drug_therapy_name": "TRABECTEDIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 511,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C4",
+    "drug_therapy_name": "BEVACIZUMAB",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 327,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 504,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C4",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 327,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 504,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": true
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C4",
+    "drug_therapy_name": "VALPROIC ACID",
+    "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
+    "days_to_drug_start": 327,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 504,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 785,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 840,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X6.A8C6",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 911,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 966,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X9.A971",
+    "drug_therapy_name": "DOCETAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 413,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 434,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X9.A971",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 413,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 434,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X9.A973",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 323,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 392,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X9.A973",
+    "drug_therapy_name": "DACARBAZINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 323,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 392,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.X9.A973",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 323,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 392,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  }
+]

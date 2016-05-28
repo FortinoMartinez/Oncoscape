@@ -1,0 +1,363 @@
+[
+  {
+    "patient_ID": "TCGA.04.1638",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_start": 614,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.09.0364",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_total_dose": 4400,
+    "radiation_total_dose_units": "CGY",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 538,
+    "days_to_radiation_start": 502,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.09.1665",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 792,
+    "days_to_radiation_start": 778,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.09.1667",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_total_dose": 3000,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 10,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1552,
+    "days_to_radiation_start": 1539,
+    "therapy_regimen": "PALLIATIVE"
+  },
+  {
+    "patient_ID": "TCGA.10.0926",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_start": 273
+  },
+  {
+    "patient_ID": "TCGA.23.1109",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_total_dose": 5500,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 30,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1433,
+    "days_to_radiation_start": 1392,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.23.1122",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 14290,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 29,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1089,
+    "days_to_radiation_start": 1054,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.24.0975",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 3000,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 10,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 576,
+    "days_to_radiation_start": 564,
+    "therapy_regimen": "OTHER",
+    "therapy_regimen_other": "PROGRESSION, RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.24.0979",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 3500,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 14,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 357,
+    "days_to_radiation_start": 338,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.24.1104",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "days_to_radiation_start": 969,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.24.1105",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 7000,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 28,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1285,
+    "days_to_radiation_start": 1263,
+    "therapy_regimen": "OTHER",
+    "therapy_regimen_other": "PROGRESSION, RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.24.1464",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_start": 353,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.24.1556",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_start": 1298,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.24.1564",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.24.1604",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_therapy_ongoing": false,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.24.1930",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 3750,
+    "radiation_total_dose_units": "CGY",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 707,
+    "days_to_radiation_start": 684,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.24.2036",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_total_dose": 35,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 14,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1916,
+    "days_to_radiation_start": 1897,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.25.1634",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 5000,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 5000,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 573,
+    "days_to_radiation_start": 539,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.29.1688",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_start": 2235,
+    "therapy_regimen": "PALLIATIVE"
+  },
+  {
+    "patient_ID": "TCGA.29.1693",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 2331,
+    "days_to_radiation_start": 2270,
+    "therapy_regimen": "OTHER",
+    "therapy_regimen_other": "PROGRESSION/PALLATIVE"
+  },
+  {
+    "patient_ID": "TCGA.29.1694",
+    "radiation_type": "RADIOISOTOPES",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_start": 202,
+    "therapy_regimen": "PROGRESSION",
+    "therapy_regimen_other": "ONE TIME INTRAPERITONEAL"
+  },
+  {
+    "patient_ID": "TCGA.29.1704",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_total_dose": 3500,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 20,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 964,
+    "days_to_radiation_start": 930,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.29.1763",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1979,
+    "days_to_radiation_start": 1948,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.29.2414",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 6600,
+    "radiation_total_dose_units": "CGY",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_start": 1705,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.30.1714",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_start": 777,
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.30.1860",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 4500,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 25,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1055,
+    "days_to_radiation_start": 1006,
+    "therapy_regimen": "PROGRESSION"
+  },
+  {
+    "patient_ID": "TCGA.31.1955",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 300,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 10,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1149,
+    "days_to_radiation_start": 1138,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.36.1577",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 2250,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 22,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 156,
+    "days_to_radiation_start": 111,
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.36.1577",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 2250,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 11,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 156,
+    "days_to_radiation_start": 111,
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.61.1741",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_total_dose": 20,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 5,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 717,
+    "days_to_radiation_start": 711,
+    "therapy_regimen": "PALLIATIVE"
+  },
+  {
+    "patient_ID": "TCGA.61.1901",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_total_dose": 2100,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 7,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 337,
+    "days_to_radiation_start": 330,
+    "therapy_regimen": "PALLIATIVE"
+  },
+  {
+    "patient_ID": "TCGA.61.2012",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.61.2101",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "PRIMARY TUMOR FIELD",
+    "radiation_total_dose": 1960,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 7,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1327,
+    "days_to_radiation_start": 1319,
+    "therapy_regimen": "PALLIATIVE"
+  },
+  {
+    "patient_ID": "TCGA.61.2101",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_total_dose": 600,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 2,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1327,
+    "days_to_radiation_start": 1309,
+    "therapy_regimen": "PALLIATIVE"
+  },
+  {
+    "patient_ID": "TCGA.61.2110",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_total_dose": 600,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 2,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_start": 1263,
+    "therapy_regimen": "RECURRENCE"
+  },
+  {
+    "patient_ID": "TCGA.61.2610",
+    "radiation_type": "EXTERNAL BEAM",
+    "radiation_therapy_site": "LOCAL RECURRENCE",
+    "radiation_total_dose": 4000,
+    "radiation_total_dose_units": "CGY",
+    "radiation_number_fractions_total": 30,
+    "radiation_therapy_ongoing": false,
+    "days_to_radiation_end": 1187,
+    "days_to_radiation_start": 1151,
+    "therapy_regimen": "PALLIATIVE"
+  }
+]

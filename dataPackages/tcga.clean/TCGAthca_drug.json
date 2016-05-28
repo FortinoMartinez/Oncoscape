@@ -1,0 +1,481 @@
+[
+  {
+    "patient_ID": "TCGA.BJ.A2N7",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 16,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CE.A481",
+    "drug_therapy_name": "DOXORUBICIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 172,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 322,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.CE.A482",
+    "drug_therapy_name": "DOXORUBICIN",
+    "days_to_drug_start": 142,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 294,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.DO.A1JZ",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 169,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_units": "UG",
+    "drug_dose": 150,
+    "regimen_number": 1,
+    "drug_route": "ORAL",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.DO.A1K0",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": true,
+    "drug_units": "UG",
+    "drug_dose": 112,
+    "regimen_number": 1,
+    "drug_route": "ORAL",
+    "therapy_regimen": "ADJUVANT"
+  },
+  {
+    "patient_ID": "TCGA.E3.A3DY",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 84,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3DY",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 267,
+    "pharmaceutical_tx_ongoing": true,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3DZ",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 25,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 25,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3DZ",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 30,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 56,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3DZ",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 59,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3E0",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 182,
+    "pharmaceutical_tx_ongoing": false,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3E1",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3E2",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 55,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 116,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3E2",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 116,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3E3",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 41,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 59,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3E3",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 70,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3E5",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 39,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 74,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E3.A3E5",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 73,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E8.A242",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 36,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.E8.A2JQ",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A3ON",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 86,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A3R8",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 296,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A3R9",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 27,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A3W9",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 214,
+    "pharmaceutical_tx_ongoing": true,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A3YR",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 102,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A40K",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 461,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A40L",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 224,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A40M",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 188,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A40N",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 26,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A4B0",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 12,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.FY.A4B4",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 35,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IM.A3ED",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 761,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IM.A41Y",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 86,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.IM.A41Z",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 8,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A41F",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 53,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A41I",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A41J",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 47,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A41J",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A41L",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 217,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4I1",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 88,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 166,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4I1",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 182,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4I3",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 17,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 34,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4I3",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 48,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4I5",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 140,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4I7",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 76,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4I9",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 38,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 61,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4I9",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4IB",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 50,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4IB",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 91,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4IC",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 2,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 20,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4IC",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 34,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4ID",
+    "drug_therapy_name": "LIOTHYRONINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 1,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 75,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.KS.A4ID",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 78,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MK.A4N6",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 70,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MK.A4N7",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 139,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.MK.A4N9",
+    "drug_therapy_name": "LEVOTHYROXINE",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 319,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  }
+]

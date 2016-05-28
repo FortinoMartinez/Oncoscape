@@ -1,0 +1,1699 @@
+[
+  {
+    "patient_ID": "TCGA.2G.AAF1",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 32,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 32,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAF6",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 816,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 879,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAF6",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 816,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 879,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAF6",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 816,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 879,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAF8",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3349,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3420,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAF8",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3349,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 3420,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFE",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 644,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 686,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFE",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 644,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 686,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFE",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 644,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 686,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFG",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2506,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2565,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFG",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2506,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2565,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFG",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2506,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 2565,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFH",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 22,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 79,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFH",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 22,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 79,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFH",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 22,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 79,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFJ",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 336,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 381,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFJ",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 336,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 381,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFJ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 336,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 381,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFL",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 180,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFL",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 180,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFL",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 135,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 180,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFM",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 74,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFM",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 74,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFM",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 74,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFN",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 91,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFN",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 91,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFO",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 25,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFO",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 25,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFO",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
+    "days_to_drug_start": 25,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFY",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFY",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFY",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFZ",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 79,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFZ",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 13,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAFZ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 79,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG0",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 135,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG0",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 135,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG0",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 92,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 135,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG5",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 480,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 515,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG5",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 480,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 515,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG5",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 480,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 515,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG8",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 29,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 73,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG8",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 29,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 73,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG8",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 29,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 73,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG9",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 63,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG9",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 63,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAG9",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 63,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGA",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 124,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 128,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGA",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 124,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 195,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGA",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 124,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 195,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGC",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 371,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 402,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGC",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 371,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 402,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGC",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 371,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 402,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGE",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 171,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGE",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 171,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGE",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 127,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 171,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGF",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 144,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 202,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGF",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 144,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 202,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGF",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 144,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 202,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGG",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 56,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGG",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 56,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGG",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 56,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGJ",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 173,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 229,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGJ",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 173,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 229,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGJ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 173,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 229,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGK",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 718,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 774,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGK",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 718,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 774,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGK",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 718,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 774,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGN",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGN",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 80,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGN",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 80,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGO",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGO",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGO",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGP",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 8,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 53,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGP",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 8,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 53,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGP",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 8,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 53,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGS",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 17,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 49,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGS",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 17,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 49,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGS",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 17,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 49,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGT",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGT",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGT",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGV",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 62,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGV",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 62,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGV",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 62,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGZ",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": -1,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGZ",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": -1,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAGZ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": -1,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH0",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 179,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH0",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 179,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH0",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 122,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 179,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH4",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 9,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 95,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH4",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 9,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 95,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH4",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 9,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 95,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH8",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 68,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH8",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 68,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAH8",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 68,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAHA",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 4,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAHA",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 4,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAHA",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 4,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAHC",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 50,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAHC",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 50,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAHC",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 3,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 50,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKD",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": -4,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 45,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKD",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": -4,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 45,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKD",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": -4,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 45,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKG",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 134,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 182,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKG",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 134,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 182,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKG",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 134,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 182,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKH",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 65,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKH",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 65,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKH",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 65,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKL",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 6,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 78,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKL",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 6,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 78,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKL",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 6,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 78,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKM",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 4,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 50,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKM",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 4,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 50,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAKM",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 4,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 50,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAL7",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 15,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAL7",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 15,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2G.AAL7",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 15,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 71,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.2X.A9D5",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.2X.A9D5",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.4K.AA1G",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 107,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.4K.AA1G",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 107,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.4K.AA1G",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 107,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.4K.AAAL",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 111,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.4K.AAAL",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 111,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.4K.AAAL",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 5,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 111,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S6.A8JY",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 81,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.S6.A8JY",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 11,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 81,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SN.A84Y",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 441,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SN.A84Y",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 441,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.SN.A84Y",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 441,
+    "pharmaceutical_tx_ongoing": true,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VF.A8AD",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 218,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 340,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VF.A8AD",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 218,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 340,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.VF.A8AD",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 218,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 340,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.WZ.A7V4",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 28,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 28,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.A8H1",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.A8H1",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.A8H1",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 24,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 84,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AANJ",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 61,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AANJ",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 61,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AANJ",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 18,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 61,
+    "treatment_best_response": "PROGRESSIVE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AANJ",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 349,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 413,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AANJ",
+    "drug_therapy_name": "PACLITAXEL",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 349,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 413,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AANJ",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 349,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 413,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AANV",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1455,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1512,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AANV",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1455,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1512,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AANV",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 1455,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 1512,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOD",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 82,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOD",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 82,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOD",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 77,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 82,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOJ",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOJ",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.XE.AAOJ",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 63,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 153,
+    "treatment_best_response": "PARTIAL RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YU.A90Q",
+    "drug_therapy_name": "CARBOPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 219,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 252,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YU.A912",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 26,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 111,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YU.A94D",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 69,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 151,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YU.AA4L",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 2,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 83,
+    "treatment_best_response": "STABLE DISEASE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YU.AA4L",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 138,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 238,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YU.AA4L",
+    "drug_therapy_name": "IFOSFAMIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 138,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 238,
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YU.AA4L",
+    "drug_therapy_name": "GEMCITABINE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 250,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 358,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.YU.AA61",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 49,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 106,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZM.AA05",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 20,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 87,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZM.AA05",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 20,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 87,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZM.AA05",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 20,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 77,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZM.AA06",
+    "drug_therapy_name": "CISPLATIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 51,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZM.AA06",
+    "drug_therapy_name": "ETOPOSIDE",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 47,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 50,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  },
+  {
+    "patient_ID": "TCGA.ZM.AA06",
+    "drug_therapy_name": "BLEOMYCIN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "days_to_drug_start": 48,
+    "pharmaceutical_tx_ongoing": false,
+    "days_to_drug_end": 48,
+    "treatment_best_response": "COMPLETE RESPONSE",
+    "therapy_on_clinical_trial": false
+  }
+]

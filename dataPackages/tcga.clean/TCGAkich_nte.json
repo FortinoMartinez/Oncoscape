@@ -1,0 +1,96 @@
+[
+  {
+    "patient_ID": "TCGA.KL.8323",
+    "days_to_progression": 758,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KL.8336",
+    "days_to_progression": 47,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 82,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KL.8339",
+    "days_to_progression": 64,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KL.8341",
+    "days_to_progression": 175,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.KM.8438",
+    "days_to_progression": 2317,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KM.A7Q7",
+    "days_to_progression": 131,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 131,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.KM.A7Q8",
+    "days_to_progression": 246,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KM.A7QH",
+    "days_to_progression": 1772,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.KN.8428",
+    "days_to_progression": 478,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KN.8429",
+    "days_to_progression": 1989,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 2020,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.KO.8404",
+    "days_to_progression": 148,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.KO.8408",
+    "days_to_progression": 46,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 452,
+    "radiation_therapy": false,
+    "drug": true
+  }
+]

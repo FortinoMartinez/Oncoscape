@@ -1,0 +1,12 @@
+[
+  {
+    "patient_ID": "TCGA.AF.A56K",
+    "days_to_progression": 1217,
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_surgery": 1458,
+    "new_tumor": "LOCOREGIONAL",
+    "surgery_procedure.1": true,
+    "residual_tumor": "R1"
+  }
+]

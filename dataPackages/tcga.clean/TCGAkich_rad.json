@@ -1,0 +1,9 @@
+[
+  {
+    "patient_ID": "TCGA.KM.A7Q8",
+    "radiation_type": "EXTERNAL",
+    "radiation_therapy_site": "DISTANT RECURRENCE",
+    "radiation_therapy_ongoing": false,
+    "treatment_best_response": "RADIOGRAPHIC PROGRESSIVE DISEASE"
+  }
+]

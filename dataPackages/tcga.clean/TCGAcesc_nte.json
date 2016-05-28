@@ -1,0 +1,279 @@
+[
+  {
+    "patient_ID": "TCGA.C5.A2LZ",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 2893
+  },
+  {
+    "patient_ID": "TCGA.C5.A3HE",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "CERVIX",
+    "days_to_progression": 252,
+    "surgery_procedure.1": true,
+    "days_to_surgery": 447
+  },
+  {
+    "patient_ID": "TCGA.C5.A8YR",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 272,
+    "new_tumor_event_site_other": "REGIONAL RECURRENCE NOS"
+  },
+  {
+    "patient_ID": "TCGA.DS.A7WF",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 321,
+    "new_tumor_event_pathologic_dx_other": "CT SCAN",
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.DS.A7WF",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 321,
+    "new_tumor_event_site_other": "LIVER",
+    "new_tumor_event_pathologic_dx_other": "CT",
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.DS.A7WF",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 321,
+    "new_tumor_event_site_other": "BRAIN",
+    "new_tumor_event_pathologic_dx_other": "CT",
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.DS.A7WI",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 206,
+    "new_tumor_event_site_other": "RETROPERITONEUM",
+    "new_tumor_event_pathologic_dx_other": "CORE BIOPSY",
+    "surgery_procedure.1": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.EX.A69M",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 77,
+    "surgery_procedure.1": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.IR.A3LB",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 317,
+    "surgery_procedure.1": true,
+    "days_to_surgery": 346,
+    "radiation_therapy": false,
+    "drug": true,
+    "residual_tumor": "R0"
+  },
+  {
+    "patient_ID": "TCGA.JW.A5VH",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 94,
+    "new_tumor_event_site_other": "BRAIN",
+    "new_tumor_event_pathologic_dx_other": "IMAGING ONLY",
+    "surgery_procedure.1": false
+  },
+  {
+    "patient_ID": "TCGA.JW.A5VJ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "HEAD & NECK",
+    "days_to_progression": 267,
+    "new_tumor_event_site_other": "PELVIS",
+    "new_tumor_event_pathologic_dx_other": "FNA OF SUPRACLAVICULAR LN POSITIVE FOR MALIGNANCY",
+    "surgery_procedure.1": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.JW.A852",
+    "new_tumor": "PRIMARY TUMOR",
+    "days_to_progression": 153,
+    "new_tumor_event_site_other": "BREAST",
+    "new_tumor_event_pathologic_dx_other": "BIOPSY",
+    "surgery_procedure.1": false
+  },
+  {
+    "patient_ID": "TCGA.JX.A3PZ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 617,
+    "new_tumor_event_site_other": "BRAIN",
+    "surgery_procedure.1": false,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.JX.A3PZ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 491,
+    "new_tumor_event_site_other": "PELVIS",
+    "surgery_procedure.1": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.JX.A3PZ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 617,
+    "new_tumor_event_site_other": "L SHOULDER",
+    "surgery_procedure.1": false,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.JX.A3PZ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 617,
+    "new_tumor_event_site_other": "L CHEST WALL",
+    "surgery_procedure.1": false,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.UC.A7PD",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 202,
+    "new_tumor_event_site_other": "VAGINAL CUFF"
+  },
+  {
+    "patient_ID": "TCGA.UC.A7PI",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 778,
+    "new_tumor_event_site_other": "VAGINAL APEX",
+    "surgery_procedure.1": true,
+    "days_to_surgery": 799,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.UC.A7PI",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 1638,
+    "new_tumor_event_site_other": "POSTERIOR BLADDER",
+    "surgery_procedure.1": true,
+    "days_to_surgery": 2072,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R0"
+  },
+  {
+    "patient_ID": "TCGA.VS.A8Q8",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 488,
+    "new_tumor_event_site_other": "PELVIS",
+    "new_tumor_event_pathologic_dx_other": "BIOPSY",
+    "surgery_procedure.1": true,
+    "days_to_surgery": 508,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.VS.A8Q8",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 508,
+    "new_tumor_event_site_other": "PARACAVAL LYMPH NODES",
+    "surgery_procedure.1": true,
+    "days_to_surgery": 508,
+    "radiation_therapy": true,
+    "drug": true,
+    "residual_tumor": "R1"
+  },
+  {
+    "patient_ID": "TCGA.VS.A8QC",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 263,
+    "new_tumor_event_site_other": "LIVER",
+    "surgery_procedure.1": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.VS.A9U6",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 711,
+    "new_tumor_event_site_other": "DIAPHRAGM",
+    "surgery_procedure.1": true,
+    "days_to_surgery": 770,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "R2"
+  },
+  {
+    "patient_ID": "TCGA.VS.A9UL",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 336,
+    "new_tumor_event_site_other": "BONE",
+    "new_tumor_event_pathologic_dx_other": "CT SCAN",
+    "surgery_procedure.1": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.VS.A9UP",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 352,
+    "new_tumor_event_site_other": "PARAORTIC LYMPH NODES",
+    "new_tumor_event_pathologic_dx_other": "MRI",
+    "surgery_procedure.1": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.VS.A9UQ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 561,
+    "new_tumor_event_site_other": "OVARY",
+    "surgery_procedure.1": true,
+    "days_to_surgery": 585,
+    "radiation_therapy": false,
+    "drug": false,
+    "residual_tumor": "RX"
+  },
+  {
+    "patient_ID": "TCGA.VS.A9UY",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "HEAD & NECK",
+    "days_to_progression": 412,
+    "new_tumor_event_pathologic_dx_other": "BRAIN MRI",
+    "surgery_procedure.1": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.VS.A9V0",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "days_to_progression": 475,
+    "new_tumor_event_site_other": "RETROPERITONEAL LYMPH NODE AND PELVIC LYMPH NODE AND LUNG",
+    "new_tumor_event_pathologic_dx_other": "PELVIC MRI",
+    "surgery_procedure.1": false
+  },
+  {
+    "patient_ID": "TCGA.VS.A9V1",
+    "new_tumor": "DISTANT METASTASIS",
+    "days_to_progression": 58,
+    "new_tumor_event_site_other": "RETROPERITONEO",
+    "new_tumor_event_pathologic_dx_other": "CHEST CT",
+    "surgery_procedure.1": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.VS.A9V4",
+    "new_tumor": "PRIMARY TUMOR",
+    "days_to_progression": 100,
+    "new_tumor_event_site_other": "SIGMOID COLON",
+    "new_tumor_event_pathologic_dx_other": "COLONOSCOPY",
+    "surgery_procedure.1": false
+  }
+]

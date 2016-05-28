@@ -1,0 +1,6595 @@
+[
+  {
+    "patient_ID": "TCGA.3Z.A93Z",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 385,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 100,
+    "ECOG": 0,
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.6D.AA2E",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 362,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3308",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 16,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3311",
+    "status_vital": "DEAD",
+    "days_to_death": 1191,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3313",
+    "status_vital": "DEAD",
+    "days_to_last_contact": 735,
+    "days_to_death": 735,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3316",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1493,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3317",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1491,
+    "status_tumor": "TUMOR FREE",
+    "days_to_progression": 952,
+    "surgery_procedure": true,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 952
+  },
+  {
+    "patient_ID": "TCGA.A3.3317",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1491,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 560,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.A3.3319",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1130,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3320",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1508,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3322",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1478,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3323",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1106,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3324",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1186,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3325",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "status_vital": "DEAD",
+    "days_to_death": 1170,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3326",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1137,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3328",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1385,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3329",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1624,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3331",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1485,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3335",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1886,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 1098,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 1159,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3336",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1043,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.A3.3343",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 945,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3346",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "DEAD",
+    "days_to_death": 137,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 114,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3347",
+    "status_vital": "DEAD",
+    "days_to_last_contact": 1610,
+    "days_to_death": 1610,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 610,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 610,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3349",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1385,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3351",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 910,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3352",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "DEAD",
+    "days_to_death": 561,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3357",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2688,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3358",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1307,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3359",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2504,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3362",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1559,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3363",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 319,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3365",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 873
+  },
+  {
+    "patient_ID": "TCGA.A3.3367",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2270,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3370",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2274,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3372",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 735,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3373",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1621,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3374",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1314
+  },
+  {
+    "patient_ID": "TCGA.A3.3376",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "DEAD",
+    "days_to_death": 1696,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3378",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 630,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3380",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 567,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.3382",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 574,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 514,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 560
+  },
+  {
+    "patient_ID": "TCGA.A3.3383",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 861
+  },
+  {
+    "patient_ID": "TCGA.A3.3385",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1993,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.3387",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 617,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.A3.A6NI",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1018,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.A6NJ",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 468,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.A6NL",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 689,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.A8OV",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 340,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.A3.A8OW",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 323,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3425",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3343,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3426",
+    "status_vital": "DEAD",
+    "days_to_death": 885,
+    "KPS": 0,
+    "days_to_progression": 256,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.AK.3427",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2566,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3427",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3583,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3428",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2223,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3428",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3728,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 100,
+    "ECOG": 0,
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3429",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2017,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3429",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3328,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3430",
+    "status_vital": "DEAD",
+    "days_to_death": 480,
+    "KPS": 0
+  },
+  {
+    "patient_ID": "TCGA.AK.3431",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1853,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3431",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "DEAD",
+    "days_to_death": 2241,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3433",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2192,
+    "status_tumor": "TUMOR FREE",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3433",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3409,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3434",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2087,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1640,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 1640
+  },
+  {
+    "patient_ID": "TCGA.AK.3436",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2044,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "PRE-ADJUVANT THERAPY"
+  },
+  {
+    "patient_ID": "TCGA.AK.3436",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3331,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 1189,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3440",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1745,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3440",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2865,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3443",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1423,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3444",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1471,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3445",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1280,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3445",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2392,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3447",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1217,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3450",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1779,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3451",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1481,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3451",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2868,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3453",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1397
+  },
+  {
+    "patient_ID": "TCGA.AK.3453",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2531,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.AK.3454",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 874,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3455",
+    "status_vital": "DEAD",
+    "days_to_death": 683
+  },
+  {
+    "patient_ID": "TCGA.AK.3456",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1143
+  },
+  {
+    "patient_ID": "TCGA.AK.3458",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1168,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3460",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 951,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3460",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2508,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3461",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 853,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AK.3461",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2217,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.AK.3465",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 369,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AS.3777",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1238,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.AS.3778",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 43
+  },
+  {
+    "patient_ID": "TCGA.B0.4688",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 101,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4690",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 43,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4691",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 139,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4693",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 77,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4694",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 106,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4696",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 866,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 794,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 293,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 827,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4697",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 578,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4698",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 42,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4699",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 110,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4700",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1980,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4701",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 238,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4703",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 182,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4706",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 65,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4707",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 600,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4710",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 96,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4710",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1755,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4712",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1337,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.B0.4713",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 202,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.B0.4714",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 99,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.B0.4718",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 616,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.B0.4718",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1778,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 768,
+    "radiation_therapy": false,
+    "drug": true,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4810",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 478,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 205,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 238,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4811",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1417,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 458,
+    "days_to_surgery_metastatic": 425,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4813",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 18,
+    "status_tumor": "TUMOR FREE",
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.B0.4814",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 168,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4815",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1588,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.B0.4816",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1371,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.B0.4817",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1019,
+    "status_tumor": "TUMOR FREE",
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.B0.4818",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 510,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 127,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 241
+  },
+  {
+    "patient_ID": "TCGA.B0.4819",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 183,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4821",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1230,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4822",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1111,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4823",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 454,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4824",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1657,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4827",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 885,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 668,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 122,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4828",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 307,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.B0.4833",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 2386,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4834",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 2090,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4836",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1238,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4837",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1378,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1208,
+    "new_tumor_event_surgery_met": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4838",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 834,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4839",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1639,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.4841",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 204,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 108,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4842",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1724,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 250,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 250,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4843",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 320,
+    "status_tumor": "WITH TUMOR",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4844",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 313,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 62,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4845",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1986,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 748,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4846",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1200,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 163,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.B0.4847",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 793
+  },
+  {
+    "patient_ID": "TCGA.B0.4848",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 883,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 494,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4849",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 69,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 4,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.B0.4852",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1121,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 860,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 860
+  },
+  {
+    "patient_ID": "TCGA.B0.4945",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 2145,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5075",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 637,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5077",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1317,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5080",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 342,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 103,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5081",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 362,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 213,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5083",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 1045
+  },
+  {
+    "patient_ID": "TCGA.B0.5084",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 222,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 65,
+    "new_tumor_event_surgery_met": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5085",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 770,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5088",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 563,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5092",
+    "status_vital": "DEAD",
+    "days_to_death": 459,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.B0.5094",
+    "status_vital": "DEAD",
+    "days_to_death": 333,
+    "days_to_progression": 75,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5095",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 245,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5096",
+    "status_vital": "DEAD",
+    "days_to_death": 68,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5097",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 665,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 359,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 359,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5098",
+    "status_vital": "DEAD",
+    "days_to_death": 1584
+  },
+  {
+    "patient_ID": "TCGA.B0.5099",
+    "status_vital": "DEAD",
+    "days_to_death": 485
+  },
+  {
+    "patient_ID": "TCGA.B0.5100",
+    "status_vital": "DEAD",
+    "days_to_death": 1913,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1426,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5102",
+    "status_vital": "DEAD",
+    "days_to_death": 2764,
+    "days_to_progression": 2734,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 2764,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5104",
+    "status_vital": "DEAD",
+    "days_to_death": 2752,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5106",
+    "status_vital": "DEAD",
+    "days_to_death": 1598,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5107",
+    "status_vital": "DEAD",
+    "days_to_death": 927,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 549,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5108",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 911,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5108",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1782,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5109",
+    "status_vital": "DEAD",
+    "days_to_death": 587,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 70,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 100,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5110",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1092,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5110",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2009,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5113",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 359,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5113",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1175,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5115",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 797,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 75,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5115",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1604,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5116",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 657,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5116",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1274,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 1129,
+    "radiation_therapy": true,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5117",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 535,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5117",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1608,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5119",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 59,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5119",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1552,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5120",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 493,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5120",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1169,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5121",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 554,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5121",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1485,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5399",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 652,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5399",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1411,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5400",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1132,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5400",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1733,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5402",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 449,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 444,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5402",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1290,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 449,
+    "radiation_therapy": true,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5690",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2408,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5690",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3392,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5691",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3431,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 3250,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5692",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1487,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5692",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3944,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5693",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3076,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5693",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 4074,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5694",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 480,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 288,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5695",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1420,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5695",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2150,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5696",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1727,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1717,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5696",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2609,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 1727,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5697",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1835,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5697",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2630,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5698",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2583,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5698",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3631,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5699",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2741,
+    "status_tumor": "TUMOR FREE",
+    "days_to_progression": 94
+  },
+  {
+    "patient_ID": "TCGA.B0.5699",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3841,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5700",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1082,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5700",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1790,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5701",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1732,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 224,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 255,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5701",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2461,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5702",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1605,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5702",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2172,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5703",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1203,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5703",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2246,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5705",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3668,
+    "status_tumor": "TUMOR FREE",
+    "days_to_progression": 842,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 846,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5705",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 4537,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5706",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2414,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5706",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3205,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5707",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2828,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5707",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3744,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5709",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3117,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5709",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3974,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5710",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1459,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1447,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5710",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2430,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 1441,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 1441,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5711",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2931,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5711",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3989,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 3766,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 3939,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5712",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2722,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 725,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B0.5713",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1865,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5713",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2782,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B0.5812",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2963,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B0.5812",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3834,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.3923",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 362,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.3923",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 992,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.3924",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 371,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.3924",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1092,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.4098",
+    "status_vital": "DEAD",
+    "days_to_death": 51,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.4099",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 374,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.4099",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 972,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.4101",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 188,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.4101",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 648,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.4102",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 202,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.4102",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 952,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.5633",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 358,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.5633",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 963,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.5635",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 315,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.5635",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 755,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.5636",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 265,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.5636",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 919,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.5639",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 417,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 163,
+    "surgery_procedure": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B2.5639",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "DEAD",
+    "days_to_death": 1003,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 851,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.B2.5641",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 324,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B2.5641",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 656,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B2.A4SR",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 507,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B4.5377",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 365,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B4.5378",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 175,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B4.5832",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 155,
+    "new_tumor_event_diagnosis": false,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B4.5834",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 26,
+    "new_tumor_event_diagnosis": false,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B4.5835",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 16,
+    "new_tumor_event_diagnosis": false,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B4.5836",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 141,
+    "new_tumor_event_diagnosis": false,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B4.5838",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 166,
+    "new_tumor_event_diagnosis": false,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B4.5843",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 11,
+    "new_tumor_event_diagnosis": false,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B4.5844",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 7
+  },
+  {
+    "patient_ID": "TCGA.B8.4143",
+    "status_vital": "DEAD",
+    "days_to_death": 709,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 0,
+    "encounter_type": "OTHER",
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 436
+  },
+  {
+    "patient_ID": "TCGA.B8.4146",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 511,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4146",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 511,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4146",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 511,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.4148",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 378,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4148",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 826,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4148",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1520,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.4151",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 280,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4151",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 838,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4151",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1299,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.4153",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 405,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "POST SECONDARY THERAPY",
+    "days_to_progression": 223,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B8.4153",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 762,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.B8.4154",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 255,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4154",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 750,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4154",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1380,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.4619",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 19,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4619",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 523,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.4620",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 226,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4620",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 777,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 604,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.4621",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 431,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4621",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 788,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.4622",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 181,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.4622",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 700,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.4622",
+    "followup_reason": "ADDITIONAL NEW TUMOR EVENT",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1525,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 0,
+    "encounter_type": "POST SECONDARY THERAPY",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 1227,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5158",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 293,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "PRE-ADJUVANT THERAPY",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5158",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 636,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 80,
+    "ECOG": 0,
+    "encounter_type": "PRE-ADJUVANT THERAPY",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5158",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1218,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5159",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 240,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5159",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 722,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5159",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 722,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5162",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 22,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5162",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 36,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5163",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 4
+  },
+  {
+    "patient_ID": "TCGA.B8.5163",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 822,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5164",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 23,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5164",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 26,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5165",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 8,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5165",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 737,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5545",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 522,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5545",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1525,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5546",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 505,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5549",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 194,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5549",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 194,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5550",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 434,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5550",
+    "followup_reason": "ADDITIONAL NEW TUMOR EVENT",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1476,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 3,
+    "encounter_type": "POST SECONDARY THERAPY",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 694,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5551",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 15,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5551",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 16,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5552",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 392,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.5552",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1046,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.5553",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 435,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.A54D",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 830,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.A54E",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 909,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.A54F",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 519,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.A54G",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 53,
+    "status_tumor": "TUMOR FREE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.A54H",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 256
+  },
+  {
+    "patient_ID": "TCGA.B8.A54I",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 150,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.B8.A54J",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 528,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.A54K",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 469,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.A7U6",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 495,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.B8.A8YJ",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 431,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4158",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3377,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4159",
+    "status_vital": "DEAD",
+    "days_to_death": 2601,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 2352,
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4160",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2881,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4161",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2746,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 2685,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4162",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3074,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4163",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2839,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4164",
+    "status_vital": "DEAD",
+    "days_to_death": 992,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4165",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3037,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1838,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4165",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3037,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1049,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4166",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 13,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4167",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2718,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4169",
+    "status_vital": "DEAD",
+    "days_to_death": 701,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 78,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4170",
+    "status_vital": "DEAD",
+    "days_to_death": 2343,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4173",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1893,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4174",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1879,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4176",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1955,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4177",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1670,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4325",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2964,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4326",
+    "status_vital": "DEAD",
+    "days_to_death": 1625,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 958,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4327",
+    "status_vital": "DEAD",
+    "days_to_death": 109,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4329",
+    "status_vital": "DEAD",
+    "days_to_death": 845,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 134,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4329",
+    "status_vital": "DEAD",
+    "days_to_death": 845,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 470,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4329",
+    "status_vital": "DEAD",
+    "days_to_death": 845,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 700,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4330",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1888,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4331",
+    "status_vital": "DEAD",
+    "days_to_death": 2454,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4332",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1133,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4334",
+    "status_vital": "DEAD",
+    "days_to_death": 645,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 442,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4335",
+    "status_vital": "DEAD",
+    "days_to_death": 475,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 160,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4335",
+    "status_vital": "DEAD",
+    "days_to_death": 475,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 299,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4335",
+    "status_vital": "DEAD",
+    "days_to_death": 475,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 454,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4335",
+    "status_vital": "DEAD",
+    "days_to_death": 475,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.BP.4337",
+    "status_vital": "DEAD",
+    "days_to_death": 2,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4338",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2859,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 2572,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4338",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2859,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 2399,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4338",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2859,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1757,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4340",
+    "status_vital": "DEAD",
+    "days_to_death": 562,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4342",
+    "status_vital": "DEAD",
+    "days_to_death": 2256,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 240,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4343",
+    "status_vital": "DEAD",
+    "days_to_death": 1912,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1530,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4343",
+    "status_vital": "DEAD",
+    "days_to_death": 1912,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1876,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4343",
+    "status_vital": "DEAD",
+    "days_to_death": 1912,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 330,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4343",
+    "status_vital": "DEAD",
+    "days_to_death": 1912,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1467,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4344",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1666,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4345",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1516,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4346",
+    "status_vital": "DEAD",
+    "days_to_death": 1493,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4347",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1367,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4349",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 372
+  },
+  {
+    "patient_ID": "TCGA.BP.4351",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 970,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 873,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4352",
+    "status_vital": "DEAD",
+    "days_to_death": 344,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 265,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 277,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4352",
+    "status_vital": "DEAD",
+    "days_to_death": 344,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 243,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4352",
+    "status_vital": "DEAD",
+    "days_to_death": 344,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 13,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4353",
+    "status_vital": "DEAD",
+    "days_to_death": 375,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4354",
+    "status_vital": "DEAD",
+    "days_to_death": 1034,
+    "status_tumor": "WITH TUMOR",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4354",
+    "status_vital": "DEAD",
+    "days_to_death": 1034,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 685,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4355",
+    "status_vital": "DEAD",
+    "days_to_death": 953,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4756",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 374,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4758",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2208,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4759",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2372,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4760",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2361,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1457,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4761",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 182,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4762",
+    "status_vital": "DEAD",
+    "days_to_death": 1343,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4763",
+    "status_vital": "DEAD",
+    "days_to_death": 1270,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4765",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2184,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4766",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1462,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4768",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 400,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4769",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1876,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4770",
+    "status_vital": "DEAD",
+    "days_to_death": 329,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 208,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4770",
+    "status_vital": "DEAD",
+    "days_to_death": 329,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 169,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4771",
+    "status_vital": "DEAD",
+    "days_to_death": 162,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 23,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 29,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4771",
+    "status_vital": "DEAD",
+    "days_to_death": 162,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 110,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4771",
+    "status_vital": "DEAD",
+    "days_to_death": 162,
+    "status_tumor": "WITH TUMOR",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4774",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1885,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4775",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1843
+  },
+  {
+    "patient_ID": "TCGA.BP.4776",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 411,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4777",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1731,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4781",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2080,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4782",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 354,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4784",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1854,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4787",
+    "status_vital": "DEAD",
+    "days_to_death": 480,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 259,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4787",
+    "status_vital": "DEAD",
+    "days_to_death": 480,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 441,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4789",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1489,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4790",
+    "status_vital": "DEAD",
+    "days_to_death": 1111,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4795",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 620,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4797",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1107,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4798",
+    "status_vital": "DEAD",
+    "days_to_death": 334,
+    "status_tumor": "WITH TUMOR",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4799",
+    "status_vital": "DEAD",
+    "days_to_death": 1133,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 352,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4801",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1124,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4803",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 204,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4804",
+    "followup_reason": "ADDITIONAL NEW TUMOR EVENT",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1459,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 295,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 315,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4804",
+    "followup_reason": "ADDITIONAL NEW TUMOR EVENT",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1459,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 903,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4804",
+    "followup_reason": "ADDITIONAL NEW TUMOR EVENT",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1459,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1270,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4807",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 211,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4959",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2660,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4960",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2172,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4961",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1935,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4962",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1785,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4963",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1834,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4964",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1862,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4965",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1871,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4967",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 205,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4968",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1746,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4969",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1794,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4970",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 433,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4971",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1487,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4972",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1502,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4973",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1384,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4974",
+    "status_vital": "DEAD",
+    "days_to_death": 211,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 35,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4975",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1433,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4976",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1632,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4977",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 454,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4981",
+    "status_vital": "DEAD",
+    "days_to_death": 1097,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4982",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1014,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4983",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1413,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4985",
+    "status_vital": "DEAD",
+    "days_to_death": 952,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 283,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.4985",
+    "status_vital": "DEAD",
+    "days_to_death": 952,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 657,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4985",
+    "status_vital": "DEAD",
+    "days_to_death": 952,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 205,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.4986",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 785,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4987",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1124,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4988",
+    "status_vital": "DEAD",
+    "days_to_death": 828,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4989",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 118,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4991",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1413,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4992",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 501,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4993",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 177,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4994",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1308,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4995",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1371,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4998",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 932,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.4999",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1266,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5000",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 563,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5001",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1177,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5004",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1126,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5006",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 840,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5007",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1140,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5008",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1071,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5009",
+    "status_vital": "DEAD",
+    "days_to_death": 1092,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 492,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5009",
+    "status_vital": "DEAD",
+    "days_to_death": 1092,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 324,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.5010",
+    "status_vital": "DEAD",
+    "days_to_death": 878,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 781,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5010",
+    "status_vital": "DEAD",
+    "days_to_death": 878,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 740,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5010",
+    "status_vital": "DEAD",
+    "days_to_death": 878,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 582,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 684,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5168",
+    "status_vital": "DEAD",
+    "days_to_death": 1463,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5169",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 193,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5170",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2412,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5173",
+    "status_vital": "DEAD",
+    "days_to_death": 62,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5174",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2257,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5175",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 932,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5176",
+    "status_vital": "DEAD",
+    "days_to_death": 1590,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5177",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 293,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5178",
+    "status_vital": "DEAD",
+    "days_to_death": 1912,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1709,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5178",
+    "status_vital": "DEAD",
+    "days_to_death": 1912,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 886,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 905,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5178",
+    "status_vital": "DEAD",
+    "days_to_death": 1912,
+    "status_tumor": "WITH TUMOR",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": -4,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5178",
+    "status_vital": "DEAD",
+    "days_to_death": 1912,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 396,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.5180",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2263,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5181",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1495,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5182",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1165,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5183",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1291,
+    "status_tumor": "TUMOR FREE",
+    "days_to_progression": 485,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 522,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5184",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1133,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5185",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1132,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 736,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5186",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 693,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5187",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 406,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5189",
+    "status_vital": "DEAD",
+    "days_to_death": 822,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 781,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.5189",
+    "status_vital": "DEAD",
+    "days_to_death": 822,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 634,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.5190",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1011,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5191",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 967,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5192",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 714,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5194",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 408,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5195",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 749,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5196",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1018,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5198",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 603,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5199",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1355,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.BP.5200",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1063,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.BP.5201",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 951,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": -19,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 470,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.BP.5202",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 29,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4634",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1820,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4634",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1820,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4634",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3498,
+    "status_tumor": "TUMOR FREE",
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4635",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1416,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4636",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1924,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4637",
+    "status_vital": "DEAD",
+    "days_to_death": 2227,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 2,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 1821,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4638",
+    "status_vital": "DEAD",
+    "days_to_death": 431,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 70,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4639",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2308,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4639",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3229,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4640",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1998,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4640",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3480,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4641",
+    "status_vital": "DEAD",
+    "days_to_death": 1661,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": -359,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4642",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1628,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4642",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3205,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4643",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1793,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4644",
+    "status_vital": "DEAD",
+    "days_to_death": 336,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 2,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 93,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 105,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 105,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4868",
+    "status_vital": "DEAD",
+    "days_to_last_contact": 646,
+    "days_to_death": 646,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 37,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 456,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4869",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2554,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 1754,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4870",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1498,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.4870",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4871",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2423,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 169,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": -43,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4872",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 326,
+    "status_tumor": "TUMOR FREE",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4873",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2259,
+    "status_tumor": "TUMOR FREE",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4874",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2283,
+    "status_tumor": "TUMOR FREE",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4875",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2353,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 531,
+    "surgery_procedure": true,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 2186,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4875",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "DEAD",
+    "days_to_death": 3554,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 531,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4876",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1955,
+    "status_tumor": "TUMOR FREE",
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4878",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2186,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4881",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2014,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 1881,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4882",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1883,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4884",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1759,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4885",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2125,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 2041,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4885",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3451,
+    "status_tumor": "TUMOR FREE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4886",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1952,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4887",
+    "status_vital": "DEAD",
+    "days_to_death": 932,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 322,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4888",
+    "status_vital": "DEAD",
+    "days_to_death": 1567,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 608,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 460,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 608,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4889",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1946,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4890",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2085,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 1477,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 1862,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4890",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3519,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 70,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4891",
+    "status_vital": "DEAD",
+    "days_to_death": 819,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4892",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1521,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4893",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 750,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4894",
+    "status_vital": "DEAD",
+    "days_to_last_contact": 841,
+    "days_to_death": 841,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 158,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4895",
+    "status_vital": "DEAD",
+    "days_to_death": 1200,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 61,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4897",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1808,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1423,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4897",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3341,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 1423,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4899",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1528,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4900",
+    "status_vital": "DEAD",
+    "days_to_death": 1714,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4901",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1450,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4902",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1520,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4903",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1559,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4904",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1792,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "days_to_progression": 278,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4904",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "STABLE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3302,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 278,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4905",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1496,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4907",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1499,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4908",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1531,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4912",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1657,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4913",
+    "status_vital": "DEAD",
+    "days_to_death": 1173,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "days_to_progression": 538,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 664,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4916",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1373,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4918",
+    "status_vital": "DEAD",
+    "days_to_death": 93,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 33,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.4920",
+    "status_vital": "DEAD",
+    "days_to_death": 139,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.4923",
+    "status_vital": "DEAD",
+    "days_to_death": 572,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 25,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.5671",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1943,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.5671",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3987,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.5672",
+    "status_vital": "DEAD",
+    "days_to_death": 2190,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.5675",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2430,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 900,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.5675",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3936,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 900,
+    "radiation_therapy": false,
+    "drug": true,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.5676",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2575,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 2219,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.5676",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 4067,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 2219,
+    "radiation_therapy": true,
+    "drug": true,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.5677",
+    "status_vital": "DEAD",
+    "days_to_death": 782,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 288,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 278,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.5678",
+    "status_vital": "DEAD",
+    "days_to_death": 574,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 399,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 399,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.5679",
+    "status_vital": "DEAD",
+    "days_to_death": 679,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 595,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 595,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.5680",
+    "status_vital": "DEAD",
+    "days_to_death": 768,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 153,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.5681",
+    "status_vital": "DEAD",
+    "days_to_death": 552,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 17,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.5682",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1883,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 55,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.5682",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "treatment_outcome_first_course": "STABLE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3736,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.5683",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1889,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.5684",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2231,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.5686",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2038,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.5689",
+    "status_vital": "DEAD",
+    "days_to_death": 1620,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.6027",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1855,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.6027",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "DEAD",
+    "days_to_death": 3615,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.6028",
+    "status_vital": "DEAD",
+    "days_to_death": 1625,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 137,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 150,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CJ.6030",
+    "status_vital": "DEAD",
+    "days_to_death": 2299,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.6031",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1906,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.6032",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2548,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CJ.6032",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3639,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CJ.6033",
+    "status_vital": "DEAD",
+    "days_to_death": 224,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 2,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 144,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CW.5580",
+    "status_vital": "DEAD",
+    "days_to_death": 1964,
+    "ECOG": 1,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CW.5581",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2799,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0
+  },
+  {
+    "patient_ID": "TCGA.CW.5583",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2489,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 2
+  },
+  {
+    "patient_ID": "TCGA.CW.5584",
+    "status_vital": "DEAD",
+    "days_to_death": 164,
+    "ECOG": 0,
+    "days_to_progression": 102,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CW.5585",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2609,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CW.5587",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2226,
+    "status_tumor": "TUMOR FREE",
+    "days_to_progression": 2003,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 2219,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CW.5588",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2017,
+    "ECOG": 0,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CW.5589",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2378,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.CW.5590",
+    "status_vital": "DEAD",
+    "days_to_death": 1075,
+    "days_to_progression": 672,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CW.5591",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2271,
+    "status_tumor": "WITH TUMOR",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 0,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CW.6087",
+    "status_vital": "DEAD",
+    "days_to_death": 41,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 1
+  },
+  {
+    "patient_ID": "TCGA.CW.6088",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "STABLE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3222,
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CW.6090",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2552,
+    "ECOG": 2,
+    "days_to_progression": 2780
+  },
+  {
+    "patient_ID": "TCGA.CW.6093",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "STABLE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3146,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CW.6096",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "STABLE DISEASE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2701,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.CW.6097",
+    "status_vital": "DEAD",
+    "days_to_death": 571,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 457
+  },
+  {
+    "patient_ID": "TCGA.CZ.4853",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 774,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.4853",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 774
+  },
+  {
+    "patient_ID": "TCGA.CZ.4854",
+    "status_vital": "DEAD",
+    "days_to_death": 1404,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.4856",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 18
+  },
+  {
+    "patient_ID": "TCGA.CZ.4856",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 18
+  },
+  {
+    "patient_ID": "TCGA.CZ.4857",
+    "status_vital": "DEAD",
+    "days_to_death": 1432,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 188,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 188,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CZ.4857",
+    "status_vital": "DEAD",
+    "days_to_death": 1432,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 990,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.4858",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1943,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 597,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 1912,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CZ.4858",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 2105,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 1912,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 1912,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.4859",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1787,
+    "status_tumor": "TUMOR FREE",
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.4859",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1787
+  },
+  {
+    "patient_ID": "TCGA.CZ.4860",
+    "status_vital": "DEAD",
+    "days_to_death": 206,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "POST SECONDARY THERAPY",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CZ.4861",
+    "status_vital": "DEAD",
+    "days_to_death": 446,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "POST SECONDARY THERAPY",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.4862",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1843,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.4862",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3271
+  },
+  {
+    "patient_ID": "TCGA.CZ.4863",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1691,
+    "status_tumor": "TUMOR FREE",
+    "encounter_type": "OTHER",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.4863",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1928,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.4864",
+    "status_vital": "DEAD",
+    "days_to_last_contact": 2830,
+    "days_to_death": 2830,
+    "status_tumor": "TUMOR FREE",
+    "encounter_type": "OTHER",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.4865",
+    "status_vital": "DEAD",
+    "days_to_death": 166,
+    "status_tumor": "TUMOR FREE",
+    "encounter_type": "OTHER",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.4866",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1768,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.4866",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1868,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.4866",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 3267,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5451",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1668,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5451",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1929
+  },
+  {
+    "patient_ID": "TCGA.CZ.5452",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1556,
+    "status_tumor": "TUMOR FREE",
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5452",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1789,
+    "status_tumor": "TUMOR FREE",
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5453",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 25
+  },
+  {
+    "patient_ID": "TCGA.CZ.5453",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 25
+  },
+  {
+    "patient_ID": "TCGA.CZ.5453",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 2419
+  },
+  {
+    "patient_ID": "TCGA.CZ.5454",
+    "status_vital": "DEAD",
+    "days_to_death": 722,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "OTHER",
+    "days_to_progression": 423,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 28,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CZ.5455",
+    "status_vital": "DEAD",
+    "days_to_death": 561,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 1,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5456",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1558,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 951,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 1033,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CZ.5456",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1712,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5456",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2422,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 1,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5457",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1547,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 174,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 174,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5457",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1683,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5457",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2754,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 174,
+    "new_tumor_event_surgery_met": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5458",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1558,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5458",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1732
+  },
+  {
+    "patient_ID": "TCGA.CZ.5458",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2789,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5459",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1515,
+    "status_tumor": "TUMOR FREE",
+    "encounter_type": "OTHER",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5459",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1683,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5460",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1430,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5460",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2873,
+    "status_tumor": "WITH TUMOR",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5461",
+    "status_vital": "DEAD",
+    "days_to_last_contact": 330,
+    "days_to_death": 330,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "days_to_progression": 48,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 52,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CZ.5462",
+    "status_vital": "DEAD",
+    "days_to_death": 311,
+    "status_tumor": "WITH TUMOR",
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5463",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 662
+  },
+  {
+    "patient_ID": "TCGA.CZ.5463",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 662
+  },
+  {
+    "patient_ID": "TCGA.CZ.5464",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1492,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5464",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1740,
+    "status_tumor": "WITH TUMOR",
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5464",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2128,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5465",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1377,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5465",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1446,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5465",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "DEAD",
+    "days_to_death": 2564,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0
+  },
+  {
+    "patient_ID": "TCGA.CZ.5466",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 685,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5467",
+    "status_vital": "DEAD",
+    "days_to_death": 73,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 62,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5468",
+    "status_vital": "DEAD",
+    "days_to_last_contact": 59,
+    "days_to_death": 59,
+    "status_tumor": "WITH TUMOR",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5469",
+    "status_vital": "DEAD",
+    "days_to_death": 946,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 0,
+    "encounter_type": "OTHER",
+    "days_to_progression": 110,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.CZ.5470",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 0
+  },
+  {
+    "patient_ID": "TCGA.CZ.5470",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 386
+  },
+  {
+    "patient_ID": "TCGA.CZ.5982",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2042,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5982",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2439,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5984",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1491,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5984",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2067,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5985",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1629,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5985",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1997
+  },
+  {
+    "patient_ID": "TCGA.CZ.5986",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 373,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5986",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 373
+  },
+  {
+    "patient_ID": "TCGA.CZ.5987",
+    "status_vital": "DEAD",
+    "days_to_death": 445,
+    "status_tumor": "WITH TUMOR",
+    "days_to_progression": 377,
+    "new_tumor_event_surgery_met": true,
+    "days_to_surgery_metastatic": 377,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5988",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 693,
+    "status_tumor": "TUMOR FREE",
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.CZ.5988",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 693
+  },
+  {
+    "patient_ID": "TCGA.CZ.5989",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1599,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.CZ.5989",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1905,
+    "status_tumor": "TUMOR FREE",
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5565",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1110,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5565",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 404,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5565",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 768,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5565",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1329,
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5566",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1034,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5566",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 656,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5566",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 383,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5566",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1398,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5567",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 364,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5567",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1470,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 1,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5567",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2004,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 1,
+    "days_to_progression": 2004,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DV.5568",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 370,
+    "status_tumor": "WITH TUMOR"
+  },
+  {
+    "patient_ID": "TCGA.DV.5569",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 355,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 90,
+    "ECOG": 1,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5573",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1130,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5574",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 723,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER",
+    "days_to_progression": 357,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.DV.5574",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2016,
+    "KPS": 100,
+    "ECOG": 0,
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 357,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 1646,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DV.5575",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1006,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5575",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 1729,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 1,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.5576",
+    "status_vital": "DEAD",
+    "days_to_death": 727,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.DV.A4VX",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "DEAD",
+    "days_to_death": 1626,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 0,
+    "encounter_type": "POST SECONDARY THERAPY",
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.DV.A4VZ",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true
+  },
+  {
+    "patient_ID": "TCGA.DV.A4W0",
+    "followup_reason": "ADDITIONAL NEW TUMOR EVENT",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2008,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 0,
+    "encounter_type": "AT RECURRENCE/PROGRESSION OF DISEASE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 2008,
+    "surgery_procedure": false,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.DV.A4W0",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2470,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 100,
+    "ECOG": 0,
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 2008,
+    "surgery_procedure": true,
+    "days_to_surgery_locoregional": 2100,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.EU.5904",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 551,
+    "status_tumor": "TUMOR FREE"
+  },
+  {
+    "patient_ID": "TCGA.EU.5905",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 119,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.EU.5906",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 206,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 90,
+    "ECOG": 1,
+    "encounter_type": "OTHER"
+  },
+  {
+    "patient_ID": "TCGA.EU.5907",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 127,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 100,
+    "ECOG": 0,
+    "encounter_type": "OTHER",
+    "new_tumor_event_surgery_met": false
+  },
+  {
+    "patient_ID": "TCGA.G6.A8L6",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
+    "status_vital": "DEAD",
+    "days_to_death": 313,
+    "status_tumor": "WITH TUMOR",
+    "KPS": 90,
+    "ECOG": 0,
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 304,
+    "new_tumor_event_surgery_met": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
+    "targeted_molecular_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.G6.A8L7",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 2133,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 80,
+    "ECOG": 1,
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.G6.A8L8",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "DEAD",
+    "days_to_death": 1091,
+    "KPS": 60,
+    "ECOG": 2,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.GK.A6C7",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 61,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.MM.A563",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 591,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.MM.A564",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 607,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.MM.A84U",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 700,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.MW.A4EC",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 498,
+    "status_tumor": "TUMOR FREE",
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  },
+  {
+    "patient_ID": "TCGA.T7.A92I",
+    "followup_reason": "SCHEDULED FOLLOW-UP SUBMISSION",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 356,
+    "status_tumor": "TUMOR FREE",
+    "KPS": 90,
+    "ECOG": 1,
+    "new_tumor_event_diagnosis": false,
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
+    "targeted_molecular_therapy": false
+  }
+]

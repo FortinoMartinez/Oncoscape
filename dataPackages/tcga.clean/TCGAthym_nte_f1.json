@@ -1,0 +1,142 @@
+[
+  {
+    "patient_ID": "TCGA.3G.AB19",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LUNG",
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "days_to_progression": 2420
+  },
+  {
+    "patient_ID": "TCGA.3T.AA9L",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "LUNG PLEURA",
+    "surgery_procedure": true,
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_progression": 702
+  },
+  {
+    "patient_ID": "TCGA.3T.AA9L",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "THYMUS",
+    "surgery_procedure": true,
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_progression": 702
+  },
+  {
+    "patient_ID": "TCGA.3T.AA9L",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "surgery_procedure": true,
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_progression": 702
+  },
+  {
+    "patient_ID": "TCGA.3T.AA9L",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "SUPERIOR VENA CAVA LYMPH NODE",
+    "surgery_procedure": true,
+    "radiation_therapy": true,
+    "drug": true,
+    "days_to_progression": 702
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QN",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PLEURA",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 937
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QQ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PLEURA",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 1549
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QS",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "PLEURA",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 752
+  },
+  {
+    "patient_ID": "TCGA.X7.A8D6",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BREAST",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 2928
+  },
+  {
+    "patient_ID": "TCGA.X7.A8D6",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "FACE",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 3143
+  },
+  {
+    "patient_ID": "TCGA.X7.A8D6",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "NOSE",
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 3502
+  },
+  {
+    "patient_ID": "TCGA.X7.A8D7",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 265
+  },
+  {
+    "patient_ID": "TCGA.XH.A853",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "RIGHT AXILLARY",
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 196
+  },
+  {
+    "patient_ID": "TCGA.ZB.A962",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "surgery_procedure": true,
+    "radiation_therapy": false,
+    "drug": false,
+    "days_to_progression": 1091
+  },
+  {
+    "patient_ID": "TCGA.ZB.A962",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "days_to_progression": 1365
+  }
+]

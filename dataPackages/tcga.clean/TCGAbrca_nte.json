@@ -1,0 +1,529 @@
+[
+  {
+    "patient_ID": "TCGA.A2.A04P"
+  },
+  {
+    "patient_ID": "TCGA.A2.A04V"
+  },
+  {
+    "patient_ID": "TCGA.A2.A0CM"
+  },
+  {
+    "patient_ID": "TCGA.A2.A0CS",
+    "er_status": "POSITIVE",
+    "pr_ihc_status": "POSITIVE",
+    "her2_status": "NEGATIVE",
+    "her2_fish_status": "NEGATIVE",
+    "ratio_nte_cent17_her2": 1.09
+  },
+  {
+    "patient_ID": "TCGA.A2.A0SV"
+  },
+  {
+    "patient_ID": "TCGA.A2.A0SW"
+  },
+  {
+    "patient_ID": "TCGA.A2.A0T2"
+  },
+  {
+    "patient_ID": "TCGA.A2.A3XS"
+  },
+  {
+    "patient_ID": "TCGA.A2.A3XU",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BREAST RECURRENCE",
+    "surgery_procedure": true,
+    "days_to_surgery": 596,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.A2.A3XU",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "CHEST WALL",
+    "days_to_progression": 667,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true,
+    "er_status": "NEGATIVE",
+    "pr_ihc_status": "NEGATIVE",
+    "her2_status": "NEGATIVE"
+  },
+  {
+    "patient_ID": "TCGA.A2.A3XU",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 574,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.AC.A2FE",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 766,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": false
+  },
+  {
+    "patient_ID": "TCGA.AO.A0J5"
+  },
+  {
+    "patient_ID": "TCGA.AR.A0TY",
+    "er_status": "POSITIVE",
+    "pr_ihc_status": "NEGATIVE"
+  },
+  {
+    "patient_ID": "TCGA.AR.A0TZ",
+    "er_status": "POSITIVE",
+    "er_ihc_positive": "70-79%",
+    "pr_ihc_status": "POSITIVE",
+    "pr_ihc_positive": "<10%",
+    "her2_status": "NEGATIVE"
+  },
+  {
+    "patient_ID": "TCGA.AR.A0U2",
+    "er_status": "POSITIVE",
+    "er_ihc_positive": "70-79%",
+    "pr_ihc_status": "NEGATIVE",
+    "her2_status": "NEGATIVE",
+    "her2_fish_status": "NEGATIVE",
+    "ratio_nte_cent17_her2": 2.47
+  },
+  {
+    "patient_ID": "TCGA.AR.A2LH"
+  },
+  {
+    "patient_ID": "TCGA.AR.A2LK",
+    "er_status": "POSITIVE",
+    "pr_ihc_status": "POSITIVE",
+    "her2_status": "NEGATIVE"
+  },
+  {
+    "patient_ID": "TCGA.AR.A5QM",
+    "new_tumor": "PRIMARY TUMOR",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "MALIGNANT MELANOMA",
+    "days_to_progression": 968
+  },
+  {
+    "patient_ID": "TCGA.AR.A5QQ",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "CHESTWALL",
+    "days_to_progression": 301
+  },
+  {
+    "patient_ID": "TCGA.AR.A5QQ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 301
+  },
+  {
+    "patient_ID": "TCGA.AR.A5QQ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LIVER",
+    "days_to_progression": 301
+  },
+  {
+    "patient_ID": "TCGA.AR.A5QQ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 301
+  },
+  {
+    "patient_ID": "TCGA.AR.A5QQ",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "ADRENAL GLANDS",
+    "days_to_progression": 301
+  },
+  {
+    "patient_ID": "TCGA.B6.A0I9"
+  },
+  {
+    "patient_ID": "TCGA.B6.A0WZ"
+  },
+  {
+    "patient_ID": "TCGA.B6.A0X1"
+  },
+  {
+    "patient_ID": "TCGA.B6.A0X4"
+  },
+  {
+    "patient_ID": "TCGA.B6.A0X5"
+  },
+  {
+    "patient_ID": "TCGA.B6.A0X7"
+  },
+  {
+    "patient_ID": "TCGA.B6.A3ZX",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 994,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true
+  },
+  {
+    "patient_ID": "TCGA.B6.A402",
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "OTHER, SPECIFY",
+    "new_tumor_event_site_other": "BREAST",
+    "days_to_progression": 1516,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "er_status": "NEGATIVE",
+    "er_ihc_positive": "<10%",
+    "er_positivity_scale_method": "4 POINT SCALE",
+    "er_ihc_score": "1+",
+    "pr_ihc_status": "NEGATIVE",
+    "pr_ihc_positive": "<10%",
+    "pr_positivity_scale_method": "4 POINT SCALE",
+    "pr_ihc_score": "1+",
+    "her2_status": "NEGATIVE",
+    "her2_ihc_positive": "<10%"
+  },
+  {
+    "patient_ID": "TCGA.B6.A409",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 456,
+    "surgery_procedure": false,
+    "radiation_therapy": true,
+    "drug": true,
+    "er_status": "NEGATIVE",
+    "er_ihc_positive": "<10%",
+    "er_positivity_scale_method": "4 POINT SCALE",
+    "er_ihc_score": "1+",
+    "pr_ihc_status": "NEGATIVE",
+    "pr_ihc_positive": "<10%",
+    "pr_positivity_scale_method": "4 POINT SCALE",
+    "pr_ihc_score": "1+",
+    "her2_status": "NEGATIVE",
+    "her2_ihc_positive": "<10%"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0AW"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0AY"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0B1"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0B3"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0B4"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0B8"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0B9"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0BA"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0BC"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0BD"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0BJ"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0BM"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0BV"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0C0"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0DH"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0DK"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0DP"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0DQ"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0DS"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0DZ"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0E0"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0E1"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0E2"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0E6"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0E7"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0EB"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0EE"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0GY"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0GZ"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0H0"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0H6"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0H7"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0H9"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HB"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HF"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HI"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HK"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HL"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HN"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HO"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HP",
+    "er_status": "POSITIVE",
+    "pr_ihc_status": "NEGATIVE"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HQ"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HU"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HW"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0HX"
+  },
+  {
+    "patient_ID": "TCGA.BH.A0RX"
+  },
+  {
+    "patient_ID": "TCGA.BH.A18J",
+    "er_status": "POSITIVE",
+    "pr_ihc_status": "POSITIVE",
+    "her2_status": "NEGATIVE",
+    "her2_fish_status": "NEGATIVE"
+  },
+  {
+    "patient_ID": "TCGA.BH.A18V",
+    "er_status": "NEGATIVE",
+    "pr_ihc_status": "NEGATIVE",
+    "her2_status": "NEGATIVE"
+  },
+  {
+    "patient_ID": "TCGA.BH.A1FH"
+  },
+  {
+    "patient_ID": "TCGA.C8.A12K"
+  },
+  {
+    "patient_ID": "TCGA.C8.A12L"
+  },
+  {
+    "patient_ID": "TCGA.C8.A12N"
+  },
+  {
+    "patient_ID": "TCGA.D8.A13Y"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1J8"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1J9"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JA"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JB"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JC"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JD"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JE"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JF"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JG"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JH"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JI"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JJ"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JK"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JL"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JM"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JN"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JP"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JS"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JT"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1JU"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1X8"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1X9"
+  },
+  {
+    "patient_ID": "TCGA.D8.A1XC"
+  },
+  {
+    "patient_ID": "TCGA.D8.A73W",
+    "surgery_procedure": false
+  },
+  {
+    "patient_ID": "TCGA.E2.A108"
+  },
+  {
+    "patient_ID": "TCGA.EW.A1P0",
+    "er_status": "POSITIVE",
+    "er_ihc_positive": "90-99%",
+    "er_positivity_scale_method": "3 POINT SCALE",
+    "er_ihc_score": "3+",
+    "pr_ihc_status": "NEGATIVE",
+    "pr_ihc_positive": "<10%",
+    "pr_positivity_scale_method": "3 POINT SCALE",
+    "pr_ihc_score": "1+",
+    "her2_status": "NEGATIVE",
+    "her2_ihc_positive": "<10%"
+  },
+  {
+    "patient_ID": "TCGA.EW.A1P1",
+    "er_status": "NEGATIVE",
+    "er_ihc_positive": "<10%",
+    "er_positivity_scale_method": "3 POINT SCALE",
+    "pr_ihc_status": "NEGATIVE",
+    "pr_ihc_positive": "<10%",
+    "pr_positivity_scale_method": "3 POINT SCALE",
+    "her2_status": "EQUIVOCAL",
+    "her2_ihc_positive": "<10%"
+  },
+  {
+    "patient_ID": "TCGA.EW.A1P8",
+    "er_status": "NEGATIVE",
+    "er_ihc_positive": "<10%",
+    "er_positivity_scale_method": "3 POINT SCALE",
+    "pr_ihc_status": "NEGATIVE",
+    "pr_ihc_positive": "<10%",
+    "pr_positivity_scale_method": "3 POINT SCALE",
+    "her2_status": "NEGATIVE",
+    "her2_ihc_positive": "<10%"
+  },
+  {
+    "patient_ID": "TCGA.GM.A2D9",
+    "er_status": "POSITIVE",
+    "er_ihc_positive": "90-99%"
+  },
+  {
+    "patient_ID": "TCGA.GM.A2DA"
+  },
+  {
+    "patient_ID": "TCGA.HN.A2OB",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 1543,
+    "surgery_procedure": false,
+    "radiation_therapy": false,
+    "drug": true,
+    "er_status": "POSITIVE",
+    "er_positivity_scale_method": "4 POINT SCALE",
+    "er_ihc_score": "3+",
+    "pr_ihc_status": "POSITIVE",
+    "pr_positivity_scale_method": "4 POINT SCALE",
+    "pr_ihc_score": "2+",
+    "her2_status": "NEGATIVE"
+  },
+  {
+    "patient_ID": "TCGA.OL.A97C",
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 275
+  },
+  {
+    "patient_ID": "TCGA.Z7.A8R5",
+    "new_tumor": "LOCOREGIONAL",
+    "days_to_progression": 181,
+    "surgery_procedure": true,
+    "days_to_surgery": 181,
+    "radiation_therapy": false,
+    "drug": true
+  }
+]

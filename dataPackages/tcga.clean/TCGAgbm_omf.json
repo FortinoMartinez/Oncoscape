@@ -1,0 +1,27 @@
+[
+  {
+    "patient_ID": "TCGA.06.0209",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_surgery": -1657,
+    "pharmaceutical_therapy": true,
+    "radiation_therapy": true,
+    "history_rt_tx_to_site_of_tumor": false,
+    "laterality": "RIGHT"
+  },
+  {
+    "patient_ID": "TCGA.06.6391",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "surgery_procedure": true,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": true
+  },
+  {
+    "patient_ID": "TCGA.19.A6J4",
+    "malignancy_type": "PRIOR MALIGNANCY",
+    "days_to_diagnosis": -2978,
+    "surgery_procedure": true,
+    "days_to_surgery": -2978,
+    "pharmaceutical_therapy": false,
+    "radiation_therapy": false
+  }
+]

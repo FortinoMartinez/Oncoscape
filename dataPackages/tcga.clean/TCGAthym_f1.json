@@ -1,0 +1,1481 @@
+[
+  {
+    "patient_ID": "TCGA.3G.AB0O",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1723
+  },
+  {
+    "patient_ID": "TCGA.3G.AB0O",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2086
+  },
+  {
+    "patient_ID": "TCGA.3G.AB0Q",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1799
+  },
+  {
+    "patient_ID": "TCGA.3G.AB14",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "DEAD",
+    "new_tumor_event_diagnosis": false,
+    "days_to_death": 775
+  },
+  {
+    "patient_ID": "TCGA.3G.AB19",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "DEAD",
+    "new_tumor_event_diagnosis": true,
+    "days_to_death": 2910
+  },
+  {
+    "patient_ID": "TCGA.3Q.A9WF",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 467
+  },
+  {
+    "patient_ID": "TCGA.3S.A8YW",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 643
+  },
+  {
+    "patient_ID": "TCGA.3S.AAYX",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 571
+  },
+  {
+    "patient_ID": "TCGA.3T.AA9L",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "WITH TUMOR",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_last_contact": 1050
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QI",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2714
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QI",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2936
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QJ",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2702
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QJ",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2849
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QL",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1726
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QL",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1908
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QM",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1171
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QM",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1253
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QN",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 879
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QN",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "WITH TUMOR",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_last_contact": 970
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QQ",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1371
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QQ",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "WITH TUMOR",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_last_contact": 1572
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QR",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 601
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QR",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 780
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QS",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 596
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QS",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "WITH TUMOR",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_last_contact": 774
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QT",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 660
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QT",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 813
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QU",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 505
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QU",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 627
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QW",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 428
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QW",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 630
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QX",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 342
+  },
+  {
+    "patient_ID": "TCGA.4V.A9QX",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 434
+  },
+  {
+    "patient_ID": "TCGA.4X.A9F9",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 480
+  },
+  {
+    "patient_ID": "TCGA.4X.A9F9",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 568
+  },
+  {
+    "patient_ID": "TCGA.4X.A9F9",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 669
+  },
+  {
+    "patient_ID": "TCGA.4X.A9FA",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 392
+  },
+  {
+    "patient_ID": "TCGA.4X.A9FB",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 717
+  },
+  {
+    "patient_ID": "TCGA.4X.A9FC",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1626
+  },
+  {
+    "patient_ID": "TCGA.4X.A9FC",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2072
+  },
+  {
+    "patient_ID": "TCGA.4X.A9FD",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1200
+  },
+  {
+    "patient_ID": "TCGA.4X.A9FD",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1503
+  },
+  {
+    "patient_ID": "TCGA.5G.A9ZZ",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 835
+  },
+  {
+    "patient_ID": "TCGA.5K.AAAP",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1054
+  },
+  {
+    "patient_ID": "TCGA.5U.AB0D",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "WITH TUMOR",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 714
+  },
+  {
+    "patient_ID": "TCGA.5U.AB0E",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 687
+  },
+  {
+    "patient_ID": "TCGA.5U.AB0F",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 459
+  },
+  {
+    "patient_ID": "TCGA.5V.A9RR",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 827
+  },
+  {
+    "patient_ID": "TCGA.X7.A8D6",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_last_contact": 4225
+  },
+  {
+    "patient_ID": "TCGA.X7.A8D7",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_last_contact": 325
+  },
+  {
+    "patient_ID": "TCGA.X7.A8D8",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 58
+  },
+  {
+    "patient_ID": "TCGA.X7.A8D9",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.X7.A8DB",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1992
+  },
+  {
+    "patient_ID": "TCGA.X7.A8DC",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1798
+  },
+  {
+    "patient_ID": "TCGA.X7.A8DD",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1114
+  },
+  {
+    "patient_ID": "TCGA.X7.A8DE",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 981
+  },
+  {
+    "patient_ID": "TCGA.X7.A8DF",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 901
+  },
+  {
+    "patient_ID": "TCGA.X7.A8DG",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 695
+  },
+  {
+    "patient_ID": "TCGA.X7.A8DI",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 705
+  },
+  {
+    "patient_ID": "TCGA.X7.A8DJ",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 289
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M0",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 441
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M1",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1282
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M3",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 50
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M4",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 3808
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M5",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1645
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M6",
+    "followup_lost_to": false,
+    "status_tumor": "WITH TUMOR",
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 4575
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M7",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1972
+  },
+  {
+    "patient_ID": "TCGA.X7.A8M8",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2533
+  },
+  {
+    "patient_ID": "TCGA.XH.A853",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_last_contact": 1220
+  },
+  {
+    "patient_ID": "TCGA.XM.A8R8",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1598
+  },
+  {
+    "patient_ID": "TCGA.XM.A8R9",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1488
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RB",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1144
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RC",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2963
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RD",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1546
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RE",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 234
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RE",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 422
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RF",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 797
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RG",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 197
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RG",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 386
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RH",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 363
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RI",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 296
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RI",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 387
+  },
+  {
+    "patient_ID": "TCGA.XM.A8RL",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2562
+  },
+  {
+    "patient_ID": "TCGA.XM.AAZ1",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 397
+  },
+  {
+    "patient_ID": "TCGA.XM.AAZ2",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 981
+  },
+  {
+    "patient_ID": "TCGA.XM.AAZ3",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1150
+  },
+  {
+    "patient_ID": "TCGA.XU.A92O",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 3410
+  },
+  {
+    "patient_ID": "TCGA.XU.A92Q",
+    "followup_lost_to": true,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1092
+  },
+  {
+    "patient_ID": "TCGA.XU.A92R",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2739
+  },
+  {
+    "patient_ID": "TCGA.XU.A92T",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1376
+  },
+  {
+    "patient_ID": "TCGA.XU.A92U",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 4562
+  },
+  {
+    "patient_ID": "TCGA.XU.A92W",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 3279
+  },
+  {
+    "patient_ID": "TCGA.XU.A92X",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2343
+  },
+  {
+    "patient_ID": "TCGA.XU.A92Z",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 3663
+  },
+  {
+    "patient_ID": "TCGA.XU.A930",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2514
+  },
+  {
+    "patient_ID": "TCGA.XU.A932",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2149
+  },
+  {
+    "patient_ID": "TCGA.XU.A933",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1789
+  },
+  {
+    "patient_ID": "TCGA.XU.A936",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 643
+  },
+  {
+    "patient_ID": "TCGA.XU.AAXV",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 4070
+  },
+  {
+    "patient_ID": "TCGA.XU.AAXW",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 3762
+  },
+  {
+    "patient_ID": "TCGA.XU.AAXX",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2363
+  },
+  {
+    "patient_ID": "TCGA.XU.AAXX",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2721
+  },
+  {
+    "patient_ID": "TCGA.XU.AAXY",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1891
+  },
+  {
+    "patient_ID": "TCGA.XU.AAXZ",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1537
+  },
+  {
+    "patient_ID": "TCGA.XU.AAY0",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1502
+  },
+  {
+    "patient_ID": "TCGA.XU.AAY1",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 3268
+  },
+  {
+    "patient_ID": "TCGA.YT.A95D",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 568
+  },
+  {
+    "patient_ID": "TCGA.YT.A95D",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 750
+  },
+  {
+    "patient_ID": "TCGA.YT.A95E",
+    "followup_lost_to": true
+  },
+  {
+    "patient_ID": "TCGA.YT.A95E",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1070
+  },
+  {
+    "patient_ID": "TCGA.YT.A95F",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 693
+  },
+  {
+    "patient_ID": "TCGA.YT.A95F",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 740
+  },
+  {
+    "patient_ID": "TCGA.YT.A95F",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 775
+  },
+  {
+    "patient_ID": "TCGA.YT.A95G",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1514
+  },
+  {
+    "patient_ID": "TCGA.YT.A95H",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 389
+  },
+  {
+    "patient_ID": "TCGA.YT.A95H",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 627
+  },
+  {
+    "patient_ID": "TCGA.YT.A95H",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 627
+  },
+  {
+    "patient_ID": "TCGA.YT.A95H",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_vital": "ALIVE",
+    "days_to_last_contact": 711
+  },
+  {
+    "patient_ID": "TCGA.ZB.A961",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "DEAD",
+    "new_tumor_event_diagnosis": false,
+    "days_to_death": 180
+  },
+  {
+    "patient_ID": "TCGA.ZB.A962",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": true,
+    "days_to_last_contact": 1647
+  },
+  {
+    "patient_ID": "TCGA.ZB.A963",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1482
+  },
+  {
+    "patient_ID": "TCGA.ZB.A964",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1287
+  },
+  {
+    "patient_ID": "TCGA.ZB.A965",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 816
+  },
+  {
+    "patient_ID": "TCGA.ZB.A969",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1046
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96A",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2354
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96B",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2211
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96C",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2163
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96D",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1960
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96E",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1819
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96F",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1761
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96G",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1606
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96H",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1504
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96I",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1653
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96K",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1388
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96L",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1529
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96M",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 14
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96O",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1050
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96P",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 753
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96Q",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 675
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96R",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1804
+  },
+  {
+    "patient_ID": "TCGA.ZB.A96V",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 932
+  },
+  {
+    "patient_ID": "TCGA.ZC.AAA7",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "WITH TUMOR",
+    "status_vital": "DEAD",
+    "new_tumor_event_diagnosis": false,
+    "days_to_death": 853
+  },
+  {
+    "patient_ID": "TCGA.ZC.AAAA",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 819
+  },
+  {
+    "patient_ID": "TCGA.ZC.AAAA",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": true,
+    "pharmaceutical_tx_adjuvant": true,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 819
+  },
+  {
+    "patient_ID": "TCGA.ZC.AAAF",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1165
+  },
+  {
+    "patient_ID": "TCGA.ZC.AAAF",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1165
+  },
+  {
+    "patient_ID": "TCGA.ZC.AAAH",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 497
+  },
+  {
+    "patient_ID": "TCGA.ZC.AAAH",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 497
+  },
+  {
+    "patient_ID": "TCGA.ZL.A9V6",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 2096
+  },
+  {
+    "patient_ID": "TCGA.ZT.A8OM",
+    "followup_lost_to": false,
+    "radiation_treatment_adjuvant": false,
+    "pharmaceutical_tx_adjuvant": false,
+    "status_tumor": "TUMOR FREE",
+    "status_vital": "ALIVE",
+    "new_tumor_event_diagnosis": false,
+    "days_to_last_contact": 1398
+  }
+]

@@ -1,0 +1,505 @@
+[
+  {
+    "patient_ID": "TCGA.BJ.A0YZ",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0Z0",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0Z2",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "BONE",
+    "days_to_progression": 158,
+    "new_tumor_event_histo_progression": true,
+    "drug": true,
+    "surgery_locoregional": true,
+    "days_to_surgery_metastatic": 232
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0Z3",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0Z5",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0Z9",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0ZA",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0ZB",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0ZC",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0ZE",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0ZF",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0ZG",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0ZH",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.BJ.A0ZJ",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DE.A0XZ",
+    "new_tumor_event_diagnosis": true,
+    "days_to_progression": 204
+  },
+  {
+    "patient_ID": "TCGA.DE.A0Y2",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DE.A0Y3",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DE.A2OL",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13M",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13O",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13P",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13R",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13S",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13T",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13U",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13V",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13W",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A13X",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QD",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QE",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QF",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QG",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QH",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QI",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QL",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QM",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QN",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QO",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A1QQ",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PN",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PO",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PP",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PQ",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PR",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PS",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PT",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PU",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PV",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PW",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PX",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PY",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2PZ",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q0",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q1",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q2",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q3",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q4",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q5",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q6",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q7",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q8",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2Q9",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2QA",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2QB",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DJ.A2QC",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DO.A1JZ",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.DO.A1K0",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 577,
+    "new_tumor_event_histo_progression": false,
+    "radiation_therapy": true,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "IMRT",
+    "radiation_therapy_xrt_dose": "6400 CGY",
+    "radiation_therapy_xrt_sensitizers": false,
+    "surgery_locoregional": true,
+    "days_to_surgery_metastatic": 577
+  },
+  {
+    "patient_ID": "TCGA.EM.A1CS",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A1CT",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A1CU",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A1CV",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A1CW",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A1YA",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A1YB",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A1YC",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A1YD",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A1YE",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A22I",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A22J",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A22K",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A22L",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A22M",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A22N",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A22O",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A22P",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.EM.A22Q",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.FE.A22Z",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 1215,
+    "new_tumor_event_histo_progression": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "NONE",
+    "surgery_locoregional": true,
+    "days_to_surgery_metastatic": 1215
+  },
+  {
+    "patient_ID": "TCGA.FE.A230",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 526,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "NONE",
+    "surgery_locoregional": true,
+    "days_to_surgery_metastatic": 526
+  },
+  {
+    "patient_ID": "TCGA.FE.A231",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.FE.A232",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.FE.A233",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 567,
+    "new_tumor_event_histo_progression": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "NONE",
+    "surgery_locoregional": true,
+    "days_to_surgery_metastatic": 567
+  },
+  {
+    "patient_ID": "TCGA.FE.A234",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 483,
+    "new_tumor_event_histo_progression": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "NONE",
+    "surgery_locoregional": true,
+    "days_to_surgery_metastatic": 483
+  },
+  {
+    "patient_ID": "TCGA.FE.A235",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.FE.A236",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.FE.A237",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 492,
+    "new_tumor_event_histo_progression": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "NONE",
+    "surgery_locoregional": true,
+    "days_to_surgery_metastatic": 492
+  },
+  {
+    "patient_ID": "TCGA.FE.A237",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 693,
+    "new_tumor_event_histo_progression": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "NONE",
+    "surgery_locoregional": true,
+    "days_to_surgery_metastatic": 693
+  },
+  {
+    "patient_ID": "TCGA.FE.A238",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "DISTANT METASTASIS",
+    "new_tumor_event_site": "LUNG",
+    "days_to_progression": 431
+  },
+  {
+    "patient_ID": "TCGA.FE.A239",
+    "new_tumor_event_diagnosis": true,
+    "new_tumor": "LOCOREGIONAL",
+    "new_tumor_event_site": "LYMPH NODE ONLY",
+    "days_to_progression": 933,
+    "new_tumor_event_histo_progression": false,
+    "radiation_therapy": false,
+    "drug": false,
+    "i_131_radiation_first_tx_method": "PATIENT DID NOT RECEIVE I-131 TREATMENT",
+    "radiation_therapy_xrt_method_prep": "NONE",
+    "surgery_locoregional": false
+  },
+  {
+    "patient_ID": "TCGA.FE.A23A",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.GE.A2C6",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.GE.A2C6",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.H2.A26U",
+    "new_tumor_event_diagnosis": false
+  },
+  {
+    "patient_ID": "TCGA.H2.A2K9",
+    "new_tumor_event_diagnosis": false
+  }
+]
