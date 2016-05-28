@@ -230,7 +230,8 @@
 	},
 // encounter reason/status
 	"os.class.encounter_type": {
-		"encounter_type": ["performance_status_timing", "performance_status_other_timing"]
+		"encounter_type": ["performance_status_timing", "performance_status_other_timing"],
+		"therapy_regimen_other": ["therapy_regimen_other"]
 	},
 	"os.class.symptoms":{
 	  "related_symptom_first_present":["related_symptom_first_present"]
@@ -265,7 +266,8 @@
 		"history_immunological_disease": ["history_immunological_disease","history_immunological_disease_other"],
 		"history_relevant_infectious_dx": ["history_relevant_infectious_dx"],
 		"synchronous_tumor_histology_type":["synchronous_tumor_histology_type"],
-		"history_thyroid_disease":["history_thyroid_disease","history_thyroid_disease_other"]
+		"history_thyroid_disease":["history_thyroid_disease","history_thyroid_disease_other"],
+		"disease_subtype": ["disease_subtype"]
 		
 	},
 	"os.class.family.relationship": {
@@ -299,11 +301,14 @@
 		"hysterectomy_type": ["hysterectomy_type", "other_hysterectomy_type"]
 	},
 	"os.class.drug_agent": {
-		"drug_therapy_name": ["drug_name", "chemo_concurrent_type_other", "chemo_concurrent_type"],
+		"drug_therapy_name": ["drug_name", "chemo_concurrent_type_other", "chemo_concurrent_type","pharmaceutical_therapy_drug_name"],
 		"history_immunosuppresive_tx": ["history_immunosuppresive_dx", "history_immunosuppressive_tx_other"]
 	},
 	"os.class.hormones":{
 		"history_adrenal_hormone_excess": ["history_adrenal_hormone_excess"]
+	},
+	"os.class.drug_therapy_type": {
+		"pharmaceutical_therapy_type":["pharmaceutical_therapy_type", "clinical_trial_drug_classification"]
 	},
 
 
@@ -334,7 +339,7 @@
 	},
 	"os.class.tumor_type": { //added back to tcgacharacter for now
 	 	"new_tumor": ["new_tumor_event_type", "new_neoplasm_event_type"],
-	 	"tumor_site": ["skcm_tumor_site", "tumor_sample_type"]
+	 	"tumor_type": ["tumor_sample_type","tumor_type","skcm_tumor_type"]
 	},
     "os.class.proximity":{
 		"esophageal_tumor_location": ["esophageal_tumor_location_involved", "esophageal_tumor_location_centered"]
@@ -721,11 +726,10 @@
 		"maximum_tumor_bulk_anatomic_site":["maximum_tumor_bulk_anatomic_site"],
     	"metastatic_site": ["metastasis_site", "metastasis_site_other", "metastatic_site_other", "metastatic_site", "metastatic_tumor_site", "other_metastatic_site"],
     	"site_of_primary_tumor_other": ["site_of_primary_tumor_other"],
-    	"tumor_site": ["tumor_site", "submitted_tumor_site"],
+    	"tumor_site": ["tumor_site", "submitted_tumor_site", "skcm_tissue_site"],
     	"location_lung_parenchyma":["location_lung_parenchyma"],
     	"positive_lymph_node_location": ["pos_lymph_node_location", "other_pos_node_location"],
     	"lymph_node_involvement_site": ["lymph_node_involvement_site"],
-    	"skcm_tissue_site":["skcm_tissue_site"],
     	"testis_tumor_macroextent_other":["testis_tumor_macroextent_other"],
     	"testis_tumor_microextent":["testis_tumor_microextent"]
 	},
@@ -790,7 +794,6 @@
 		"history_barretts_esophageal_indicator":["history_barretts_esophageal_indicator"],
 		"patient_to_undergo_surgery":["patient_to_undergo_surgery"],
 		"treatment_prior_to_surgery_indicator":["treatment_prior_to_surgery_indicator"],
-		"tumor_type":["tumor_type"],
 		"viral_hepatitis_serology":["viral_hepatitis_serology"],
 		"asbestos_exposure_source":["asbestos_exposure_source"],
 		"mesothelioma_detection_method":["mesothelioma_detection_method"],
@@ -827,7 +830,9 @@
 		"gene_expression_profile":["gene_expression_profile"],
 		"extravascular_matrix_patterns":["gene_expression_profile","extravascular_matrix_patterns"],
 		"tumor_shape_pathologic_clinical":["tumor_shape_pathologic_clinical"],
-		"occupation_primary_chemical_exposure": ["occupation_primary_chemical_exposure"]
+		"occupation_primary_chemical_exposure": ["occupation_primary_chemical_exposure"],
+		"therapy_regimen_other": ["therapy_regimen_other"],
+		"pharma_type_other": ["pharma_type_other"]
 
 	}
 } 

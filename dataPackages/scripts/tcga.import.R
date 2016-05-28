@@ -31,7 +31,7 @@ os.tcga.field.enumerations  <- fromJSON("os.tcga.field.enumerations.json")
 os.tcga.column.enumerations <- fromJSON("os.tcga.column.enumerations.json")
 
 # Class Definitions :: Enumerations -------------------------------------------------------
-os.enum.na <- c("", "NA", "[NOTAVAILABLE]","[UNKNOWN]","[NOT AVAILABLE]","[NOT EVALUATED]","UKNOWN","[DISCREPANCY]","[DISCREPANCY]|[DISCREPANCY]",
+os.enum.na <- c("", "NA", "[NOTAVAILABLE]","[UNKNOWN]","UNKOWN","[NOT AVAILABLE]","[NOT EVALUATED]","UKNOWN","[DISCREPANCY]","[DISCREPANCY]|[DISCREPANCY]",
 "NOT LISTED IN MEDICAL RECORD","[NOT APPLICABLE]","[PENDING]","PENDING", "[NOT AVAILABLE]","[PENDING]","[NOTAVAILABLE]","[NOT APPLICABLE]|[NOT APPLICABLE]","[NOT APPLICABLE]|[NOT APPLICABLE]|[NOT APPLICABLE]",
 "NOT SPECIFIED","[NOT AVAILABLE]|[NOT AVAILABLE]","[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
 "[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
@@ -44,8 +44,9 @@ os.tcga.ignore.columns <- c("bcr_patient_uuid","bcr_drug_uuid","bcr_drug_barcode
                             "bcr_radiation_uuid","bcr_radiation_barcode","bcr_omf_uuid", "bcr_omf_barcode",
                             "informed_consent_verified", "form_completion_date","project_code", "patient_id") 
 
-# aggregate list of unmapped data
+# aggregate list of unmapped data & cde id mapping
 unmapped.List <- list()
+cde.List <- data.frame()
                             
                                          
 Map( function(key, value, env=parent.frame()){
@@ -212,14 +213,22 @@ os.data.save <- function(df, file, format = c("tsv", "csv", "RData","json")){
 os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "character"){
   
   # Columns :: Create List From Url
-  columns <- unlist(strsplit(readLines(inputFile, n=1),'\t'));
+  header <- readLines(inputFile, n=3)
+  columns <- unlist(strsplit(header[1],'\t'));
+  cde_ids <- unlist(strsplit(header[3],'\t'));
+
   unMappedData <- list();
   
   if(grepl("clinical_patient_skcm.txt",inputFile)){
-  	columns[columns=="submitted_tumor_site"] = "skcm_tissue_site"
+  	columns[match("submitted_tumor_site", columns)] = "skcm_tissue_site"
+  	columns[match("submitted_tumor_site", columns)] = "skcm_tumor_type"
+
   }
   if(grepl("clinical_patient_thca.txt",inputFile)){
     columns[columns=="metastatic_dx_confirmed_by_other"] = "thca_metastatic_dx_confirmed_by_other"
+  }
+  if(grepl("clinical_patient_kirp.txt",inputFile)){
+    columns[columns=="tumor_type"] = "disease_subtype"
   }
   
   # if checkEnumerations - all columns will be read in and assigned 'character' class by default
@@ -254,19 +263,18 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
                           colClasses = column.type
   );
   
-  # 
   if(checkEnumerations) {
     
     # Grab columns matching class type and remove those within the ignore list
     headerWithData <- columns[column.type == checkClassType]
     ignoreCols <- which(headerWithData %in% os.tcga.ignore.columns)
     if(length(ignoreCols > 0))       headerWithData <- headerWithData[- ignoreCols ]
-    if(length(headerWithData) == 0)  return(mappedTable);
+    if(length(headerWithData) == 0)  return(list(mapped=mappedTable, unmapped=unMappedData));
     
     # Discard columns where all values are NA
     DataIndicator <- sapply(headerWithData, function(colName){!all(toupper(mappedTable[,colName]) %in% os.enum.na)})
     headerWithData <- headerWithData[DataIndicator]
-    if(length(headerWithData) == 0) return(mappedTable);
+    if(length(headerWithData) == 0) return(list(mapped=mappedTable, unmapped=unMappedData));
     
     # Print list of unique values for each column
     unMappedData <- lapply(headerWithData, function(colName){ unique(toupper(mappedTable[,colName]))})
@@ -275,8 +283,8 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
     print(unMappedData)
 
   }
-  
   return(list(mapped=mappedTable, unmapped = unMappedData))
+  #return(list("mapped"=mappedTable, "unmapped" = unMappedData, "cde"=cbind(columns,cde_ids)))
 }
 
 ### Batch Is Used To Process Multiple TCGA Files Defined 
@@ -302,7 +310,9 @@ os.data.batch <- function(inputFile, outputDirectory, tables, ...){
       # Load Data Frame - map and filter by named columns
       MapData <- os.data.load( inputFile = inputFile, ...)
       df <- MapData$mapped
-	    unmapped.List <- appendList(unmapped.List, MapData$unmapped)
+	  unmapped.List <- appendList(unmapped.List, MapData$unmapped)
+	  
+	  #cde.List <- rbind(cde.List, MapData$cde)
 
       # Save Data Frame
       os.data.save(
@@ -339,8 +349,8 @@ appendList <- function (x, val)
 os.data.batch(
   inputFile = os.data.batch.inputFile,
   outputDirectory = os.data.batch.outputDir,
-  tables = "pt", 
+  tables = "f1",
   checkEnumerations = TRUE,
   checkClassType = "character")
 
-#tables = os.data.batch.inputFile.fileCols,
+#tables = os.data.batch.inputFile.fileCols, 
