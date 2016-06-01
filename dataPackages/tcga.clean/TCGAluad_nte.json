@@ -59,7 +59,7 @@
   },
   {
     "patient_ID": "TCGA.62.8395",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": false,
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "new_tumor_event_surgery_met": false,
@@ -69,7 +69,7 @@
   },
   {
     "patient_ID": "TCGA.62.8402",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": false,
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "new_tumor_event_surgery_met": false,
@@ -79,7 +79,7 @@
   },
   {
     "patient_ID": "TCGA.62.A46O",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": false,
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "new_tumor_event_surgery_met": false,
@@ -99,7 +99,7 @@
   },
   {
     "patient_ID": "TCGA.62.A46S",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": false,
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "new_tumor_event_surgery_met": false,
@@ -192,7 +192,7 @@
   },
   {
     "patient_ID": "TCGA.L9.A5IP",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": false,
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "new_tumor_event_surgery_met": false,
@@ -222,7 +222,7 @@
   },
   {
     "patient_ID": "TCGA.MP.A4T9",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": false,
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "new_tumor_event_surgery_met": false,
@@ -269,7 +269,7 @@
   },
   {
     "patient_ID": "TCGA.MP.A4TI",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "radiation_therapy": true,
     "drug": true,

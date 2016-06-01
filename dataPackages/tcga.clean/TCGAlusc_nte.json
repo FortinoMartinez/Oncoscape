@@ -46,7 +46,7 @@
   },
   {
     "patient_ID": "TCGA.58.A46K",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": false,
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "new_tumor_event_surgery_met": false,
@@ -230,7 +230,7 @@
   },
   {
     "patient_ID": "TCGA.NK.A5D1",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": false,
     "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION|CONVINCING IMAGING",
     "new_tumor_event_surgery_met": true,

@@ -1064,7 +1064,6 @@
   },
   {
     "patient_ID": "TCGA.AP.A05A",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 94,
     "pharmaceutical_tx_ongoing": false,
@@ -1427,7 +1426,6 @@
   },
   {
     "patient_ID": "TCGA.AP.A1DQ",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 924,
     "pharmaceutical_tx_ongoing": true,
@@ -1669,7 +1667,7 @@
   },
   {
     "patient_ID": "TCGA.AX.A05S",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "pharmaceutical_tx_ongoing": false,
     "regimen_number": 1,
@@ -1748,7 +1746,7 @@
   },
   {
     "patient_ID": "TCGA.AX.A06D",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 53,
     "pharmaceutical_tx_ongoing": false,
@@ -1837,7 +1835,7 @@
   },
   {
     "patient_ID": "TCGA.AX.A06J",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 107,
     "pharmaceutical_tx_ongoing": false,
@@ -1873,7 +1871,7 @@
   {
     "patient_ID": "TCGA.AX.A0IS",
     "drug_therapy_name": "BRIVANIB",
-    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY;TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 513,
     "pharmaceutical_tx_ongoing": false,
     "regimen_number": 3,
@@ -1918,7 +1916,7 @@
   },
   {
     "patient_ID": "TCGA.AX.A0IW",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "pharmaceutical_tx_ongoing": false,
     "drug_cycles": 6,
@@ -2055,7 +2053,7 @@
   },
   {
     "patient_ID": "TCGA.AX.A1CF",
-    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "drug_therapy_name": "RECMAGE3;TAMOXIFEN",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1037,
     "pharmaceutical_tx_ongoing": false,
@@ -2181,7 +2179,7 @@
   },
   {
     "patient_ID": "TCGA.AX.A2IO",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "days_to_drug_start": 84,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 107,
@@ -2189,14 +2187,14 @@
   },
   {
     "patient_ID": "TCGA.AX.A3FX",
-    "drug_therapy_name": "BEVACIZUMAB",
+    "drug_therapy_name": "BEVACIZUMAB;CARBOPLATIN;PACLITAXEL",
     "days_to_drug_start": 939,
     "pharmaceutical_tx_ongoing": false,
     "therapy_on_clinical_trial": false
   },
   {
     "patient_ID": "TCGA.AX.A3FX",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;DOXORUBICIN",
     "days_to_drug_start": 1255,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 1336,
@@ -2204,7 +2202,7 @@
   },
   {
     "patient_ID": "TCGA.AX.A3G9",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 125,
     "pharmaceutical_tx_ongoing": false,
@@ -2213,7 +2211,7 @@
   },
   {
     "patient_ID": "TCGA.AX.A3GB",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 41,
     "pharmaceutical_tx_ongoing": false,

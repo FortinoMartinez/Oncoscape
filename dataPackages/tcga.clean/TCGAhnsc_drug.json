@@ -174,7 +174,7 @@
   {
     "patient_ID": "TCGA.BA.6868",
     "drug_therapy_name": "CETUXIMAB",
-    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY;TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 13,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 13,

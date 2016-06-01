@@ -432,7 +432,7 @@
   },
   {
     "patient_ID": "TCGA.44.2662",
-    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "drug_therapy_name": "RECMAGE3",
     "pharmaceutical_therapy_type.1": "OTHER",
     "days_to_drug_start": 76,
     "pharmaceutical_tx_ongoing": false,
@@ -812,7 +812,7 @@
   },
   {
     "patient_ID": "TCGA.44.7660",
-    "drug_therapy_name": "RECPRAME;AS15 ASCI",
+    "drug_therapy_name": "AS15 ASCI;RECPRAME",
     "pharmaceutical_therapy_type": "BIOLOGICAL THERAPY",
     "pharmaceutical_therapy_type.1": "VACCINE",
     "days_to_drug_start": 78,

@@ -239,7 +239,6 @@
   },
   {
     "patient_ID": "TCGA.3A.A9I9",
-    "drug_therapy_name": "DEXAMETHASONE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 518,
     "pharmaceutical_tx_ongoing": false,

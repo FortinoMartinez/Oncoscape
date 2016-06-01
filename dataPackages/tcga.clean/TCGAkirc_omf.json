@@ -10,7 +10,7 @@
     "patient_ID": "TCGA.A3.3325",
     "malignancy_type": "SYNCHRONOUS MALIGNANCY",
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;TAXOL",
     "radiation_therapy": true,
     "history_rt_tx_to_site_of_tumor": false,
     "days_to_radiation_start": 91,
@@ -33,7 +33,7 @@
     "patient_ID": "TCGA.A3.3336",
     "malignancy_type": "SYNCHRONOUS MALIGNANCY",
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN;PREDNISONE;RITUXIMAB;VINCRISTINE",
     "radiation_therapy": true
   },
   {
@@ -299,7 +299,7 @@
     "patient_ID": "TCGA.BP.4158",
     "malignancy_type": "PRIOR MALIGNANCY",
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "BICALUTAMIDE",
+    "drug_therapy_name": "BICALUTAMIDE;LEUPROLIDE",
     "days_to_drug_start": 1984,
     "radiation_therapy": true,
     "history_rt_tx_to_site_of_tumor": false,
@@ -354,7 +354,7 @@
     "patient_ID": "TCGA.BP.4342",
     "malignancy_type": "PRIOR MALIGNANCY",
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CISPLATIN",
+    "drug_therapy_name": "CISPLATIN;FLUOROURACIL",
     "days_to_drug_start": -2109,
     "radiation_therapy": true,
     "days_to_radiation_start": -2115,
@@ -379,7 +379,7 @@
     "malignancy_type": "PRIOR MALIGNANCY",
     "days_to_surgery": -170,
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CYCLOPHOSPHAMIDE"
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN;PREDNISONE;RITUXIMAB;VINCRISTINE"
   },
   {
     "patient_ID": ".171",
@@ -589,7 +589,7 @@
     "malignancy_type": "SYNCHRONOUS MALIGNANCY",
     "days_to_surgery": -96,
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CISPLATIN",
+    "drug_therapy_name": "CISPLATIN;ETOPOSIDE",
     "days_to_drug_start": -77,
     "radiation_therapy": true,
     "history_rt_tx_to_site_of_tumor": false,
@@ -613,7 +613,7 @@
     "patient_ID": "TCGA.CJ.4642",
     "malignancy_type": "SYNCHRONOUS MALIGNANCY",
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN;PREDNISONE;RITUXIMAB;VINCRISTINE",
     "days_to_drug_start": -192,
     "radiation_therapy": false
   },

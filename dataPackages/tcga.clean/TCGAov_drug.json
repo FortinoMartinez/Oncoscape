@@ -69,7 +69,7 @@
   },
   {
     "patient_ID": "TCGA.04.1332",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;TOPOTECAN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 28,
     "pharmaceutical_tx_ongoing": false,
@@ -88,7 +88,7 @@
   },
   {
     "patient_ID": "TCGA.04.1332",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;TAXOL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 28,
     "pharmaceutical_tx_ongoing": false,
@@ -501,7 +501,7 @@
   },
   {
     "patient_ID": "TCGA.04.1348",
-    "drug_therapy_name": "CISPLATIN",
+    "drug_therapy_name": "CISPLATIN;GEMCITABINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 1006,
     "pharmaceutical_tx_ongoing": false,
@@ -1370,7 +1370,7 @@
     "drug_cycles": 3,
     "drug_units": "AUC",
     "drug_total_dose_units": "AUC",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 5
   },
@@ -1451,7 +1451,7 @@
     "drug_cycles": 3,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 333
   },
@@ -1625,7 +1625,7 @@
     "drug_cycles": 8,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 888
   },
@@ -1639,7 +1639,7 @@
     "drug_cycles": 8,
     "drug_units": "AUC",
     "drug_total_dose_units": "AUC",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 5
   },
@@ -2400,7 +2400,7 @@
     "drug_cycles": 2,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 280
   },
@@ -2414,7 +2414,7 @@
     "drug_cycles": 2,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 380
   },
@@ -2446,7 +2446,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 953
   },
@@ -2460,7 +2460,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 574
   },
@@ -3254,7 +3254,7 @@
   },
   {
     "patient_ID": "TCGA.09.1666",
-    "drug_therapy_name": "OVAREX",
+    "drug_therapy_name": "OCA REX OREGOVOMAB;OVAREX",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 256,
     "pharmaceutical_tx_ongoing": false,
@@ -3572,7 +3572,7 @@
   },
   {
     "patient_ID": "TCGA.09.1673",
-    "drug_therapy_name": "DOCETAXEL",
+    "drug_therapy_name": "DOCETAXEL;TAXOL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 25,
     "pharmaceutical_tx_ongoing": false,
@@ -4931,7 +4931,6 @@
   },
   {
     "patient_ID": "TCGA.10.0936",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 237,
     "pharmaceutical_tx_ongoing": false,
@@ -5096,7 +5095,6 @@
   },
   {
     "patient_ID": "TCGA.10.0938",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 30,
     "pharmaceutical_tx_ongoing": false,
@@ -5962,7 +5960,7 @@
     "drug_cycles": 6,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 60
   },
@@ -6312,7 +6310,7 @@
     "drug_cycles": 4,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 74
   },
@@ -6366,7 +6364,7 @@
     "drug_cycles": 4,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 133
   },
@@ -7257,7 +7255,7 @@
     "days_to_drug_start": 35,
     "days_to_drug_end": 140,
     "drug_cycles": 6,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT"
   },
   {
@@ -7267,7 +7265,7 @@
     "days_to_drug_start": 35,
     "days_to_drug_end": 140,
     "drug_cycles": 6,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT"
   },
   {
@@ -7367,7 +7365,7 @@
     "drug_cycles": 6,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 75
   },
@@ -7381,7 +7379,7 @@
     "drug_cycles": 6,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 135
   },
@@ -7395,7 +7393,7 @@
     "drug_cycles": 6,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 60
   },
@@ -7609,7 +7607,7 @@
     "drug_cycles": 2,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 135
   },
@@ -7637,7 +7635,7 @@
     "drug_cycles": 2,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 75
   },
@@ -8386,7 +8384,7 @@
     "drug_cycles": 4,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 75
   },
@@ -8538,7 +8536,7 @@
     "drug_cycles": 1,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 75
   },
@@ -8552,7 +8550,7 @@
     "drug_cycles": 1,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 800
   },
@@ -8566,7 +8564,7 @@
     "drug_cycles": 1,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 65
   },
@@ -8580,7 +8578,7 @@
     "drug_cycles": 1,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 75
   },
@@ -9006,7 +9004,7 @@
     "drug_cycles": 6,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 135
   },
@@ -9020,7 +9018,7 @@
     "drug_cycles": 6,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 75
   },
@@ -9034,7 +9032,7 @@
     "drug_cycles": 6,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 600
   },
@@ -9924,7 +9922,7 @@
     "drug_cycles": 1,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 195
   },
@@ -10038,7 +10036,7 @@
     "drug_cycles": 1,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 1560
   },
@@ -10137,7 +10135,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 5648
   },
@@ -10151,7 +10149,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 520
   },
@@ -10207,7 +10205,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION",
     "drug_total_dose": 450
   },
@@ -10221,7 +10219,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION",
     "drug_total_dose": 10932
   },
@@ -10459,7 +10457,7 @@
     "drug_cycles": 3,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 375
   },
@@ -10473,7 +10471,7 @@
     "drug_cycles": 3,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 1212
   },
@@ -11006,7 +11004,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 1746
   },
@@ -11019,7 +11017,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 2100
   },
@@ -12097,7 +12095,7 @@
     "drug_cycles": 1,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 373
   },
@@ -12111,7 +12109,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 610
   },
@@ -12125,7 +12123,7 @@
     "drug_cycles": 1,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 294
   },
@@ -12139,7 +12137,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 1295
   },
@@ -12974,7 +12972,7 @@
     "drug_cycles": 8,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 946
   },
@@ -12988,7 +12986,7 @@
     "drug_cycles": 8,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 647
   },
@@ -13002,7 +13000,7 @@
     "drug_cycles": 8,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 934
   },
@@ -13016,7 +13014,7 @@
     "drug_cycles": 8,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 422
   },
@@ -13224,7 +13222,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 5065
   },
@@ -13238,7 +13236,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 553
   },
@@ -13252,7 +13250,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 832
   },
@@ -14429,7 +14427,7 @@
     "drug_cycles": 4,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 593
   },
@@ -14443,7 +14441,7 @@
     "drug_cycles": 4,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 475
   },
@@ -14457,7 +14455,7 @@
     "drug_cycles": 4,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 110
   },
@@ -16948,7 +16946,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 373
   },
@@ -16962,7 +16960,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 2957
   },
@@ -16976,7 +16974,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 582
   },
@@ -16990,7 +16988,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 1285
   },
@@ -17004,7 +17002,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 2660
   },
@@ -17018,7 +17016,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 405
   },
@@ -17032,7 +17030,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 1169
   },
@@ -17046,7 +17044,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 469
   },
@@ -17060,7 +17058,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 118
   },
@@ -17074,7 +17072,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 603
   },
@@ -18598,7 +18596,7 @@
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 638,
     "drug_cycles": 3,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE"
   },
   {
@@ -18686,7 +18684,7 @@
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 638,
     "drug_cycles": 3,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE"
   },
   {
@@ -21011,7 +21009,7 @@
     "drug_therapy_name": "ALTRETAMINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "pharmaceutical_tx_ongoing": false,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21021,7 +21019,7 @@
     "days_to_drug_start": 743,
     "pharmaceutical_tx_ongoing": false,
     "drug_cycles": 6,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21032,7 +21030,7 @@
     "pharmaceutical_tx_ongoing": false,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION",
     "drug_total_dose": 175
   },
@@ -21042,7 +21040,7 @@
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 2395,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21051,7 +21049,7 @@
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 2395,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21061,7 +21059,7 @@
     "days_to_drug_start": 197,
     "pharmaceutical_tx_ongoing": false,
     "drug_cycles": 6,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21080,7 +21078,7 @@
     "days_to_drug_start": 1719,
     "pharmaceutical_tx_ongoing": false,
     "drug_cycles": 6,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21088,7 +21086,7 @@
     "drug_therapy_name": "TOPOTECAN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "pharmaceutical_tx_ongoing": false,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21098,7 +21096,7 @@
     "days_to_drug_start": 743,
     "pharmaceutical_tx_ongoing": false,
     "drug_cycles": 6,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21109,7 +21107,7 @@
     "pharmaceutical_tx_ongoing": false,
     "drug_units": "AUC",
     "drug_total_dose_units": "AUC",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION",
     "drug_total_dose": 5
   },
@@ -21120,7 +21118,7 @@
     "days_to_drug_start": 197,
     "pharmaceutical_tx_ongoing": false,
     "drug_cycles": 6,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21132,7 +21130,7 @@
     "drug_cycles": 3,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 500
   },
@@ -21145,7 +21143,7 @@
     "drug_cycles": 3,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 350
   },
@@ -21157,7 +21155,7 @@
     "pharmaceutical_tx_ongoing": false,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 175
   },
@@ -21169,7 +21167,7 @@
     "pharmaceutical_tx_ongoing": false,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 75
   },
@@ -21199,7 +21197,7 @@
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 868,
     "pharmaceutical_tx_ongoing": false,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21212,7 +21210,7 @@
     "drug_cycles": 6,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 175
   },
@@ -21232,7 +21230,7 @@
     "days_to_drug_start": 1233,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 1353,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21245,7 +21243,7 @@
     "drug_cycles": 6,
     "drug_units": "AUC",
     "drug_total_dose_units": "AUC",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 5
   },
@@ -21255,7 +21253,7 @@
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 988,
     "pharmaceutical_tx_ongoing": false,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21265,7 +21263,7 @@
     "days_to_drug_start": 1233,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 1353,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION"
   },
   {
@@ -21296,7 +21294,7 @@
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 544,
     "pharmaceutical_tx_ongoing": false,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE"
   },
   {
@@ -21386,7 +21384,7 @@
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 544,
     "pharmaceutical_tx_ongoing": false,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE"
   },
   {
@@ -23417,7 +23415,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 130
   },
@@ -23431,7 +23429,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 300
   },
@@ -24013,7 +24011,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 1623
   },
@@ -24039,7 +24037,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 4536
   },
@@ -24403,7 +24401,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 510
   },
@@ -24417,7 +24415,7 @@
     "drug_cycles": 6,
     "drug_units": "AUC",
     "drug_total_dose_units": "AUC",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 6
   },
@@ -24473,7 +24471,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 670
   },
@@ -24487,7 +24485,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 280
   },
@@ -25117,7 +25115,6 @@
   },
   {
     "patient_ID": "TCGA.30.1853",
-    "drug_therapy_name": "TRABECTEDIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 886,
     "pharmaceutical_tx_ongoing": false,
@@ -25316,7 +25313,6 @@
   },
   {
     "patient_ID": "TCGA.30.1859",
-    "drug_therapy_name": "TRABECTEDIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 369,
     "pharmaceutical_tx_ongoing": false,
@@ -27258,7 +27254,7 @@
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
     "drug_dose": 93,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 2201.2
   },
@@ -27611,7 +27607,7 @@
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
     "drug_dose": 90,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 2364
   },
@@ -27643,7 +27639,7 @@
     "drug_therapy_name": "PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 42,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT"
   },
   {
@@ -28148,7 +28144,6 @@
   },
   {
     "patient_ID": "TCGA.42.2588",
-    "drug_therapy_name": "MEGESTROL ACETATE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 687,
     "pharmaceutical_tx_ongoing": false,
@@ -28221,7 +28216,7 @@
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
     "drug_dose": 308,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 2046
   },
@@ -28236,7 +28231,7 @@
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
     "drug_dose": 140,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 545
   },
@@ -28712,7 +28707,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 528
   },
@@ -28726,7 +28721,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 786
   },
@@ -28869,7 +28864,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 1548
   },
@@ -28883,7 +28878,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 456
   },
@@ -28910,7 +28905,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 585
   },
@@ -29021,7 +29016,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION",
     "drug_total_dose": 390
   },
@@ -29049,7 +29044,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION",
     "drug_total_dose": 582
   },
@@ -29063,7 +29058,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "PROGRESSION",
     "drug_total_dose": 720
   },
@@ -29184,7 +29179,7 @@
     "drug_cycles": 3,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 372
   },
@@ -29212,7 +29207,7 @@
     "drug_cycles": 3,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 270
   },
@@ -29475,7 +29470,7 @@
     "drug_cycles": 2,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 75
   },
@@ -29489,7 +29484,7 @@
     "drug_cycles": 2,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 135
   },
@@ -29503,7 +29498,7 @@
     "drug_cycles": 2,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 250
   },
@@ -29545,7 +29540,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 412
   },
@@ -29559,7 +29554,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 560
   },
@@ -29573,7 +29568,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 120
   },
@@ -29587,7 +29582,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 720
   },
@@ -29601,7 +29596,7 @@
     "drug_cycles": 5,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 2600
   },
@@ -30125,7 +30120,7 @@
     "drug_cycles": 4,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 3202
   },
@@ -30139,7 +30134,7 @@
     "drug_cycles": 4,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 1311
   },
@@ -30193,7 +30188,7 @@
     "drug_cycles": 3,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 1905
   },
@@ -30235,7 +30230,7 @@
     "drug_cycles": 9,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 2130
   },
@@ -30249,7 +30244,7 @@
     "drug_cycles": 4,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 508
   },
@@ -30263,7 +30258,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 720
   },
@@ -30277,7 +30272,7 @@
     "drug_cycles": 4,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 367
   },
@@ -30291,7 +30286,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 390
   },
@@ -30386,7 +30381,7 @@
     "days_to_drug_start": 52,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 121,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT"
   },
   {
@@ -30435,7 +30430,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 702
   },
@@ -30505,7 +30500,7 @@
     "drug_cycles": 7,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 490
   },
@@ -30519,7 +30514,7 @@
     "drug_cycles": 7,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 658
   },
@@ -30533,7 +30528,7 @@
     "drug_cycles": 7,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 987
   },
@@ -30555,7 +30550,7 @@
     "drug_cycles": 7,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 1200
   },
@@ -30569,7 +30564,7 @@
     "drug_cycles": 7,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 635
   },
@@ -30613,7 +30608,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 456
   },
@@ -30627,7 +30622,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 618
   },
@@ -30641,7 +30636,7 @@
     "drug_cycles": 6,
     "drug_units": "MG",
     "drug_total_dose_units": "MG",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "RECURRENCE",
     "drug_total_dose": 1206
   },
@@ -31606,7 +31601,7 @@
     "drug_cycles": 2,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG/M2",
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRA-PERITONEAL",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 418
   },

@@ -10,7 +10,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2000",
+    "diagnosis_year": 946713600,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "5TH",
     "stage_T": "T3B",
@@ -33,8 +33,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": true,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8324",
@@ -47,7 +46,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2000",
+    "diagnosis_year": 946713600,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "5TH",
     "stage_T": "T2",
@@ -71,8 +70,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8325",
@@ -85,7 +83,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2000",
+    "diagnosis_year": 946713600,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "5TH",
     "stage_T": "T2",
@@ -108,8 +106,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8326",
@@ -122,7 +119,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2001",
+    "diagnosis_year": 978336000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 14,
     "lymph_nodes_examined_positive": 0,
@@ -147,8 +144,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8327",
@@ -161,7 +157,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2001",
+    "diagnosis_year": 978336000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 3,
     "lymph_nodes_examined_positive": 0,
@@ -186,8 +182,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8328",
@@ -199,7 +194,7 @@
     "days_to_birth": -21976,
     "race": "WHITE",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2003",
+    "diagnosis_year": 1041408000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 4,
     "lymph_nodes_examined_positive": 0,
@@ -224,8 +219,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8329",
@@ -238,7 +232,7 @@
     "race": "ASIAN",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2003",
+    "diagnosis_year": 1041408000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -263,8 +257,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8330",
@@ -278,7 +271,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2003",
+    "diagnosis_year": 1041408000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 8,
     "lymph_nodes_examined_positive": 0,
@@ -304,8 +297,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8331",
@@ -318,7 +310,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 15,
     "lymph_nodes_examined_positive": 0,
@@ -343,8 +335,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8332",
@@ -357,7 +348,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -382,8 +373,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8333",
@@ -396,7 +386,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 5,
     "lymph_nodes_examined_positive": 0,
@@ -421,8 +411,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8334",
@@ -435,7 +424,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 6,
     "lymph_nodes_examined_positive": 0,
@@ -460,8 +449,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8335",
@@ -474,7 +462,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 8,
     "lymph_nodes_examined_positive": 0,
@@ -501,8 +489,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8336",
@@ -515,7 +502,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 26,
     "lymph_nodes_examined_positive": 4,
@@ -540,8 +527,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": true,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8337",
@@ -554,7 +540,7 @@
     "race": "BLACK OR AFRICAN AMERICAN",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -579,8 +565,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8338",
@@ -593,7 +578,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 6,
     "lymph_nodes_examined_positive": 0,
@@ -618,8 +603,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8339",
@@ -631,7 +615,7 @@
     "days_to_birth": -24545,
     "race": "WHITE",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 33,
     "lymph_nodes_examined_positive": 1,
@@ -655,8 +639,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": true,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8340",
@@ -669,7 +652,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 13,
     "lymph_nodes_examined_positive": 0,
@@ -694,8 +677,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8341",
@@ -708,7 +690,7 @@
     "race": "ASIAN",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 30,
     "lymph_nodes_examined_positive": 2,
@@ -735,8 +717,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": true,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8342",
@@ -749,7 +730,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 9,
     "lymph_nodes_examined_positive": 0,
@@ -774,8 +755,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8343",
@@ -789,7 +769,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 6,
     "lymph_nodes_examined_positive": 0,
@@ -814,8 +794,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8344",
@@ -828,7 +807,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 15,
     "lymph_nodes_examined_positive": 0,
@@ -853,8 +832,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8345",
@@ -867,7 +845,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 13,
     "lymph_nodes_examined_positive": 0,
@@ -894,8 +872,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KL.8346",
@@ -908,7 +885,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -933,8 +910,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KL",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KL"
   },
   {
     "patient_ID": "TCGA.KM.8438",
@@ -949,7 +925,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2000",
+    "diagnosis_year": 946713600,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 5,
     "lymph_nodes_examined_positive": 0,
@@ -967,7 +943,7 @@
     "ECOG": 1,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true,
     "age_at_initial_pathologic_diagnosis": 45,
     "days_to_diagnosis": 0,
@@ -975,8 +951,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.8439",
@@ -990,7 +965,7 @@
     "race": "WHITE",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -1010,7 +985,7 @@
     "ECOG": 1,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 30,
     "days_to_diagnosis": 0,
@@ -1018,8 +993,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.8440",
@@ -1034,7 +1008,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T3A",
@@ -1054,7 +1028,7 @@
     "ECOG": 1,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 37,
     "days_to_diagnosis": 0,
@@ -1062,8 +1036,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.8441",
@@ -1077,7 +1050,7 @@
     "race": "WHITE",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -1097,7 +1070,7 @@
     "ECOG": 1,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 61,
     "days_to_diagnosis": 0,
@@ -1105,8 +1078,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.8442",
@@ -1119,7 +1091,7 @@
     "days_to_birth": -14212,
     "ethnicity": "HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -1146,8 +1118,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.8443",
@@ -1162,7 +1133,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 2,
     "lymph_nodes_examined_positive": 0,
@@ -1183,7 +1154,7 @@
     "ECOG": 1,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 57,
     "days_to_diagnosis": 0,
@@ -1191,8 +1162,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.8476",
@@ -1207,7 +1177,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2002",
+    "diagnosis_year": 1009872000,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -1227,7 +1197,7 @@
     "ECOG": 1,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 47,
     "days_to_diagnosis": 0,
@@ -1235,8 +1205,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.8477",
@@ -1251,7 +1220,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1A",
@@ -1271,7 +1240,7 @@
     "ECOG": 1,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 56,
     "days_to_diagnosis": 0,
@@ -1279,8 +1248,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.8639",
@@ -1295,7 +1263,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1A",
@@ -1317,7 +1285,7 @@
     "ECOG": 2,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 67,
     "days_to_diagnosis": 0,
@@ -1325,8 +1293,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7Q6",
@@ -1341,7 +1308,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -1357,7 +1324,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 36,
     "days_to_diagnosis": 0,
@@ -1365,8 +1332,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7Q7",
@@ -1380,7 +1346,7 @@
     "race": "BLACK OR AFRICAN AMERICAN",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1A",
@@ -1399,7 +1365,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true,
     "age_at_initial_pathologic_diagnosis": 45,
     "days_to_diagnosis": 0,
@@ -1407,8 +1373,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7Q8",
@@ -1424,7 +1389,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 50,
     "lymph_nodes_examined_positive": 3,
@@ -1453,8 +1418,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7Q9",
@@ -1469,7 +1433,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -1488,7 +1452,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 55,
     "days_to_diagnosis": 0,
@@ -1496,8 +1460,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QA",
@@ -1512,7 +1475,7 @@
     "ethnicity": "HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 19,
     "lymph_nodes_examined_positive": 0,
@@ -1533,7 +1496,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 18,
     "days_to_diagnosis": 0,
@@ -1541,8 +1504,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QB",
@@ -1557,7 +1519,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 3,
     "lymph_nodes_examined_positive": 0,
@@ -1578,7 +1540,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 47,
     "days_to_diagnosis": 0,
@@ -1586,8 +1548,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QC",
@@ -1602,7 +1563,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -1623,7 +1584,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 33,
     "days_to_diagnosis": 0,
@@ -1631,8 +1592,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QD",
@@ -1647,7 +1607,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -1666,7 +1626,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 57,
     "days_to_diagnosis": 0,
@@ -1674,8 +1634,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QE",
@@ -1690,7 +1649,7 @@
     "ethnicity": "HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -1708,7 +1667,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 59,
     "days_to_diagnosis": 0,
@@ -1716,8 +1675,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QG",
@@ -1732,7 +1690,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 36,
     "lymph_nodes_examined_positive": 0,
@@ -1752,7 +1710,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 55,
     "days_to_diagnosis": 0,
@@ -1760,8 +1718,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QH",
@@ -1776,7 +1733,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/1999",
+    "diagnosis_year": 915177600,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -1790,7 +1747,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true,
     "age_at_initial_pathologic_diagnosis": 39,
     "days_to_diagnosis": 0,
@@ -1798,8 +1755,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QI",
@@ -1813,7 +1769,7 @@
     "race": "WHITE",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1A",
@@ -1832,7 +1788,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 50,
     "days_to_diagnosis": 0,
@@ -1840,8 +1796,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QJ",
@@ -1855,7 +1810,7 @@
     "race": "ASIAN",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1A",
@@ -1874,7 +1829,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 67,
     "days_to_diagnosis": 0,
@@ -1882,8 +1837,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QK",
@@ -1897,7 +1851,7 @@
     "race": "WHITE",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -1915,7 +1869,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 53,
     "days_to_diagnosis": 0,
@@ -1923,8 +1877,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KM.A7QL",
@@ -1939,7 +1892,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -1958,7 +1911,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 36,
     "days_to_diagnosis": 0,
@@ -1966,8 +1919,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KM",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KM"
   },
   {
     "patient_ID": "TCGA.KN.8418",
@@ -1980,7 +1932,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2002",
+    "diagnosis_year": 1009872000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 3,
     "lymph_nodes_examined_positive": 0,
@@ -2005,8 +1957,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8419",
@@ -2020,7 +1971,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2035,7 +1986,7 @@
     "platelet_count": "LOW",
     "white_cell_count": "ELEVATED",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 43,
     "days_to_diagnosis": 0,
@@ -2043,8 +1994,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8421",
@@ -2058,7 +2008,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 2,
     "lymph_nodes_examined_positive": 0,
@@ -2082,8 +2032,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8422",
@@ -2096,7 +2045,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -2114,7 +2063,7 @@
     "white_cell_count": "ELEVATED",
     "year_stopped_tobacco_smoking": 2005,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 28,
     "days_to_diagnosis": 0,
@@ -2122,8 +2071,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8423",
@@ -2137,7 +2085,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 6,
     "lymph_nodes_examined_positive": 0,
@@ -2154,7 +2102,7 @@
     "platelet_count": "NORMAL",
     "white_cell_count": "ELEVATED",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 44,
     "days_to_diagnosis": 0,
@@ -2162,8 +2110,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8424",
@@ -2176,7 +2123,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1B",
@@ -2192,7 +2139,7 @@
     "white_cell_count": "ELEVATED",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 42,
     "days_to_diagnosis": 0,
@@ -2200,8 +2147,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8425",
@@ -2214,7 +2160,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1B",
@@ -2230,7 +2176,7 @@
     "white_cell_count": "ELEVATED",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 53,
     "days_to_diagnosis": 0,
@@ -2238,8 +2184,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8426",
@@ -2252,7 +2197,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T3A",
@@ -2276,8 +2221,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": true,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8427",
@@ -2291,7 +2235,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 4,
     "lymph_nodes_examined_positive": 1,
@@ -2316,8 +2260,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8428",
@@ -2331,7 +2274,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -2357,8 +2300,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8429",
@@ -2371,7 +2313,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T3A",
@@ -2386,7 +2328,7 @@
     "platelet_count": "NORMAL",
     "white_cell_count": "ELEVATED",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true,
     "age_at_initial_pathologic_diagnosis": 38,
     "days_to_diagnosis": 0,
@@ -2394,8 +2336,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8430",
@@ -2408,7 +2349,7 @@
     "race": "WHITE",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1B",
@@ -2429,8 +2370,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8431",
@@ -2442,7 +2382,7 @@
     "days_to_birth": -13043,
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2464,8 +2404,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8432",
@@ -2480,7 +2419,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2B",
@@ -2496,7 +2435,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 86,
     "days_to_diagnosis": 0,
@@ -2504,8 +2443,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8433",
@@ -2519,7 +2457,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T3A",
@@ -2535,7 +2473,7 @@
     "year_started_tobacco_smoking": 1984,
     "pack_years_tobacco_smoking": 24,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 46,
     "days_to_diagnosis": 0,
@@ -2543,8 +2481,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8434",
@@ -2558,7 +2495,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2575,7 +2512,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 65,
     "days_to_diagnosis": 0,
@@ -2583,8 +2520,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8435",
@@ -2598,7 +2534,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2616,7 +2552,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 59,
     "days_to_diagnosis": 0,
@@ -2624,8 +2560,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8436",
@@ -2639,7 +2574,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2656,7 +2591,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 62,
     "days_to_diagnosis": 0,
@@ -2664,8 +2599,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KN.8437",
@@ -2679,7 +2613,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1A",
@@ -2694,7 +2628,7 @@
     "platelet_count": "NORMAL",
     "white_cell_count": "NORMAL",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 42,
     "days_to_diagnosis": 0,
@@ -2702,8 +2636,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KN",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KN"
   },
   {
     "patient_ID": "TCGA.KO.8403",
@@ -2718,7 +2651,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -2740,8 +2673,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8404",
@@ -2757,7 +2689,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T4",
@@ -2777,8 +2709,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": true,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8405",
@@ -2793,7 +2724,7 @@
     "ethnicity": "HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 7,
     "lymph_nodes_examined_positive": 0,
@@ -2808,7 +2739,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 29,
     "days_to_diagnosis": 0,
@@ -2816,8 +2747,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8406",
@@ -2832,7 +2762,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -2845,7 +2775,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 17,
     "days_to_diagnosis": 0,
@@ -2853,8 +2783,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8407",
@@ -2869,7 +2798,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 10,
     "lymph_nodes_examined_positive": 0,
@@ -2884,7 +2813,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 42,
     "days_to_diagnosis": 0,
@@ -2892,8 +2821,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8408",
@@ -2908,7 +2836,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 3,
     "lymph_nodes_examined_positive": 3,
@@ -2930,8 +2858,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8409",
@@ -2946,7 +2873,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -2963,7 +2890,7 @@
     "year_stopped_tobacco_smoking": 2003,
     "pack_years_tobacco_smoking": 3,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 69,
     "days_to_diagnosis": 0,
@@ -2971,8 +2898,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8410",
@@ -2987,7 +2913,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -3009,8 +2935,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8411",
@@ -3024,7 +2949,7 @@
     "race": "WHITE",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -3040,7 +2965,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 58,
     "days_to_diagnosis": 0,
@@ -3048,8 +2973,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8413",
@@ -3064,7 +2988,7 @@
     "ethnicity": "HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -3080,7 +3004,7 @@
     "ECOG": 0,
     "encounter_type": "OTHER",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 46,
     "days_to_diagnosis": 0,
@@ -3088,8 +3012,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8414",
@@ -3104,7 +3027,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 9,
     "lymph_nodes_examined_positive": 0,
@@ -3119,7 +3042,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 50,
     "days_to_diagnosis": 0,
@@ -3127,8 +3050,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8415",
@@ -3143,7 +3065,7 @@
     "ethnicity": "HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -3156,7 +3078,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 44,
     "days_to_diagnosis": 0,
@@ -3164,8 +3086,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8416",
@@ -3180,7 +3101,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T3A",
@@ -3193,7 +3114,7 @@
     "status_tumor": "TUMOR FREE",
     "pack_years_tobacco_smoking": 27,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 41,
     "days_to_diagnosis": 0,
@@ -3201,8 +3122,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.KO.8417",
@@ -3217,7 +3137,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -3230,7 +3150,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 30,
     "days_to_diagnosis": 0,
@@ -3238,8 +3158,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "KO",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "KO"
   },
   {
     "patient_ID": "TCGA.NP.A5B3",
@@ -3254,7 +3173,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -3272,7 +3191,7 @@
     "year_stopped_tobacco_smoking": 1980,
     "pack_years_tobacco_smoking": 50,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 74,
     "days_to_diagnosis": 0,
@@ -3280,8 +3199,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "NP",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "NP"
   },
   {
     "patient_ID": "TCGA.NP.A5GY",
@@ -3296,7 +3214,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -3316,8 +3234,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "NP",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "NP"
   },
   {
     "patient_ID": "TCGA.NP.A5GZ",
@@ -3331,7 +3248,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2A",
@@ -3344,7 +3261,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 50,
     "days_to_diagnosis": 0,
@@ -3352,8 +3269,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "NP",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "NP"
   },
   {
     "patient_ID": "TCGA.NP.A5H1",
@@ -3368,7 +3284,7 @@
     "ethnicity": "HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -3381,7 +3297,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 66,
     "days_to_diagnosis": 0,
@@ -3389,8 +3305,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "NP",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "NP"
   },
   {
     "patient_ID": "TCGA.NP.A5H5",
@@ -3405,7 +3320,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -3422,8 +3337,7 @@
     "icd_10": "C64.9",
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
-    "tissue_source_site_code": "NP",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "NP"
   },
   {
     "patient_ID": "TCGA.NP.A5H6",
@@ -3438,7 +3352,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2A",
@@ -3460,8 +3374,7 @@
     "icd_10": "C64.9",
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
-    "tissue_source_site_code": "NP",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "NP"
   },
   {
     "patient_ID": "TCGA.NP.A5H7",
@@ -3476,7 +3389,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2B",
@@ -3488,7 +3401,7 @@
     "days_to_last_contact": 22,
     "status_tumor": "TUMOR FREE",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 40,
     "days_to_diagnosis": 0,
@@ -3496,8 +3409,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "NP",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "NP"
   },
   {
     "patient_ID": "TCGA.UW.A72H",
@@ -3512,7 +3424,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T3A",
@@ -3525,7 +3437,7 @@
     "year_started_tobacco_smoking": 1980,
     "pack_years_tobacco_smoking": 30,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 48,
     "days_to_diagnosis": 0,
@@ -3533,8 +3445,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72I",
@@ -3549,7 +3460,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -3562,7 +3473,7 @@
     "year_started_tobacco_smoking": 1986,
     "pack_years_tobacco_smoking": 25,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 50,
     "days_to_diagnosis": 0,
@@ -3570,8 +3481,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72J",
@@ -3586,7 +3496,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -3603,7 +3513,7 @@
     "erythrocyte_sedimentation_rate": "NORMAL",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 42,
     "days_to_diagnosis": 0,
@@ -3611,8 +3521,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72K",
@@ -3627,7 +3536,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -3640,7 +3549,7 @@
     "year_started_tobacco_smoking": 1981,
     "pack_years_tobacco_smoking": 30,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 52,
     "days_to_diagnosis": 0,
@@ -3648,8 +3557,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72L",
@@ -3664,7 +3572,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -3679,7 +3587,7 @@
     "white_cell_count": "NORMAL",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 51,
     "days_to_diagnosis": 0,
@@ -3687,8 +3595,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72M",
@@ -3703,7 +3610,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -3717,7 +3624,7 @@
     "year_started_tobacco_smoking": 1982,
     "pack_years_tobacco_smoking": 30,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 44,
     "days_to_diagnosis": 0,
@@ -3725,8 +3632,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72N",
@@ -3741,7 +3647,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -3753,7 +3659,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 45,
     "days_to_diagnosis": 0,
@@ -3761,8 +3667,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72O",
@@ -3777,7 +3682,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -3790,7 +3695,7 @@
     "year_started_tobacco_smoking": 1987,
     "pack_years_tobacco_smoking": 25,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 38,
     "days_to_diagnosis": 0,
@@ -3798,8 +3703,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72P",
@@ -3814,7 +3718,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1A",
@@ -3827,7 +3731,7 @@
     "serum_calcium_level": "ELEVATED",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 61,
     "days_to_diagnosis": 0,
@@ -3835,8 +3739,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72Q",
@@ -3851,7 +3754,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -3864,7 +3767,7 @@
     "serum_calcium_level": "NORMAL",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 56,
     "days_to_diagnosis": 0,
@@ -3872,8 +3775,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72R",
@@ -3888,7 +3790,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 7,
     "lymph_nodes_examined_positive": 0,
@@ -3902,7 +3804,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 29,
     "days_to_diagnosis": 0,
@@ -3910,8 +3812,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72S",
@@ -3926,7 +3827,7 @@
     "ethnicity": "HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1B",
@@ -3939,7 +3840,7 @@
     "serum_calcium_level": "NORMAL",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 43,
     "days_to_diagnosis": 0,
@@ -3947,8 +3848,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A72T",
@@ -3962,7 +3862,7 @@
     "race": "WHITE",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T3A",
@@ -3978,7 +3878,7 @@
     "white_cell_count": "NORMAL",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 57,
     "days_to_diagnosis": 0,
@@ -3986,8 +3886,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GC",
@@ -4001,7 +3900,7 @@
     "race": "WHITE",
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -4015,7 +3914,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 75,
     "days_to_diagnosis": 0,
@@ -4023,8 +3922,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GG",
@@ -4037,7 +3935,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2002",
+    "diagnosis_year": 1009872000,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "5TH",
     "stage_T": "T2",
@@ -4049,7 +3947,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 44,
     "days_to_diagnosis": 0,
@@ -4057,8 +3955,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GI",
@@ -4073,7 +3970,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2003",
+    "diagnosis_year": 1041408000,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1A",
@@ -4086,7 +3983,7 @@
     "serum_calcium_level": "NORMAL",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 58,
     "days_to_diagnosis": 0,
@@ -4094,8 +3991,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GJ",
@@ -4109,7 +4005,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T3A",
@@ -4123,7 +4019,7 @@
     "year_stopped_tobacco_smoking": 1993,
     "pack_years_tobacco_smoking": 15,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 52,
     "days_to_diagnosis": 0,
@@ -4131,8 +4027,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GK",
@@ -4145,7 +4040,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1A",
@@ -4158,7 +4053,7 @@
     "serum_calcium_level": "NORMAL",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 74,
     "days_to_diagnosis": 0,
@@ -4166,8 +4061,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GL",
@@ -4179,7 +4073,7 @@
     "days_to_birth": -17241,
     "race": "WHITE",
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -4191,7 +4085,7 @@
     "status_tumor": "TUMOR FREE",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 47,
     "days_to_diagnosis": 0,
@@ -4199,8 +4093,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GN",
@@ -4213,7 +4106,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T3A",
@@ -4226,7 +4119,7 @@
     "serum_calcium_level": "NORMAL",
     "year_stopped_tobacco_smoking": 2003,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 31,
     "days_to_diagnosis": 0,
@@ -4234,8 +4127,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GP",
@@ -4248,7 +4140,7 @@
     "race": "WHITE",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -4260,7 +4152,7 @@
     "status_tumor": "TUMOR FREE",
     "serum_calcium_level": "NORMAL",
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 40,
     "days_to_diagnosis": 0,
@@ -4268,8 +4160,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GR",
@@ -4280,7 +4171,7 @@
     "gender": "FEMALE",
     "days_to_birth": -16221,
     "race": "WHITE",
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 1,
     "lymph_nodes_examined_positive": 0,
@@ -4294,7 +4185,7 @@
     "status_tumor": "TUMOR FREE",
     "year_stopped_tobacco_smoking": 2005,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 44,
     "days_to_diagnosis": 0,
@@ -4302,8 +4193,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GU",
@@ -4316,7 +4206,7 @@
     "race": "BLACK OR AFRICAN AMERICAN",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1A",
@@ -4329,7 +4219,7 @@
     "serum_calcium_level": "NORMAL",
     "tobacco_smoking_history": true,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 75,
     "days_to_diagnosis": 0,
@@ -4337,8 +4227,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GX",
@@ -4353,7 +4242,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": false,
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2A",
@@ -4367,7 +4256,7 @@
     "year_started_tobacco_smoking": 1991,
     "pack_years_tobacco_smoking": 10,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 45,
     "days_to_diagnosis": 0,
@@ -4375,8 +4264,7 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   },
   {
     "patient_ID": "TCGA.UW.A7GY",
@@ -4391,7 +4279,7 @@
     "ethnicity": "NOT HISPANIC OR LATINO",
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "lymph_nodes_examined": true,
     "count_lymph_nodes_examined": 4,
     "lymph_nodes_examined_positive": 0,
@@ -4410,7 +4298,7 @@
     "year_started_tobacco_smoking": 1973,
     "year_stopped_tobacco_smoking": 1975,
     "radiation_treatment_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 57,
     "days_to_diagnosis": 0,
@@ -4418,7 +4306,6 @@
     "icd_3_histology": "8317/3",
     "icd_3": "C64.9",
     "targeted_molecular_therapy": false,
-    "tissue_source_site_code": "UW",
-    "tumor_tissue_site": "KIDNEY"
+    "tissue_source_site_code": "UW"
   }
 ]

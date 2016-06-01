@@ -83,7 +83,7 @@
     "patient_ID": "TCGA.HF.7131",
     "malignancy_type": "PRIOR MALIGNANCY",
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOCETAXEL;EPIRUBICIN;FLUOROURACIL;TAMOXIFEN",
     "radiation_therapy": false,
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1B",

@@ -204,7 +204,7 @@
   },
   {
     "patient_ID": "TCGA.HC.A9TH",
-    "drug_therapy_name": "DEGARELIX ",
+    "drug_therapy_name": "DEGARELIX",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 455,
     "pharmaceutical_tx_ongoing": true,
@@ -587,7 +587,7 @@
   },
   {
     "patient_ID": "TCGA.KK.A8II",
-    "drug_therapy_name": "DEGARELIX ",
+    "drug_therapy_name": "DEGARELIX",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 2431,
     "pharmaceutical_tx_ongoing": false,

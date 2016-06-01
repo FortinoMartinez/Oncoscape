@@ -3480,7 +3480,7 @@
   },
   {
     "patient_ID": "TCGA.AD.6964",
-    "drug_therapy_name": "LEUCOVORIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;FOLINIC ACID;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 63,
     "pharmaceutical_tx_ongoing": false,
@@ -3806,7 +3806,7 @@
   },
   {
     "patient_ID": "TCGA.AZ.4684",
-    "drug_therapy_name": "LEUCOVORIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;FOLINIC ACID;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 22,
     "pharmaceutical_tx_ongoing": false,
@@ -3845,7 +3845,7 @@
   },
   {
     "patient_ID": "TCGA.AZ.6605",
-    "drug_therapy_name": "LEUCOVORIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;FOLINIC ACID;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 56,
     "pharmaceutical_tx_ongoing": false,
@@ -4125,7 +4125,7 @@
   },
   {
     "patient_ID": "TCGA.CK.4950",
-    "drug_therapy_name": "LEUCOVORIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;FOLINIC ACID;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 49,
     "pharmaceutical_tx_ongoing": false,
@@ -4844,7 +4844,6 @@
   },
   {
     "patient_ID": "TCGA.CM.5868",
-    "drug_therapy_name": "DEXAMETHASONE",
     "pharmaceutical_therapy_type.1": "OTHER",
     "days_to_drug_start": 78,
     "pharmaceutical_tx_ongoing": true,
@@ -5272,7 +5271,7 @@
   },
   {
     "patient_ID": "TCGA.D5.5538",
-    "drug_therapy_name": "CALCIUM FOLIATUM",
+    "drug_therapy_name": "CALCIUM FOLIATUM;DEXAMETHASONE;FLUOROURACIL;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 22,
     "pharmaceutical_tx_ongoing": false,
@@ -5296,7 +5295,7 @@
   },
   {
     "patient_ID": "TCGA.D5.5541",
-    "drug_therapy_name": "CALCIUM FOLIATUM",
+    "drug_therapy_name": "CALCIUM FOLIATUM;DEXAMETHASONE;FLUOROURACIL;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 19,
     "pharmaceutical_tx_ongoing": false,
@@ -5309,7 +5308,7 @@
   },
   {
     "patient_ID": "TCGA.D5.6529",
-    "drug_therapy_name": "OXALIPLATIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 502,
     "pharmaceutical_tx_ongoing": true,
@@ -5320,7 +5319,7 @@
   },
   {
     "patient_ID": "TCGA.D5.6533",
-    "drug_therapy_name": "OXALIPLATIN;LEUCOVORIN;FLUOROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;LEUCOVORIN;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 67,
     "pharmaceutical_tx_ongoing": false,
@@ -5354,7 +5353,7 @@
   },
   {
     "patient_ID": "TCGA.D5.6926",
-    "drug_therapy_name": "FLUOROURACIL;LEUCOVORIN",
+    "drug_therapy_name": "FLUOROURACIL;LEUOCOVORIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 42,
     "pharmaceutical_tx_ongoing": false,
@@ -5367,7 +5366,7 @@
   },
   {
     "patient_ID": "TCGA.D5.6929",
-    "drug_therapy_name": "OXALIPLATIN;FLUOROURACIL",
+    "drug_therapy_name": "FLUOROURACIL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 48,
     "pharmaceutical_tx_ongoing": false,
@@ -7288,7 +7287,7 @@
   },
   {
     "patient_ID": "TCGA.RU.A8FL",
-    "drug_therapy_name": "C1 FOLFIRI;AFLIBERCEPT",
+    "drug_therapy_name": "AFLIBERCEPT;FOLFIRI",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 679,
     "pharmaceutical_tx_ongoing": false,
@@ -7298,7 +7297,7 @@
   },
   {
     "patient_ID": "TCGA.RU.A8FL",
-    "drug_therapy_name": "IRINOTECAN;CETUXIMAB",
+    "drug_therapy_name": "CETUXIMAB;IRINOTECAN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 343,
     "pharmaceutical_tx_ongoing": false,
@@ -7308,7 +7307,7 @@
   },
   {
     "patient_ID": "TCGA.RU.A8FL",
-    "drug_therapy_name": "BEVACIZUMAB",
+    "drug_therapy_name": "BEVACIZUMAB;FOLFIRI",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 270,
     "pharmaceutical_tx_ongoing": false,
@@ -7318,7 +7317,7 @@
   },
   {
     "patient_ID": "TCGA.RU.A8FL",
-    "drug_therapy_name": "LEUCOVORIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;FOLINIC ACID;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 48,
     "pharmaceutical_tx_ongoing": false,

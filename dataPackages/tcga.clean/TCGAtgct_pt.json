@@ -25,7 +25,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -36,7 +36,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 3,
     "pre_orchi_afp": 1.1,
     "post_orchi_ldh": 176,
@@ -60,8 +59,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 218,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAEX",
@@ -88,7 +86,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -99,7 +97,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 397,
     "pre_orchi_afp": 1.1,
     "post_orchi_ldh": 144,
@@ -122,8 +119,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 225,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAF1",
@@ -151,7 +147,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -162,7 +158,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 5.9,
     "pre_orchi_afp": 3,
     "post_orchi_ldh": 164,
@@ -186,8 +181,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 189,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAF4",
@@ -214,7 +208,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -225,7 +219,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "S0",
     "pre_orchi_afp": 2,
     "post_orchi_ldh": 191,
     "post_orchi_afp": 2,
@@ -247,8 +240,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 256,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAF6",
@@ -271,7 +263,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -282,7 +274,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 14,
     "pre_orchi_afp": 2,
     "post_orchi_ldh": 192,
@@ -306,8 +297,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 395,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAF8",
@@ -332,7 +322,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -343,7 +333,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 0.1,
     "pre_orchi_afp": 2,
     "post_orchi_ldh": 154,
@@ -368,8 +357,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 229,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFE",
@@ -397,7 +385,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2001",
+    "diagnosis_year": 978336000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T2",
@@ -408,7 +396,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S2A",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 6.2,
     "pre_orchi_afp": 4,
     "post_orchi_ldh": 274,
@@ -433,8 +420,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 294,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFG",
@@ -449,8 +435,8 @@
     "family_history_testicular_cancer": true,
     "relation_testicular_cancer": "COUSIN",
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "BROTHER",
-    "family_history_cancer_type": "LYMPHOMA",
+    "history_family_cancer_relationship": "BROTHER;SISTER",
+    "family_history_cancer_type": "LYMPHOMA;OVARIAN CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -461,7 +447,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/1998",
+    "diagnosis_year": 883641600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -472,7 +458,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_afp": 2.5,
     "post_orchi_ldh": 219,
     "post_orchi_afp": 3,
@@ -494,8 +479,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 467,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFH",
@@ -521,7 +505,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -532,7 +516,6 @@
     "stage_N.1": "N2",
     "stage_M.1": "M0",
     "stage_S.1": "S2B",
-    "serum_markers": "S0",
     "pre_orchi_afp": 2,
     "post_orchi_ldh": 255,
     "post_orchi_afp": 1.6,
@@ -555,8 +538,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 270,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFI",
@@ -578,10 +560,10 @@
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
     "testis_tumor_microextent": "RETE TESTIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "95|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -592,7 +574,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 1102,
     "pre_orchi_afp": 345,
     "post_orchi_ldh": 150,
@@ -616,8 +597,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 178,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFJ",
@@ -638,10 +618,10 @@
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE",
+    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "95|5",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -651,7 +631,6 @@
     "stage_T.1": "T1",
     "stage_N.1": "N0",
     "stage_M.1": "M0",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 22,
     "pre_orchi_afp": 175,
     "post_orchi_ldh": 109,
@@ -674,8 +653,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 70,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFL",
@@ -698,7 +676,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -709,7 +687,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 6,
     "pre_orchi_afp": 1,
     "post_orchi_ldh": 151,
@@ -733,8 +710,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 354,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFM",
@@ -757,7 +733,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -768,7 +744,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S2A",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 14,
     "pre_orchi_afp": 2,
     "post_orchi_ldh": 278,
@@ -793,8 +768,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 477,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFN",
@@ -808,8 +782,8 @@
     "history_fertility": "FATHERED > OR = 1 CHILD BY NATURAL CONCEPTION",
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "MOTHER",
-    "family_history_cancer_type": "CERVICAL CANCER",
+    "history_family_cancer_relationship": "MOTHER;GRANDMOTHER",
+    "family_history_cancer_type": "CERVICAL CANCER;LUNG CANCER;MELANOMA;PROSTATE CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -819,7 +793,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -830,7 +804,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S3B",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 65,
     "pre_orchi_afp": 35,
     "post_orchi_ldh": 216,
@@ -855,8 +828,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 275,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFO",
@@ -881,7 +853,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -892,7 +864,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S2A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 1,
     "pre_orchi_afp": 1.2,
     "post_orchi_ldh": 245,
@@ -917,8 +888,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 425,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFV",
@@ -945,7 +915,7 @@
     "histologic_diagnosis": "NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -956,7 +926,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_afp": 15,
     "post_orchi_ldh": 182,
     "post_orchi_afp": 3,
@@ -978,8 +947,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 139,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFY",
@@ -1001,7 +969,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -1012,7 +980,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S2A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 4.2,
     "pre_orchi_afp": 4,
     "post_orchi_ldh": 234,
@@ -1037,8 +1004,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 265,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAFZ",
@@ -1058,11 +1024,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES EXTRATESTICULAR STRUCTURES: TUNICA ALBUGINEA",
-    "testis_tumor_microextent": "EPIDIDYMIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "40|30|20|10",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T3",
@@ -1073,7 +1038,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M1",
     "stage_S.1": "S3",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 829,
     "pre_orchi_afp": 669,
     "post_orchi_ldh": 231,
@@ -1098,8 +1062,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 275,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAG0",
@@ -1116,7 +1079,7 @@
     "history_hypospadias": false,
     "history_fertility": "DID NOT ACHIEVE PREGNANCY FOLLOWING > OR = 12 MONTHS OF UNPROTECTED INTERCOURSE",
     "family_history_testicular_cancer": true,
-    "relation_testicular_cancer": "FATHER",
+    "relation_testicular_cancer": "FATHER;COUSIN",
     "family_history_other_cancer": false,
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
@@ -1126,10 +1089,10 @@
     "bilateral_diagnosis_timing_type": "METACHRONOUS",
     "testis_tumor_macroextent": "INVOLVES EXTRATESTICULAR STRUCTURES: TUNICA ALBUGINEA",
     "testis_tumor_microextent": "RETE TESTIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "80|10|10",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -1140,7 +1103,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 12.4,
     "pre_orchi_afp": 11,
     "post_orchi_ldh": 275,
@@ -1165,8 +1127,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 329,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAG3",
@@ -1188,10 +1149,10 @@
     "bilateral_diagnosis_timing_type": "METACHRONOUS",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
     "testis_tumor_microextent": "RETE TESTIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "35|50|10|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -1202,7 +1163,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 17.9,
     "pre_orchi_afp": 10,
     "post_orchi_ldh": 336,
@@ -1226,8 +1186,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 468,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAG5",
@@ -1250,7 +1209,7 @@
     "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -1261,7 +1220,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_afp": 12.4,
     "post_orchi_ldh": 246,
     "post_orchi_afp": 2,
@@ -1283,8 +1241,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 335,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAG6",
@@ -1308,10 +1265,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE",
+    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "95|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -1322,7 +1279,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 24,
     "pre_orchi_afp": 11,
     "post_orchi_ldh": 279,
@@ -1345,8 +1301,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 187,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAG7",
@@ -1366,10 +1321,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "40|20|20|20",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -1380,7 +1335,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 0.09,
     "pre_orchi_afp": 12,
     "post_orchi_ldh": 127,
@@ -1404,8 +1358,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 103,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAG8",
@@ -1429,7 +1382,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -1440,7 +1393,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "pre_orchi_afp": 3.6,
     "post_orchi_ldh": 529,
     "post_orchi_hcg": 0.1,
@@ -1464,8 +1416,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 397,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAG9",
@@ -1494,7 +1445,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -1505,7 +1456,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S3B",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 20,
     "pre_orchi_afp": 117,
     "post_orchi_ldh": 406,
@@ -1530,8 +1480,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 509,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGA",
@@ -1556,7 +1505,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -1567,7 +1516,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S2A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 4,
     "post_orchi_ldh": 374,
     "post_orchi_afp": 3,
@@ -1590,8 +1538,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 336,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGC",
@@ -1610,10 +1557,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "40|30|20|10",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -1624,7 +1571,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 899,
     "pre_orchi_afp": 79,
     "post_orchi_ldh": 354,
@@ -1647,8 +1593,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 200,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGE",
@@ -1672,7 +1617,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -1683,7 +1628,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 130,
     "pre_orchi_afp": 106,
     "post_orchi_ldh": 273,
@@ -1707,8 +1651,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 277,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGF",
@@ -1733,10 +1676,10 @@
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
     "testis_tumor_microextent": "RETE TESTIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "30|20|45|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -1747,7 +1690,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 855,
     "pre_orchi_afp": 68,
     "post_orchi_ldh": 183,
@@ -1770,8 +1712,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 271,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGG",
@@ -1785,19 +1726,18 @@
     "history_fertility": "DID NOT ATTEMPT TO REPRODUCE",
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "MOTHER",
-    "family_history_cancer_type": "COLON CANCER",
+    "history_family_cancer_relationship": "MOTHER;GRANDFATHER",
+    "family_history_cancer_type": "COLON CANCER;LUNG CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "testis_tumor_microextent": "EPIDIDYMIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "50|40|5|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T3",
@@ -1808,7 +1748,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M1B",
     "stage_S.1": "S3C",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 99,
     "pre_orchi_afp": 339,
     "post_orchi_ldh": 237,
@@ -1832,8 +1771,7 @@
     "icd_3_histology": "9085/3",
     "icd_3": "C62.9",
     "pre_orchi_ldh": 266,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGI",
@@ -1854,10 +1792,10 @@
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
     "testis_tumor_microextent": "RETE TESTIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "10|10|75|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -1868,7 +1806,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 38.3,
     "pre_orchi_afp": 165,
     "post_orchi_ldh": 262,
@@ -1892,8 +1829,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 234,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGJ",
@@ -1913,10 +1849,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;SEMINOMA",
     "histologic_diagnosis_percent": "85|15",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -1927,7 +1863,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 0.8,
     "pre_orchi_afp": 4,
     "post_orchi_ldh": 406,
@@ -1951,8 +1886,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 438,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGK",
@@ -1973,10 +1907,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "85|15",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -1987,7 +1921,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 953,
     "pre_orchi_afp": 1198,
     "post_orchi_ldh": 234,
@@ -2010,8 +1943,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 381,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGM",
@@ -2034,7 +1966,7 @@
     "histologic_diagnosis": "NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2045,7 +1977,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 1515,
     "pre_orchi_afp": 449,
     "post_orchi_ldh": 255,
@@ -2068,8 +1999,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 311,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGN",
@@ -2093,7 +2023,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2104,7 +2034,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S3B",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 222,
     "pre_orchi_afp": 52,
     "post_orchi_ldh": 471,
@@ -2128,8 +2057,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 426,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGO",
@@ -2152,7 +2080,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2003",
+    "diagnosis_year": 1041408000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2163,7 +2091,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 18,
     "pre_orchi_afp": 10,
     "post_orchi_ldh": 280,
@@ -2186,8 +2113,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 328,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGP",
@@ -2207,10 +2133,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "40|35|20|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2003",
+    "diagnosis_year": 1041408000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2221,7 +2147,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S2A",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 13.9,
     "pre_orchi_afp": 5,
     "post_orchi_ldh": 357,
@@ -2246,8 +2171,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 360,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGS",
@@ -2266,10 +2190,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA TERATOMA IMMATURE",
+    "histologic_diagnosis": "NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "80|20",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2001",
+    "diagnosis_year": 978336000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -2280,7 +2204,6 @@
     "stage_N.1": "N1",
     "stage_M.1": "M0",
     "stage_S.1": "S3B",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 2,
     "pre_orchi_afp": 143,
     "post_orchi_ldh": 349,
@@ -2305,8 +2228,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 656,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGT",
@@ -2328,10 +2250,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE",
+    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "80|20",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2002",
+    "diagnosis_year": 1009872000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T2",
@@ -2342,7 +2264,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 58.1,
     "pre_orchi_afp": 450.4,
     "post_orchi_ldh": 400,
@@ -2366,8 +2287,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 374,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGV",
@@ -2390,7 +2310,7 @@
     "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2002",
+    "diagnosis_year": 1009872000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -2400,7 +2320,6 @@
     "stage_T.1": "T1",
     "stage_N.1": "NX",
     "stage_M.1": "M0",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 389.2,
     "pre_orchi_afp": 3.2,
     "post_orchi_ldh": 276,
@@ -2425,8 +2344,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 196,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGW",
@@ -2447,7 +2365,7 @@
     "histologic_diagnosis": "NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2001",
+    "diagnosis_year": 978336000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -2458,7 +2376,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 5,
     "pre_orchi_afp": 345,
     "post_orchi_ldh": 336,
@@ -2482,8 +2399,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 333,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGX",
@@ -2497,18 +2413,18 @@
     "history_fertility": "FATHERED > OR = 1 CHILD BY NATURAL CONCEPTION",
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "GRANDFATHER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "history_family_cancer_relationship": "GRANDFATHER;GRANDMOTHER",
+    "family_history_cancer_type": "BREAST CANCER;COLON CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "55|20|15|10",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2000",
+    "diagnosis_year": 946713600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -2519,7 +2435,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 3,
     "post_orchi_ldh": 192,
     "post_orchi_afp": 4,
@@ -2541,8 +2456,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 181,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGY",
@@ -2562,10 +2476,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE",
     "histologic_diagnosis_percent": "90|5|5",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2000",
+    "diagnosis_year": 946713600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -2576,7 +2490,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 2.9,
     "pre_orchi_afp": 226,
     "post_orchi_ldh": 393,
@@ -2600,8 +2513,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 360,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAGZ",
@@ -2620,10 +2532,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA;NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "10|40|5|5|40",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2000",
+    "diagnosis_year": 946713600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T2",
@@ -2634,7 +2546,6 @@
     "stage_N.1": "N2",
     "stage_M.1": "M1A",
     "stage_S.1": "S3A",
-    "serum_markers": "S1",
     "pre_orchi_afp": 7,
     "post_orchi_ldh": 2035,
     "post_orchi_afp": 7,
@@ -2657,8 +2568,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 2035,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAH0",
@@ -2681,10 +2591,10 @@
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;SEMINOMA",
     "histologic_diagnosis_percent": "95|5",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/1999",
+    "diagnosis_year": 915177600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T2",
@@ -2695,7 +2605,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 5.1,
     "pre_orchi_afp": 22,
     "post_orchi_ldh": 305,
@@ -2718,8 +2627,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 313,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAH2",
@@ -2738,10 +2646,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "40|20|15|5|20",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/1998",
+    "diagnosis_year": 883641600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -2752,7 +2660,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 16.3,
     "pre_orchi_afp": 52,
     "post_orchi_ldh": 277,
@@ -2775,8 +2682,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 207,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAH3",
@@ -2790,18 +2696,18 @@
     "history_fertility": "DID NOT ATTEMPT TO REPRODUCE",
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "GRANDFATHER",
-    "family_history_cancer_type": "LEUKEMIA",
+    "history_family_cancer_relationship": "GRANDFATHER;GRANDMOTHER",
+    "family_history_cancer_type": "LEUKEMIA;PANCREATIC CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA TERATOMA IMMATURE",
+    "histologic_diagnosis": "NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "35|40|20|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/1997",
+    "diagnosis_year": 852105600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T2",
@@ -2812,7 +2718,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 110,
     "pre_orchi_afp": 19.6,
     "post_orchi_ldh": 169,
@@ -2835,8 +2740,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 212,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAH4",
@@ -2856,10 +2760,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "80|10|5|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/1997",
+    "diagnosis_year": 852105600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T1",
@@ -2870,7 +2774,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S2",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 214,
     "pre_orchi_afp": 1191,
     "post_orchi_ldh": 230,
@@ -2895,8 +2798,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 264,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAH8",
@@ -2923,7 +2825,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -2934,7 +2836,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S3C",
-    "serum_markers": "S3",
     "pre_orchi_hcg": 6599,
     "pre_orchi_afp": 63,
     "post_orchi_ldh": 1435,
@@ -2959,8 +2860,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 1435,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAHA",
@@ -2989,7 +2889,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -3000,7 +2900,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "pre_orchi_afp": 3.5,
     "post_orchi_ldh": 315,
     "post_orchi_hcg": 0.04,
@@ -3024,8 +2923,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 422,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAHC",
@@ -3054,7 +2952,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/1999",
+    "diagnosis_year": 915177600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T1",
@@ -3065,7 +2963,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 4.1,
     "pre_orchi_afp": 5,
     "post_orchi_ldh": 306,
@@ -3090,8 +2987,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 345,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAHG",
@@ -3117,7 +3013,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/1992",
+    "diagnosis_year": 694252800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "3RD",
     "stage_T": "T1",
@@ -3128,7 +3024,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 4.9,
     "pre_orchi_afp": 4,
     "post_orchi_ldh": 199,
@@ -3152,8 +3047,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 171,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAHL",
@@ -3177,11 +3071,10 @@
     "postoperative_tx": "RADIATION",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "testis_tumor_microextent": "EPIDIDYMIS",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/1994",
+    "diagnosis_year": 757411200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T2",
@@ -3192,7 +3085,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "S0",
     "pre_orchi_afp": 3,
     "post_orchi_ldh": 181,
     "post_orchi_afp": 2,
@@ -3214,8 +3106,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 321,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAHN",
@@ -3233,8 +3124,8 @@
     "history_fertility": "DID NOT ATTEMPT TO REPRODUCE",
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "MOTHER",
-    "family_history_cancer_type": "LEUKEMIA",
+    "history_family_cancer_relationship": "MOTHER;BROTHER",
+    "family_history_cancer_type": "LEUKEMIA;NON HODGKIN LYMPHOMA",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -3244,7 +3135,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/1996",
+    "diagnosis_year": 820483200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T1",
@@ -3255,7 +3146,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 3,
     "pre_orchi_afp": 2,
     "post_orchi_ldh": 167,
@@ -3278,8 +3168,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 203,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAHP",
@@ -3293,8 +3182,8 @@
     "history_fertility": "DID NOT ATTEMPT TO REPRODUCE",
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "SISTER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "history_family_cancer_relationship": "SISTER;GRANDMOTHER",
+    "family_history_cancer_type": "BREAST CANCER;CERVICAL CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -3304,7 +3193,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/1999",
+    "diagnosis_year": 915177600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "5TH",
     "stage_T": "T2",
@@ -3315,7 +3204,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 1280,
     "post_orchi_ldh": 279,
     "radiation_treatment_adjuvant": true,
@@ -3336,8 +3224,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 309,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAHT",
@@ -3365,7 +3252,7 @@
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -3376,7 +3263,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 12,
     "pre_orchi_afp": 2,
     "post_orchi_ldh": 162,
@@ -3399,8 +3285,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 198,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAKD",
@@ -3420,11 +3305,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "testis_tumor_microextent": "EPIDIDYMIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "70|30",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/1997",
+    "diagnosis_year": 852105600,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T2",
@@ -3435,7 +3319,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S3",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 521.6,
     "pre_orchi_afp": 340,
     "post_orchi_ldh": 417,
@@ -3460,8 +3343,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 420,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAKG",
@@ -3482,7 +3364,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/1996",
+    "diagnosis_year": 820483200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T1",
@@ -3493,7 +3375,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 2014,
     "pre_orchi_afp": 676,
     "post_orchi_ldh": 231,
@@ -3516,8 +3397,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 493,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAKH",
@@ -3537,10 +3417,10 @@
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
     "testis_tumor_microextent": "RETE TESTIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;SEMINOMA",
     "histologic_diagnosis_percent": "95|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/1996",
+    "diagnosis_year": 820483200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T2",
@@ -3551,7 +3431,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S2",
-    "serum_markers": "S1",
     "pre_orchi_afp": 228,
     "post_orchi_ldh": 295,
     "post_orchi_afp": 5.7,
@@ -3574,8 +3453,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 330,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAKL",
@@ -3599,7 +3477,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/1995",
+    "diagnosis_year": 788947200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T2",
@@ -3610,7 +3488,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S2",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 1563,
     "pre_orchi_afp": 477,
     "post_orchi_ldh": 316,
@@ -3635,8 +3512,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 452,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAKM",
@@ -3657,10 +3533,10 @@
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
     "testis_tumor_microextent": "RETE TESTIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "5|[NOT AVAILABLE]|90|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/1995",
+    "diagnosis_year": 788947200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T2",
@@ -3671,7 +3547,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S2",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 10.4,
     "pre_orchi_afp": 3,
     "post_orchi_ldh": 185,
@@ -3696,8 +3571,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 191,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAL5",
@@ -3716,10 +3590,10 @@
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "35|35|20|5|5",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/1994",
+    "diagnosis_year": 757411200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "4TH",
     "stage_T": "T1",
@@ -3730,7 +3604,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 3,
     "pre_orchi_afp": 24.8,
     "post_orchi_ldh": 327,
@@ -3753,8 +3626,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 363,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AAL7",
@@ -3774,11 +3646,10 @@
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "testis_tumor_microextent": "EPIDIDYMIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "95|5",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2003",
+    "diagnosis_year": 1041408000,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -3789,7 +3660,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 19,
     "pre_orchi_afp": 17.3,
     "post_orchi_ldh": 332,
@@ -3813,8 +3683,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 429,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2G.AALP",
@@ -3834,10 +3703,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "10|60|20|10",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -3848,7 +3717,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M1",
     "stage_S.1": "S3B",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 65,
     "pre_orchi_afp": 35,
     "post_orchi_ldh": 406,
@@ -3871,8 +3739,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 460,
-    "tissue_source_site_code": "2G",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2G"
   },
   {
     "patient_ID": "TCGA.2X.A9D5",
@@ -3894,7 +3761,7 @@
     "laterality": "LEFT",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_S": "S2",
@@ -3902,7 +3769,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "pre_orchi_hcg": 4.7,
     "pre_orchi_afp": 6.1,
     "post_orchi_afp": 6,
@@ -3923,8 +3789,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "2X",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2X"
   },
   {
     "patient_ID": "TCGA.2X.A9D6",
@@ -3943,7 +3808,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T.1": "T1",
@@ -3959,8 +3824,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "2X",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "2X"
   },
   {
     "patient_ID": "TCGA.4K.AA1G",
@@ -3978,11 +3842,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES EXTRATESTICULAR STRUCTURES: EPIDIDYMIS",
-    "testis_tumor_microextent": "EPIDIDYMIS",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -3993,7 +3856,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 146.7,
     "pre_orchi_afp": 57.22,
     "post_orchi_ldh": 450,
@@ -4016,8 +3878,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 452,
-    "tissue_source_site_code": "4K",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "4K"
   },
   {
     "patient_ID": "TCGA.4K.AA1H",
@@ -4040,7 +3901,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4051,7 +3912,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "SX",
     "pre_orchi_hcg": 1,
     "pre_orchi_afp": 8,
     "pre_orchi_lh": 5.5,
@@ -4072,8 +3932,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 230,
-    "tissue_source_site_code": "4K",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "4K"
   },
   {
     "patient_ID": "TCGA.4K.AA1I",
@@ -4091,7 +3950,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4114,8 +3973,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "4K",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "4K"
   },
   {
     "patient_ID": "TCGA.4K.AAAL",
@@ -4138,7 +3996,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4149,7 +4007,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 0.1,
     "pre_orchi_afp": 120,
     "post_orchi_ldh": 588,
@@ -4174,8 +4031,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 2699,
-    "tissue_source_site_code": "4K",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "4K"
   },
   {
     "patient_ID": "TCGA.S6.A8JW",
@@ -4195,7 +4051,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4206,7 +4062,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "post_orchi_ldh": 145,
     "post_orchi_afp": 1.8,
     "radiation_treatment_adjuvant": false,
@@ -4225,8 +4080,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "S6",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "S6"
   },
   {
     "patient_ID": "TCGA.S6.A8JX",
@@ -4244,11 +4098,11 @@
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES EXTRATESTICULAR STRUCTURES: OTHER",
-    "testis_tumor_macroextent_other": "EPIDIDYMIS",
+    "testis_tumor_macroextent_other": "EPIDIDYMIS;SPERMATIC CORD",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -4259,7 +4113,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "post_orchi_ldh": 164,
     "post_orchi_afp": 3,
     "radiation_treatment_adjuvant": false,
@@ -4278,8 +4131,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "S6",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "S6"
   },
   {
     "patient_ID": "TCGA.S6.A8JY",
@@ -4301,7 +4153,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4312,7 +4164,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S3",
     "pre_orchi_hcg": 65,
     "pre_orchi_afp": 1.8,
     "post_orchi_ldh": 150,
@@ -4334,8 +4185,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "S6",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "S6"
   },
   {
     "patient_ID": "TCGA.SB.A6J6",
@@ -4356,14 +4206,13 @@
     "laterality": "RIGHT",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T.1": "T1",
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 0.8,
     "post_orchi_ldh": 101,
     "post_orchi_afp": 0.8,
@@ -4384,8 +4233,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "pre_orchi_ldh": 121,
-    "tissue_source_site_code": "SB",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "SB"
   },
   {
     "patient_ID": "TCGA.SB.A76C",
@@ -4408,14 +4256,13 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_S": "S1",
     "stage_T.1": "T1",
     "stage_N.1": "NX",
     "stage_M.1": "M0",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 8,
     "pre_orchi_afp": 4.2,
     "post_orchi_ldh": 138,
@@ -4439,8 +4286,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 124,
-    "tissue_source_site_code": "SB",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "SB"
   },
   {
     "patient_ID": "TCGA.SN.A6IS",
@@ -4457,9 +4303,9 @@
     "status_vital": "ALIVE",
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
-    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE",
+    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE;SEMINOMA",
     "histologic_diagnosis_percent": "85|15",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4470,7 +4316,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 1708,
     "pre_orchi_afp": 3.3,
     "post_orchi_ldh": 165,
@@ -4493,8 +4338,7 @@
     "icd_3_histology": "9085/3",
     "icd_3": "C62.9",
     "pre_orchi_ldh": 240,
-    "tissue_source_site_code": "SN",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "SN"
   },
   {
     "patient_ID": "TCGA.SN.A84W",
@@ -4512,9 +4356,9 @@
     "status_vital": "ALIVE",
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "80|10|5|5",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_M": "M0",
@@ -4522,7 +4366,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "post_orchi_lymph_node_dissection": "NO",
@@ -4538,8 +4381,7 @@
     "icd_3_histology": "9085/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "SN",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "SN"
   },
   {
     "patient_ID": "TCGA.SN.A84X",
@@ -4554,9 +4396,9 @@
     "status_vital": "ALIVE",
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "15|5|30|30|20",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_M": "M0",
@@ -4565,7 +4407,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "post_orchi_lymph_node_dissection": "YES - PRIOR TO CHEMOTHERAPY",
@@ -4581,8 +4422,7 @@
     "icd_3_histology": "9085/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
-    "tissue_source_site_code": "SN",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "SN"
   },
   {
     "patient_ID": "TCGA.SN.A84Y",
@@ -4598,9 +4438,9 @@
     "status_vital": "ALIVE",
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "50|50",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -4611,7 +4451,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "post_orchi_lymph_node_dissection": "NO",
@@ -4626,8 +4465,7 @@
     "icd_3_histology": "9070/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
-    "tissue_source_site_code": "SN",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "SN"
   },
   {
     "patient_ID": "TCGA.SO.A8JP",
@@ -4641,7 +4479,6 @@
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
     "history_family_cancer_relationship": "FATHER",
-    "family_history_cancer_type": "SKIN CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -4649,14 +4486,13 @@
     "laterality": "LEFT",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T.1": "T1",
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "new_tumor_event_diagnosis": false,
     "days_to_birth": -10765,
     "days_to_last_contact": 107,
@@ -4667,8 +4503,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "SO",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "SO"
   },
   {
     "patient_ID": "TCGA.VF.A8A8",
@@ -4685,17 +4520,17 @@
     "relation_testicular_cancer": "COUSIN",
     "family_history_other_cancer": true,
     "history_family_cancer_relationship": "GRANDMOTHER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "family_history_cancer_type": "BREAST CANCER;GASTRIC CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA MATURE",
     "histologic_diagnosis_percent": "95|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4706,7 +4541,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 74,
     "pre_orchi_afp": 248,
     "post_orchi_ldh": 127,
@@ -4728,8 +4562,7 @@
     "icd_3_histology": "9070/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "VF",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "VF"
   },
   {
     "patient_ID": "TCGA.VF.A8A9",
@@ -4753,7 +4586,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4764,7 +4597,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 4,
     "post_orchi_afp": 3,
     "radiation_treatment_adjuvant": false,
@@ -4785,8 +4617,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 164,
-    "tissue_source_site_code": "VF",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "VF"
   },
   {
     "patient_ID": "TCGA.VF.A8AA",
@@ -4804,7 +4635,7 @@
     "relation_testicular_cancer": "NEPHEW",
     "family_history_other_cancer": true,
     "history_family_cancer_relationship": "MOTHER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "family_history_cancer_type": "BREAST CANCER;COLON CANCER;RENAL CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -4815,7 +4646,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4826,7 +4657,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "post_orchi_afp": 1,
     "post_orchi_testosterone": 298,
     "radiation_treatment_adjuvant": true,
@@ -4846,8 +4676,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "VF",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "VF"
   },
   {
     "patient_ID": "TCGA.VF.A8AB",
@@ -4861,8 +4690,8 @@
     "history_fertility": "DID NOT ATTEMPT TO REPRODUCE",
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "GRANDFATHER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "history_family_cancer_relationship": "GRANDFATHER;GRANDMOTHER",
+    "family_history_cancer_type": "BREAST CANCER;THROAT CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -4872,7 +4701,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4883,7 +4712,6 @@
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 2,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
@@ -4900,8 +4728,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 184,
-    "tissue_source_site_code": "VF",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "VF"
   },
   {
     "patient_ID": "TCGA.VF.A8AC",
@@ -4916,8 +4743,8 @@
     "family_history_testicular_cancer": true,
     "relation_testicular_cancer": "UNCLE",
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "GRANDMOTHER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "history_family_cancer_relationship": "GRANDMOTHER;OTHER",
+    "family_history_cancer_type": "BREAST CANCER;LYMPHOMA",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -4928,7 +4755,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -4939,7 +4766,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 3,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
@@ -4959,8 +4785,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 120,
-    "tissue_source_site_code": "VF",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "VF"
   },
   {
     "patient_ID": "TCGA.VF.A8AD",
@@ -4983,10 +4808,10 @@
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
     "testis_tumor_microextent": "RETE TESTIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "95|5",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -4997,7 +4822,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 8,
     "pre_orchi_afp": 4.4,
     "post_orchi_ldh": 160,
@@ -5020,8 +4844,7 @@
     "icd_3_histology": "9070/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
-    "tissue_source_site_code": "VF",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "VF"
   },
   {
     "patient_ID": "TCGA.VF.A8AE",
@@ -5036,7 +4859,7 @@
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
     "history_family_cancer_relationship": "MOTHER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "family_history_cancer_type": "BREAST CANCER;COLON CANCER;PANCREATIC CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -5047,7 +4870,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -5058,7 +4881,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "post_orchi_lymph_node_dissection": "NO",
@@ -5076,8 +4898,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 175,
-    "tissue_source_site_code": "VF",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "VF"
   },
   {
     "patient_ID": "TCGA.W4.A7U2",
@@ -5099,10 +4920,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE",
+    "histologic_diagnosis": "NON-SEMINOMA TERATOMA MATURE;SEMINOMA",
     "histologic_diagnosis_percent": "50|45|5",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -5111,7 +4932,6 @@
     "stage_S": "S1A",
     "stage_T.1": "T1",
     "stage_N.1": "NX",
-    "serum_markers": "S0",
     "pre_orchi_afp": 14.79,
     "post_orchi_ldh": 452,
     "post_orchi_afp": 3.27,
@@ -5133,8 +4953,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 631,
-    "tissue_source_site_code": "W4",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "W4"
   },
   {
     "patient_ID": "TCGA.W4.A7U3",
@@ -5154,10 +4973,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA;NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "60|[NOT AVAILABLE]|20|10|10",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -5166,7 +4985,6 @@
     "stage_S": "IS",
     "stage_T.1": "T1",
     "stage_N.1": "NX",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 756,
     "pre_orchi_afp": 2308,
     "post_orchi_ldh": 466,
@@ -5189,8 +5007,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 678,
-    "tissue_source_site_code": "W4",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "W4"
   },
   {
     "patient_ID": "TCGA.W4.A7U4",
@@ -5213,7 +5030,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "99|[NOT AVAILABLE]",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -5223,7 +5040,6 @@
     "stage_T.1": "T2",
     "stage_N.1": "NX",
     "stage_M.1": "M0",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 9,
     "pre_orchi_afp": 12.07,
     "post_orchi_ldh": 336,
@@ -5246,8 +5062,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 674,
-    "tissue_source_site_code": "W4",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "W4"
   },
   {
     "patient_ID": "TCGA.WZ.A7V3",
@@ -5267,7 +5082,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N0",
@@ -5275,7 +5090,6 @@
     "stage_T.1": "T1",
     "stage_N.1": "NX",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "pre_orchi_hcg": 1.2,
     "pre_orchi_afp": 2.5,
     "post_orchi_hcg": 0.5,
@@ -5292,8 +5106,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "WZ",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "WZ"
   },
   {
     "patient_ID": "TCGA.WZ.A7V4",
@@ -5313,7 +5126,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N0",
@@ -5321,7 +5134,6 @@
     "stage_T.1": "T1",
     "stage_N.1": "NX",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "pre_orchi_hcg": 6.9,
     "pre_orchi_afp": 3.8,
     "post_orchi_hcg": 0.5,
@@ -5338,8 +5150,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "WZ",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "WZ"
   },
   {
     "patient_ID": "TCGA.WZ.A7V5",
@@ -5352,8 +5163,8 @@
     "history_hypospadias": false,
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "MOTHER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "history_family_cancer_relationship": "MOTHER;GRANDFATHER",
+    "family_history_cancer_type": "BREAST CANCER;PROSTATE CANCER;SKIN CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -5361,7 +5172,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N0",
@@ -5369,7 +5180,6 @@
     "stage_T.1": "T2",
     "stage_N.1": "NX",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "pre_orchi_hcg": 1,
     "pre_orchi_afp": 3,
     "new_tumor_event_diagnosis": false,
@@ -5383,8 +5193,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
-    "tissue_source_site_code": "WZ",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "WZ"
   },
   {
     "patient_ID": "TCGA.WZ.A8D5",
@@ -5404,7 +5213,7 @@
     "laterality": "LEFT",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -5413,7 +5222,6 @@
     "stage_T.1": "T3",
     "stage_N.1": "NX",
     "stage_M.1": "M0",
-    "serum_markers": "SX",
     "pre_orchi_hcg": 1.2,
     "pre_orchi_afp": 1.5,
     "post_orchi_hcg": 1.2,
@@ -5431,8 +5239,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 678,
-    "tissue_source_site_code": "WZ",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "WZ"
   },
   {
     "patient_ID": "TCGA.X3.A8G4",
@@ -5446,23 +5253,22 @@
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
     "history_family_cancer_relationship": "FATHER",
-    "family_history_cancer_type": "PROSTATE CANCER",
+    "family_history_cancer_type": "PROSTATE CANCER;SARCOMA",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "40|35|20|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T.1": "T1",
     "stage_N.1": "N0",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 706,
     "pre_orchi_afp": 1026,
     "post_orchi_ldh": 263,
@@ -5485,8 +5291,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 310,
-    "tissue_source_site_code": "X3",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "X3"
   },
   {
     "patient_ID": "TCGA.XE.A8H1",
@@ -5509,7 +5314,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -5520,7 +5325,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 72,
     "pre_orchi_afp": 8.6,
     "post_orchi_ldh": 1303,
@@ -5545,8 +5349,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 455,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.A8H4",
@@ -5561,7 +5364,7 @@
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
     "history_family_cancer_relationship": "OTHER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "family_history_cancer_type": "BREAST CANCER;LYMPHOMA;PROSTATE CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -5571,7 +5374,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -5582,7 +5385,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 5,
     "post_orchi_ldh": 211,
     "post_orchi_afp": 5,
@@ -5604,8 +5406,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 465,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.A8H5",
@@ -5626,7 +5427,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -5637,7 +5438,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 5,
     "pre_orchi_afp": 4,
     "post_orchi_ldh": 162,
@@ -5660,8 +5460,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 577,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.A9SE",
@@ -5684,7 +5483,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -5695,7 +5494,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 2,
     "post_orchi_ldh": 136,
     "post_orchi_afp": 2,
@@ -5717,8 +5515,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 250,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AANI",
@@ -5740,10 +5537,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "85|10|5",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -5754,7 +5551,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_afp": 44,
     "post_orchi_ldh": 170,
     "post_orchi_afp": 39,
@@ -5776,8 +5572,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 216,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AANJ",
@@ -5797,11 +5592,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES EXTRATESTICULAR STRUCTURES: SPERMATIC CORD",
-    "testis_tumor_microextent": "SPERMATIC CORD",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -5812,7 +5606,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 16,
     "pre_orchi_afp": 1,
     "post_orchi_ldh": 662,
@@ -5837,8 +5630,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 982,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AANR",
@@ -5858,7 +5650,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -5869,7 +5661,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "pre_orchi_hcg": 2.2,
     "pre_orchi_afp": 2.9,
     "pharmaceutical_tx_adjuvant": false,
@@ -5884,8 +5675,7 @@
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AANV",
@@ -5899,7 +5689,7 @@
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
     "history_family_cancer_relationship": "MOTHER",
-    "family_history_cancer_type": "OVARIAN CANCER",
+    "family_history_cancer_type": "OVARIAN CANCER;PANCREATIC CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -5909,7 +5699,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -5920,7 +5710,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "pre_orchi_afp": 24.4,
     "post_orchi_ldh": 162,
     "post_orchi_afp": 27.2,
@@ -5943,8 +5732,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 209,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AAO3",
@@ -5964,7 +5752,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -5975,7 +5763,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "pre_orchi_afp": 1.4,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
@@ -5992,8 +5779,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 307,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AAO4",
@@ -6011,7 +5797,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -6022,7 +5808,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 5.2,
     "post_orchi_ldh": 217,
     "post_orchi_afp": 7.6,
@@ -6044,8 +5829,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 154,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AAO6",
@@ -6066,7 +5850,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -6077,7 +5861,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 46,
     "pre_orchi_afp": 2.4,
     "post_orchi_ldh": 177,
@@ -6100,8 +5883,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 219,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AAOB",
@@ -6123,10 +5905,10 @@
     "postoperative_tx": "NONE",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA;NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "5|30|5|30|30",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -6137,7 +5919,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 479,
     "pre_orchi_afp": 152.1,
     "post_orchi_ldh": 338,
@@ -6162,8 +5943,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 109,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AAOC",
@@ -6180,10 +5960,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA TERATOMA IMMATURE",
+    "histologic_diagnosis": "NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "49|50|1",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -6194,7 +5974,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 150.2,
     "post_orchi_ldh": 139,
     "post_orchi_afp": 2.8,
@@ -6216,8 +5995,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 137,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AAOD",
@@ -6239,10 +6017,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA;SEMINOMA",
     "histologic_diagnosis_percent": "80|20",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T2",
@@ -6253,7 +6031,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 821.8,
     "pre_orchi_afp": 3.4,
     "post_orchi_ldh": 138,
@@ -6278,8 +6055,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 206,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AAOF",
@@ -6302,7 +6078,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -6313,7 +6089,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 54.4,
     "pre_orchi_afp": 1.5,
     "post_orchi_ldh": 118,
@@ -6338,8 +6113,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 348,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AAOJ",
@@ -6358,10 +6132,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA TERATOMA IMMATURE",
+    "histologic_diagnosis": "NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA TERATOMA MATURE;NON-SEMINOMA YOLK SAC;SEMINOMA",
     "histologic_diagnosis_percent": "10|50|20|20",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -6372,7 +6146,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 6.7,
     "pre_orchi_afp": 2177,
     "post_orchi_ldh": 158,
@@ -6397,8 +6170,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 185,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XE.AAOL",
@@ -6420,7 +6192,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_T": "T1",
@@ -6431,7 +6203,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "pre_orchi_hcg": 24.3,
     "pre_orchi_afp": 0.9,
     "days_to_birth": -14230,
@@ -6445,8 +6216,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 1282,
-    "tissue_source_site_code": "XE",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XE"
   },
   {
     "patient_ID": "TCGA.XY.A89B",
@@ -6459,7 +6229,7 @@
     "history_hypospadias": false,
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "FATHER",
+    "history_family_cancer_relationship": "FATHER;GRANDFATHER",
     "family_history_cancer_type": "LARYNX",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
@@ -6469,7 +6239,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "75",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -6480,7 +6250,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 3.7,
     "post_orchi_ldh": 209,
     "post_orchi_afp": 3.8,
@@ -6497,8 +6266,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 201,
-    "tissue_source_site_code": "XY",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XY"
   },
   {
     "patient_ID": "TCGA.XY.A8S2",
@@ -6521,7 +6289,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100|[NOT AVAILABLE]|[NOT AVAILABLE]|[NOT AVAILABLE]",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -6532,7 +6300,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1",
-    "serum_markers": "SX",
     "pre_orchi_hcg": 158,
     "pre_orchi_afp": 6.5,
     "post_orchi_ldh": 415,
@@ -6550,8 +6317,7 @@
     "icd_3_histology": "9070/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
-    "tissue_source_site_code": "XY",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XY"
   },
   {
     "patient_ID": "TCGA.XY.A8S3",
@@ -6572,10 +6338,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA CHORIOCARCINOMA;NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "80|15|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -6586,7 +6352,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_afp": 96.9,
     "post_orchi_afp": 27.1,
     "new_tumor_event_diagnosis": false,
@@ -6602,8 +6367,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 165,
-    "tissue_source_site_code": "XY",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XY"
   },
   {
     "patient_ID": "TCGA.XY.A9T9",
@@ -6620,11 +6384,10 @@
     "postoperative_tx": "RADIATION",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES EXTRATESTICULAR STRUCTURES: EPIDIDYMIS",
-    "testis_tumor_microextent": "EPIDIDYMIS",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -6635,7 +6398,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 7,
     "pre_orchi_afp": 3.1,
     "post_orchi_ldh": 184,
@@ -6654,8 +6416,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 221,
-    "tissue_source_site_code": "XY",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "XY"
   },
   {
     "patient_ID": "TCGA.YU.A90P",
@@ -6678,7 +6439,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_N": "N0",
@@ -6686,7 +6447,6 @@
     "stage_S": "S1A",
     "stage_T.1": "T1",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 57,
     "pre_orchi_afp": 124.2,
     "post_orchi_ldh": 257,
@@ -6708,8 +6468,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 463,
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.YU.A90Q",
@@ -6731,7 +6490,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "6TH",
     "stage_N": "N0",
@@ -6739,7 +6498,6 @@
     "stage_S": "S1B",
     "stage_T.1": "T2",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 18.5,
     "pre_orchi_afp": 2.6,
     "post_orchi_ldh": 525,
@@ -6762,8 +6520,7 @@
     "icd_10": "C62.9",
     "icd_3_histology": "9061/3",
     "icd_3": "C62.9",
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.YU.A90S",
@@ -6785,7 +6542,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N0",
@@ -6793,7 +6550,6 @@
     "stage_S": "S1A",
     "stage_T.1": "T1",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_afp": 1.13,
     "post_orchi_ldh": 413,
     "post_orchi_afp": 0.83,
@@ -6815,8 +6571,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 237,
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.YU.A90W",
@@ -6841,7 +6596,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N0",
@@ -6849,7 +6604,6 @@
     "stage_S": "S1A",
     "stage_T.1": "T1",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 0.71,
     "pre_orchi_afp": 3.1,
     "post_orchi_ldh": 268,
@@ -6873,8 +6627,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 607,
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.YU.A90Y",
@@ -6894,11 +6647,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "testis_tumor_microextent": "SPERMATIC CORD",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "95|5",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N3",
@@ -6906,7 +6658,6 @@
     "stage_S": "S3C",
     "stage_T.1": "T3",
     "stage_S.1": "S3C",
-    "serum_markers": "S3",
     "pre_orchi_hcg": 89796,
     "pre_orchi_afp": 7263,
     "radiation_treatment_adjuvant": false,
@@ -6926,8 +6677,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 1401,
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.YU.A912",
@@ -6953,7 +6703,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "OTHER",
     "pathologic_method.1": "LAPAROTOMY",
     "ajcc_staging_edition": "7TH",
@@ -6962,7 +6712,6 @@
     "stage_S": "S3C",
     "stage_T.1": "T1",
     "stage_S.1": "S3C",
-    "serum_markers": "S3",
     "pre_orchi_hcg": 41.1,
     "pre_orchi_afp": 3.95,
     "radiation_treatment_adjuvant": false,
@@ -6983,8 +6732,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 7374,
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.YU.A94D",
@@ -7002,11 +6750,11 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "RIGHT",
     "testis_tumor_macroextent": "INVOLVES EXTRATESTICULAR STRUCTURES: OTHER",
-    "testis_tumor_macroextent_other": "EPIDIDYMIS",
+    "testis_tumor_macroextent_other": "EPIDIDYMIS;SPERMATIC CORD;TUNICA VAGINALIS",
     "histologic_diagnosis": "NON-SEMINOMA TERATOMA IMMATURE",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N0",
@@ -7014,7 +6762,6 @@
     "stage_S": "S3B",
     "stage_T.1": "T3",
     "stage_S.1": "S3B",
-    "serum_markers": "S2",
     "pre_orchi_hcg": 0.49,
     "pre_orchi_afp": 108,
     "post_orchi_ldh": 1319,
@@ -7039,8 +6786,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 1378,
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.YU.A94I",
@@ -7057,10 +6803,10 @@
     "postoperative_tx": "NONE",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "5|95",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N0",
@@ -7068,7 +6814,6 @@
     "stage_S": "S1A",
     "stage_T.1": "T1",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 13.2,
     "pre_orchi_afp": 5972,
     "post_orchi_ldh": 313,
@@ -7091,8 +6836,7 @@
     "icd_3_histology": "9071/3",
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.YU.AA4L",
@@ -7115,7 +6859,7 @@
     "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N3",
@@ -7123,7 +6867,6 @@
     "stage_S": "S3C",
     "stage_T.1": "T1",
     "stage_S.1": "S3C",
-    "serum_markers": "S3",
     "pre_orchi_hcg": 9.7,
     "pre_orchi_afp": 37.822,
     "radiation_treatment_adjuvant": false,
@@ -7144,8 +6887,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 1065,
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.YU.AA61",
@@ -7164,10 +6906,10 @@
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES TESTIS ONLY",
     "testis_tumor_microextent": "RETE TESTIS",
-    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA",
+    "histologic_diagnosis": "NON-SEMINOMA EMBRYONAL CARCINOMA;NON-SEMINOMA TERATOMA IMMATURE;NON-SEMINOMA YOLK SAC",
     "histologic_diagnosis_percent": "25|25|50",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_N": "N0",
@@ -7175,7 +6917,6 @@
     "stage_S": "IS",
     "stage_T.1": "T1",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 178.5,
     "pre_orchi_afp": 6055,
     "post_orchi_ldh": 381,
@@ -7200,8 +6941,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 398,
-    "tissue_source_site_code": "YU",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "YU"
   },
   {
     "patient_ID": "TCGA.ZM.AA05",
@@ -7220,11 +6960,10 @@
     "postoperative_tx": "PHARMACEUTICAL",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES EXTRATESTICULAR STRUCTURES: TUNICA ALBUGINEA",
-    "testis_tumor_microextent": "EPIDIDYMIS",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -7235,7 +6974,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S2C",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 24.9,
     "pre_orchi_afp": 3.85,
     "post_orchi_ldh": 329,
@@ -7262,8 +7000,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 407,
-    "tissue_source_site_code": "ZM",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "ZM"
   },
   {
     "patient_ID": "TCGA.ZM.AA06",
@@ -7287,7 +7024,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -7298,7 +7035,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 6397,
     "pre_orchi_afp": 5.54,
     "post_orchi_ldh": 162,
@@ -7323,8 +7059,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 192,
-    "tissue_source_site_code": "ZM",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "ZM"
   },
   {
     "patient_ID": "TCGA.ZM.AA0B",
@@ -7347,7 +7082,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -7358,7 +7093,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 2.9,
     "pre_orchi_afp": 6.21,
     "post_orchi_ldh": 160,
@@ -7382,8 +7116,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 139,
-    "tissue_source_site_code": "ZM",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "ZM"
   },
   {
     "patient_ID": "TCGA.ZM.AA0D",
@@ -7408,7 +7141,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -7419,7 +7152,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 0,
     "pre_orchi_afp": 3,
     "post_orchi_ldh": 166,
@@ -7443,8 +7175,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 163,
-    "tissue_source_site_code": "ZM",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "ZM"
   },
   {
     "patient_ID": "TCGA.ZM.AA0E",
@@ -7459,7 +7190,7 @@
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
     "history_family_cancer_relationship": "OTHER",
-    "family_history_cancer_type": "BREAST CANCER",
+    "family_history_cancer_type": "BREAST CANCER;LEUKEMIA",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
@@ -7472,7 +7203,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -7483,7 +7214,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 0,
     "pre_orchi_afp": 2.06,
     "post_orchi_ldh": 153,
@@ -7509,8 +7239,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 170,
-    "tissue_source_site_code": "ZM",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "ZM"
   },
   {
     "patient_ID": "TCGA.ZM.AA0F",
@@ -7534,7 +7263,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T1",
@@ -7545,7 +7274,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1A",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 0,
     "pre_orchi_afp": 2,
     "post_orchi_ldh": 174,
@@ -7569,8 +7297,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": false,
     "pre_orchi_ldh": 236,
-    "tissue_source_site_code": "ZM",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "ZM"
   },
   {
     "patient_ID": "TCGA.ZM.AA0H",
@@ -7584,19 +7311,18 @@
     "history_fertility": "FATHERED > OR = 1 CHILD BY NATURAL CONCEPTION",
     "family_history_testicular_cancer": false,
     "family_history_other_cancer": true,
-    "history_family_cancer_relationship": "FATHER",
-    "family_history_cancer_type": "LUNG CANCER",
+    "history_family_cancer_relationship": "FATHER;GRANDFATHER;GRANDMOTHER",
+    "family_history_cancer_type": "LUNG CANCER;STOMACH CANCER",
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "postoperative_tx": "RADIATION",
     "laterality": "LEFT",
     "testis_tumor_macroextent": "INVOLVES EXTRATESTICULAR STRUCTURES: SPERMATIC CORD",
-    "testis_tumor_microextent": "SPERMATIC CORD",
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "ABSENT",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T3",
@@ -7607,7 +7333,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "IS",
-    "serum_markers": "S1",
     "pre_orchi_hcg": 8.13,
     "pre_orchi_afp": 2.46,
     "post_orchi_ldh": 128,
@@ -7631,8 +7356,7 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 280,
-    "tissue_source_site_code": "ZM",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "ZM"
   },
   {
     "patient_ID": "TCGA.ZM.AA0N",
@@ -7657,7 +7381,7 @@
     "histologic_diagnosis": "SEMINOMA",
     "histologic_diagnosis_percent": "100",
     "intratubular_germ_cell_neoplasm": "PRESENT",
-    "diagnosis_year": "01/01/2013",
+    "diagnosis_year": 1357027200,
     "pathologic_method": "ORCHIECTOMY",
     "ajcc_staging_edition": "7TH",
     "stage_T": "T2",
@@ -7668,7 +7392,6 @@
     "stage_N.1": "NX",
     "stage_M.1": "M0",
     "stage_S.1": "S1B",
-    "serum_markers": "S0",
     "pre_orchi_hcg": 0,
     "pre_orchi_afp": 1.63,
     "post_orchi_ldh": 221,
@@ -7692,7 +7415,6 @@
     "icd_3": "C62.9",
     "lymphovascular_invasion": true,
     "pre_orchi_ldh": 461,
-    "tissue_source_site_code": "ZM",
-    "tumor_tissue_site": "TESTES"
+    "tissue_source_site_code": "ZM"
   }
 ]

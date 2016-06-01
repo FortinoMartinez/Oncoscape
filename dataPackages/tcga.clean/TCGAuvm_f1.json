@@ -146,7 +146,6 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "cause_of_death": "METASTATIC UVEAL MELANOMA",
     "new_tumor_event_diagnosis": true,
     "days_to_death": 389
   },
@@ -317,7 +316,6 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "cause_of_death": "METASTATIC UVEAL MELANOMA",
     "new_tumor_event_diagnosis": true,
     "days_to_death": 1269
   },
@@ -388,7 +386,6 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "cause_of_death": "METASTATIC UVEAL MELANOMA",
     "new_tumor_event_diagnosis": false,
     "days_to_death": 945
   },
@@ -543,7 +540,6 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "cause_of_death": "METASTATIC UVEAL MELANOMA",
     "new_tumor_event_diagnosis": true,
     "days_to_death": 1377
   },
@@ -658,7 +654,6 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "cause_of_death": "METASTATIC UVEAL MELANOMA",
     "new_tumor_event_diagnosis": true,
     "days_to_death": 1113
   },
@@ -759,7 +754,6 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "cause_of_death": "METASTATIC UVEAL MELANOMA",
     "new_tumor_event_diagnosis": true,
     "days_to_death": 606
   },
@@ -790,7 +784,6 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
-    "cause_of_death": "METASTATIC UVEAL MELANOMA",
     "new_tumor_event_diagnosis": true,
     "days_to_death": 636
   },
@@ -890,7 +883,6 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
-    "cause_of_death": "METASTATIC UVEAL MELANOMA",
     "new_tumor_event_diagnosis": false,
     "days_to_death": 1314
   },
@@ -1121,7 +1113,6 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "cause_of_death": "METASTATIC UVEAL MELANOMA",
     "new_tumor_event_diagnosis": false,
     "days_to_death": 1396
   },

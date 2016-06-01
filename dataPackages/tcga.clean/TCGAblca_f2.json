@@ -31,7 +31,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2787,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -43,7 +43,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2855,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -55,7 +55,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2886,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -67,7 +67,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 3148,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -79,7 +79,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 3183,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -91,7 +91,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 3215,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -103,7 +103,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 3283,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -115,7 +115,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 3314,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -139,7 +139,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 405,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -151,7 +151,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 495,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -162,7 +162,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_vital": "DEAD",
     "days_to_death": 1367,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE"
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.4Z.AA7O",
@@ -172,7 +172,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 399,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -184,7 +184,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 512,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -196,7 +196,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 522,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -208,7 +208,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 840,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": false
   },
@@ -220,7 +220,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1494,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -232,7 +232,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1522,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -244,7 +244,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 1270,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -256,7 +256,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 1556,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
   },
   {
@@ -267,7 +267,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1943,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -279,7 +279,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2024,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -291,7 +291,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2024,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -307,7 +307,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 311,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": false
   },
@@ -330,7 +330,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 902,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -363,7 +363,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 377,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -451,7 +451,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 455,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -471,7 +471,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 254,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -494,7 +494,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 522,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -506,7 +506,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 492,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -530,7 +530,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 390,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -542,7 +542,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 789,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -578,7 +578,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 873,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -590,7 +590,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 738,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -602,7 +602,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1108,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -614,7 +614,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 864,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -626,7 +626,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 273,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -655,7 +655,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 389,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -667,7 +667,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 382,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -679,7 +679,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 425,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -691,7 +691,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 383,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -703,7 +703,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 369,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -715,7 +715,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 398,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -727,7 +727,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 370,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -739,7 +739,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 333,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -751,7 +751,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 205,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -763,7 +763,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 385,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -775,7 +775,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 379,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -787,7 +787,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 368,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -799,7 +799,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 384,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -811,7 +811,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 373,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -823,7 +823,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 399,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -835,7 +835,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 365,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -847,7 +847,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 368,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -859,7 +859,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 345,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -871,7 +871,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 345,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -883,7 +883,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 361,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -895,7 +895,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 565,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -907,7 +907,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 398,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -919,7 +919,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 460,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -941,7 +941,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE"
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.CU.A3YL",
@@ -951,7 +951,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 496,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": true
   },
@@ -963,7 +963,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 906,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": true
   },
@@ -975,7 +975,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 413,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -993,7 +993,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2020,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1016,7 +1016,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 546,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1028,7 +1028,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 237,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1040,7 +1040,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 4343,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1052,7 +1052,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2656,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1062,7 +1062,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 67,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE"
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.DK.A3IK",
@@ -1075,7 +1075,7 @@
     "followup_lost_to": false,
     "status_vital": "DEAD",
     "days_to_death": 413,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE"
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.DK.A3IM",
@@ -1083,7 +1083,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 238,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1101,7 +1101,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 250,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1113,7 +1113,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 539,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1125,7 +1125,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1529,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1137,7 +1137,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 459,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1149,7 +1149,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 648,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1161,7 +1161,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 609,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1173,7 +1173,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 706,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1197,7 +1197,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 497,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1209,7 +1209,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 633,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1233,7 +1233,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 4283,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1245,7 +1245,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 4967,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1257,7 +1257,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1460,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1269,7 +1269,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2009,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1281,7 +1281,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 547,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1293,7 +1293,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1952,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1305,7 +1305,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1264,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1317,7 +1317,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1621,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1329,7 +1329,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2330,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1341,7 +1341,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2049,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1353,7 +1353,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 477,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1365,7 +1365,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1249,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1377,7 +1377,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1542,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1389,7 +1389,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 933,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1401,7 +1401,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1115,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1413,7 +1413,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1582,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1437,7 +1437,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 5050,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": true
   },
@@ -1449,7 +1449,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 572,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1461,7 +1461,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 578,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1485,7 +1485,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 467,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1497,7 +1497,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1708,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1521,7 +1521,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1326,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1533,7 +1533,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1181,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1545,7 +1545,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 407,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1557,7 +1557,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 750,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
     "new_tumor_event_diagnosis": false
   },
@@ -1569,7 +1569,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 904,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
     "new_tumor_event_diagnosis": false
   },
@@ -1581,7 +1581,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 163,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1593,7 +1593,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 408,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1605,7 +1605,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 674,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1617,7 +1617,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 68,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1629,7 +1629,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 508,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1641,7 +1641,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 529,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1652,7 +1652,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_vital": "DEAD",
     "days_to_death": 778,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -1671,7 +1671,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 443,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1683,7 +1683,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 820,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1695,7 +1695,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 425,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1707,7 +1707,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 798,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1723,7 +1723,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 395,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1735,7 +1735,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 731,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1746,7 +1746,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 436,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1757,7 +1757,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 750,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1777,7 +1777,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 416,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": true
   },
@@ -1799,7 +1799,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 394,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1810,7 +1810,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 466,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1825,7 +1825,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_vital": "DEAD",
     "days_to_death": 437,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -1848,7 +1848,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 392,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1860,7 +1860,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 974,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1872,7 +1872,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 477,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -1884,7 +1884,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 510,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE"
   },
   {
@@ -1917,7 +1917,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 209,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1928,7 +1928,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_vital": "DEAD",
     "days_to_death": 1005,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE"
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.FD.A3B7",
@@ -1950,7 +1950,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 378,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -1961,7 +1961,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_vital": "ALIVE",
     "days_to_last_contact": 384,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE"
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.FD.A3N5",
@@ -1993,7 +1993,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 483,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2005,7 +2005,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 851,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2017,7 +2017,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1338,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2029,7 +2029,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1397,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": true
   },
@@ -2041,7 +2041,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1845,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2134,7 +2134,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 401,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2146,7 +2146,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 783,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2207,7 +2207,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 454,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2219,7 +2219,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 832,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2231,7 +2231,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 455,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2243,7 +2243,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 454,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2255,7 +2255,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 636,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -2267,7 +2267,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 110,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2279,7 +2279,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 110,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2291,7 +2291,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 369,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2302,7 +2302,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_vital": "DEAD",
     "days_to_death": 474,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -2313,7 +2313,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 656,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2325,7 +2325,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 813,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2348,7 +2348,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1639,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2360,7 +2360,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 476,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2372,7 +2372,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 588,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2384,7 +2384,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 251,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2395,7 +2395,7 @@
     "pharmaceutical_tx_adjuvant": true,
     "status_vital": "ALIVE",
     "days_to_last_contact": 407,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false
   },
   {
@@ -2406,7 +2406,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 550,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -2429,7 +2429,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1792,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2439,7 +2439,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 82,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2494,7 +2494,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 572,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2506,7 +2506,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 187,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2560,7 +2560,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 131,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -2580,7 +2580,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 330,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2592,7 +2592,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 945,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2604,7 +2604,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 385,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2628,7 +2628,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 524,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2664,7 +2664,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 337,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2677,7 +2677,7 @@
     "status_vital": "DEAD",
     "days_to_last_contact": 679,
     "days_to_death": 696,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -2689,7 +2689,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1884,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2701,7 +2701,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 931,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -2749,7 +2749,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1072,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2761,7 +2761,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 1804,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2821,7 +2821,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2008,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2833,7 +2833,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1960,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2845,7 +2845,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2139,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2857,7 +2857,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 893,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2893,7 +2893,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 481,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2905,7 +2905,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 582,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2917,7 +2917,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 484,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2929,7 +2929,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 428,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2941,7 +2941,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 540,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2953,7 +2953,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 758,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2965,7 +2965,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 272,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -2977,7 +2977,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 423,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3020,7 +3020,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 67,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -3048,7 +3048,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 344,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3120,7 +3120,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 610,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3156,7 +3156,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 434,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -3180,7 +3180,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 581,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3227,7 +3227,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_vital": "ALIVE",
     "days_to_last_contact": 322,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3239,7 +3239,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1110,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -3275,7 +3275,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 428,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3299,7 +3299,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 691,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3311,7 +3311,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 46,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -3322,7 +3322,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 590,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -3342,7 +3342,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1947,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": true
   },
@@ -3366,7 +3366,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 370,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -3378,7 +3378,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 761,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3405,7 +3405,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "days_to_last_contact": 84,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE"
   },
   {
@@ -3416,7 +3416,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 278,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -3428,7 +3428,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 842,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3461,7 +3461,7 @@
     "followup_lost_to": false,
     "status_vital": "ALIVE",
     "days_to_last_contact": 53,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -3469,7 +3469,7 @@
     "followup_lost_to": false,
     "status_vital": "ALIVE",
     "days_to_last_contact": 539,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -3486,7 +3486,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 469,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3517,7 +3517,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 466,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3529,7 +3529,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 466,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3541,7 +3541,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 474,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3553,7 +3553,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 641,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3565,7 +3565,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 410,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3592,7 +3592,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 503,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3604,7 +3604,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 503,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3616,7 +3616,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 378,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3636,7 +3636,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 1008,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3648,7 +3648,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 960,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3660,7 +3660,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1186,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3669,7 +3669,7 @@
     "followup_lost_to": false,
     "status_vital": "DEAD",
     "days_to_death": 536,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -3700,7 +3700,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 2641,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -3712,7 +3712,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2312,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3724,7 +3724,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2380,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3736,7 +3736,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2109,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -3747,7 +3747,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 92,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -3759,7 +3759,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 3432,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3771,7 +3771,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 119,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3783,7 +3783,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 899,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3795,7 +3795,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 542,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3806,7 +3806,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 189,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -3817,7 +3817,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 117,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
   },
   {
@@ -3828,7 +3828,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1561,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3840,7 +3840,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1370,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3852,7 +3852,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2964,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3864,7 +3864,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 3817,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3876,7 +3876,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
     "days_to_death": 2954,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3888,7 +3888,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1479,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3900,7 +3900,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2423,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3912,7 +3912,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1048,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3936,7 +3936,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 799,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3956,7 +3956,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2027,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": true
   },
@@ -3974,7 +3974,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 3364,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3986,7 +3986,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2177,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -3998,7 +3998,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2790,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4010,7 +4010,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 3011,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": true
   },
@@ -4022,7 +4022,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2625,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4034,7 +4034,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2293,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4046,7 +4046,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 573,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4058,7 +4058,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 293,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4105,7 +4105,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 773,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -4116,7 +4116,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4128,7 +4128,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
     "days_to_death": 949,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "PROGRESSIVE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -4139,7 +4139,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4151,7 +4151,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1090,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4163,7 +4163,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 665,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4175,7 +4175,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2868,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4187,7 +4187,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1949,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4199,7 +4199,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1786,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -4211,7 +4211,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2703,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": true
   },
@@ -4223,7 +4223,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1455,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4235,7 +4235,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1806,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4245,7 +4245,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true
   },
   {
@@ -4255,7 +4255,7 @@
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2044,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "STABLE DISEASE",
     "new_tumor_event_diagnosis": true
   },
@@ -4267,7 +4267,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1714,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4279,7 +4279,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1761,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4291,7 +4291,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1649,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   },
@@ -4314,7 +4314,7 @@
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 372,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE",
     "new_tumor_event_diagnosis": false
   }

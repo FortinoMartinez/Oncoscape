@@ -242,7 +242,7 @@
   },
   {
     "patient_ID": "TCGA.22.5472",
-    "drug_therapy_name": "CYCLOPHASPHAMIDE;DOXORUBICIN;VINCRISTINE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN;VINCRISTINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 1778,
     "pharmaceutical_tx_ongoing": false,
@@ -1414,7 +1414,7 @@
   },
   {
     "patient_ID": "TCGA.43.5668",
-    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "drug_therapy_name": "RECMAGE3",
     "pharmaceutical_therapy_type.1": "VACCINE",
     "days_to_drug_start": 83,
     "pharmaceutical_tx_ongoing": false,
@@ -1464,7 +1464,7 @@
   },
   {
     "patient_ID": "TCGA.43.6143",
-    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "drug_therapy_name": "RECMAGE3",
     "pharmaceutical_therapy_type.1": "OTHER",
     "days_to_drug_start": 110,
     "pharmaceutical_tx_ongoing": true,
@@ -1498,7 +1498,7 @@
   },
   {
     "patient_ID": "TCGA.43.6770",
-    "drug_therapy_name": "RECPRAME;AS15 ASCI",
+    "drug_therapy_name": "AS15 ASCI;RECPRAME",
     "pharmaceutical_therapy_type": "IMMUNOTHERAPY",
     "pharmaceutical_therapy_type.1": "VACCINE",
     "days_to_drug_start": 65,
@@ -1617,7 +1617,7 @@
   },
   {
     "patient_ID": "TCGA.46.3769",
-    "drug_therapy_name": "CISPLATIN",
+    "drug_therapy_name": "CISPLATIN;ETOPOSIDE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 31,
     "drug_units": "MG",

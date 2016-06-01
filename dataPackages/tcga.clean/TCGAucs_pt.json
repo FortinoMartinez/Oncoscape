@@ -19,11 +19,11 @@
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2003",
+    "diagnosis_year": 1041408000,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -47,8 +47,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RA",
@@ -73,7 +72,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "NEGATIVE",
@@ -97,8 +96,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RD",
@@ -123,7 +121,7 @@
     "status_vital": "DEAD",
     "treatment_outcome_first_course": "PROGRESSIVE DISEASE",
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "DILATION AND CURETTAGE",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "POSITIVE",
@@ -148,8 +146,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R2",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RF",
@@ -171,11 +168,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "NEGATIVE",
@@ -200,8 +197,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RJ",
@@ -224,11 +220,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "DILATION AND CURETTAGE",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "POSITIVE",
@@ -253,8 +249,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RM",
@@ -281,7 +276,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "POSITIVE",
@@ -306,8 +301,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RN",
@@ -330,11 +324,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "percent_tumor_invasion": 28,
@@ -358,8 +352,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RO",
@@ -382,7 +375,7 @@
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2002",
+    "diagnosis_year": 1009872000,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "NEGATIVE",
@@ -407,8 +400,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RS",
@@ -431,11 +423,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -460,8 +452,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RT",
@@ -481,11 +472,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -507,8 +498,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RU",
@@ -531,11 +521,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "POSITIVE",
@@ -560,8 +550,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A4RV",
@@ -582,11 +571,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2008",
+    "diagnosis_year": 1199174400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -611,8 +600,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A59E",
@@ -634,11 +622,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "percent_tumor_invasion": 71,
@@ -662,8 +650,7 @@
     "icd_3": "C54.2",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N5.A59F",
@@ -685,11 +672,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "CYTOLOGY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "POSITIVE",
@@ -714,8 +701,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N5",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N5"
   },
   {
     "patient_ID": "TCGA.N6.A4V9",
@@ -733,11 +719,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "TUMOR RESECTION",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "NEGATIVE",
@@ -758,8 +744,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N6",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N6"
   },
   {
     "patient_ID": "TCGA.N6.A4VC",
@@ -783,7 +768,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "DILATION AND CURETTAGE",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "POSITIVE",
@@ -803,8 +788,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R2",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N6",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N6"
   },
   {
     "patient_ID": "TCGA.N6.A4VD",
@@ -825,7 +809,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "surgical_approach_at_diagnosis": "OPEN",
     "count_lymph_nodes_pelvic_examined": 2,
     "lymph_nodes_pelvic_pos_by_he": 0,
@@ -841,8 +825,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N6",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N6"
   },
   {
     "patient_ID": "TCGA.N6.A4VE",
@@ -864,7 +847,7 @@
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "pathologic_method": "CORE NEEDLE BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -884,8 +867,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R1",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N6",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N6"
   },
   {
     "patient_ID": "TCGA.N6.A4VF",
@@ -908,7 +890,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "CYTOLOGY",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "NEGATIVE",
@@ -926,8 +908,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N6",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N6"
   },
   {
     "patient_ID": "TCGA.N6.A4VG",
@@ -948,11 +929,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "POSITIVE",
@@ -971,8 +952,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R1",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N6",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N6"
   },
   {
     "patient_ID": "TCGA.N7.A4Y0",
@@ -993,7 +973,7 @@
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2003",
+    "diagnosis_year": 1041408000,
     "pathologic_method": "TUMOR RESECTION",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "NEGATIVE",
@@ -1017,8 +997,7 @@
     "icd_3_histology": "8950/3",
     "icd_3": "C54.1",
     "ajcc_staging_edition": "1988",
-    "tissue_source_site_code": "N7",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N7"
   },
   {
     "patient_ID": "TCGA.N7.A4Y5",
@@ -1040,7 +1019,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "pathologic_method": "TUMOR RESECTION",
     "surgical_approach_at_diagnosis": "OPEN",
     "percent_tumor_invasion": 100,
@@ -1057,8 +1036,7 @@
     "icd_3_histology": "8950/3",
     "icd_3": "C54.1",
     "ajcc_staging_edition": "1988",
-    "tissue_source_site_code": "N7",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N7"
   },
   {
     "patient_ID": "TCGA.N7.A4Y8",
@@ -1080,11 +1058,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "TUMOR RESECTION",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "POSITIVE",
@@ -1106,8 +1084,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N7",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N7"
   },
   {
     "patient_ID": "TCGA.N7.A59B",
@@ -1129,9 +1106,9 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "TUMOR RESECTION",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "NEGATIVE",
@@ -1156,8 +1133,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N7",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N7"
   },
   {
     "patient_ID": "TCGA.N8.A4PI",
@@ -1177,11 +1153,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -1204,8 +1180,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N8",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N8"
   },
   {
     "patient_ID": "TCGA.N8.A4PL",
@@ -1229,7 +1204,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -1252,8 +1227,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N8",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N8"
   },
   {
     "patient_ID": "TCGA.N8.A4PM",
@@ -1274,11 +1248,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 63,
@@ -1300,8 +1274,7 @@
     "icd_3": "C54.3",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N8",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N8"
   },
   {
     "patient_ID": "TCGA.N8.A4PN",
@@ -1322,11 +1295,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "DILATION AND CURETTAGE",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 33,
@@ -1347,8 +1320,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N8",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N8"
   },
   {
     "patient_ID": "TCGA.N8.A4PO",
@@ -1372,7 +1344,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -1391,8 +1363,7 @@
     "icd_3": "C54.0",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N8",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N8"
   },
   {
     "patient_ID": "TCGA.N8.A4PP",
@@ -1412,11 +1383,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 50,
@@ -1436,8 +1407,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N8",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N8"
   },
   {
     "patient_ID": "TCGA.N8.A4PQ",
@@ -1462,7 +1432,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "INCISIONAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "percent_tumor_invasion": 8,
@@ -1483,8 +1453,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N8",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N8"
   },
   {
     "patient_ID": "TCGA.N8.A56S",
@@ -1507,7 +1476,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "DILATION AND CURETTAGE",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 94,
@@ -1524,8 +1493,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N8",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N8"
   },
   {
     "patient_ID": "TCGA.N9.A4PZ",
@@ -1547,11 +1515,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "pathologic_method": "DILATION AND CURETTAGE",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 22.2,
@@ -1575,8 +1543,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R2",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N9",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N9"
   },
   {
     "patient_ID": "TCGA.N9.A4Q1",
@@ -1599,11 +1566,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2005",
+    "diagnosis_year": 1104566400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 59,
@@ -1627,8 +1594,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N9",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N9"
   },
   {
     "patient_ID": "TCGA.N9.A4Q3",
@@ -1650,11 +1616,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -1679,8 +1645,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N9",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N9"
   },
   {
     "patient_ID": "TCGA.N9.A4Q4",
@@ -1702,9 +1667,9 @@
     "history_other_malignancy": false,
     "history_neoadjuvant_treatment": false,
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 8.3,
@@ -1728,8 +1693,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N9",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N9"
   },
   {
     "patient_ID": "TCGA.N9.A4Q7",
@@ -1751,11 +1715,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "DILATION AND CURETTAGE",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 33,
@@ -1779,8 +1743,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N9",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N9"
   },
   {
     "patient_ID": "TCGA.N9.A4Q8",
@@ -1802,11 +1765,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "DILATION AND CURETTAGE",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 4.2,
@@ -1830,8 +1793,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "N9",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "N9"
   },
   {
     "patient_ID": "TCGA.NA.A4QV",
@@ -1853,11 +1815,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2002",
+    "diagnosis_year": 1009872000,
     "pathologic_method": "DILATION AND CURETTAGE",
     "peritoneal_washing": "NEGATIVE",
     "count_lymph_nodes_pelvic_examined": 16,
@@ -1879,8 +1841,7 @@
     "icd_3_histology": "8090/3",
     "icd_3": "C54.9",
     "residual_tumor": "R2",
-    "ajcc_staging_edition": "2009",
-    "tumor_tissue_site": "UTERUS"
+    "ajcc_staging_edition": "2009"
   },
   {
     "patient_ID": "TCGA.NA.A4QW",
@@ -1903,11 +1864,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "count_lymph_nodes_pelvic_examined": 19,
     "lymph_nodes_pelvic_pos_by_he": 0,
@@ -1927,8 +1888,7 @@
     "icd_10": "C54.9",
     "icd_3_histology": "8950/3",
     "icd_3": "C54.9",
-    "ajcc_staging_edition": "1988",
-    "tumor_tissue_site": "UTERUS"
+    "ajcc_staging_edition": "1988"
   },
   {
     "patient_ID": "TCGA.NA.A4QX",
@@ -1945,7 +1905,7 @@
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "new_tumor_event_diagnosis": true,
     "age_at_initial_pathologic_diagnosis": 60,
     "anatomic_organ_subdivision": "UTERUS",
@@ -1958,8 +1918,7 @@
     "icd_3_histology": "8980/3",
     "icd_3": "C55.9",
     "residual_tumor": "R2",
-    "ajcc_staging_edition": "2009",
-    "tumor_tissue_site": "UTERUS"
+    "ajcc_staging_edition": "2009"
   },
   {
     "patient_ID": "TCGA.NA.A4QY",
@@ -1976,7 +1935,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2009",
+    "diagnosis_year": 1230796800,
     "pathologic_method": "DILATION AND CURETTAGE",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 62,
@@ -1988,8 +1947,7 @@
     "icd_10": "C55",
     "icd_3_histology": "8951/3",
     "icd_3": "C55.9",
-    "ajcc_staging_edition": "2009",
-    "tumor_tissue_site": "UTERUS"
+    "ajcc_staging_edition": "2009"
   },
   {
     "patient_ID": "TCGA.NA.A4R0",
@@ -2013,7 +1971,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2010",
+    "diagnosis_year": 1262332800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "percent_tumor_invasion": 37.5,
@@ -2030,8 +1988,7 @@
     "icd_3_histology": "8980/3",
     "icd_3": "C54.3",
     "residual_tumor": "R2",
-    "ajcc_staging_edition": "2009",
-    "tumor_tissue_site": "UTERUS"
+    "ajcc_staging_edition": "2009"
   },
   {
     "patient_ID": "TCGA.NA.A4R1",
@@ -2048,7 +2005,7 @@
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "new_tumor_event_diagnosis": false,
     "age_at_initial_pathologic_diagnosis": 75,
@@ -2061,8 +2018,7 @@
     "icd_3_histology": "8980/3",
     "icd_3": "C55.9",
     "residual_tumor": "R2",
-    "ajcc_staging_edition": "2009",
-    "tumor_tissue_site": "UTERUS"
+    "ajcc_staging_edition": "2009"
   },
   {
     "patient_ID": "TCGA.NA.A5I1",
@@ -2083,11 +2039,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "peritoneal_washing": "NEGATIVE",
     "count_lymph_nodes_pelvic_examined": 0,
@@ -2103,8 +2059,7 @@
     "icd_3_histology": "8980/3",
     "icd_3": "C55.9",
     "residual_tumor": "R2",
-    "ajcc_staging_edition": "1988",
-    "tumor_tissue_site": "UTERUS"
+    "ajcc_staging_edition": "1988"
   },
   {
     "patient_ID": "TCGA.ND.A4W6",
@@ -2131,7 +2086,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -2156,8 +2111,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R2",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "ND",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "ND"
   },
   {
     "patient_ID": "TCGA.ND.A4WA",
@@ -2178,11 +2132,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2004",
+    "diagnosis_year": 1072944000,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "POSITIVE",
@@ -2207,8 +2161,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "1988",
-    "tissue_source_site_code": "ND",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "ND"
   },
   {
     "patient_ID": "TCGA.ND.A4WC",
@@ -2231,11 +2184,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HOMOLOGOUS TYPE",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -2260,8 +2213,7 @@
     "icd_3": "C54.3",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "ND",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "ND"
   },
   {
     "patient_ID": "TCGA.ND.A4WF",
@@ -2288,7 +2240,7 @@
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -2313,8 +2265,7 @@
     "icd_3": "C54.3",
     "residual_tumor": "R2",
     "ajcc_staging_edition": "1988",
-    "tissue_source_site_code": "ND",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "ND"
   },
   {
     "patient_ID": "TCGA.NF.A4WU",
@@ -2335,11 +2286,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -2363,8 +2314,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "NF",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "NF"
   },
   {
     "patient_ID": "TCGA.NF.A4WX",
@@ -2382,11 +2332,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "OPEN",
     "peritoneal_washing": "POSITIVE",
@@ -2411,8 +2361,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "NF",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "NF"
   },
   {
     "patient_ID": "TCGA.NF.A4X2",
@@ -2431,11 +2380,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT) HETEROLOGOUS TYPE",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -2459,8 +2408,7 @@
     "icd_3": "C55.9",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "NF",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "NF"
   },
   {
     "patient_ID": "TCGA.NF.A5CP",
@@ -2483,7 +2431,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2007",
+    "diagnosis_year": 1167638400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "POSITIVE",
@@ -2507,8 +2455,7 @@
     "icd_3_histology": "8950/3",
     "icd_3": "C55.9",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "NF",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "NF"
   },
   {
     "patient_ID": "TCGA.NG.A4VU",
@@ -2533,7 +2480,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2011",
+    "diagnosis_year": 1293868800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "POSITIVE",
@@ -2552,8 +2499,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "NG",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "NG"
   },
   {
     "patient_ID": "TCGA.NG.A4VW",
@@ -2575,11 +2521,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2006",
+    "diagnosis_year": 1136102400,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -2602,8 +2548,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "1988",
-    "tissue_source_site_code": "NG",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "NG"
   },
   {
     "patient_ID": "TCGA.QM.A5NM",
@@ -2629,7 +2574,7 @@
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "ENDOMETRIAL BIOPSY",
     "surgical_approach_at_diagnosis": "MINIMALLY INVASIVE",
     "peritoneal_washing": "NEGATIVE",
@@ -2651,8 +2596,7 @@
     "icd_3": "C54.1",
     "residual_tumor": "RX",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "QM",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "QM"
   },
   {
     "patient_ID": "TCGA.QN.A5NN",
@@ -2674,11 +2618,11 @@
     "history_neoadjuvant_treatment": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "histologic_diagnosis": "UTERINE CARCINOSARCOMA MALIGNANT MIXED MULLERIAN TUMOR (MMMT)",
-    "diagnosis_year": "01/01/2012",
+    "diagnosis_year": 1325404800,
     "pathologic_method": "TUMOR RESECTION",
     "surgical_approach_at_diagnosis": "OPEN",
     "percent_tumor_invasion": 33,
@@ -2697,7 +2641,6 @@
     "icd_3": "C54.1",
     "residual_tumor": "R0",
     "ajcc_staging_edition": "2009",
-    "tissue_source_site_code": "QN",
-    "tumor_tissue_site": "UTERUS"
+    "tissue_source_site_code": "QN"
   }
 ]

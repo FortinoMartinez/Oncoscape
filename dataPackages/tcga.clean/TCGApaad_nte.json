@@ -399,7 +399,7 @@
   {
     "patient_ID": "TCGA.IB.7897",
     "days_to_progression": 397,
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "new_tumor_event_site": "LIVER",
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "surgery_procedure": false

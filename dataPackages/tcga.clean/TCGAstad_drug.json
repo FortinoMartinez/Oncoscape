@@ -1194,7 +1194,6 @@
   },
   {
     "patient_ID": "TCGA.BR.8682",
-    "drug_therapy_name": "DEXAMETHASONE",
     "pharmaceutical_therapy_type.1": "ANCILLARY",
     "days_to_drug_start": 60,
     "pharmaceutical_tx_ongoing": false,
@@ -1324,7 +1323,6 @@
   },
   {
     "patient_ID": "TCGA.BR.A4IU",
-    "drug_therapy_name": "DEXAMETHASONE",
     "pharmaceutical_therapy_type.1": "ANCILLARY",
     "days_to_drug_start": 47,
     "pharmaceutical_tx_ongoing": false,
@@ -1364,7 +1362,6 @@
   },
   {
     "patient_ID": "TCGA.BR.A4IV",
-    "drug_therapy_name": "DEXAMETHASONE",
     "pharmaceutical_therapy_type.1": "ANCILLARY",
     "days_to_drug_start": 51,
     "pharmaceutical_tx_ongoing": false,
@@ -1404,7 +1401,6 @@
   },
   {
     "patient_ID": "TCGA.BR.A4IY",
-    "drug_therapy_name": "DEXAMETHASONE",
     "pharmaceutical_therapy_type.1": "ANCILLARY",
     "days_to_drug_start": 47,
     "pharmaceutical_tx_ongoing": false,
@@ -1444,7 +1440,6 @@
   },
   {
     "patient_ID": "TCGA.BR.A4J2",
-    "drug_therapy_name": "DEXAMETHASONE",
     "pharmaceutical_therapy_type.1": "ANCILLARY",
     "days_to_drug_start": 51,
     "pharmaceutical_tx_ongoing": false,
@@ -2438,7 +2433,6 @@
   },
   {
     "patient_ID": "TCGA.D7.5577",
-    "drug_therapy_name": "CALCIUM FOLIATUM",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 81,
     "pharmaceutical_tx_ongoing": true,
@@ -2473,7 +2467,6 @@
   },
   {
     "patient_ID": "TCGA.D7.5579",
-    "drug_therapy_name": "CALCIUM FOLIATUM",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 25,
     "pharmaceutical_tx_ongoing": false,
@@ -2504,7 +2497,7 @@
   },
   {
     "patient_ID": "TCGA.D7.6519",
-    "drug_therapy_name": "ETOPOSIDE",
+    "drug_therapy_name": "ETOPOSIDE;FLUOROURACIL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 503,
     "pharmaceutical_tx_ongoing": true,
@@ -2676,7 +2669,7 @@
   },
   {
     "patient_ID": "TCGA.D7.6817",
-    "drug_therapy_name": "FLUOROURACIL;LEUCOVORIN",
+    "drug_therapy_name": "FLUOROURACIL;LEUOCOVORIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 32,
     "pharmaceutical_tx_ongoing": false,

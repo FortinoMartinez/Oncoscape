@@ -26,7 +26,7 @@
     "pharmaceutical_tx_adjuvant": true,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 2485
   },
@@ -50,7 +50,7 @@
     "diabetes_diagnosis": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 979
   },
@@ -74,7 +74,7 @@
     "followup_lost_to": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 827
   },
@@ -85,7 +85,7 @@
     "pharmaceutical_tx_adjuvant": true,
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true,
     "days_to_last_contact": 829
   },
@@ -96,7 +96,7 @@
     "pharmaceutical_tx_adjuvant": true,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 812
   },
@@ -107,7 +107,7 @@
     "pharmaceutical_tx_adjuvant": true,
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true,
     "days_to_last_contact": 781
   },
@@ -118,7 +118,7 @@
     "pharmaceutical_tx_adjuvant": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true,
     "days_to_last_contact": 471
   },
@@ -128,7 +128,7 @@
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true,
     "days_to_death": 611
   },
@@ -139,7 +139,7 @@
     "pharmaceutical_tx_adjuvant": true,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 572
   },
@@ -177,7 +177,7 @@
     "history_colorectal_cancer": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 4269
   },
@@ -195,7 +195,7 @@
     "history_colorectal_cancer": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 2457
   },
@@ -212,7 +212,7 @@
     "history_colorectal_cancer": false,
     "status_tumor": "WITH TUMOR",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": true,
     "days_to_death": 2680
   },
@@ -246,7 +246,7 @@
     "history_colorectal_cancer": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "DEAD",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_death": 714
   },
@@ -264,7 +264,7 @@
     "history_colorectal_cancer": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 461
   },
@@ -282,7 +282,7 @@
     "history_colorectal_cancer": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 766
   },
@@ -300,7 +300,7 @@
     "history_colorectal_cancer": false,
     "status_tumor": "TUMOR FREE",
     "status_vital": "ALIVE",
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "new_tumor_event_diagnosis": false,
     "days_to_last_contact": 698
   },

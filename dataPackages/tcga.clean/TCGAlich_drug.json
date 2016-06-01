@@ -285,7 +285,7 @@
   },
   {
     "patient_ID": "TCGA.DD.A1EH",
-    "drug_therapy_name": "CISPLATIN",
+    "drug_therapy_name": "CISPLATIN;EVEROLIMUS;GEMCITABINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 862,
     "pharmaceutical_tx_ongoing": false,
@@ -335,7 +335,7 @@
   },
   {
     "patient_ID": "TCGA.DD.A4ND",
-    "drug_therapy_name": "CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 20,
     "pharmaceutical_tx_ongoing": false,

@@ -70,7 +70,7 @@
   },
   {
     "patient_ID": "TCGA.D3.A1QA",
-    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "drug_therapy_name": "RECMAGE3",
     "pharmaceutical_therapy_type.1": "VACCINE",
     "days_to_drug_start": 1485,
     "pharmaceutical_tx_ongoing": false,
@@ -80,7 +80,6 @@
   },
   {
     "patient_ID": "TCGA.D3.A2JC",
-    "drug_therapy_name": "INTERFERON ALFA",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 54,
     "pharmaceutical_tx_ongoing": false,
@@ -107,7 +106,7 @@
   },
   {
     "patient_ID": "TCGA.D3.A2JL",
-    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "drug_therapy_name": "RECMAGE3",
     "pharmaceutical_therapy_type.1": "VACCINE",
     "days_to_drug_start": 2552,
     "pharmaceutical_tx_ongoing": false,
@@ -539,7 +538,6 @@
   },
   {
     "patient_ID": "TCGA.EB.A57M",
-    "drug_therapy_name": "DEXAMETHASONE",
     "pharmaceutical_therapy_type.1": "ANCILLARY",
     "days_to_drug_start": 23,
     "pharmaceutical_tx_ongoing": false,
@@ -818,7 +816,7 @@
   },
   {
     "patient_ID": "TCGA.EE.A29C",
-    "drug_therapy_name": "BRAF INHIBITOR",
+    "drug_therapy_name": "BRAF INHIBITOR;GSK INHIBITOR",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 1114,
     "pharmaceutical_tx_ongoing": false,
@@ -1198,7 +1196,7 @@
   },
   {
     "patient_ID": "TCGA.EE.A3AE",
-    "drug_therapy_name": "RECMAGE3-AS+AS15 ASCI;PLACEBO VACCINE",
+    "drug_therapy_name": "RECMAGE3",
     "pharmaceutical_therapy_type": "VACCINE",
     "pharmaceutical_therapy_type.1": "VACCINE",
     "days_to_drug_start": 804,
@@ -1425,7 +1423,7 @@
     "days_to_drug_start": 84,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 418,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;SUBCUTANEOUS",
     "therapy_regimen": "ADJUVANT"
   },
   {
@@ -1455,7 +1453,6 @@
   },
   {
     "patient_ID": "TCGA.ER.A2NF",
-    "drug_therapy_name": "AFLIBERCEPT",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 471,
     "pharmaceutical_tx_ongoing": true,
@@ -1660,7 +1657,7 @@
   },
   {
     "patient_ID": "TCGA.FS.A1ZE",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 1188,
     "pharmaceutical_tx_ongoing": false,
@@ -1670,7 +1667,7 @@
   },
   {
     "patient_ID": "TCGA.FS.A1ZE",
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 1188,
     "pharmaceutical_tx_ongoing": false,
@@ -2392,7 +2389,6 @@
   },
   {
     "patient_ID": "TCGA.WE.A8ZN",
-    "drug_therapy_name": "NIVOLUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 1533,
     "pharmaceutical_tx_ongoing": false,

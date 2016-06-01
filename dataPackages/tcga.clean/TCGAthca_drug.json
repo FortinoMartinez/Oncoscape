@@ -267,7 +267,7 @@
   },
   {
     "patient_ID": "TCGA.IM.A3ED",
-    "drug_therapy_name": "LEVOTHYROXINE",
+    "drug_therapy_name": "LEVOTHYROXINE;LIOTHYRONINE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 761,
     "pharmaceutical_tx_ongoing": true,

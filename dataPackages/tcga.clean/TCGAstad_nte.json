@@ -261,7 +261,7 @@
   {
     "patient_ID": "TCGA.VQ.A8PK",
     "days_to_progression": 263,
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "surgery_procedure": false,
     "new_tumor_event_site": "LIVER",
@@ -383,7 +383,7 @@
   },
   {
     "patient_ID": "TCGA.VQ.A924",
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "new_tumor_event_dx_evidence": "CONVINCING IMAGING",
     "surgery_procedure": false,
     "radiation_therapy": false,
@@ -439,7 +439,7 @@
   {
     "patient_ID": "TCGA.VQ.AA6F",
     "days_to_progression": 546,
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;PRIMARY TUMOR",
     "new_tumor_event_dx_evidence": "BIOPSY WITH HISTOLOGIC CONFIRMATION",
     "surgery_procedure": false,
     "new_tumor_event_site": "OTHER, SPECIFY",

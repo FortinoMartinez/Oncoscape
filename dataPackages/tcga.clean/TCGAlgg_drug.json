@@ -1225,7 +1225,7 @@
   },
   {
     "patient_ID": "TCGA.DU.6392",
-    "drug_therapy_name": "PROCARBAZINE;LOMUSTINE;VINCRISTINE",
+    "drug_therapy_name": "LOMUSTINE;PROCARBAZINE;VINCRISTINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 109,
     "pharmaceutical_tx_ongoing": false,
@@ -1251,7 +1251,7 @@
   },
   {
     "patient_ID": "TCGA.DU.6394",
-    "drug_therapy_name": "PROCARBAZINE;LOMUSTINE;VINCRISTINE",
+    "drug_therapy_name": "LOMUSTINE;PROCARBAZINE;VINCRISTINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 94,
     "pharmaceutical_tx_ongoing": false,
@@ -1263,7 +1263,7 @@
   },
   {
     "patient_ID": "TCGA.DU.6394",
-    "drug_therapy_name": "PROCARBAZINE;LOMUSTINE;VINCRISTINE",
+    "drug_therapy_name": "LOMUSTINE;PROCARBAZINE;VINCRISTINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 459,
     "pharmaceutical_tx_ongoing": false,
@@ -1303,7 +1303,7 @@
   },
   {
     "patient_ID": "TCGA.DU.6395",
-    "drug_therapy_name": "PROCARBAZINE;LOMUSTINE;VINCRISTINE",
+    "drug_therapy_name": "LOMUSTINE;PROCARBAZINE;VINCRISTINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 1266,
     "pharmaceutical_tx_ongoing": false,
@@ -1315,7 +1315,7 @@
   },
   {
     "patient_ID": "TCGA.DU.6395",
-    "drug_therapy_name": "PROCARBAZINE;LOMUSTINE;VINCRISTINE",
+    "drug_therapy_name": "LOMUSTINE;PROCARBAZINE;VINCRISTINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 870,
     "pharmaceutical_tx_ongoing": false,
@@ -1357,14 +1357,14 @@
   },
   {
     "patient_ID": "TCGA.DU.6396",
-    "drug_therapy_name": "PROCARBAZINE;LOMUSTINE;VINCRISTINE",
+    "drug_therapy_name": "LOMUSTINE;PROCARBAZINE;VINCRISTINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 82,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 89,
     "drug_cycles": 1,
     "regimen_number": 2,
-    "drug_route": "ORAL",
+    "drug_route": "ORAL;INTRAVENOUS",
     "therapy_regimen": "ADJUVANT"
   },
   {
@@ -4143,8 +4143,8 @@
     "days_to_drug_end": 20,
     "drug_cycles": 1,
     "pharma_type_other": "BRACHYTHERPY",
-    "drug_units": "MCI",
-    "drug_total_dose_units": "MCI",
+    "drug_units": "MCI;MCI",
+    "drug_total_dose_units": "MCI;MCI",
     "drug_dose": 40,
     "regimen_number": 1,
     "drug_route": "INTRATUMORAL",
@@ -4626,7 +4626,6 @@
   },
   {
     "patient_ID": "TCGA.E1.A7YE",
-    "drug_therapy_name": "KARENITECIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 715,
     "pharmaceutical_tx_ongoing": false,
@@ -5438,7 +5437,6 @@
   },
   {
     "patient_ID": "TCGA.E1.A7Z4",
-    "drug_therapy_name": "KARENITECIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 1182,
     "pharmaceutical_tx_ongoing": false,

@@ -292,7 +292,7 @@
     "malignancy_type": "PRIOR MALIGNANCY",
     "days_to_surgery": -2769,
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CHEMOTHERAPY",
+    "drug_therapy_name": "CHEMOTHERAPY;HORMONE",
     "radiation_therapy": true,
     "stage_T": "T1",
     "stage_N": "N1",

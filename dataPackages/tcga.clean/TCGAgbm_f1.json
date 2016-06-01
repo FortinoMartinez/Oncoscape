@@ -6537,12 +6537,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 800,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.RR.A6KB",

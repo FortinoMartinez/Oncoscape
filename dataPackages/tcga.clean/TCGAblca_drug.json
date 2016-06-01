@@ -712,7 +712,6 @@
   },
   {
     "patient_ID": "TCGA.DK.AA77",
-    "drug_therapy_name": "NIVOLUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 601,
     "pharmaceutical_tx_ongoing": true,
@@ -2851,7 +2850,7 @@
   },
   {
     "patient_ID": "TCGA.ZF.AA4V",
-    "drug_therapy_name": "CISPLATIN",
+    "drug_therapy_name": "CISPLATIN;GEMCITABINE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 202,
     "pharmaceutical_tx_ongoing": false,

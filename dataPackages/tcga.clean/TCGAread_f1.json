@@ -21,12 +21,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1427,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": true,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AF.2689",
@@ -96,12 +96,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1309,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AF.2692",
@@ -148,7 +148,7 @@
     "days_to_last_contact": 1049,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AF.3911",
@@ -174,7 +174,7 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1148,
     "status_tumor": "WITH TUMOR",
@@ -205,7 +205,7 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1146,
     "status_tumor": "WITH TUMOR",
@@ -218,7 +218,7 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1146,
     "status_tumor": "WITH TUMOR",
@@ -241,12 +241,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 912,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AF.5654",
@@ -303,12 +303,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 609,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AF.6672",
@@ -338,12 +338,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2635,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AF.A56L",
@@ -351,12 +351,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2007,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AF.A56N",
@@ -364,12 +364,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 360,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3574",
@@ -390,7 +390,7 @@
     "days_to_last_contact": 365,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3578",
@@ -402,7 +402,7 @@
     "days_to_last_contact": 974,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3580",
@@ -414,7 +414,7 @@
     "days_to_last_contact": 244,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3581",
@@ -426,7 +426,7 @@
     "days_to_last_contact": 215,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3582",
@@ -476,12 +476,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1035,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3592",
@@ -493,7 +493,7 @@
     "days_to_last_contact": 1035,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3593",
@@ -501,12 +501,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1035,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3594",
@@ -527,7 +527,7 @@
     "days_to_last_contact": 1522,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3599",
@@ -539,7 +539,7 @@
     "days_to_last_contact": 366,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3600",
@@ -547,12 +547,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 184,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3608",
@@ -564,7 +564,7 @@
     "days_to_last_contact": 485,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3609",
@@ -572,12 +572,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 608,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3611",
@@ -585,12 +585,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 424,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3612",
@@ -598,12 +598,12 @@
     "followup_lost_to": true,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 608,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3725",
@@ -615,7 +615,7 @@
     "days_to_last_contact": 638,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE"
+    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3726",
@@ -627,7 +627,7 @@
     "days_to_last_contact": 243,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3728",
@@ -635,7 +635,7 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 912
   },
@@ -645,12 +645,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1126,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3732",
@@ -658,12 +658,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1003,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3881",
@@ -675,7 +675,7 @@
     "days_to_last_contact": 579,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3882",
@@ -687,7 +687,7 @@
     "days_to_last_contact": 608,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3885",
@@ -695,12 +695,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 546,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3887",
@@ -724,7 +724,7 @@
     "days_to_last_contact": 518,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3891",
@@ -736,7 +736,7 @@
     "days_to_last_contact": 548,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3892",
@@ -744,12 +744,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 396,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3893",
@@ -757,12 +757,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1065,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3894",
@@ -770,12 +770,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 426,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3898",
@@ -787,7 +787,7 @@
     "days_to_last_contact": 1461,
     "status_tumor": "WITH TUMOR",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3901",
@@ -808,7 +808,7 @@
     "days_to_last_contact": 974,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3906",
@@ -820,7 +820,7 @@
     "days_to_last_contact": 608,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3909",
@@ -828,12 +828,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 608,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.3999",
@@ -858,7 +858,7 @@
     "days_to_last_contact": 1096,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.4005",
@@ -866,12 +866,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 427,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.4008",
@@ -879,12 +879,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 518,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.4009",
@@ -896,7 +896,7 @@
     "days_to_last_contact": 426,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.4021",
@@ -916,12 +916,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1400,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A002",
@@ -929,12 +929,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 638,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A008",
@@ -942,12 +942,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 424,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A00C",
@@ -955,12 +955,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 183,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A00H",
@@ -981,12 +981,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 700,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": true,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A011",
@@ -998,7 +998,7 @@
     "days_to_last_contact": 1126,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A015",
@@ -1010,7 +1010,7 @@
     "days_to_last_contact": 1096,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": true,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A016",
@@ -1031,12 +1031,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 943,
     "status_tumor": "WITH TUMOR",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE"
+    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A023",
@@ -1056,12 +1056,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "status_vital": "DEAD",
     "days_to_death": 1185,
     "status_tumor": "WITH TUMOR",
     "new_tumor_event_diagnosis": true,
-    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE"
+    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A032",
@@ -1069,12 +1069,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "PARTIAL RESPONSE",
+    "treatment_outcome_first_course": "PARTIAL RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1157,
     "status_tumor": "WITH TUMOR",
     "new_tumor_event_diagnosis": true,
-    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE"
+    "treatment_outcome_at_tcga_followup": "PARTIAL RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AG.A036",
@@ -1082,12 +1082,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 3562,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AH.6544",
@@ -1108,12 +1108,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "DEAD",
     "days_to_death": 76,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AH.6549",
@@ -1121,12 +1121,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 532,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AH.6643",
@@ -1134,7 +1134,7 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "DEAD",
     "days_to_death": 1314,
     "status_tumor": "WITH TUMOR",
@@ -1147,12 +1147,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 838,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AH.6897",
@@ -1160,12 +1160,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 804,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.AH.6903",
@@ -1173,12 +1173,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 592,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.BM.6198",
@@ -1195,12 +1195,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 646,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.CI.6619",
@@ -1264,7 +1264,7 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "DEAD",
     "new_tumor_event_diagnosis": false
   },
@@ -1274,12 +1274,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 2376,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.CL.5918",
@@ -1287,12 +1287,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 218,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.DC.4745",
@@ -1309,12 +1309,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 639,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.DC.4749",
@@ -1331,12 +1331,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 762,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.DC.5337",
@@ -1660,12 +1660,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": true,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 384,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.DY.A0XA",
@@ -1916,12 +1916,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1141,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6465",
@@ -1939,12 +1939,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1506,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6571",
@@ -1962,12 +1962,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 952,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": true,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6571",
@@ -1975,7 +1975,7 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1288,
     "status_tumor": "WITH TUMOR",
@@ -2011,12 +2011,12 @@
     "followup_lost_to": true,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 979,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6812",
@@ -2024,12 +2024,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 378,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6812",
@@ -2037,12 +2037,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 742,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6812",
@@ -2050,12 +2050,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1110,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6813",
@@ -2096,12 +2096,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1131,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6861",
@@ -2120,12 +2120,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": false,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 1160,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6863",
@@ -2145,12 +2145,12 @@
     "followup_lost_to": false,
     "radiation_treatment_adjuvant": false,
     "pharmaceutical_tx_adjuvant": true,
-    "treatment_outcome_first_course": "COMPLETE RESPONSE",
+    "treatment_outcome_first_course": "COMPLETE RESPONSE;RESPONSE",
     "status_vital": "ALIVE",
     "days_to_last_contact": 379,
     "status_tumor": "TUMOR FREE",
     "new_tumor_event_diagnosis": false,
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.F5.6864",

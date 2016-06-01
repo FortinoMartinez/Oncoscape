@@ -322,7 +322,7 @@
     "radiation_therapy": false,
     "drug": true,
     "days_to_surgery": 1081,
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": true
   },
   {
@@ -1102,7 +1102,7 @@
     "patient_ID": "TCGA.13.1495",
     "new_tumor_event_dx_evidence": "IMAGING STUDY",
     "days_to_surgery": 984,
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": true
   },
   {
@@ -1229,7 +1229,7 @@
     "radiation_therapy": false,
     "drug": true,
     "days_to_surgery": 633,
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": true
   },
   {
@@ -3447,7 +3447,7 @@
     "radiation_therapy": false,
     "drug": true,
     "days_to_surgery": 2154,
-    "new_tumor": "LOCOREGIONAL",
+    "new_tumor": "LOCOREGIONAL;DISTANT METASTASIS",
     "surgery_procedure": true
   },
   {

@@ -76,7 +76,7 @@
   {
     "patient_ID": "TCGA.AF.2689",
     "drug_therapy_name": "FLUOROURACIL",
-    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY;OTHER",
     "days_to_drug_start": 316,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 346,
@@ -139,7 +139,7 @@
   {
     "patient_ID": "TCGA.AF.2689",
     "drug_therapy_name": "IRINOTECAN",
-    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY;OTHER",
     "days_to_drug_start": 316,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 344,
@@ -186,7 +186,7 @@
   {
     "patient_ID": "TCGA.AF.2689",
     "drug_therapy_name": "FLUOROURACIL",
-    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY;OTHER",
     "days_to_drug_start": 316,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 344,
@@ -2265,7 +2265,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6508",
-    "drug_therapy_name": "OXALIPLATIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 76,
     "pharmaceutical_tx_ongoing": false,
@@ -2278,7 +2278,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6509",
-    "drug_therapy_name": "LEUCOVORIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;FOLINIC ACID;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 395,
     "pharmaceutical_tx_ongoing": true,
@@ -2288,7 +2288,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6511",
-    "drug_therapy_name": "OXALIPLATIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 161,
     "pharmaceutical_tx_ongoing": false,
@@ -2301,7 +2301,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6512",
-    "drug_therapy_name": "LEUCOVORIN;FLOUROURACIL",
+    "drug_therapy_name": "FLUOROURACIL;FOLINIC ACID;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 20,
     "pharmaceutical_tx_ongoing": true,
@@ -2311,7 +2311,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6514",
-    "drug_therapy_name": "FLUOROURACIL;LEULOV",
+    "drug_therapy_name": "FLUOROURACIL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 27,
     "pharmaceutical_tx_ongoing": false,
@@ -2322,7 +2322,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6881",
-    "drug_therapy_name": "FLUOROURACIL;LEUCOVORIN",
+    "drug_therapy_name": "FLUOROURACIL;LEUOCOVORIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 42,
     "pharmaceutical_tx_ongoing": false,
@@ -2335,7 +2335,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6883",
-    "drug_therapy_name": "FLUOROURACIL;LEUCOVORIN",
+    "drug_therapy_name": "FLUOROURACIL;LEUOCOVORIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 55,
     "pharmaceutical_tx_ongoing": false,
@@ -2348,7 +2348,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6884",
-    "drug_therapy_name": "FLUOROURACIL;LEUCOVORIN",
+    "drug_therapy_name": "FLUOROURACIL;LEUOCOVORIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 52,
     "pharmaceutical_tx_ongoing": true,
@@ -2359,7 +2359,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6885",
-    "drug_therapy_name": "OXALIPLATIN;FLUOROURACIL",
+    "drug_therapy_name": "FLUOROURACIL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 69,
     "pharmaceutical_tx_ongoing": false,
@@ -2372,7 +2372,7 @@
   },
   {
     "patient_ID": "TCGA.EI.6917",
-    "drug_therapy_name": "FLUOROURACIL;OXACIPLATINA;L-FOLINIAN DISCIDO",
+    "drug_therapy_name": "FLUOROURACIL;FOLINIC ACID;OXALIPLATIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 100,
     "pharmaceutical_tx_ongoing": false,
@@ -2384,7 +2384,7 @@
   },
   {
     "patient_ID": "TCGA.EI.7002",
-    "drug_therapy_name": "FLUOROURACILIM;IRINOTECAN",
+    "drug_therapy_name": "FLUOROURACIL;IRINOTECAN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 67,
     "pharmaceutical_tx_ongoing": false,

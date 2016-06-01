@@ -728,7 +728,7 @@
     "malignancy_type": "SYNCHRONOUS MALIGNANCY",
     "laterality": "LEFT",
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CISPLATIN",
+    "drug_therapy_name": "CISPLATIN;DOCETAXEL",
     "radiation_therapy": false,
     "days_to_surgery": 160,
     "ajcc_staging_edition": "7TH",

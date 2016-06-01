@@ -250,7 +250,7 @@
   },
   {
     "patient_ID": "TCGA.3H.AB3T",
-    "drug_therapy_name": "CISPLATIN"
+    "drug_therapy_name": "CISPLATIN;PEMETREXED"
   },
   {
     "patient_ID": "TCGA.3H.AB3U",

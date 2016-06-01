@@ -134,7 +134,6 @@
   },
   {
     "patient_ID": "TCGA.3B.A9HR",
-    "drug_therapy_name": "TRABECTEDIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 1425,
     "pharmaceutical_tx_ongoing": false,
@@ -1164,7 +1163,6 @@
   },
   {
     "patient_ID": "TCGA.HB.A3L4",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 582,
     "pharmaceutical_tx_ongoing": true,
@@ -1936,7 +1934,6 @@
   },
   {
     "patient_ID": "TCGA.X6.A8C4",
-    "drug_therapy_name": "TRABECTEDIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 511,
     "pharmaceutical_tx_ongoing": true,

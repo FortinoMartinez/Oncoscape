@@ -21,7 +21,6 @@
   },
   {
     "patient_ID": "TCGA.4X.A9FA",
-    "drug_therapy_name": "AZATHIOPRINE",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 2,
     "pharmaceutical_tx_ongoing": true,
@@ -29,7 +28,6 @@
   },
   {
     "patient_ID": "TCGA.4X.A9FD",
-    "drug_therapy_name": "AZATHIOPRINE",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 92,
     "pharmaceutical_tx_ongoing": true,

@@ -185,7 +185,7 @@
     "patient_ID": "TCGA.33.6737",
     "malignancy_type": "PRIOR MALIGNANCY",
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CLADRIBINE",
+    "drug_therapy_name": "CLADRIBINE;PENTOSTATIN",
     "radiation_therapy": false,
     "days_to_drug_start": -1915
   },
@@ -360,7 +360,7 @@
     "patient_ID": "TCGA.60.2696",
     "malignancy_type": "PRIOR MALIGNANCY",
     "pharmaceutical_therapy": true,
-    "drug_therapy_name": "CARBOPLATIN",
+    "drug_therapy_name": "CARBOPLATIN;PACLITAXEL",
     "radiation_therapy": false,
     "days_to_surgery": -8440,
     "days_to_drug_start": -417

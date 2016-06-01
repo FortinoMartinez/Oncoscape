@@ -47,7 +47,7 @@ os.tcga.ignore.columns <- c("bcr_patient_uuid","bcr_drug_uuid","bcr_drug_barcode
 
 # aggregate list of unmapped data & cde id mapping
 unmapped.List <- list()
-cde.List <- data.frame()
+cde.df <- data.frame()
                             
                                          
 Map( function(key, value, env=parent.frame()){
@@ -58,19 +58,22 @@ Map( function(key, value, env=parent.frame()){
     from.na<-which(from %in% os.enum.na)
     from[from.na]<-NA    
     
+    from.clean <- rep(NA, length(from))
+    
     # Return Enum or NA
     standardVals <- names(os.tcga.field.enumerations[[key]])
     for(fieldName in standardVals){
       values <-os.tcga.field.enumerations[[key]][[fieldName]]
-      from[ which(from %in% values)] <- fieldName
+      from.clean[ which(from %in% values)] <- paste(from.clean[which(from %in% values)], fieldName, sep=";")
     }
-    # !!!! need to convert so all standardized names stored for each raw value
+    from.clean <- gsub("^NA;", "", from.clean)
+ #   from.clean[from.clean==""] <- NA
     
-    if(all(from %in% c(standardVals, NA)))
-      return(from)
+    if(all(unlist(sapply(from.clean, function(val){strsplit(val, ";")})) %in% c(standardVals, NA)))
+      return(from.clean)
     
     # Kill If Not In Enum or Na
-    stop(paste(key, " not set due to: ", paste(setdiff(from,c(standardVals, NA)), collapse=";"), " not belonging to ", paste(standardVals, collapse=";")))
+    stop(paste(key, " not set due to: ", paste(setdiff(from.clean,c(standardVals, NA)), collapse="..."), " not belonging to ", paste(standardVals, collapse=";")))
   })
 }, names(os.tcga.field.enumerations), os.tcga.field.enumerations);
 
@@ -91,7 +94,8 @@ setAs("character","os.class.tcgaDate", function(from){
   
   # Validate Format + Convert Day-Month to 1-1
   if ((str_length(from)==4) && !is.na(as.integer(from) ) ){
-    return(format(as.Date(paste(from, "-1-1", sep=""), "%Y-%m-%d"), "%m/%d/%Y"))
+    return(as.numeric(as.POSIXct(paste(from, "-1-1", sep=""), format="%Y-%m-%d")))
+    #    return(format(as.Date(paste(from, "-1-1", sep=""), "%Y-%m-%d"), "%m/%d/%Y"))
   }
   
   # Return NA If Validation Fails
@@ -217,8 +221,10 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
   header <- readLines(inputFile, n=3)
   columns <- unlist(strsplit(header[1],'\t'));
   cde_ids <- unlist(strsplit(header[3],'\t'));
+  cde_ids <- gsub("CDE_ID:", "", cde_ids)
 
   unMappedData <- list();
+  tcga_columns <- columns
   
   if(grepl("clinical_patient_skcm.txt",inputFile)){
   	columns[match("submitted_tumor_site", columns)] = "skcm_tissue_site"
@@ -236,8 +242,8 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
   
   # if checkEnumerations - all columns will be read in and assigned 'character' class by default
   # otherwise only classes with defined enumerations will be stored in the mapped table
-  if(checkEnumerations) { column.type <- rep("character", length(columns))}
-  else                  { column.type <- rep("NULL", length(columns)) }
+  if(checkEnumerations) { column_type <- rep("character", length(columns))}
+  else                  { column_type <- rep("NULL", length(columns)) }
   
 
   # assign class types for recognized columns
@@ -249,7 +255,7 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
       values <-os.tcga.column.enumerations[[class.type]][[colName]]
       matching.values <- which(columns %in% values)
       columns[matching.values ] <- colName
-      column.type[ matching.values] <- class.type
+      column_type[ matching.values] <- class.type
     }
   }
   
@@ -263,21 +269,21 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
                           check.names=FALSE,
                           numerals = "warn.loss",
                           col.names = columns,
-                          colClasses = column.type
+                          colClasses = column_type
   );
   
   if(checkEnumerations) {
     
     # Grab columns matching class type and remove those within the ignore list
-    headerWithData <- columns[column.type == checkClassType]
+    headerWithData <- columns[column_type == checkClassType]
     ignoreCols <- which(headerWithData %in% os.tcga.ignore.columns)
     if(length(ignoreCols > 0))       headerWithData <- headerWithData[- ignoreCols ]
-    if(length(headerWithData) == 0)  return(list(mapped=mappedTable, unmapped=unMappedData));
+    if(length(headerWithData) == 0)  return(list(mapped=mappedTable, unmapped=unMappedData, "cde"=cbind(tcga_columns,columns,cde_ids, column_type)));
     
     # Discard columns where all values are NA
     DataIndicator <- sapply(headerWithData, function(colName){!all(toupper(mappedTable[,colName]) %in% os.enum.na)})
     headerWithData <- headerWithData[DataIndicator]
-    if(length(headerWithData) == 0) return(list(mapped=mappedTable, unmapped=unMappedData));
+    if(length(headerWithData) == 0) return(list(mapped=mappedTable, unmapped=unMappedData, "cde"=cbind(tcga_columns,columns,cde_ids, column_type)));
     
     # Print list of unique values for each column
     unMappedData <- lapply(headerWithData, function(colName){ unique(toupper(mappedTable[,colName]))})
@@ -286,8 +292,8 @@ os.data.load <- function(inputFile, checkEnumerations=FALSE, checkClassType = "c
     print(unMappedData)
 
   }
-  return(list(mapped=mappedTable, unmapped = unMappedData))
-  #return(list("mapped"=mappedTable, "unmapped" = unMappedData, "cde"=cbind(columns,cde_ids)))
+  #return(list(mapped=mappedTable, unmapped = unMappedData))
+  return(list("mapped"=mappedTable, "unmapped" = unMappedData, "cde"=cbind(tcga_columns,columns,cde_ids, column_type)))
 }
 
 ### Batch Is Used To Process Multiple TCGA Files Defined 
@@ -314,8 +320,8 @@ os.data.batch <- function(inputFile, outputDirectory, tables,checkEnumerations, 
       MapData <- os.data.load( inputFile = inputFile, ...)
       df <- MapData$mapped
 	  unmapped.List <- appendList(unmapped.List, MapData$unmapped)
+	  cde.df <- rbind(cde.df, cbind(disease=currentDisease, table=currentTable,MapData$cde))
 	  
-	  #cde.List <- rbind(cde.List, MapData$cde)
 
       # Save Data Frame
       os.data.save(
@@ -333,6 +339,10 @@ os.data.batch <- function(inputFile, outputDirectory, tables,checkEnumerations, 
           file = "unmapped.List",
           format = "json")
   }
+  os.data.save(
+    df = cde.df,
+    file = "column.cde.mapping",
+    format = "json")
    
 }
 

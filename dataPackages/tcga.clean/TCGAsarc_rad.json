@@ -62,7 +62,7 @@
     "radiation_type": "INTERNAL",
     "radiation_therapy_site": "REGIONAL SITE",
     "radiation_total_dose": 52.45,
-    "radiation_total_dose_units": "MCI",
+    "radiation_total_dose_units": "MCI;MCI",
     "radiation_number_fractions_total": 1,
     "days_to_radiation_start": 187,
     "radiation_therapy_ongoing": false,

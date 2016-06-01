@@ -755,7 +755,6 @@
   },
   {
     "patient_ID": "TCGA.CJ.4637",
-    "drug_therapy_name": "BORTEZOMIB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 1476,
     "pharmaceutical_tx_ongoing": false,
@@ -1219,7 +1218,7 @@
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 0,
     "drug_cycles": 3,
-    "drug_route": "ORAL",
+    "drug_route": "ORAL;INTRAVENOUS",
     "therapy_regimen": "OTHER",
     "therapy_regimen_other": "NEO-ADJUVANT"
   },

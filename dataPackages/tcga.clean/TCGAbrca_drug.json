@@ -26,7 +26,6 @@
   },
   {
     "patient_ID": "TCGA.3C.AALJ",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 154,
     "pharmaceutical_tx_ongoing": false,
@@ -89,7 +88,6 @@
   },
   {
     "patient_ID": "TCGA.3C.AALK",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 371,
     "pharmaceutical_tx_ongoing": false,
@@ -153,7 +151,6 @@
   },
   {
     "patient_ID": "TCGA.5T.A9QA",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 304,
     "pharmaceutical_tx_ongoing": true,
@@ -179,7 +176,7 @@
   },
   {
     "patient_ID": "TCGA.A1.A0SF",
-    "drug_therapy_name": "TAXOL;TAXOTERE;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOCETAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 65,
     "pharmaceutical_tx_ongoing": false,
@@ -218,7 +215,7 @@
   },
   {
     "patient_ID": "TCGA.A1.A0SH",
-    "drug_therapy_name": "TAXOL;TAXOTERE;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOCETAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 102,
     "pharmaceutical_tx_ongoing": false,
@@ -230,7 +227,7 @@
   },
   {
     "patient_ID": "TCGA.A1.A0SN",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 87,
     "pharmaceutical_tx_ongoing": false,
@@ -279,7 +276,7 @@
   },
   {
     "patient_ID": "TCGA.A1.A0SQ",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 148,
     "pharmaceutical_tx_ongoing": false,
@@ -502,7 +499,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A04R",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 910,
     "pharmaceutical_tx_ongoing": true,
@@ -712,7 +708,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A04V",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1269,
     "pharmaceutical_tx_ongoing": false,
@@ -1017,7 +1012,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0CK",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1569,
     "pharmaceutical_tx_ongoing": true,
@@ -1268,7 +1262,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0CP",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 206,
     "pharmaceutical_tx_ongoing": false,
@@ -1406,7 +1399,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0CS",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 190,
     "pharmaceutical_tx_ongoing": true,
@@ -1548,7 +1540,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0CW",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 156,
     "pharmaceutical_tx_ongoing": true,
@@ -1618,7 +1609,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0CX",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 686,
     "pharmaceutical_tx_ongoing": true,
@@ -1702,7 +1692,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0CY",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 455,
     "pharmaceutical_tx_ongoing": false,
@@ -1715,7 +1704,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0CY",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1261,
     "pharmaceutical_tx_ongoing": true,
@@ -1771,7 +1759,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0CY",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 634,
     "pharmaceutical_tx_ongoing": false,
@@ -2094,7 +2081,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0EN",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1985,
     "pharmaceutical_tx_ongoing": true,
@@ -2380,7 +2366,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0ES",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 203,
     "pharmaceutical_tx_ongoing": false,
@@ -2465,7 +2450,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0ET",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 282,
     "pharmaceutical_tx_ongoing": true,
@@ -2535,7 +2519,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0EW",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 813,
     "pharmaceutical_tx_ongoing": false,
@@ -2749,7 +2732,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0ST",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 251,
     "pharmaceutical_tx_ongoing": false,
@@ -2789,7 +2771,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A0ST",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 287,
     "drug_units": "MG/DAY",
@@ -4355,7 +4336,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A25E",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 3055,
     "pharmaceutical_tx_ongoing": true,
@@ -4674,7 +4654,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A3XV",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 62,
     "pharmaceutical_tx_ongoing": false,
@@ -4870,7 +4849,6 @@
   },
   {
     "patient_ID": "TCGA.A2.A3XZ",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 97,
     "pharmaceutical_tx_ongoing": false,
@@ -5434,7 +5412,6 @@
   },
   {
     "patient_ID": "TCGA.A7.A13E",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 211,
     "pharmaceutical_tx_ongoing": false,
@@ -5543,7 +5520,6 @@
   },
   {
     "patient_ID": "TCGA.A7.A13H",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 78,
     "pharmaceutical_tx_ongoing": true,
@@ -5674,7 +5650,6 @@
   },
   {
     "patient_ID": "TCGA.A7.A26H",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 44,
     "pharmaceutical_tx_ongoing": false,
@@ -5793,7 +5768,6 @@
   },
   {
     "patient_ID": "TCGA.A7.A3IY",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 151,
     "pharmaceutical_tx_ongoing": true,
@@ -5832,7 +5806,6 @@
   },
   {
     "patient_ID": "TCGA.A7.A3IZ",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 124,
     "pharmaceutical_tx_ongoing": true,
@@ -5874,7 +5847,6 @@
   },
   {
     "patient_ID": "TCGA.A7.A3RF",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 137,
     "pharmaceutical_tx_ongoing": true,
@@ -6011,7 +5983,6 @@
   },
   {
     "patient_ID": "TCGA.A7.A4SB",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 218,
     "pharmaceutical_tx_ongoing": true,
@@ -6106,7 +6077,6 @@
   },
   {
     "patient_ID": "TCGA.A7.A4SF",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 89,
     "pharmaceutical_tx_ongoing": false,
@@ -6116,7 +6086,6 @@
   },
   {
     "patient_ID": "TCGA.A7.A4SF",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 306,
     "pharmaceutical_tx_ongoing": true,
@@ -6337,7 +6306,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A06O",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 62,
     "pharmaceutical_tx_ongoing": true,
@@ -6396,7 +6364,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A06T",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 0,
     "pharmaceutical_tx_ongoing": true,
@@ -6404,7 +6371,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A06Y",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 92,
     "pharmaceutical_tx_ongoing": true,
@@ -6458,7 +6424,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A076",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 59,
     "pharmaceutical_tx_ongoing": true,
@@ -6533,7 +6498,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A07E",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 0,
     "pharmaceutical_tx_ongoing": true,
@@ -6606,7 +6570,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A07G",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 243,
     "pharmaceutical_tx_ongoing": true,
@@ -6663,7 +6626,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A07I",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 183,
     "pharmaceutical_tx_ongoing": false,
@@ -6729,7 +6691,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A07L",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 184,
     "pharmaceutical_tx_ongoing": true,
@@ -6781,7 +6742,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A07P",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 273,
     "pharmaceutical_tx_ongoing": true,
@@ -6899,7 +6859,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A082",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 184,
     "pharmaceutical_tx_ongoing": true,
@@ -6985,7 +6944,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A08B",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 214,
     "pharmaceutical_tx_ongoing": false,
@@ -6995,7 +6953,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A08B",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 914,
     "pharmaceutical_tx_ongoing": true,
@@ -7081,7 +7038,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A08F",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 243,
     "pharmaceutical_tx_ongoing": true,
@@ -7167,7 +7123,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A08I",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 212,
     "pharmaceutical_tx_ongoing": true,
@@ -7195,7 +7150,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A08O",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 366,
     "pharmaceutical_tx_ongoing": false,
@@ -7279,7 +7233,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A08P",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 213,
     "pharmaceutical_tx_ongoing": false,
@@ -7289,7 +7242,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A08S",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 62,
     "pharmaceutical_tx_ongoing": true,
@@ -7327,7 +7279,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A08X",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 182,
     "pharmaceutical_tx_ongoing": false,
@@ -7392,7 +7343,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A091",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 639,
     "pharmaceutical_tx_ongoing": true,
@@ -7613,7 +7563,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A09B",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 153,
     "pharmaceutical_tx_ongoing": false,
@@ -7662,7 +7611,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A09D",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1400,
     "pharmaceutical_tx_ongoing": true,
@@ -7670,7 +7618,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A09E",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 335,
     "pharmaceutical_tx_ongoing": true,
@@ -7678,7 +7625,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A09I",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 31,
     "pharmaceutical_tx_ongoing": true,
@@ -7704,7 +7650,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A09Q",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 31,
     "pharmaceutical_tx_ongoing": true,
@@ -7712,7 +7657,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A09R",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 0,
     "pharmaceutical_tx_ongoing": true,
@@ -7720,7 +7664,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A09T",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 122,
     "pharmaceutical_tx_ongoing": true,
@@ -7762,7 +7705,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A0A4",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 215,
     "pharmaceutical_tx_ongoing": true,
@@ -7800,7 +7742,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A0A6",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 245,
     "pharmaceutical_tx_ongoing": true,
@@ -7816,7 +7757,6 @@
   },
   {
     "patient_ID": "TCGA.A8.A0A9",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 31,
     "pharmaceutical_tx_ongoing": true,
@@ -8406,7 +8346,6 @@
   },
   {
     "patient_ID": "TCGA.AC.A3W5",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 170,
     "pharmaceutical_tx_ongoing": true,
@@ -8477,7 +8416,6 @@
   },
   {
     "patient_ID": "TCGA.AC.A5XU",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 235,
     "pharmaceutical_tx_ongoing": true,
@@ -9995,7 +9933,6 @@
   },
   {
     "patient_ID": "TCGA.AO.A0JE",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 119,
     "pharmaceutical_tx_ongoing": false,
@@ -10344,7 +10281,6 @@
   },
   {
     "patient_ID": "TCGA.AO.A0JL",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 136,
     "pharmaceutical_tx_ongoing": false,
@@ -10392,7 +10328,6 @@
   },
   {
     "patient_ID": "TCGA.AO.A0JM",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 134,
     "pharmaceutical_tx_ongoing": false,
@@ -10862,7 +10797,6 @@
   },
   {
     "patient_ID": "TCGA.AO.A12C",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 179,
     "pharmaceutical_tx_ongoing": false,
@@ -10908,7 +10842,6 @@
   },
   {
     "patient_ID": "TCGA.AO.A12D",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 170,
     "pharmaceutical_tx_ongoing": false,
@@ -11708,7 +11641,6 @@
   },
   {
     "patient_ID": "TCGA.AQ.A7U7",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 296,
     "pharmaceutical_tx_ongoing": true,
@@ -11780,7 +11712,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A0TQ",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 93,
     "pharmaceutical_tx_ongoing": false,
@@ -11809,7 +11740,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A0TQ",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 100,
     "pharmaceutical_tx_ongoing": false,
@@ -11857,7 +11787,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A0TQ",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 254,
     "pharmaceutical_tx_ongoing": false,
@@ -11963,7 +11892,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A0TT",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 230,
     "pharmaceutical_tx_ongoing": false,
@@ -12124,7 +12052,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A0TY",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 557,
@@ -12273,7 +12200,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A0U3",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 166,
     "pharmaceutical_tx_ongoing": false,
@@ -12415,7 +12341,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AK",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 33,
     "pharmaceutical_tx_ongoing": false,
@@ -12437,7 +12362,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AL",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 192,
     "pharmaceutical_tx_ongoing": false,
@@ -12477,7 +12401,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AL",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 387,
     "pharmaceutical_tx_ongoing": true,
@@ -12507,7 +12430,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AM",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 314,
     "pharmaceutical_tx_ongoing": false,
@@ -12525,7 +12447,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AN",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 442,
     "pharmaceutical_tx_ongoing": true,
@@ -12537,7 +12458,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AN",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 162,
     "pharmaceutical_tx_ongoing": false,
@@ -12671,7 +12591,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AP",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 29,
     "pharmaceutical_tx_ongoing": true,
@@ -12757,7 +12676,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AS",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 57,
     "pharmaceutical_tx_ongoing": true,
@@ -12809,7 +12727,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AT",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 174,
     "pharmaceutical_tx_ongoing": false,
@@ -12822,7 +12739,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AT",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "pharmaceutical_tx_ongoing": false,
     "regimen_number": 2,
@@ -12982,7 +12898,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AW",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 157,
     "pharmaceutical_tx_ongoing": true,
@@ -12994,7 +12909,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AX",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 341,
     "pharmaceutical_tx_ongoing": true,
@@ -13026,7 +12940,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A1AX",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 117,
     "pharmaceutical_tx_ongoing": false,
@@ -13082,7 +12995,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24H",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1042,
     "pharmaceutical_tx_ongoing": false,
@@ -13198,7 +13110,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24M",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 597,
     "pharmaceutical_tx_ongoing": true,
@@ -13244,7 +13155,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24O",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1998,
     "pharmaceutical_tx_ongoing": false,
@@ -13350,7 +13260,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24Q",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 180,
     "pharmaceutical_tx_ongoing": false,
@@ -13382,7 +13291,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24Q",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 79,
     "pharmaceutical_tx_ongoing": false,
@@ -13397,7 +13305,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24Q",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 86,
     "pharmaceutical_tx_ongoing": false,
@@ -13413,7 +13320,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24Q",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 208,
     "pharmaceutical_tx_ongoing": false,
@@ -13426,7 +13332,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24R",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1969,
     "pharmaceutical_tx_ongoing": true,
@@ -13508,7 +13413,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24S",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 32,
     "pharmaceutical_tx_ongoing": false,
@@ -13553,7 +13457,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24T",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1995,
     "pharmaceutical_tx_ongoing": true,
@@ -13630,7 +13533,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24U",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 118,
     "pharmaceutical_tx_ongoing": false,
@@ -13693,7 +13595,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24V",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1027,
     "pharmaceutical_tx_ongoing": true,
@@ -13722,7 +13623,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24W",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 164,
     "pharmaceutical_tx_ongoing": false,
@@ -13731,7 +13631,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24W",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 345,
     "pharmaceutical_tx_ongoing": true,
@@ -13780,7 +13679,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A24Z",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 133,
     "pharmaceutical_tx_ongoing": false,
@@ -13816,7 +13714,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A250",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 102,
     "pharmaceutical_tx_ongoing": false,
@@ -13834,7 +13731,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A250",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 193,
     "pharmaceutical_tx_ongoing": false,
@@ -13843,7 +13739,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A250",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 194,
     "pharmaceutical_tx_ongoing": true,
@@ -13958,7 +13853,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A254",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 22,
     "pharmaceutical_tx_ongoing": false,
@@ -13967,7 +13861,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A254",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 29,
     "pharmaceutical_tx_ongoing": false,
@@ -13976,7 +13869,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A254",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 232,
     "pharmaceutical_tx_ongoing": false,
@@ -13993,7 +13885,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A255",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 54,
     "pharmaceutical_tx_ongoing": false,
@@ -14002,7 +13893,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A255",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 75,
     "pharmaceutical_tx_ongoing": false,
@@ -14011,7 +13901,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A255",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 96,
     "pharmaceutical_tx_ongoing": true,
@@ -14100,7 +13989,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A2LJ",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 98,
     "pharmaceutical_tx_ongoing": false,
@@ -14138,7 +14026,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A2LK",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 263,
     "pharmaceutical_tx_ongoing": false,
@@ -14192,7 +14079,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A2LN",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 15,
     "pharmaceutical_tx_ongoing": true,
@@ -14245,7 +14131,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A2LO",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 903,
     "pharmaceutical_tx_ongoing": true,
@@ -14271,7 +14156,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A2LQ",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 176,
     "pharmaceutical_tx_ongoing": true,
@@ -14297,7 +14181,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A5QM",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 36,
     "pharmaceutical_tx_ongoing": true,
@@ -14323,7 +14206,6 @@
   },
   {
     "patient_ID": "TCGA.AR.A5QN",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 128,
     "pharmaceutical_tx_ongoing": false,
@@ -16180,7 +16062,6 @@
   },
   {
     "patient_ID": "TCGA.BH.A0EE",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 47,
     "pharmaceutical_tx_ongoing": false,
@@ -17625,7 +17506,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A140",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 27,
     "pharmaceutical_tx_ongoing": false,
@@ -17995,8 +17876,8 @@
   },
   {
     "patient_ID": "TCGA.D8.A1JM",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE;TAMOXIFEN",
-    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN;TAMOXIFEN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY;HORMONE THERAPY",
     "days_to_drug_start": 39,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 144,
@@ -18105,19 +17986,19 @@
   },
   {
     "patient_ID": "TCGA.D8.A1X7",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE;TAMOXIFEN",
-    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN;TAMOXIFEN",
+    "pharmaceutical_therapy_type.1": "CHEMOTHERAPY;HORMONE THERAPY",
     "days_to_drug_start": 64,
     "pharmaceutical_tx_ongoing": false,
     "days_to_drug_end": 134,
     "drug_units": "MG/M2",
     "drug_total_dose_units": "MG",
-    "drug_route": "ORAL",
+    "drug_route": "ORAL;INTRAVENOUS",
     "therapy_regimen": "ADJUVANT"
   },
   {
     "patient_ID": "TCGA.D8.A1X8",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 23,
     "pharmaceutical_tx_ongoing": false,
@@ -18129,7 +18010,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1X9",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 197,
     "pharmaceutical_tx_ongoing": false,
@@ -18141,7 +18022,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1XF",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 311,
     "pharmaceutical_tx_ongoing": false,
@@ -18181,7 +18062,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1XK",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 65,
     "pharmaceutical_tx_ongoing": false,
@@ -18194,7 +18075,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1XL",
-    "drug_therapy_name": "TAMOXIPHENE;LEUPORELINE;GOSERELINE",
+    "drug_therapy_name": "GOSERELIN;LEUPROLIDE;TAMOXIFEN",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 250,
     "pharmaceutical_tx_ongoing": true,
@@ -18205,7 +18086,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1XL",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE;TAMOXIFEN",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN;TAMOXIFEN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 65,
     "pharmaceutical_tx_ongoing": false,
@@ -18226,7 +18107,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1XR",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 105,
     "pharmaceutical_tx_ongoing": false,
@@ -18238,7 +18119,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1XS",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 85,
     "pharmaceutical_tx_ongoing": false,
@@ -18251,7 +18132,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1XT",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 74,
     "pharmaceutical_tx_ongoing": false,
@@ -18264,7 +18145,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1XW",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 76,
     "pharmaceutical_tx_ongoing": false,
@@ -18289,7 +18170,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1XZ",
-    "drug_therapy_name": "TAMOXIFEN;ANASTROZOLE",
+    "drug_therapy_name": "ANASTROZOLE;TAMOXIFEN",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 94,
     "pharmaceutical_tx_ongoing": true,
@@ -18312,7 +18193,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1Y0",
-    "drug_therapy_name": "CYCLOPHOSPHAMIDE;METHOTREXATE;FLUOROURACIL",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;FLUOROURACIL;METHOTREXATE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 62,
     "pharmaceutical_tx_ongoing": false,
@@ -18362,7 +18243,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A1Y3",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 62,
     "pharmaceutical_tx_ongoing": false,
@@ -18375,7 +18256,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27E",
-    "drug_therapy_name": "TAMOXIFEN;ANASTROZOLE",
+    "drug_therapy_name": "ANASTROZOLE;TAMOXIFEN",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 125,
     "pharmaceutical_tx_ongoing": true,
@@ -18386,7 +18267,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27F",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 379,
     "pharmaceutical_tx_ongoing": false,
@@ -18399,7 +18280,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27H",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 36,
     "pharmaceutical_tx_ongoing": false,
@@ -18412,7 +18293,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27I",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 76,
     "pharmaceutical_tx_ongoing": false,
@@ -18425,7 +18306,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27K",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 49,
     "pharmaceutical_tx_ongoing": false,
@@ -18446,7 +18327,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27L",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 100,
     "pharmaceutical_tx_ongoing": false,
@@ -18459,7 +18340,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27M",
-    "drug_therapy_name": "METHOTREXATE;FLUOROURACIL;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;FLUOROURACIL;METHOTREXATE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 84,
     "pharmaceutical_tx_ongoing": false,
@@ -18472,7 +18353,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27N",
-    "drug_therapy_name": "PACLITAXEL;ADRIAMYCIN;CYCLOPHOSPHAMIDE;TRASTUZUMAB",
+    "drug_therapy_name": "ADRIAMYCIN;CYCLOPHOSPHAMIDE;PACLITAXEL;TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 68,
     "pharmaceutical_tx_ongoing": true,
@@ -18483,7 +18364,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27R",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 57,
     "pharmaceutical_tx_ongoing": false,
@@ -18508,7 +18389,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27T",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 115,
     "pharmaceutical_tx_ongoing": false,
@@ -18545,7 +18426,7 @@
   },
   {
     "patient_ID": "TCGA.D8.A27W",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 56,
     "pharmaceutical_tx_ongoing": false,
@@ -18670,7 +18551,7 @@
   },
   {
     "patient_ID": "TCGA.E2.A107",
-    "drug_therapy_name": "DOXORUBICIN;CYCLOPHOSPHAMIDE;BEVACIZUMAB",
+    "drug_therapy_name": "BEVACIZUMAB;CYCLOPHOSPHAMIDE;DOXORUBICIN",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 109,
     "pharmaceutical_tx_ongoing": false,
@@ -19351,7 +19232,6 @@
   },
   {
     "patient_ID": "TCGA.E2.A14P",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 39,
     "pharmaceutical_tx_ongoing": false,
@@ -19855,7 +19735,6 @@
   },
   {
     "patient_ID": "TCGA.E2.A14Y",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 44,
     "pharmaceutical_tx_ongoing": false,
@@ -19970,7 +19849,6 @@
   },
   {
     "patient_ID": "TCGA.E2.A152",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 42,
     "pharmaceutical_tx_ongoing": true,
@@ -20442,7 +20320,6 @@
   },
   {
     "patient_ID": "TCGA.E2.A15E",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 119,
     "pharmaceutical_tx_ongoing": false,
@@ -21177,7 +21054,7 @@
     "drug_total_dose_units": "MG",
     "drug_dose": 1182,
     "regimen_number": 1,
-    "drug_route": "INTRAVENOUS",
+    "drug_route": "INTRAVENOUS;INTRAMUSCULAR",
     "therapy_regimen": "ADJUVANT",
     "drug_total_dose": 4728
   },
@@ -21324,7 +21201,6 @@
   },
   {
     "patient_ID": "TCGA.E2.A1IG",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 1991,
     "pharmaceutical_tx_ongoing": true,
@@ -22106,7 +21982,6 @@
   },
   {
     "patient_ID": "TCGA.E2.A2P6",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 106,
     "pharmaceutical_tx_ongoing": true,
@@ -22141,7 +22016,6 @@
   },
   {
     "patient_ID": "TCGA.E2.A3DX",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 119,
     "pharmaceutical_tx_ongoing": false,
@@ -22167,7 +22041,6 @@
   },
   {
     "patient_ID": "TCGA.E2.A570",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 252,
     "pharmaceutical_tx_ongoing": true,
@@ -22470,7 +22343,6 @@
   },
   {
     "patient_ID": "TCGA.E9.A1N6",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 575,
     "pharmaceutical_tx_ongoing": false,
@@ -22563,7 +22435,6 @@
   },
   {
     "patient_ID": "TCGA.E9.A1NA",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 206,
     "pharmaceutical_tx_ongoing": true,
@@ -22727,7 +22598,6 @@
   },
   {
     "patient_ID": "TCGA.E9.A1NG",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 34,
     "pharmaceutical_tx_ongoing": true,
@@ -24509,7 +24379,7 @@
   },
   {
     "patient_ID": "TCGA.EW.A1IY",
-    "drug_therapy_name": "PACLITAXEL;CYCLOPHOSPHAMIDE",
+    "drug_therapy_name": "CYCLOPHOSPHAMIDE;PACLITAXEL",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 57,
     "pharmaceutical_tx_ongoing": false,
@@ -24701,7 +24571,6 @@
   },
   {
     "patient_ID": "TCGA.EW.A1J3",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 189,
     "pharmaceutical_tx_ongoing": false,
@@ -25026,7 +24895,6 @@
   },
   {
     "patient_ID": "TCGA.EW.A1OZ",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 144,
     "pharmaceutical_tx_ongoing": false,
@@ -25269,7 +25137,6 @@
   },
   {
     "patient_ID": "TCGA.EW.A1P5",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 199,
     "pharmaceutical_tx_ongoing": true,
@@ -25508,7 +25375,6 @@
   },
   {
     "patient_ID": "TCGA.EW.A1PD",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 112,
     "pharmaceutical_tx_ongoing": false,
@@ -26001,7 +25867,6 @@
   },
   {
     "patient_ID": "TCGA.EW.A3E8",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 196,
     "pharmaceutical_tx_ongoing": true,
@@ -26049,7 +25914,6 @@
   },
   {
     "patient_ID": "TCGA.EW.A423",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 205,
     "pharmaceutical_tx_ongoing": true,
@@ -26093,7 +25957,7 @@
   },
   {
     "patient_ID": "TCGA.EW.A6SD",
-    "drug_therapy_name": "TAXOL;TAXOTERE;CARBOPLATIN;TRASTUZUMA",
+    "drug_therapy_name": "CARBOPLATIN;DOCETAXEL;TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 86,
     "pharmaceutical_tx_ongoing": false,
@@ -26255,7 +26119,6 @@
   },
   {
     "patient_ID": "TCGA.GM.A2DA",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 3434,
     "pharmaceutical_tx_ongoing": false,
@@ -26494,7 +26357,6 @@
   },
   {
     "patient_ID": "TCGA.GM.A2DC",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 294,
     "pharmaceutical_tx_ongoing": false,
@@ -27225,7 +27087,6 @@
   },
   {
     "patient_ID": "TCGA.LD.A7W6",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 146,
     "pharmaceutical_tx_ongoing": true,
@@ -27358,7 +27219,6 @@
   },
   {
     "patient_ID": "TCGA.LL.A5YM",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "pharmaceutical_tx_ongoing": true,
     "therapy_on_clinical_trial": false
@@ -27383,7 +27243,6 @@
   },
   {
     "patient_ID": "TCGA.LL.A5YN",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "CHEMOTHERAPY",
     "days_to_drug_start": 55,
     "pharmaceutical_tx_ongoing": false,
@@ -27706,7 +27565,6 @@
   },
   {
     "patient_ID": "TCGA.LQ.A4E4",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 111,
     "pharmaceutical_tx_ongoing": true,
@@ -28037,7 +27895,6 @@
   },
   {
     "patient_ID": "TCGA.S3.A6ZF",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "IMMUNOTHERAPY",
     "days_to_drug_start": 65,
     "pharmaceutical_tx_ongoing": false,
@@ -28067,7 +27924,6 @@
   },
   {
     "patient_ID": "TCGA.S3.A6ZF",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 191,
     "pharmaceutical_tx_ongoing": false,
@@ -28076,7 +27932,6 @@
   },
   {
     "patient_ID": "TCGA.S3.A6ZF",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 278,
     "pharmaceutical_tx_ongoing": true,
@@ -28114,7 +27969,6 @@
   },
   {
     "patient_ID": "TCGA.S3.A6ZG",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 256,
     "pharmaceutical_tx_ongoing": true,
@@ -28208,7 +28062,6 @@
   },
   {
     "patient_ID": "TCGA.S3.AA0Z",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 113,
     "pharmaceutical_tx_ongoing": true,
@@ -28246,7 +28099,6 @@
   },
   {
     "patient_ID": "TCGA.S3.AA10",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 265,
     "pharmaceutical_tx_ongoing": true,
@@ -28254,7 +28106,6 @@
   },
   {
     "patient_ID": "TCGA.S3.AA11",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 53,
     "pharmaceutical_tx_ongoing": false,
@@ -28274,7 +28125,6 @@
   },
   {
     "patient_ID": "TCGA.S3.AA11",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 309,
     "pharmaceutical_tx_ongoing": true,
@@ -28283,7 +28133,6 @@
   },
   {
     "patient_ID": "TCGA.S3.AA12",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 58,
     "pharmaceutical_tx_ongoing": true,
@@ -28321,7 +28170,6 @@
   },
   {
     "patient_ID": "TCGA.S3.AA14",
-    "drug_therapy_name": "TRASTUZUMAB",
     "pharmaceutical_therapy_type.1": "TARGETED MOLECULAR THERAPY",
     "days_to_drug_start": 118,
     "pharmaceutical_tx_ongoing": true,
@@ -28377,7 +28225,6 @@
   },
   {
     "patient_ID": "TCGA.S3.AA17",
-    "drug_therapy_name": "ANASTROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 99,
     "pharmaceutical_tx_ongoing": true,
@@ -28393,7 +28240,6 @@
   },
   {
     "patient_ID": "TCGA.V7.A7HQ",
-    "drug_therapy_name": "LETROZOLE",
     "pharmaceutical_therapy_type.1": "HORMONE THERAPY",
     "days_to_drug_start": 129,
     "pharmaceutical_tx_ongoing": false,

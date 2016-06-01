@@ -32,12 +32,12 @@
   {
     "patient_ID": "TCGA.FF.A7CW",
     "pet_scan_after_treatment_results": "NOT DONE",
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.FF.A7CX",
     "pet_scan_after_treatment_results": "NOT DONE",
-    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE"
+    "treatment_outcome_at_tcga_followup": "COMPLETE RESPONSE;RESPONSE"
   },
   {
     "patient_ID": "TCGA.G8.6907",
