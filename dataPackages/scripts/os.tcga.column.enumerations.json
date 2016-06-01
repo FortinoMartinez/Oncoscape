@@ -66,10 +66,14 @@
 		"disease_code": ["disease_code"]
 	},
 	"os.class.stage": {
-		"stage_M": ["clinical_M", "ajcc_metastasis_pathologic_pm","ajcc_metastasis_clinical_cm"],
-		"stage_N": ["clinical_N","ajcc_nodes_pathologic_pn", "pathologic_N","ajcc_nodes_clinical_cn"],
-		"stage_S": ["clinical_stage", "ajcc_pathologic_tumor_stage","ajcc_clinical_tumor_stage"],
-		"stage_T": ["clinical_T", "ajcc_pathologic_tumor_stage","pathologic_T","ajcc_tumor_pathologic_pt","ajcc_tumor_clinical_ct"],
+		"clinical_stage_M": ["clinical_M", "ajcc_metastasis_clinical_cm"],
+		"clinical_stage_N": ["clinical_N","ajcc_nodes_clinical_cn"],
+		"clinical_stage_S": ["clinical_stage", "ajcc_clinical_tumor_stage"],
+		"clinical_stage_T": ["clinical_T", "ajcc_tumor_clinical_ct"],
+		"pathologic_stage_M": ["ajcc_metastasis_pathologic_pm"],
+		"pathologic_stage_N": ["ajcc_nodes_pathologic_pn", "pathologic_N"],
+		"pathologic_stage_S": ["ajcc_pathologic_tumor_stage","ajcc_clinical_tumor_stage"],
+		"pathologic_stage_T": ["ajcc_pathologic_tumor_stage","pathologic_T","ajcc_tumor_pathologic_pt"],
 		"prostate_stage": ["ajcc_path_pt_incidental_prostate"],
 		"fab_category": ["fab_category"],
 		"serum_markers":["serum_markers"],
